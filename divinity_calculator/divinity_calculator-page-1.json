@@ -1,0 +1,375 @@
+[
+  {
+    "type": 0,
+    "content": "Have a spreadsheet for calculating blessing costs with variable ranges and optimizing your divinity point gain. \n\nMay or may not update it in the future to also be used for xp gains.\n\nhttps://docs.google.com/spreadsheets/d/1O_3hcma23q2ynSkNRLeqtMewY4lHv0GplJTmb9HdFdY/edit?usp=sharing\n\nDm me if you find any issues with the sheet or something gets added to the game I need to add.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "link",
+        "url": "https://docs.google.com/spreadsheets/d/1O_3hcma23q2ynSkNRLeqtMewY4lHv0GplJTmb9HdFdY/edit?usp=sharing",
+        "title": "Arctis' Divinity Sheet",
+        "provider": {
+          "name": "Google Docs"
+        },
+        "thumbnail": {
+          "url": "https://lh7-us.googleusercontent.com/docs/AHkbwyL7QN7wVDeNxukQHRAmykI6xBs_0u4uZ0PMOOy8FoLyOuD7or0kaTiH6W5je3l_FpOxKbP5cIwTWR_48IAYHquzbkqGG7Ueyq5kSqZvf518KN8FmiOM=w1200-h630-p",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/Y6t18c_q2f9lLpSzS5RXdG-TE7yffia-IZ7gFQvyOe4/https/lh7-us.googleusercontent.com/docs/AHkbwyL7QN7wVDeNxukQHRAmykI6xBs_0u4uZ0PMOOy8FoLyOuD7or0kaTiH6W5je3l_FpOxKbP5cIwTWR_48IAYHquzbkqGG7Ueyq5kSqZvf518KN8FmiOM%3Dw1200-h630-p",
+          "width": 1200,
+          "height": 630,
+          "content_type": "image/png",
+          "placeholder": "d+gFDILZ1peXaHh9hm8bdXCf1w==",
+          "placeholder_version": 1,
+          "flags": 0
+        },
+        "content_scan_version": 4
+      }
+    ],
+    "timestamp": "2025-03-29T03:22:21.649000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1355381543111233556",
+    "channel_id": "1355381543111233556",
+    "author": {
+      "id": "535431891239567372",
+      "username": "arctis_the_pooh",
+      "avatar": "27360a973f4b2f5e7574d2a9303bc0bd",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Artic",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "havent bothered with div for more than a year, what lvls of div are achievable and div rank for your average endgame player? any example from someone that is actually pushing this and has played for more than a few years is valid",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-03-29T12:24:58.915000+00:00",
+    "edited_timestamp": "2025-03-29T12:26:39.426000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1355518098182246592",
+    "channel_id": "1355381543111233556",
+    "author": {
+      "id": "247046852099309568",
+      "username": "sylvan_ae",
+      "avatar": null,
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Sylvan",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0
+  },
+  {
+    "type": 0,
+    "content": "https://cdn.discordapp.com/attachments/741696802666840167/1349318996825997354/hwp5t2f4l5oe1_1.gif",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "image",
+        "url": "https://cdn.discordapp.com/attachments/741696802666840167/1349318996825997354/hwp5t2f4l5oe1_1.gif",
+        "thumbnail": {
+          "url": "https://cdn.discordapp.com/attachments/741696802666840167/1349318996825997354/hwp5t2f4l5oe1_1.gif?ex=6a0ed5bd&is=6a0d843d&hm=3ad5961c5e9fc2f4d03f68a189dd46c87a280fb441c001b673e98aa65d1cfa76&",
+          "proxy_url": "https://media.discordapp.net/attachments/741696802666840167/1349318996825997354/hwp5t2f4l5oe1_1.gif?ex=6a0ed5bd&is=6a0d843d&hm=3ad5961c5e9fc2f4d03f68a189dd46c87a280fb441c001b673e98aa65d1cfa76&",
+          "width": 220,
+          "height": 232,
+          "content_type": "image/gif",
+          "placeholder": "IecVJwJHiHePeoiGeal3eIiHiKr3yHsP",
+          "placeholder_version": 1,
+          "flags": 32
+        },
+        "content_scan_version": 4
+      }
+    ],
+    "timestamp": "2025-03-29T13:09:40.269000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1355529344595787957",
+    "channel_id": "1355381543111233556",
+    "author": {
+      "id": "773192392043790367",
+      "username": "mega_yairzzz",
+      "avatar": "4a99a3239e6149beeed7c6b945618708",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Mega",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "337985280969801728",
+        "identity_enabled": true,
+        "tag": "IL",
+        "badge": "ead40c6aa63f3427a25947f36b63bc0c"
+      },
+      "primary_guild": {
+        "identity_guild_id": "337985280969801728",
+        "identity_enabled": true,
+        "tag": "IL",
+        "badge": "ead40c6aa63f3427a25947f36b63bc0c"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 1
+  },
+  {
+    "type": 19,
+    "content": "sounds like a question for <#741696802666840167>",
+    "mentions": [
+      {
+        "id": "247046852099309568",
+        "username": "sylvan_ae",
+        "avatar": null,
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Sylvan",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-03-29T19:52:29.781000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1355630718876647677",
+    "channel_id": "1355381543111233556",
+    "author": {
+      "id": "535431891239567372",
+      "username": "arctis_the_pooh",
+      "avatar": "27360a973f4b2f5e7574d2a9303bc0bd",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Artic",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1355381543111233556",
+      "message_id": "1355518098182246592",
+      "guild_id": "437797104786604034"
+    },
+    "position": 2,
+    "referenced_message": {
+      "type": 0,
+      "content": "havent bothered with div for more than a year, what lvls of div are achievable and div rank for your average endgame player? any example from someone that is actually pushing this and has played for more than a few years is valid",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-03-29T12:24:58.915000+00:00",
+      "edited_timestamp": "2025-03-29T12:26:39.426000+00:00",
+      "flags": 0,
+      "components": [],
+      "id": "1355518098182246592",
+      "channel_id": "1355381543111233556",
+      "author": {
+        "id": "247046852099309568",
+        "username": "sylvan_ae",
+        "avatar": null,
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Sylvan",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 0
+    }
+  },
+  {
+    "type": 0,
+    "content": "Adding a section for points/hours til sucess across a probability range",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-03-31T05:00:38.908000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1356131053739311145",
+    "channel_id": "1355381543111233556",
+    "author": {
+      "id": "535431891239567372",
+      "username": "arctis_the_pooh",
+      "avatar": "27360a973f4b2f5e7574d2a9303bc0bd",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Artic",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 3
+  },
+  {
+    "type": 0,
+    "content": "Construction finished. There is now a section with approximate total cost in points and hours for hitting the 100% or getting lucky on small batch spam as youre working to hit 100%",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-04-04T14:56:58.451000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1357730675482165388",
+    "channel_id": "1355381543111233556",
+    "author": {
+      "id": "535431891239567372",
+      "username": "arctis_the_pooh",
+      "avatar": "27360a973f4b2f5e7574d2a9303bc0bd",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Artic",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 4
+  }
+]

@@ -1,0 +1,5323 @@
+[
+  {
+    "type": 0,
+    "content": "There are some other calculators and spreadsheets for BJP's, but they were either entirely too busy or didn't show Midas's impact on hp. I decided to fix this and just make a better sheet for everyone. So, umm, here you go!\n\n<https://docs.google.com/spreadsheets/d/1Z1oMka1tzl89rErYHDXvU7JMHIr14DWOLSdfeZlrYBk/edit#gid=1042543501>",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1238311941781323878",
+        "filename": "Bjp.gif",
+        "size": 242588,
+        "url": "https://cdn.discordapp.com/attachments/1238311452822212769/1238311941781323878/Bjp.gif?ex=6a0f121d&is=6a0dc09d&hm=f4933647101c4b12a0e1491e240cd0600038f428217c592d1aaec9706eed5f8f&",
+        "proxy_url": "https://media.discordapp.net/attachments/1238311452822212769/1238311941781323878/Bjp.gif?ex=6a0f121d&is=6a0dc09d&hm=f4933647101c4b12a0e1491e240cd0600038f428217c592d1aaec9706eed5f8f&",
+        "width": 413,
+        "height": 242,
+        "content_type": "image/gif",
+        "content_scan_version": 4,
+        "placeholder": "IAgGJIp/YrtZiHh8qHeQbPaENg==",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2024-05-10T02:07:37.067000+00:00",
+    "edited_timestamp": "2024-05-10T02:09:33.625000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1238311452822212769",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "99742137230319616",
+      "username": "hotair",
+      "avatar": "a_cc08294b2a80e575d0b817495d7da200",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Hotair - 4 days",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712162738196",
+          "asset": "nameplates/nameplates_v2/sword_of_legend/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SWORD_OF_LEGEND_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": true,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "1019863214734983239",
+          "name": "Cool"
+        },
+        "count": 45,
+        "count_details": {
+          "burst": 0,
+          "normal": 45
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1227295248649294015",
+          "name": "BoneJoePickle"
+        },
+        "count": 16,
+        "count_details": {
+          "burst": 0,
+          "normal": 16
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🩸"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "oooo",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-05-10T02:10:31.257000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1238312183428022292",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "596905749054095373",
+      "username": "transgardevoir",
+      "avatar": "d9927bfe528da8ae8b4c9d08379eac49",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "TransGardevoir",
+      "avatar_decoration_data": {
+        "asset": "a_c3cffc19e9784f7d0b005eecdf1b566e",
+        "sku_id": "1212569433839636530",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0
+  },
+  {
+    "type": 0,
+    "content": "amazing ty",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-05-10T03:11:38.228000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1238327563818897489",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "580556808213626881",
+      "username": "tamaya_violette",
+      "avatar": "2a7ff21c79fc4873971e79da5e07f56c",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Tamaya",
+      "avatar_decoration_data": {
+        "asset": "a_e87f540de155224ae20679fbb250951e",
+        "sku_id": "1402472280239509664",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614143979540",
+          "asset": "nameplates/nameplates/cat_beans/",
+          "label": "COLLECTIBLES_NAMEPLATES_CAT_BEANS_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 3,
+        "effect_id": 1,
+        "colors": [
+          5705905
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 1
+  },
+  {
+    "type": 0,
+    "content": "do we know if there is a time limit to kill these or is it like ok to spawn and let a char work on the demon guy all day",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-05-10T03:12:02.203000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1238327664377462845",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "580556808213626881",
+      "username": "tamaya_violette",
+      "avatar": "2a7ff21c79fc4873971e79da5e07f56c",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Tamaya",
+      "avatar_decoration_data": {
+        "asset": "a_e87f540de155224ae20679fbb250951e",
+        "sku_id": "1402472280239509664",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614143979540",
+          "asset": "nameplates/nameplates/cat_beans/",
+          "label": "COLLECTIBLES_NAMEPLATES_CAT_BEANS_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 3,
+        "effect_id": 1,
+        "colors": [
+          5705905
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 2
+  },
+  {
+    "type": 0,
+    "content": "There's no time limit for minibosses outside of the Colosseum.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-05-10T03:20:06.399000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1238329695242682450",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "99742137230319616",
+      "username": "hotair",
+      "avatar": "a_cc08294b2a80e575d0b817495d7da200",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Hotair - 4 days",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712162738196",
+          "asset": "nameplates/nameplates_v2/sword_of_legend/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SWORD_OF_LEGEND_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 3
+  },
+  {
+    "type": 0,
+    "content": "rad'",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-05-10T04:03:48.898000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1238340694800597022",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "580556808213626881",
+      "username": "tamaya_violette",
+      "avatar": "2a7ff21c79fc4873971e79da5e07f56c",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Tamaya",
+      "avatar_decoration_data": {
+        "asset": "a_e87f540de155224ae20679fbb250951e",
+        "sku_id": "1402472280239509664",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614143979540",
+          "asset": "nameplates/nameplates/cat_beans/",
+          "label": "COLLECTIBLES_NAMEPLATES_CAT_BEANS_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 3,
+        "effect_id": 1,
+        "colors": [
+          5705905
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 4
+  },
+  {
+    "type": 0,
+    "content": "🤔 I can't use it",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-05-10T16:56:40.629000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1238535191937552525",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "185568053126365184",
+      "username": "ilovecunnilingus",
+      "avatar": "b00d4a9c17cbd126cdb35e6b5fc875dc",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "ILoveCunnilingus",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1495807265175900180",
+          "asset": "nameplates/pitter_patter/1495807265175900180/",
+          "label": "Drizzling rain pattering over a small pond",
+          "palette": "forest"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 7,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "😒"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 19,
+    "content": "right....",
+    "mentions": [
+      {
+        "id": "99742137230319616",
+        "username": "hotair",
+        "avatar": "a_cc08294b2a80e575d0b817495d7da200",
+        "discriminator": "0",
+        "public_flags": 256,
+        "flags": 256,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Hotair - 4 days",
+        "avatar_decoration_data": null,
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1377377712162738196",
+            "asset": "nameplates/nameplates_v2/sword_of_legend/",
+            "label": "COLLECTIBLES_NAMEPLATES_V2_SWORD_OF_LEGEND_A11Y",
+            "palette": "cobalt"
+          }
+        },
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1238601564957179986",
+        "filename": "image.png",
+        "size": 26916,
+        "url": "https://cdn.discordapp.com/attachments/1238311452822212769/1238601564957179986/image.png?ex=6a0ece59&is=6a0d7cd9&hm=9ed8703d9e5ff7ed53fb3089123bc2470c634798d0e089d10a9e7b95b7353e94&",
+        "proxy_url": "https://media.discordapp.net/attachments/1238311452822212769/1238601564957179986/image.png?ex=6a0ece59&is=6a0d7cd9&hm=9ed8703d9e5ff7ed53fb3089123bc2470c634798d0e089d10a9e7b95b7353e94&",
+        "width": 219,
+        "height": 221,
+        "content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "XRgGBwAJXXmHeHeBa0eHhnhnN7AmUH8K",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2024-05-10T21:20:25.264000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1238601565267431494",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "195969166333837322",
+      "username": "eth3ror404",
+      "avatar": "870ce480c83f44978cd54428b04d5178",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Eth3ror404",
+      "avatar_decoration_data": {
+        "asset": "a_a44e9335ea869639fdf812f3642a56a6",
+        "sku_id": "1282816431871754281",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712028516443",
+          "asset": "nameplates/nameplates_v2/spirit_moon/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SPIRIT_MOON_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1238311452822212769",
+      "message_id": "1238311452822212769",
+      "guild_id": "437797104786604034"
+    },
+    "position": 9,
+    "referenced_message": {
+      "type": 0,
+      "content": "There are some other calculators and spreadsheets for BJP's, but they were either entirely too busy or didn't show Midas's impact on hp. I decided to fix this and just make a better sheet for everyone. So, umm, here you go!\n\n<https://docs.google.com/spreadsheets/d/1Z1oMka1tzl89rErYHDXvU7JMHIr14DWOLSdfeZlrYBk/edit#gid=1042543501>",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [
+        {
+          "id": "1238311941781323878",
+          "filename": "Bjp.gif",
+          "size": 242588,
+          "url": "https://cdn.discordapp.com/attachments/1238311452822212769/1238311941781323878/Bjp.gif?ex=6a0f121d&is=6a0dc09d&hm=f4933647101c4b12a0e1491e240cd0600038f428217c592d1aaec9706eed5f8f&",
+          "proxy_url": "https://media.discordapp.net/attachments/1238311452822212769/1238311941781323878/Bjp.gif?ex=6a0f121d&is=6a0dc09d&hm=f4933647101c4b12a0e1491e240cd0600038f428217c592d1aaec9706eed5f8f&",
+          "width": 413,
+          "height": 242,
+          "content_type": "image/gif",
+          "content_scan_version": 4,
+          "placeholder": "IAgGJIp/YrtZiHh8qHeQbPaENg==",
+          "placeholder_version": 1
+        }
+      ],
+      "embeds": [],
+      "timestamp": "2024-05-10T02:07:37.067000+00:00",
+      "edited_timestamp": "2024-05-10T02:09:33.625000+00:00",
+      "flags": 0,
+      "components": [],
+      "id": "1238311452822212769",
+      "channel_id": "1238311452822212769",
+      "author": {
+        "id": "99742137230319616",
+        "username": "hotair",
+        "avatar": "a_cc08294b2a80e575d0b817495d7da200",
+        "discriminator": "0",
+        "public_flags": 256,
+        "flags": 256,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Hotair - 4 days",
+        "avatar_decoration_data": null,
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1377377712162738196",
+            "asset": "nameplates/nameplates_v2/sword_of_legend/",
+            "label": "COLLECTIBLES_NAMEPLATES_V2_SWORD_OF_LEGEND_A11Y",
+            "palette": "cobalt"
+          }
+        },
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": true,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 0
+    }
+  },
+  {
+    "type": 0,
+    "content": "forgot about those, that was impossible for me to kill him...",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-05-10T21:20:32.448000+00:00",
+    "edited_timestamp": "2024-05-10T21:20:45.237000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1238601595399180340",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "195969166333837322",
+      "username": "eth3ror404",
+      "avatar": "870ce480c83f44978cd54428b04d5178",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Eth3ror404",
+      "avatar_decoration_data": {
+        "asset": "a_a44e9335ea869639fdf812f3642a56a6",
+        "sku_id": "1282816431871754281",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712028516443",
+          "asset": "nameplates/nameplates_v2/spirit_moon/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SPIRIT_MOON_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 10
+  },
+  {
+    "type": 0,
+    "content": "Thankfully that never has to happen to you again <:happytroll:1208199310777393153>",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-05-10T21:21:15.745000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1238601777000222751",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "99742137230319616",
+      "username": "hotair",
+      "avatar": "a_cc08294b2a80e575d0b817495d7da200",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Hotair - 4 days",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712162738196",
+          "asset": "nameplates/nameplates_v2/sword_of_legend/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SWORD_OF_LEGEND_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 11,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "1208199310777393153",
+          "name": "happytroll"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "why doesnt it work",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1238604046844297307",
+        "filename": "Screenshot_231.png",
+        "size": 217495,
+        "url": "https://cdn.discordapp.com/attachments/1238311452822212769/1238604046844297307/Screenshot_231.png?ex=6a0ed0a8&is=6a0d7f28&hm=7c713be5ce4801d451570424be83ea8e7558fc97203c076ed180a85ef52e4eb1&",
+        "proxy_url": "https://media.discordapp.net/attachments/1238311452822212769/1238604046844297307/Screenshot_231.png?ex=6a0ed0a8&is=6a0d7f28&hm=7c713be5ce4801d451570424be83ea8e7558fc97203c076ed180a85ef52e4eb1&",
+        "width": 1627,
+        "height": 620,
+        "content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "4hgKM4L7uYhOltdogH00hAg=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2024-05-10T21:30:17.002000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1238604047196487822",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "393955353055723522",
+      "username": "bloodpvp",
+      "avatar": "dbd62d5f2fdf2e99067949fb9ad7fd28",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "BloodPvp",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 13
+  },
+  {
+    "type": 0,
+    "content": "",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1238604138275668079",
+        "filename": "image.png",
+        "size": 6693,
+        "url": "https://cdn.discordapp.com/attachments/1238311452822212769/1238604138275668079/image.png?ex=6a0ed0be&is=6a0d7f3e&hm=336b41d096a252c9328ab9f1991f416a00b642b0271d4e468112d9200549bf5d&",
+        "proxy_url": "https://media.discordapp.net/attachments/1238311452822212769/1238604138275668079/image.png?ex=6a0ed0be&is=6a0d7f3e&hm=336b41d096a252c9328ab9f1991f416a00b642b0271d4e468112d9200549bf5d&",
+        "width": 207,
+        "height": 77,
+        "content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "52gCE4aHOEdyeAdoV3lwlQc=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2024-05-10T21:30:38.790000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1238604138582114324",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "99742137230319616",
+      "username": "hotair",
+      "avatar": "a_cc08294b2a80e575d0b817495d7da200",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Hotair - 4 days",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712162738196",
+          "asset": "nameplates/nameplates_v2/sword_of_legend/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SWORD_OF_LEGEND_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 14,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "644766908218081300",
+          "name": "happy"
+        },
+        "count": 7,
+        "count_details": {
+          "burst": 0,
+          "normal": 7
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "did it but got the ref",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-05-10T21:30:51.001000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1238604189798502512",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "393955353055723522",
+      "username": "bloodpvp",
+      "avatar": "dbd62d5f2fdf2e99067949fb9ad7fd28",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "BloodPvp",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 15
+  },
+  {
+    "type": 0,
+    "content": "Oh, I see what you're saying. Umm, it should be",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-05-10T21:30:53.270000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1238604199315505231",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "99742137230319616",
+      "username": "hotair",
+      "avatar": "a_cc08294b2a80e575d0b817495d7da200",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Hotair - 4 days",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712162738196",
+          "asset": "nameplates/nameplates_v2/sword_of_legend/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SWORD_OF_LEGEND_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 16
+  },
+  {
+    "type": 0,
+    "content": "THe only reason it wouldn't be is if you messed up something. Did you not copy it correctly?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-05-10T21:31:12.575000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1238604280286675056",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "99742137230319616",
+      "username": "hotair",
+      "avatar": "a_cc08294b2a80e575d0b817495d7da200",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Hotair - 4 days",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712162738196",
+          "asset": "nameplates/nameplates_v2/sword_of_legend/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SWORD_OF_LEGEND_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 17
+  },
+  {
+    "type": 0,
+    "content": "You can't do this",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1238604325635231848",
+        "filename": "image.png",
+        "size": 9237,
+        "url": "https://cdn.discordapp.com/attachments/1238311452822212769/1238604325635231848/image.png?ex=6a0ed0eb&is=6a0d7f6b&hm=8f62f543849d69eff903bbe763f20d2012d57da653e8cf4d55034ce36e3f90c7&",
+        "proxy_url": "https://media.discordapp.net/attachments/1238311452822212769/1238604325635231848/image.png?ex=6a0ed0eb&is=6a0d7f6b&hm=8f62f543849d69eff903bbe763f20d2012d57da653e8cf4d55034ce36e3f90c7&",
+        "width": 351,
+        "height": 99,
+        "content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "+/cBAoAp4Lh5etiUoEE/BxI=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2024-05-10T21:31:23.442000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1238604325866180688",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "99742137230319616",
+      "username": "hotair",
+      "avatar": "a_cc08294b2a80e575d0b817495d7da200",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Hotair - 4 days",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712162738196",
+          "asset": "nameplates/nameplates_v2/sword_of_legend/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SWORD_OF_LEGEND_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 18
+  },
+  {
+    "type": 0,
+    "content": "yes copy to new spreadsheet",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-05-10T21:31:30.793000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1238604356698509362",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "393955353055723522",
+      "username": "bloodpvp",
+      "avatar": "dbd62d5f2fdf2e99067949fb9ad7fd28",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "BloodPvp",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 19
+  },
+  {
+    "type": 0,
+    "content": "You have to do this",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1238604375778136175",
+        "filename": "image.png",
+        "size": 7868,
+        "url": "https://cdn.discordapp.com/attachments/1238311452822212769/1238604375778136175/image.png?ex=6a0ed0f7&is=6a0d7f77&hm=4914533a441105af4d34d5bc01f8893830cfa770271d672be21717d75d8969bc&",
+        "proxy_url": "https://media.discordapp.net/attachments/1238311452822212769/1238604375778136175/image.png?ex=6a0ed0f7&is=6a0d7f77&hm=4914533a441105af4d34d5bc01f8893830cfa770271d672be21717d75d8969bc&",
+        "width": 198,
+        "height": 172,
+        "content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "/PcFBoBgiHiJh5mBaHaYiIl0dZdgZwk=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2024-05-10T21:31:35.391000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1238604375983652944",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "99742137230319616",
+      "username": "hotair",
+      "avatar": "a_cc08294b2a80e575d0b817495d7da200",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Hotair - 4 days",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712162738196",
+          "asset": "nameplates/nameplates_v2/sword_of_legend/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SWORD_OF_LEGEND_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 20,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "1114306970816630876",
+          "name": "Grumblo_Pray"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "There are 2 sheets in my spreedsheet, the second being a hidden one with a table of the bosses base hp that is referenced. As you do not have that sheet and the associated variables, your formulas broke",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-05-10T21:32:19.563000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1238604561254580266",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "99742137230319616",
+      "username": "hotair",
+      "avatar": "a_cc08294b2a80e575d0b817495d7da200",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Hotair - 4 days",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712162738196",
+          "asset": "nameplates/nameplates_v2/sword_of_legend/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SWORD_OF_LEGEND_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 21
+  },
+  {
+    "type": 0,
+    "content": "thanks thats it",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-05-10T21:32:45.556000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1238604670276997120",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "393955353055723522",
+      "username": "bloodpvp",
+      "avatar": "dbd62d5f2fdf2e99067949fb9ad7fd28",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "BloodPvp",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 22
+  },
+  {
+    "type": 6,
+    "content": "",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-05-10T21:32:49.553000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1238604687041892483",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "99742137230319616",
+      "username": "hotair",
+      "avatar": "a_cc08294b2a80e575d0b817495d7da200",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Hotair - 4 days",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712162738196",
+          "asset": "nameplates/nameplates_v2/sword_of_legend/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SWORD_OF_LEGEND_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1238311452822212769",
+      "message_id": "1238311452822212769"
+    },
+    "position": 23
+  },
+  {
+    "type": 0,
+    "content": "Ah reminds me of the old Minecraft modding tutorials lol",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-05-10T21:33:04.956000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1238604751646490635",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "704247459861495848",
+      "username": "sirlivid",
+      "avatar": "211c1411f3d7fcf4f60eea17b24bd43f",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Livid",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 24
+  },
+  {
+    "type": 0,
+    "content": "so many steps",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-05-10T21:33:18.019000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1238604806436819014",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "393955353055723522",
+      "username": "bloodpvp",
+      "avatar": "dbd62d5f2fdf2e99067949fb9ad7fd28",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "BloodPvp",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 25
+  },
+  {
+    "type": 0,
+    "content": "That's why it specifically says to go to File > Make a Copy 😛",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-05-10T21:33:21.810000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1238604822337294370",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "99742137230319616",
+      "username": "hotair",
+      "avatar": "a_cc08294b2a80e575d0b817495d7da200",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Hotair - 4 days",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712162738196",
+          "asset": "nameplates/nameplates_v2/sword_of_legend/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SWORD_OF_LEGEND_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 26
+  },
+  {
+    "type": 0,
+    "content": "Someone would always inevitably wonder off the path and do something to mess up the files lmao",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-05-10T21:33:23.350000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1238604828796518474",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "704247459861495848",
+      "username": "sirlivid",
+      "avatar": "211c1411f3d7fcf4f60eea17b24bd43f",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Livid",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 27
+  },
+  {
+    "type": 0,
+    "content": "for me file was the little bjp calc under",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-05-10T21:33:38.154000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1238604890889256961",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "393955353055723522",
+      "username": "bloodpvp",
+      "avatar": "dbd62d5f2fdf2e99067949fb9ad7fd28",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "BloodPvp",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 28
+  },
+  {
+    "type": 0,
+    "content": "I tried to make it easy enough that even IdleOn players could figure it out <:NotLikeDuck:695431467123081267>",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-05-10T21:33:47.477000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1238604929992753153",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "99742137230319616",
+      "username": "hotair",
+      "avatar": "a_cc08294b2a80e575d0b817495d7da200",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Hotair - 4 days",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712162738196",
+          "asset": "nameplates/nameplates_v2/sword_of_legend/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SWORD_OF_LEGEND_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 29,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "😂"
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 19,
+    "content": "Mistake #1. We can't read you know this",
+    "mentions": [
+      {
+        "id": "99742137230319616",
+        "username": "hotair",
+        "avatar": "a_cc08294b2a80e575d0b817495d7da200",
+        "discriminator": "0",
+        "public_flags": 256,
+        "flags": 256,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Hotair - 4 days",
+        "avatar_decoration_data": null,
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1377377712162738196",
+            "asset": "nameplates/nameplates_v2/sword_of_legend/",
+            "label": "COLLECTIBLES_NAMEPLATES_V2_SWORD_OF_LEGEND_A11Y",
+            "palette": "cobalt"
+          }
+        },
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-05-10T21:34:03.236000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1238604996090790008",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "704247459861495848",
+      "username": "sirlivid",
+      "avatar": "211c1411f3d7fcf4f60eea17b24bd43f",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Livid",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1238311452822212769",
+      "message_id": "1238604929992753153",
+      "guild_id": "437797104786604034"
+    },
+    "position": 30,
+    "referenced_message": {
+      "type": 0,
+      "content": "I tried to make it easy enough that even IdleOn players could figure it out <:NotLikeDuck:695431467123081267>",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2024-05-10T21:33:47.477000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1238604929992753153",
+      "channel_id": "1238311452822212769",
+      "author": {
+        "id": "99742137230319616",
+        "username": "hotair",
+        "avatar": "a_cc08294b2a80e575d0b817495d7da200",
+        "discriminator": "0",
+        "public_flags": 256,
+        "flags": 256,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Hotair - 4 days",
+        "avatar_decoration_data": null,
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1377377712162738196",
+            "asset": "nameplates/nameplates_v2/sword_of_legend/",
+            "label": "COLLECTIBLES_NAMEPLATES_V2_SWORD_OF_LEGEND_A11Y",
+            "palette": "cobalt"
+          }
+        },
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 29
+    }
+  },
+  {
+    "type": 0,
+    "content": "and what even is midas tried to look in the wiki but it always take me to the worship page",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-05-10T21:35:52.872000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1238605455937245246",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "393955353055723522",
+      "username": "bloodpvp",
+      "avatar": "dbd62d5f2fdf2e99067949fb9ad7fd28",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "BloodPvp",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 31
+  },
+  {
+    "type": 0,
+    "content": "",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1238605607146098709",
+        "filename": "image.png",
+        "size": 5903,
+        "url": "https://cdn.discordapp.com/attachments/1238311452822212769/1238605607146098709/image.png?ex=6a0ed21c&is=6a0d809c&hm=8c49e92d5c7ff87f07d025c031f07223660ae22b648a28272189348e36849403&",
+        "proxy_url": "https://media.discordapp.net/attachments/1238311452822212769/1238605607146098709/image.png?ex=6a0ed21c&is=6a0d809c&hm=8c49e92d5c7ff87f07d025c031f07223660ae22b648a28272189348e36849403&",
+        "width": 324,
+        "height": 86,
+        "content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "XOcFAoALZFeKl5iGj1TNGPQ=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2024-05-10T21:36:29.275000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1238605608622620783",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "99742137230319616",
+      "username": "hotair",
+      "avatar": "a_cc08294b2a80e575d0b817495d7da200",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Hotair - 4 days",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712162738196",
+          "asset": "nameplates/nameplates_v2/sword_of_legend/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SWORD_OF_LEGEND_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 32
+  },
+  {
+    "type": 0,
+    "content": "oh that one always forgot the name",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-05-10T21:36:42.769000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1238605665220427827",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "393955353055723522",
+      "username": "bloodpvp",
+      "avatar": "dbd62d5f2fdf2e99067949fb9ad7fd28",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "BloodPvp",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 33
+  },
+  {
+    "type": 19,
+    "content": "i did warn you no matter what you do it wouldnt be enough <:hahaha:539023586518630402>",
+    "mentions": [
+      {
+        "id": "99742137230319616",
+        "username": "hotair",
+        "avatar": "a_cc08294b2a80e575d0b817495d7da200",
+        "discriminator": "0",
+        "public_flags": 256,
+        "flags": 256,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Hotair - 4 days",
+        "avatar_decoration_data": null,
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1377377712162738196",
+            "asset": "nameplates/nameplates_v2/sword_of_legend/",
+            "label": "COLLECTIBLES_NAMEPLATES_V2_SWORD_OF_LEGEND_A11Y",
+            "palette": "cobalt"
+          }
+        },
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-05-11T10:31:23.241000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1238800618450190377",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "177375525713608704",
+      "username": "roronoa_zoro93",
+      "avatar": "3e830c48a958ef83abfc395c776d28c0",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Roronoa Zoro",
+      "avatar_decoration_data": {
+        "asset": "a_7f863078aee4932cd50ee4e3b55d3035",
+        "sku_id": "1237654224712765440",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 4,
+        "colors": [
+          1027403
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1238311452822212769",
+      "message_id": "1238604929992753153",
+      "guild_id": "437797104786604034"
+    },
+    "position": 34,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "859584397539278859",
+          "name": "GuyMontag"
+        },
+        "count": 6,
+        "count_details": {
+          "burst": 0,
+          "normal": 6
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "910016461710438450",
+          "name": "this"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "740903871412437012",
+          "name": "dogekek2"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ],
+    "referenced_message": {
+      "type": 0,
+      "content": "I tried to make it easy enough that even IdleOn players could figure it out <:NotLikeDuck:695431467123081267>",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2024-05-10T21:33:47.477000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1238604929992753153",
+      "channel_id": "1238311452822212769",
+      "author": {
+        "id": "99742137230319616",
+        "username": "hotair",
+        "avatar": "a_cc08294b2a80e575d0b817495d7da200",
+        "discriminator": "0",
+        "public_flags": 256,
+        "flags": 256,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Hotair - 4 days",
+        "avatar_decoration_data": null,
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1377377712162738196",
+            "asset": "nameplates/nameplates_v2/sword_of_legend/",
+            "label": "COLLECTIBLES_NAMEPLATES_V2_SWORD_OF_LEGEND_A11Y",
+            "palette": "cobalt"
+          }
+        },
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 29
+    }
+  },
+  {
+    "type": 0,
+    "content": "I absolutely forgot Bonejoe increased their HP, thanks for the reminder!",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-05-11T10:54:42.758000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1238806488450072606",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "149106593630257152",
+      "username": "nytemaren",
+      "avatar": "519e9b9d42156045ca955d8409c3bd56",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nytemaren",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 35
+  },
+  {
+    "type": 0,
+    "content": "Cheers for the calculator, I added a current TTK and a Max BJP for an ideal TTK to the sheet: https://docs.google.com/spreadsheets/d/1DhS6i76oVMzrkjchyNpICbSWxJPLD67MV1Ug7cA7K4o/edit?usp=sharing",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-05-11T12:38:48.340000+00:00",
+    "edited_timestamp": null,
+    "flags": 4,
+    "components": [],
+    "id": "1238832684319379507",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "283398534978600971",
+      "username": "notamonster",
+      "avatar": "d62d8a04db38c320e1ea321e99b0daa5",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "notamonster",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 36
+  },
+  {
+    "type": 0,
+    "content": "150 BJPS for demented spirit lord is 627QQ. The nightmare w6 boss is 5QQQ. Shows how much crazy HP the nightmare boss has",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-05-11T17:38:30.224000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1238908105807630336",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "285660485905547266",
+      "username": "la_lifer",
+      "avatar": "dd49291970db720c48743c400ff0e427",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "LA Lifer",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 37
+  },
+  {
+    "type": 0,
+    "content": "The boss doesn't even exist. Health values on the cards are merely placeholders",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-05-11T17:51:16.759000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1238911320888184902",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "99742137230319616",
+      "username": "hotair",
+      "avatar": "a_cc08294b2a80e575d0b817495d7da200",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Hotair - 4 days",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712162738196",
+          "asset": "nameplates/nameplates_v2/sword_of_legend/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SWORD_OF_LEGEND_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 38
+  },
+  {
+    "type": 0,
+    "content": "No duh",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-05-11T17:51:32.645000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1238911387518894211",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "285660485905547266",
+      "username": "la_lifer",
+      "avatar": "dd49291970db720c48743c400ff0e427",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "LA Lifer",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 39
+  },
+  {
+    "type": 0,
+    "content": "here's what's funny is the old placeholder for chaotic kruk was 40B. It was changed up to 2.5T. W6 boss is probably going to have the HP increased lol.\n\nhttps://www.reddit.com/r/idleon/comments/14b4vxd/is_the_world_5_boss_already_out_or_is_the_chaotic/",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "article",
+        "url": "https://www.reddit.com/r/idleon/comments/14b4vxd/is_the_world_5_boss_already_out_or_is_the_chaotic/",
+        "title": "From the idleon community on Reddit: Is the world 5 boss already ou...",
+        "description": "Explore this post and more from the idleon community",
+        "provider": {
+          "name": "Reddit"
+        },
+        "thumbnail": {
+          "url": "https://share.redd.it/preview/post/14b4vxd",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/4Fm1aOnqJl0XUgcc0FB7JFz6m2UL2oWyCTG_wsYoaJo/https/share.redd.it/preview/post/14b4vxd",
+          "width": 1120,
+          "height": 584,
+          "content_type": "image/jpeg",
+          "placeholder": "EAgKDIIFKGeCa4lzioXIX8dHsA==",
+          "placeholder_version": 1,
+          "flags": 0
+        },
+        "content_scan_version": 4
+      }
+    ],
+    "timestamp": "2024-05-11T17:54:45.027000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1238912194427617373",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "285660485905547266",
+      "username": "la_lifer",
+      "avatar": "dd49291970db720c48743c400ff0e427",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "LA Lifer",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 40
+  },
+  {
+    "type": 19,
+    "content": "Hi there\nyour addition to the calc is perfect. That's exactly what i wanted.\nmight i suggest to also add the formula to transform your shimmer dmg to letter notation: like this.\nCounting zeroes isn't fun :p",
+    "mentions": [
+      {
+        "id": "283398534978600971",
+        "username": "notamonster",
+        "avatar": "d62d8a04db38c320e1ea321e99b0daa5",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "notamonster",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1248182719889014814",
+        "filename": "image.png",
+        "size": 3249,
+        "url": "https://cdn.discordapp.com/attachments/1238311452822212769/1248182719889014814/image.png?ex=6a0f627e&is=6a0e10fe&hm=34c919a757c2c5ed95c3808c46275203eed393a85975b9050f64685ab587e843&",
+        "proxy_url": "https://media.discordapp.net/attachments/1238311452822212769/1248182719889014814/image.png?ex=6a0f627e&is=6a0e10fe&hm=34c919a757c2c5ed95c3808c46275203eed393a85975b9050f64685ab587e843&",
+        "width": 259,
+        "height": 144,
+        "content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "JmcGHIySSYpjeIefd3mVq69GBQ==",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2024-06-06T07:52:30.575000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1248182720056528906",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "235313375393873920",
+      "username": "blackphantom434",
+      "avatar": "f4faa45fd435726fcd996f1d344cd638",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Blackphantom434",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1238311452822212769",
+      "message_id": "1238832684319379507",
+      "guild_id": "437797104786604034"
+    },
+    "position": 41,
+    "referenced_message": {
+      "type": 0,
+      "content": "Cheers for the calculator, I added a current TTK and a Max BJP for an ideal TTK to the sheet: https://docs.google.com/spreadsheets/d/1DhS6i76oVMzrkjchyNpICbSWxJPLD67MV1Ug7cA7K4o/edit?usp=sharing",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2024-05-11T12:38:48.340000+00:00",
+      "edited_timestamp": null,
+      "flags": 4,
+      "components": [],
+      "id": "1238832684319379507",
+      "channel_id": "1238311452822212769",
+      "author": {
+        "id": "283398534978600971",
+        "username": "notamonster",
+        "avatar": "d62d8a04db38c320e1ea321e99b0daa5",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "notamonster",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 36
+    }
+  },
+  {
+    "type": 19,
+    "content": "Added",
+    "mentions": [
+      {
+        "id": "235313375393873920",
+        "username": "blackphantom434",
+        "avatar": "f4faa45fd435726fcd996f1d344cd638",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Blackphantom434",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-06-06T08:54:33.084000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1248198333391044649",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "283398534978600971",
+      "username": "notamonster",
+      "avatar": "d62d8a04db38c320e1ea321e99b0daa5",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "notamonster",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1238311452822212769",
+      "message_id": "1248182720056528906",
+      "guild_id": "437797104786604034"
+    },
+    "position": 42,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ],
+    "referenced_message": {
+      "type": 19,
+      "content": "Hi there\nyour addition to the calc is perfect. That's exactly what i wanted.\nmight i suggest to also add the formula to transform your shimmer dmg to letter notation: like this.\nCounting zeroes isn't fun :p",
+      "mentions": [
+        {
+          "id": "283398534978600971",
+          "username": "notamonster",
+          "avatar": "d62d8a04db38c320e1ea321e99b0daa5",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "notamonster",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": {
+            "identity_guild_id": "437797104786604034",
+            "identity_enabled": true,
+            "tag": "idle",
+            "badge": "613dd0a2876f97a2422d121940ecc992"
+          },
+          "primary_guild": {
+            "identity_guild_id": "437797104786604034",
+            "identity_enabled": true,
+            "tag": "idle",
+            "badge": "613dd0a2876f97a2422d121940ecc992"
+          }
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [
+        {
+          "id": "1248182719889014814",
+          "filename": "image.png",
+          "size": 3249,
+          "url": "https://cdn.discordapp.com/attachments/1238311452822212769/1248182719889014814/image.png?ex=6a0f627e&is=6a0e10fe&hm=34c919a757c2c5ed95c3808c46275203eed393a85975b9050f64685ab587e843&",
+          "proxy_url": "https://media.discordapp.net/attachments/1238311452822212769/1248182719889014814/image.png?ex=6a0f627e&is=6a0e10fe&hm=34c919a757c2c5ed95c3808c46275203eed393a85975b9050f64685ab587e843&",
+          "width": 259,
+          "height": 144,
+          "content_type": "image/png",
+          "content_scan_version": 4,
+          "placeholder": "JmcGHIySSYpjeIefd3mVq69GBQ==",
+          "placeholder_version": 1
+        }
+      ],
+      "embeds": [],
+      "timestamp": "2024-06-06T07:52:30.575000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1248182720056528906",
+      "channel_id": "1238311452822212769",
+      "author": {
+        "id": "235313375393873920",
+        "username": "blackphantom434",
+        "avatar": "f4faa45fd435726fcd996f1d344cd638",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Blackphantom434",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1238311452822212769",
+        "message_id": "1238832684319379507",
+        "guild_id": "437797104786604034"
+      },
+      "position": 41
+    }
+  },
+  {
+    "type": 0,
+    "content": "Do the big brain and jawbreaker prayers not count towards the total HP like Midas does?  If they do affect it, does anyone know if its additive percentage, or is it multiplicative?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-06-23T00:04:48.616000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1254225613384978524",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "384475906040922112",
+      "username": "failedfrenzy",
+      "avatar": "4cebe4e8ebbd7e0cfa31d11070fd8419",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Failed Frenzy",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 43
+  },
+  {
+    "type": 0,
+    "content": "They do, but there's no reason to have them equipped.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-06-23T00:06:57.272000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1254226153007222875",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "99742137230319616",
+      "username": "hotair",
+      "avatar": "a_cc08294b2a80e575d0b817495d7da200",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Hotair - 4 days",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712162738196",
+          "asset": "nameplates/nameplates_v2/sword_of_legend/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SWORD_OF_LEGEND_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 44,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "481714069930246147",
+          "name": "YES"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "Has anyone used the bjp calculator to figure out how long it would take to kill demented spiritlord with your characters specific dmg?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-07-03T12:53:47.563000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1258043012810805310",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "425797302104358912",
+      "username": "cbech_",
+      "avatar": "48e025e70a21b6ae20e5f0f0fbd165a1",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 46
+  },
+  {
+    "type": 0,
+    "content": "Knowing the HP is one thing",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-07-03T12:53:58.476000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1258043058583506964",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "425797302104358912",
+      "username": "cbech_",
+      "avatar": "48e025e70a21b6ae20e5f0f0fbd165a1",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 47
+  },
+  {
+    "type": 19,
+    "content": "What you want is the BJP+ spreadsheet above, it's got added cells for TTK and recommended BJP for specific TTK",
+    "mentions": [
+      {
+        "id": "425797302104358912",
+        "username": "cbech_",
+        "avatar": "48e025e70a21b6ae20e5f0f0fbd165a1",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": null,
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-07-04T18:54:30.126000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1258496176164962358",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "283398534978600971",
+      "username": "notamonster",
+      "avatar": "d62d8a04db38c320e1ea321e99b0daa5",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "notamonster",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1238311452822212769",
+      "message_id": "1258043012810805310",
+      "guild_id": "437797104786604034"
+    },
+    "position": 48,
+    "referenced_message": {
+      "type": 0,
+      "content": "Has anyone used the bjp calculator to figure out how long it would take to kill demented spiritlord with your characters specific dmg?",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2024-07-03T12:53:47.563000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1258043012810805310",
+      "channel_id": "1238311452822212769",
+      "author": {
+        "id": "425797302104358912",
+        "username": "cbech_",
+        "avatar": "48e025e70a21b6ae20e5f0f0fbd165a1",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": null,
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 46
+    }
+  },
+  {
+    "type": 0,
+    "content": "its so useful",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-08-04T20:36:39.729000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1269755909417078957",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "596905749054095373",
+      "username": "transgardevoir",
+      "avatar": "d9927bfe528da8ae8b4c9d08379eac49",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "TransGardevoir",
+      "avatar_decoration_data": {
+        "asset": "a_c3cffc19e9784f7d0b005eecdf1b566e",
+        "sku_id": "1212569433839636530",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 49
+  },
+  {
+    "type": 19,
+    "content": "what is this number?",
+    "mentions": [
+      {
+        "id": "235313375393873920",
+        "username": "blackphantom434",
+        "avatar": "f4faa45fd435726fcd996f1d344cd638",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Blackphantom434",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1273683237893439669",
+        "filename": "image.png",
+        "size": 8214,
+        "url": "https://cdn.discordapp.com/attachments/1238311452822212769/1273683237893439669/image.png?ex=6a0f35f3&is=6a0de473&hm=9c437bfa035a61ce59524e9729abf8d4026c88f7b5567c7cddd3ba56679e5184&",
+        "proxy_url": "https://media.discordapp.net/attachments/1238311452822212769/1273683237893439669/image.png?ex=6a0f35f3&is=6a0de473&hm=9c437bfa035a61ce59524e9729abf8d4026c88f7b5567c7cddd3ba56679e5184&",
+        "width": 231,
+        "height": 264,
+        "content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "3wgKJgabWhWIePd2h3CHfKeniH+GSAc=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2024-08-15T16:42:27.847000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1273683238073663579",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "719010611219923015",
+      "username": "legion777deathgunner888",
+      "avatar": "510f951256f725a784288d74e1c6ea72",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "change my name",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1238311452822212769",
+      "message_id": "1248182720056528906",
+      "guild_id": "437797104786604034"
+    },
+    "position": 50,
+    "referenced_message": {
+      "type": 19,
+      "content": "Hi there\nyour addition to the calc is perfect. That's exactly what i wanted.\nmight i suggest to also add the formula to transform your shimmer dmg to letter notation: like this.\nCounting zeroes isn't fun :p",
+      "mentions": [
+        {
+          "id": "283398534978600971",
+          "username": "notamonster",
+          "avatar": "d62d8a04db38c320e1ea321e99b0daa5",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "notamonster",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": {
+            "identity_guild_id": "437797104786604034",
+            "identity_enabled": true,
+            "tag": "idle",
+            "badge": "613dd0a2876f97a2422d121940ecc992"
+          },
+          "primary_guild": {
+            "identity_guild_id": "437797104786604034",
+            "identity_enabled": true,
+            "tag": "idle",
+            "badge": "613dd0a2876f97a2422d121940ecc992"
+          }
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [
+        {
+          "id": "1248182719889014814",
+          "filename": "image.png",
+          "size": 3249,
+          "url": "https://cdn.discordapp.com/attachments/1238311452822212769/1248182719889014814/image.png?ex=6a0f627e&is=6a0e10fe&hm=34c919a757c2c5ed95c3808c46275203eed393a85975b9050f64685ab587e843&",
+          "proxy_url": "https://media.discordapp.net/attachments/1238311452822212769/1248182719889014814/image.png?ex=6a0f627e&is=6a0e10fe&hm=34c919a757c2c5ed95c3808c46275203eed393a85975b9050f64685ab587e843&",
+          "width": 259,
+          "height": 144,
+          "content_type": "image/png",
+          "content_scan_version": 4,
+          "placeholder": "JmcGHIySSYpjeIefd3mVq69GBQ==",
+          "placeholder_version": 1
+        }
+      ],
+      "embeds": [],
+      "timestamp": "2024-06-06T07:52:30.575000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1248182720056528906",
+      "channel_id": "1238311452822212769",
+      "author": {
+        "id": "235313375393873920",
+        "username": "blackphantom434",
+        "avatar": "f4faa45fd435726fcd996f1d344cd638",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Blackphantom434",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1238311452822212769",
+        "message_id": "1238832684319379507",
+        "guild_id": "437797104786604034"
+      },
+      "position": 41
+    }
+  },
+  {
+    "type": 19,
+    "content": "How long it takes to kill with your damage",
+    "mentions": [
+      {
+        "id": "719010611219923015",
+        "username": "legion777deathgunner888",
+        "avatar": "510f951256f725a784288d74e1c6ea72",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "change my name",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-08-15T20:59:22.087000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1273747890082418748",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "424518428976611328",
+      "username": "orangecoalition",
+      "avatar": "ea612b79b736e14fe8e8314d16b7287f",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "OrangeCoalition",
+      "avatar_decoration_data": {
+        "asset": "a_741750ac1c9091a58059be33590c2821",
+        "sku_id": "1424960507143524495",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1238311452822212769",
+      "message_id": "1273683238073663579",
+      "guild_id": "437797104786604034"
+    },
+    "position": 51,
+    "referenced_message": {
+      "type": 19,
+      "content": "what is this number?",
+      "mentions": [
+        {
+          "id": "235313375393873920",
+          "username": "blackphantom434",
+          "avatar": "f4faa45fd435726fcd996f1d344cd638",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Blackphantom434",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": {
+            "identity_guild_id": "437797104786604034",
+            "identity_enabled": true,
+            "tag": "idle",
+            "badge": "613dd0a2876f97a2422d121940ecc992"
+          },
+          "primary_guild": {
+            "identity_guild_id": "437797104786604034",
+            "identity_enabled": true,
+            "tag": "idle",
+            "badge": "613dd0a2876f97a2422d121940ecc992"
+          }
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [
+        {
+          "id": "1273683237893439669",
+          "filename": "image.png",
+          "size": 8214,
+          "url": "https://cdn.discordapp.com/attachments/1238311452822212769/1273683237893439669/image.png?ex=6a0f35f3&is=6a0de473&hm=9c437bfa035a61ce59524e9729abf8d4026c88f7b5567c7cddd3ba56679e5184&",
+          "proxy_url": "https://media.discordapp.net/attachments/1238311452822212769/1273683237893439669/image.png?ex=6a0f35f3&is=6a0de473&hm=9c437bfa035a61ce59524e9729abf8d4026c88f7b5567c7cddd3ba56679e5184&",
+          "width": 231,
+          "height": 264,
+          "content_type": "image/png",
+          "content_scan_version": 4,
+          "placeholder": "3wgKJgabWhWIePd2h3CHfKeniH+GSAc=",
+          "placeholder_version": 1
+        }
+      ],
+      "embeds": [],
+      "timestamp": "2024-08-15T16:42:27.847000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1273683238073663579",
+      "channel_id": "1238311452822212769",
+      "author": {
+        "id": "719010611219923015",
+        "username": "legion777deathgunner888",
+        "avatar": "510f951256f725a784288d74e1c6ea72",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "change my name",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1238311452822212769",
+        "message_id": "1248182720056528906",
+        "guild_id": "437797104786604034"
+      },
+      "position": 50
+    }
+  },
+  {
+    "type": 0,
+    "content": "oh tnx i thout it was in seconds being 3.3 million",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-08-15T21:20:13.405000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1273753138490249308",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "719010611219923015",
+      "username": "legion777deathgunner888",
+      "avatar": "510f951256f725a784288d74e1c6ea72",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "change my name",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 52
+  },
+  {
+    "type": 19,
+    "content": "Hello, on the subject of jawbreaker and big brain, I understand there is no reason to use them but I for one always have them on while farming with my active guy and when I teleport to baba yaga, I dont take them off. I think it would be a good addition to this already good looking calculator 🙂",
+    "mentions": [
+      {
+        "id": "99742137230319616",
+        "username": "hotair",
+        "avatar": "a_cc08294b2a80e575d0b817495d7da200",
+        "discriminator": "0",
+        "public_flags": 256,
+        "flags": 256,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Hotair - 4 days",
+        "avatar_decoration_data": null,
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1377377712162738196",
+            "asset": "nameplates/nameplates_v2/sword_of_legend/",
+            "label": "COLLECTIBLES_NAMEPLATES_V2_SWORD_OF_LEGEND_A11Y",
+            "palette": "cobalt"
+          }
+        },
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-09-01T12:40:01.279000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1279782819060645960",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "189201117840801792",
+      "username": "oxygensix",
+      "avatar": "10724eb8f7f826bd7a98d20952395b8b",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "OxyGeNsix",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1238311452822212769",
+      "message_id": "1254226153007222875",
+      "guild_id": "437797104786604034"
+    },
+    "position": 53,
+    "referenced_message": {
+      "type": 0,
+      "content": "They do, but there's no reason to have them equipped.",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2024-06-23T00:06:57.272000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1254226153007222875",
+      "channel_id": "1238311452822212769",
+      "author": {
+        "id": "99742137230319616",
+        "username": "hotair",
+        "avatar": "a_cc08294b2a80e575d0b817495d7da200",
+        "discriminator": "0",
+        "public_flags": 256,
+        "flags": 256,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Hotair - 4 days",
+        "avatar_decoration_data": null,
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1377377712162738196",
+            "asset": "nameplates/nameplates_v2/sword_of_legend/",
+            "label": "COLLECTIBLES_NAMEPLATES_V2_SWORD_OF_LEGEND_A11Y",
+            "palette": "cobalt"
+          }
+        },
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 44
+    }
+  },
+  {
+    "type": 0,
+    "content": "if the hp increase is additive, I'll just increase the hp% by what jawbraker and big brain gives",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-09-01T12:41:55.431000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1279783297848705035",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "189201117840801792",
+      "username": "oxygensix",
+      "avatar": "10724eb8f7f826bd7a98d20952395b8b",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "OxyGeNsix",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 54
+  },
+  {
+    "type": 0,
+    "content": "Which would be 4130%",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-09-01T12:42:46.740000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1279783513054515211",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "189201117840801792",
+      "username": "oxygensix",
+      "avatar": "10724eb8f7f826bd7a98d20952395b8b",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "OxyGeNsix",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 55
+  },
+  {
+    "type": 0,
+    "content": "And it sure should be just additive lol",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-09-01T12:43:00.536000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1279783570918998016",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "189201117840801792",
+      "username": "oxygensix",
+      "avatar": "10724eb8f7f826bd7a98d20952395b8b",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "OxyGeNsix",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 56
+  },
+  {
+    "type": 0,
+    "content": "... shit",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1279783677768892446",
+        "filename": "image.png",
+        "size": 9500,
+        "url": "https://cdn.discordapp.com/attachments/1238311452822212769/1279783677768892446/image.png?ex=6a0efdee&is=6a0dac6e&hm=1d10cae55eab5cb300478679738f3f0d6c1eb03c8fd80a87516a045d32f90df5&",
+        "proxy_url": "https://media.discordapp.net/attachments/1238311452822212769/1279783677768892446/image.png?ex=6a0efdee&is=6a0dac6e&hm=1d10cae55eab5cb300478679738f3f0d6c1eb03c8fd80a87516a045d32f90df5&",
+        "width": 543,
+        "height": 163,
+        "content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "PfgFAoIbXnkLTHtr4NH64VE=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2024-09-01T12:43:26.081000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1279783678062624903",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "189201117840801792",
+      "username": "oxygensix",
+      "avatar": "10724eb8f7f826bd7a98d20952395b8b",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "OxyGeNsix",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 57
+  },
+  {
+    "type": 0,
+    "content": "what is 282Q dmg in T term",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-09-01T14:11:06.084000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1279805740114251808",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "239830792732147713",
+      "username": "icyfoxkiller",
+      "avatar": "7fbe4d90979cbd0129efad4c360506eb",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "IcyFoxKiller",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": {
+        "font_id": 7,
+        "effect_id": 4,
+        "colors": [
+          16521573
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "523059903812599811",
+        "identity_enabled": true,
+        "tag": "HYTL",
+        "badge": "90a3edbdc5465bd6b6574adadb29b32e"
+      },
+      "primary_guild": {
+        "identity_guild_id": "523059903812599811",
+        "identity_enabled": true,
+        "tag": "HYTL",
+        "badge": "90a3edbdc5465bd6b6574adadb29b32e"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 58
+  },
+  {
+    "type": 0,
+    "content": "or what is 94kT in Q *",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-09-01T14:11:10.441000+00:00",
+    "edited_timestamp": "2024-09-01T14:11:14.448000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1279805758388568137",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "239830792732147713",
+      "username": "icyfoxkiller",
+      "avatar": "7fbe4d90979cbd0129efad4c360506eb",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "IcyFoxKiller",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": {
+        "font_id": 7,
+        "effect_id": 4,
+        "colors": [
+          16521573
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "523059903812599811",
+        "identity_enabled": true,
+        "tag": "HYTL",
+        "badge": "90a3edbdc5465bd6b6574adadb29b32e"
+      },
+      "primary_guild": {
+        "identity_guild_id": "523059903812599811",
+        "identity_enabled": true,
+        "tag": "HYTL",
+        "badge": "90a3edbdc5465bd6b6574adadb29b32e"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 59
+  },
+  {
+    "type": 0,
+    "content": "last receipe on spirit lord miniboss!!!",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-09-01T14:18:06.339000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1279807502791213167",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "239830792732147713",
+      "username": "icyfoxkiller",
+      "avatar": "7fbe4d90979cbd0129efad4c360506eb",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "IcyFoxKiller",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": {
+        "font_id": 7,
+        "effect_id": 4,
+        "colors": [
+          16521573
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "523059903812599811",
+        "identity_enabled": true,
+        "tag": "HYTL",
+        "badge": "90a3edbdc5465bd6b6574adadb29b32e"
+      },
+      "primary_guild": {
+        "identity_guild_id": "523059903812599811",
+        "identity_enabled": true,
+        "tag": "HYTL",
+        "badge": "90a3edbdc5465bd6b6574adadb29b32e"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 60
+  },
+  {
+    "type": 19,
+    "content": "I'll look into it, although I'm not sure if it's purely additive or not, would need some test numbers from someone who has base levels of each prayer, that way it easily reflects on the cards to verify it. As for the image you posted, that was to make sure people used valid numbers for the prayer 😅",
+    "mentions": [
+      {
+        "id": "189201117840801792",
+        "username": "oxygensix",
+        "avatar": "10724eb8f7f826bd7a98d20952395b8b",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "OxyGeNsix",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-09-01T16:30:02.004000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1279840703496589333",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "99742137230319616",
+      "username": "hotair",
+      "avatar": "a_cc08294b2a80e575d0b817495d7da200",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Hotair - 4 days",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712162738196",
+          "asset": "nameplates/nameplates_v2/sword_of_legend/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SWORD_OF_LEGEND_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1238311452822212769",
+      "message_id": "1279782819060645960",
+      "guild_id": "437797104786604034"
+    },
+    "position": 61,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ],
+    "referenced_message": {
+      "type": 19,
+      "content": "Hello, on the subject of jawbreaker and big brain, I understand there is no reason to use them but I for one always have them on while farming with my active guy and when I teleport to baba yaga, I dont take them off. I think it would be a good addition to this already good looking calculator 🙂",
+      "mentions": [
+        {
+          "id": "99742137230319616",
+          "username": "hotair",
+          "avatar": "a_cc08294b2a80e575d0b817495d7da200",
+          "discriminator": "0",
+          "public_flags": 256,
+          "flags": 256,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Hotair - 4 days",
+          "avatar_decoration_data": null,
+          "collectibles": {
+            "nameplate": {
+              "sku_id": "1377377712162738196",
+              "asset": "nameplates/nameplates_v2/sword_of_legend/",
+              "label": "COLLECTIBLES_NAMEPLATES_V2_SWORD_OF_LEGEND_A11Y",
+              "palette": "cobalt"
+            }
+          },
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2024-09-01T12:40:01.279000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1279782819060645960",
+      "channel_id": "1238311452822212769",
+      "author": {
+        "id": "189201117840801792",
+        "username": "oxygensix",
+        "avatar": "10724eb8f7f826bd7a98d20952395b8b",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "OxyGeNsix",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1238311452822212769",
+        "message_id": "1254226153007222875",
+        "guild_id": "437797104786604034"
+      },
+      "position": 53
+    }
+  },
+  {
+    "type": 19,
+    "content": "In T term it’s 282,000T",
+    "mentions": [
+      {
+        "id": "239830792732147713",
+        "username": "icyfoxkiller",
+        "avatar": "7fbe4d90979cbd0129efad4c360506eb",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "IcyFoxKiller",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": {
+          "font_id": 7,
+          "effect_id": 4,
+          "colors": [
+            16521573
+          ]
+        },
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "523059903812599811",
+          "identity_enabled": true,
+          "tag": "HYTL",
+          "badge": "90a3edbdc5465bd6b6574adadb29b32e"
+        },
+        "primary_guild": {
+          "identity_guild_id": "523059903812599811",
+          "identity_enabled": true,
+          "tag": "HYTL",
+          "badge": "90a3edbdc5465bd6b6574adadb29b32e"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-09-02T13:03:08.479000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1280151025264885780",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "424518428976611328",
+      "username": "orangecoalition",
+      "avatar": "ea612b79b736e14fe8e8314d16b7287f",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "OrangeCoalition",
+      "avatar_decoration_data": {
+        "asset": "a_741750ac1c9091a58059be33590c2821",
+        "sku_id": "1424960507143524495",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1238311452822212769",
+      "message_id": "1279805740114251808",
+      "guild_id": "437797104786604034"
+    },
+    "position": 62,
+    "referenced_message": {
+      "type": 0,
+      "content": "what is 282Q dmg in T term",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2024-09-01T14:11:06.084000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1279805740114251808",
+      "channel_id": "1238311452822212769",
+      "author": {
+        "id": "239830792732147713",
+        "username": "icyfoxkiller",
+        "avatar": "7fbe4d90979cbd0129efad4c360506eb",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "IcyFoxKiller",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": {
+          "font_id": 7,
+          "effect_id": 4,
+          "colors": [
+            16521573
+          ]
+        },
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "523059903812599811",
+          "identity_enabled": true,
+          "tag": "HYTL",
+          "badge": "90a3edbdc5465bd6b6574adadb29b32e"
+        },
+        "primary_guild": {
+          "identity_guild_id": "523059903812599811",
+          "identity_enabled": true,
+          "tag": "HYTL",
+          "badge": "90a3edbdc5465bd6b6574adadb29b32e"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 58
+    }
+  },
+  {
+    "type": 0,
+    "content": "And 94kT in Q term I’m assuming is 94Q??? Correct me if wrong pls",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-09-02T13:03:48.786000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1280151194324697250",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "424518428976611328",
+      "username": "orangecoalition",
+      "avatar": "ea612b79b736e14fe8e8314d16b7287f",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "OrangeCoalition",
+      "avatar_decoration_data": {
+        "asset": "a_741750ac1c9091a58059be33590c2821",
+        "sku_id": "1424960507143524495",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 63,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "481714069930246147",
+          "name": "YES"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "Thanks this helps a lot",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-10-17T10:19:32.576000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1296417308335542323",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "264093126375899138",
+      "username": ".sampo.",
+      "avatar": "c3120fdb1c8a9268684e9efe2f921288",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Sampo",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1409983105577783410",
+          "asset": "nameplates/special_events_2/nitro_rocketfuel_nameplate/",
+          "label": "COLLECTIBLES_SEPTEMBER_2025_MARKETING_NAMEPLATE_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "372890476082364427",
+        "identity_enabled": true,
+        "tag": "Hs",
+        "badge": "fa9cc80236e71715c90d24db7ee9eb53"
+      },
+      "primary_guild": {
+        "identity_guild_id": "372890476082364427",
+        "identity_enabled": true,
+        "tag": "Hs",
+        "badge": "fa9cc80236e71715c90d24db7ee9eb53"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 64,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "912273472653246484",
+          "name": "fingerguns"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "How do i edit it?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1298586279067258881",
+        "filename": "Screenshot_20241023_115748_Sheets.jpg",
+        "size": 92754,
+        "url": "https://cdn.discordapp.com/attachments/1238311452822212769/1298586279067258881/Screenshot_20241023_115748_Sheets.jpg?ex=6a0ed737&is=6a0d85b7&hm=46e6fd70fc17bbfe1a23a1739074d8aafccf2a711db81eb87f8615e977842a2b&",
+        "proxy_url": "https://media.discordapp.net/attachments/1238311452822212769/1298586279067258881/Screenshot_20241023_115748_Sheets.jpg?ex=6a0ed737&is=6a0d85b7&hm=46e6fd70fc17bbfe1a23a1739074d8aafccf2a711db81eb87f8615e977842a2b&",
+        "width": 1080,
+        "height": 2340,
+        "content_type": "image/jpeg",
+        "content_scan_version": 4,
+        "placeholder": "kgcKCwRjfAaKgmZmyDnvoJk=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2024-10-23T09:58:15.543000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1298586279264387102",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "775091864247992371",
+      "username": "nova_ig.",
+      "avatar": "a3a67672d27af17521eadd553df35251",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nova",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "921808538760794232",
+        "identity_enabled": true,
+        "tag": "IBA",
+        "badge": "dea4f5f8e9aaa736c9b599506226508e"
+      },
+      "primary_guild": {
+        "identity_guild_id": "921808538760794232",
+        "identity_enabled": true,
+        "tag": "IBA",
+        "badge": "dea4f5f8e9aaa736c9b599506226508e"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 66
+  },
+  {
+    "type": 19,
+    "content": "I'm just gonna let you think about this for a bit...",
+    "mentions": [
+      {
+        "id": "775091864247992371",
+        "username": "nova_ig.",
+        "avatar": "a3a67672d27af17521eadd553df35251",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Nova",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "921808538760794232",
+          "identity_enabled": true,
+          "tag": "IBA",
+          "badge": "dea4f5f8e9aaa736c9b599506226508e"
+        },
+        "primary_guild": {
+          "identity_guild_id": "921808538760794232",
+          "identity_enabled": true,
+          "tag": "IBA",
+          "badge": "dea4f5f8e9aaa736c9b599506226508e"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-10-23T11:28:33.897000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1298609005488242720",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "99742137230319616",
+      "username": "hotair",
+      "avatar": "a_cc08294b2a80e575d0b817495d7da200",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Hotair - 4 days",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712162738196",
+          "asset": "nameplates/nameplates_v2/sword_of_legend/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SWORD_OF_LEGEND_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1238311452822212769",
+      "message_id": "1298586279264387102",
+      "guild_id": "437797104786604034"
+    },
+    "position": 67,
+    "referenced_message": {
+      "type": 0,
+      "content": "How do i edit it?",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [
+        {
+          "id": "1298586279067258881",
+          "filename": "Screenshot_20241023_115748_Sheets.jpg",
+          "size": 92754,
+          "url": "https://cdn.discordapp.com/attachments/1238311452822212769/1298586279067258881/Screenshot_20241023_115748_Sheets.jpg?ex=6a0ed737&is=6a0d85b7&hm=46e6fd70fc17bbfe1a23a1739074d8aafccf2a711db81eb87f8615e977842a2b&",
+          "proxy_url": "https://media.discordapp.net/attachments/1238311452822212769/1298586279067258881/Screenshot_20241023_115748_Sheets.jpg?ex=6a0ed737&is=6a0d85b7&hm=46e6fd70fc17bbfe1a23a1739074d8aafccf2a711db81eb87f8615e977842a2b&",
+          "width": 1080,
+          "height": 2340,
+          "content_type": "image/jpeg",
+          "content_scan_version": 4,
+          "placeholder": "kgcKCwRjfAaKgmZmyDnvoJk=",
+          "placeholder_version": 1
+        }
+      ],
+      "embeds": [],
+      "timestamp": "2024-10-23T09:58:15.543000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1298586279264387102",
+      "channel_id": "1238311452822212769",
+      "author": {
+        "id": "775091864247992371",
+        "username": "nova_ig.",
+        "avatar": "a3a67672d27af17521eadd553df35251",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Nova",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "921808538760794232",
+          "identity_enabled": true,
+          "tag": "IBA",
+          "badge": "dea4f5f8e9aaa736c9b599506226508e"
+        },
+        "primary_guild": {
+          "identity_guild_id": "921808538760794232",
+          "identity_enabled": true,
+          "tag": "IBA",
+          "badge": "dea4f5f8e9aaa736c9b599506226508e"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 66
+    }
+  },
+  {
+    "type": 0,
+    "content": "I was doing that but i have no ideea😅 <@99742137230319616>",
+    "mentions": [
+      {
+        "id": "99742137230319616",
+        "username": "hotair",
+        "avatar": "a_cc08294b2a80e575d0b817495d7da200",
+        "discriminator": "0",
+        "public_flags": 256,
+        "flags": 256,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Hotair - 4 days",
+        "avatar_decoration_data": null,
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1377377712162738196",
+            "asset": "nameplates/nameplates_v2/sword_of_legend/",
+            "label": "COLLECTIBLES_NAMEPLATES_V2_SWORD_OF_LEGEND_A11Y",
+            "palette": "cobalt"
+          }
+        },
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-10-23T12:26:28.083000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1298623577280610334",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "775091864247992371",
+      "username": "nova_ig.",
+      "avatar": "a3a67672d27af17521eadd553df35251",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nova",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "921808538760794232",
+        "identity_enabled": true,
+        "tag": "IBA",
+        "badge": "dea4f5f8e9aaa736c9b599506226508e"
+      },
+      "primary_guild": {
+        "identity_guild_id": "921808538760794232",
+        "identity_enabled": true,
+        "tag": "IBA",
+        "badge": "dea4f5f8e9aaa736c9b599506226508e"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 68
+  },
+  {
+    "type": 0,
+    "content": "<:stefan:970398081008955442>",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1298624771948281957",
+        "filename": "image.png",
+        "size": 7991,
+        "url": "https://cdn.discordapp.com/attachments/1238311452822212769/1298624771948281957/image.png?ex=6a0efb10&is=6a0da990&hm=8f36b6c24cc81841f0a173bb0bf7c309ec8b97dfcd333c6f79bc51bc47d2d41d&",
+        "proxy_url": "https://media.discordapp.net/attachments/1238311452822212769/1298624771948281957/image.png?ex=6a0efb10&is=6a0da990&hm=8f36b6c24cc81841f0a173bb0bf7c309ec8b97dfcd333c6f79bc51bc47d2d41d&",
+        "width": 138,
+        "height": 50,
+        "content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "k1gGE4ZpyLhwePmXR3VwVAg=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2024-10-23T12:31:12.963000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1298624772154069065",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "99742137230319616",
+      "username": "hotair",
+      "avatar": "a_cc08294b2a80e575d0b817495d7da200",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Hotair - 4 days",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712162738196",
+          "asset": "nameplates/nameplates_v2/sword_of_legend/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SWORD_OF_LEGEND_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 69
+  },
+  {
+    "type": 0,
+    "content": "It's... right there",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-10-23T12:31:29.854000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1298624842999795753",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "99742137230319616",
+      "username": "hotair",
+      "avatar": "a_cc08294b2a80e575d0b817495d7da200",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Hotair - 4 days",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712162738196",
+          "asset": "nameplates/nameplates_v2/sword_of_legend/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SWORD_OF_LEGEND_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 70
+  },
+  {
+    "type": 0,
+    "content": "Idk how🥲",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-10-23T12:31:31.145000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1298624848414769244",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "775091864247992371",
+      "username": "nova_ig.",
+      "avatar": "a3a67672d27af17521eadd553df35251",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nova",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "921808538760794232",
+        "identity_enabled": true,
+        "tag": "IBA",
+        "badge": "dea4f5f8e9aaa736c9b599506226508e"
+      },
+      "primary_guild": {
+        "identity_guild_id": "921808538760794232",
+        "identity_enabled": true,
+        "tag": "IBA",
+        "badge": "dea4f5f8e9aaa736c9b599506226508e"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 71
+  },
+  {
+    "type": 0,
+    "content": "",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1298624865133133856",
+        "filename": "Screenshot_20241023_143109_My_Files.jpg",
+        "size": 61027,
+        "url": "https://cdn.discordapp.com/attachments/1238311452822212769/1298624865133133856/Screenshot_20241023_143109_My_Files.jpg?ex=6a0efb27&is=6a0da9a7&hm=c3c07b69c2a64e149d68dee6ab4303e2402f89710d726094b9cdb44a63bd1a8e&",
+        "proxy_url": "https://media.discordapp.net/attachments/1238311452822212769/1298624865133133856/Screenshot_20241023_143109_My_Files.jpg?ex=6a0efb27&is=6a0da9a7&hm=c3c07b69c2a64e149d68dee6ab4303e2402f89710d726094b9cdb44a63bd1a8e&",
+        "width": 1080,
+        "height": 2340,
+        "content_type": "image/jpeg",
+        "content_scan_version": 4,
+        "placeholder": "xPcFAwBocNh3hnc6mH+C+jg=",
+        "placeholder_version": 1,
+        "title": "Screenshot_20241023_143109_My Files"
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2024-10-23T12:31:35.189000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1298624865376407553",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "775091864247992371",
+      "username": "nova_ig.",
+      "avatar": "a3a67672d27af17521eadd553df35251",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nova",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "921808538760794232",
+        "identity_enabled": true,
+        "tag": "IBA",
+        "badge": "dea4f5f8e9aaa736c9b599506226508e"
+      },
+      "primary_guild": {
+        "identity_guild_id": "921808538760794232",
+        "identity_enabled": true,
+        "tag": "IBA",
+        "badge": "dea4f5f8e9aaa736c9b599506226508e"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 72
+  },
+  {
+    "type": 0,
+    "content": "No, you don't download it.\nFor mobile:\nThree dots > Share & Export > Make a copy",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-10-23T12:33:10.173000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1298625263768178742",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "99742137230319616",
+      "username": "hotair",
+      "avatar": "a_cc08294b2a80e575d0b817495d7da200",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Hotair - 4 days",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712162738196",
+          "asset": "nameplates/nameplates_v2/sword_of_legend/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SWORD_OF_LEGEND_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 73
+  },
+  {
+    "type": 0,
+    "content": "",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-10-23T12:34:15.696000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "sticker_items": [
+      {
+        "id": "749047112028651530",
+        "name": "Thanks",
+        "format_type": 3
+      }
+    ],
+    "id": "1298625538591559692",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "775091864247992371",
+      "username": "nova_ig.",
+      "avatar": "a3a67672d27af17521eadd553df35251",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nova",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "921808538760794232",
+        "identity_enabled": true,
+        "tag": "IBA",
+        "badge": "dea4f5f8e9aaa736c9b599506226508e"
+      },
+      "primary_guild": {
+        "identity_guild_id": "921808538760794232",
+        "identity_enabled": true,
+        "tag": "IBA",
+        "badge": "dea4f5f8e9aaa736c9b599506226508e"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 74
+  },
+  {
+    "type": 0,
+    "content": "Thanks",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-10-23T12:34:18.750000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1298625551401226242",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "775091864247992371",
+      "username": "nova_ig.",
+      "avatar": "a3a67672d27af17521eadd553df35251",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nova",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "921808538760794232",
+        "identity_enabled": true,
+        "tag": "IBA",
+        "badge": "dea4f5f8e9aaa736c9b599506226508e"
+      },
+      "primary_guild": {
+        "identity_guild_id": "921808538760794232",
+        "identity_enabled": true,
+        "tag": "IBA",
+        "badge": "dea4f5f8e9aaa736c9b599506226508e"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 75
+  },
+  {
+    "type": 0,
+    "content": "ty",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-01-15T18:20:48.214000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1329153329443377202",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "374655591961853953",
+      "username": "entrical",
+      "avatar": "23c2f4b3d269581df9d81afe6bfc0db9",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Entrical",
+      "avatar_decoration_data": {
+        "asset": "a_d1e5d3aabccb3d38f21b5ac8a33fcf4d",
+        "sku_id": "1409978159255785652",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1409983105577783410",
+          "asset": "nameplates/special_events_2/nitro_rocketfuel_nameplate/",
+          "label": "COLLECTIBLES_SEPTEMBER_2025_MARKETING_NAMEPLATE_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "900966887251402802",
+        "identity_enabled": true,
+        "tag": "GERS",
+        "badge": "bf46722e416c7607a3362934bbc42b2d"
+      },
+      "primary_guild": {
+        "identity_guild_id": "900966887251402802",
+        "identity_enabled": true,
+        "tag": "GERS",
+        "badge": "bf46722e416c7607a3362934bbc42b2d"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 77
+  },
+  {
+    "type": 0,
+    "content": "love it",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-02-09T02:44:46.215000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1337977465586581618",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "596905749054095373",
+      "username": "transgardevoir",
+      "avatar": "d9927bfe528da8ae8b4c9d08379eac49",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "TransGardevoir",
+      "avatar_decoration_data": {
+        "asset": "a_c3cffc19e9784f7d0b005eecdf1b566e",
+        "sku_id": "1212569433839636530",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 78
+  },
+  {
+    "type": 0,
+    "content": "Quite a few of you may have noticed the update to the sheet.\n- For those who wanted the other HP increasing prayers (despite how bad they are), I've added them in and verified all calculations\n- Glunko The Massive has made his way into the sheet!\n- The spreadsheet no longer uses variables and is now using only a single sheet instead of being split into 2. This will make it easier for those who just want to copy the sheet itself into their existing spreadsheets. Why have personal copies of 100 different sheets when you can stuff them into 1? <:happy:644766908218081300> \n- I am intending to implement NotAMonster's TimeToKill section into the official sheet. The in-laws will be coming into town tomorrow, so I'll try to see if I can get it in before then, but if not, expect it at a later time.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-02-09T05:54:10.278000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1338025129921220621",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "99742137230319616",
+      "username": "hotair",
+      "avatar": "a_cc08294b2a80e575d0b817495d7da200",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Hotair - 4 days",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712162738196",
+          "asset": "nameplates/nameplates_v2/sword_of_legend/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SWORD_OF_LEGEND_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 79
+  },
+  {
+    "type": 0,
+    "content": "So pretty decent update so far that I hope you'll all appreciate. Keep an eye out soon for the full implementation",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-02-09T05:54:45.258000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1338025276637974570",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "99742137230319616",
+      "username": "hotair",
+      "avatar": "a_cc08294b2a80e575d0b817495d7da200",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Hotair - 4 days",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712162738196",
+          "asset": "nameplates/nameplates_v2/sword_of_legend/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SWORD_OF_LEGEND_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 80,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "644766908218081300",
+          "name": "happy"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🔥"
+        },
+        "count": 7,
+        "count_details": {
+          "burst": 0,
+          "normal": 7
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "❤️"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 19,
+    "content": "but you don't want to do that, you want to be able to kill it within seconds so that you do so when you have a high orb count on your DK for extra drops and the orb is about to expire.",
+    "mentions": [
+      {
+        "id": "580556808213626881",
+        "username": "tamaya_violette",
+        "avatar": "2a7ff21c79fc4873971e79da5e07f56c",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Tamaya",
+        "avatar_decoration_data": {
+          "asset": "a_e87f540de155224ae20679fbb250951e",
+          "sku_id": "1402472280239509664",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1349849614143979540",
+            "asset": "nameplates/nameplates/cat_beans/",
+            "label": "COLLECTIBLES_NAMEPLATES_CAT_BEANS_A11Y",
+            "palette": "violet"
+          }
+        },
+        "display_name_styles": {
+          "font_id": 3,
+          "effect_id": 1,
+          "colors": [
+            5705905
+          ]
+        },
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-02-11T15:50:05.897000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1338899875588476950",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "186300302658502656",
+      "username": "alex.awesome",
+      "avatar": "6c7c11b8b164a8da5e3676b8fd82fb1c",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Alex",
+      "avatar_decoration_data": {
+        "asset": "a_21c7a425b490017478a5558f33f33c63",
+        "sku_id": "1144056139584127058",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": {
+        "font_id": 11,
+        "effect_id": 4,
+        "colors": [
+          16332578
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "193377420643008513",
+        "identity_enabled": true,
+        "tag": "PAWN",
+        "badge": "2d9908aeb26b0c8d246dbd97f8258a72"
+      },
+      "primary_guild": {
+        "identity_guild_id": "193377420643008513",
+        "identity_enabled": true,
+        "tag": "PAWN",
+        "badge": "2d9908aeb26b0c8d246dbd97f8258a72"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1238311452822212769",
+      "message_id": "1238327664377462845",
+      "guild_id": "437797104786604034"
+    },
+    "position": 81,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "921158672598577162",
+          "name": "rainbo_kitty_dance",
+          "animated": true
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ],
+    "referenced_message": {
+      "type": 0,
+      "content": "do we know if there is a time limit to kill these or is it like ok to spawn and let a char work on the demon guy all day",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2024-05-10T03:12:02.203000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1238327664377462845",
+      "channel_id": "1238311452822212769",
+      "author": {
+        "id": "580556808213626881",
+        "username": "tamaya_violette",
+        "avatar": "2a7ff21c79fc4873971e79da5e07f56c",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Tamaya",
+        "avatar_decoration_data": {
+          "asset": "a_e87f540de155224ae20679fbb250951e",
+          "sku_id": "1402472280239509664",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1349849614143979540",
+            "asset": "nameplates/nameplates/cat_beans/",
+            "label": "COLLECTIBLES_NAMEPLATES_CAT_BEANS_A11Y",
+            "palette": "violet"
+          }
+        },
+        "display_name_styles": {
+          "font_id": 3,
+          "effect_id": 1,
+          "colors": [
+            5705905
+          ]
+        },
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 2
+    }
+  },
+  {
+    "type": 0,
+    "content": "Hi, Thanks Hotair for his work, and NotAMonster for his addition. \nI've found Hotair spreadsheet on reddit a few weeks ago and implemented my how time to kill version onto his work. Now i realise there is this whole tips-n-tricks section in the discord (yeah i can be slow sometimes lol).\nI'm sure he will do something cleaner soon, but meanwhile here my little addition : https://docs.google.com/spreadsheets/d/1hju13pggU1R4yoaL6FJZRR9-aZSgysXAC1GsGq7Eozw/edit?usp=sharing",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-03-13T06:54:25.912000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1349636706688696351",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "357241703348043779",
+      "username": "sylouman",
+      "avatar": "a80295c84d11e3b920ada34fc46343ce",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "SylouMan",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 93,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "812252292597547018",
+          "name": "Hearto"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "What is the benefit of killing a mini boss with inflated hp?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-07-27T02:54:56.610000+00:00",
+    "edited_timestamp": "2025-07-27T02:55:09.371000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1398861187189440605",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "88133165192843264",
+      "username": "dryocamparubicunda",
+      "avatar": "ccc3cc77c0670e2ec8c69b073799800d",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Rosy",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "673303546107658242",
+        "identity_enabled": true,
+        "tag": "TETR",
+        "badge": "a3c4cf85e629643c314a0d6bd1a83ea7"
+      },
+      "primary_guild": {
+        "identity_guild_id": "673303546107658242",
+        "identity_enabled": true,
+        "tag": "TETR",
+        "badge": "a3c4cf85e629643c314a0d6bd1a83ea7"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 96
+  },
+  {
+    "type": 0,
+    "content": "",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1398862714268422144",
+        "filename": "image.png",
+        "size": 22766,
+        "url": "https://cdn.discordapp.com/attachments/1238311452822212769/1398862714268422144/image.png?ex=6a0f1e2c&is=6a0dccac&hm=97dfb92bf778efbdf51305508dfa64b6774cf7faae246c82bfe0e0117a03d12f&",
+        "proxy_url": "https://media.discordapp.net/attachments/1238311452822212769/1398862714268422144/image.png?ex=6a0f1e2c&is=6a0dccac&hm=97dfb92bf778efbdf51305508dfa64b6774cf7faae246c82bfe0e0117a03d12f&",
+        "width": 348,
+        "height": 230,
+        "content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "jfcFBYBraHd4h3hwiWh4eL+aRPBt",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2025-07-27T03:01:00.747000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1398862714490589285",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "99742137230319616",
+      "username": "hotair",
+      "avatar": "a_cc08294b2a80e575d0b817495d7da200",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Hotair - 4 days",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712162738196",
+          "asset": "nameplates/nameplates_v2/sword_of_legend/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SWORD_OF_LEGEND_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 97
+  },
+  {
+    "type": 0,
+    "content": "You see when I read this the first time I thought it meant that just having a BJP made the counter go up, not it makes each kill count as 1 + number of BJPs.\n\nMy misunderstanding ty",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-07-27T03:15:04.023000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1398866251446751254",
+    "channel_id": "1238311452822212769",
+    "author": {
+      "id": "88133165192843264",
+      "username": "dryocamparubicunda",
+      "avatar": "ccc3cc77c0670e2ec8c69b073799800d",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Rosy",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "673303546107658242",
+        "identity_enabled": true,
+        "tag": "TETR",
+        "badge": "a3c4cf85e629643c314a0d6bd1a83ea7"
+      },
+      "primary_guild": {
+        "identity_guild_id": "673303546107658242",
+        "identity_enabled": true,
+        "tag": "TETR",
+        "badge": "a3c4cf85e629643c314a0d6bd1a83ea7"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 98
+  }
+]

@@ -1,0 +1,667 @@
+[
+  {
+    "type": 0,
+    "content": "well this sucks.... between writing this guide and now, my game desynced. I lost a ton of research time - you can see the carrot is less progressed.\n\nEdit Mar 11: When I tried to go back and past a link.... the entire message got deleted... .sigh",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1476453219659026494",
+        "filename": "image.png",
+        "size": 240014,
+        "url": "https://cdn.discordapp.com/attachments/1476420553173635253/1476453219659026494/image.png?ex=6a0f42f6&is=6a0df176&hm=20f3af7f75877dcb6d156a04916d6c4249ea9302a1b25a2bbb722400c8f8efc6&",
+        "proxy_url": "https://media.discordapp.net/attachments/1476420553173635253/1476453219659026494/image.png?ex=6a0f42f6&is=6a0df176&hm=20f3af7f75877dcb6d156a04916d6c4249ea9302a1b25a2bbb722400c8f8efc6&",
+        "width": 1198,
+        "height": 706,
+        "content_type": "image/webp",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "LggKDIKJmGeJh4iQd4ewhwNJVg==",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2026-02-26T05:37:58.812000+00:00",
+    "edited_timestamp": "2026-03-12T01:16:50.696000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1476453219956949084",
+    "channel_id": "1476420553173635253",
+    "author": {
+      "id": "148507835272003585",
+      "username": "jeradooka",
+      "avatar": "146d1ac49ab1426b8ac5d9dc21a9892c",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Jeradooka",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0
+  },
+  {
+    "type": 0,
+    "content": "you fell asleep while researching and lost some knowledge",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-26T08:26:14.968000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1476495566304313426",
+    "channel_id": "1476420553173635253",
+    "author": {
+      "id": "280901164810108928",
+      "username": "soundingfiber64_",
+      "avatar": "d00aa996b5c0ae58309a8098c0efb66e",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "SoundingFiber64_",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 1,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "1208199310777393153",
+          "name": "happytroll"
+        },
+        "count": 37,
+        "count_details": {
+          "burst": 0,
+          "normal": 37
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🤣"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "although you forgot to mention that NOW , more insight lvls accross all research stuff means more exp ! ~~just kidding , update was yesterday, you couldn't know :3~~",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1477005014441394316",
+        "filename": "image.png",
+        "size": 55812,
+        "url": "https://cdn.discordapp.com/attachments/1476420553173635253/1477005014441394316/image.png?ex=6a0f4a9c&is=6a0df91c&hm=c8d07b53bb7c228eb98c46ba2f47a329deb64b499493faa926302dec3a5ff18b&",
+        "proxy_url": "https://media.discordapp.net/attachments/1476420553173635253/1477005014441394316/image.png?ex=6a0f4a9c&is=6a0df91c&hm=c8d07b53bb7c228eb98c46ba2f47a329deb64b499493faa926302dec3a5ff18b&",
+        "width": 1102,
+        "height": 137,
+        "content_type": "image/webp",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "5AcGAYCZ9rppaLd6uXi/ifc=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2026-02-27T18:10:36.938000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1477005014730932346",
+    "channel_id": "1476420553173635253",
+    "author": {
+      "id": "240136907445501952",
+      "username": "aiko_thebakaneko",
+      "avatar": "0028b5d6062ee13621048d1acf8aaabe",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Aiko",
+      "avatar_decoration_data": {
+        "asset": "a_9bcb2ac65d168641ba962e563500768d",
+        "sku_id": "1341506443563499520",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614143979540",
+          "asset": "nameplates/nameplates/cat_beans/",
+          "label": "COLLECTIBLES_NAMEPLATES_CAT_BEANS_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 3,
+        "effect_id": 2,
+        "colors": [
+          16734893,
+          56575
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1313075185959571526",
+        "identity_enabled": true,
+        "tag": "BAKA",
+        "badge": "65c4d4aaf48d4db2766f12aaedf3cb4d"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1313075185959571526",
+        "identity_enabled": true,
+        "tag": "BAKA",
+        "badge": "65c4d4aaf48d4db2766f12aaedf3cb4d"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 2
+  },
+  {
+    "type": 0,
+    "content": "**Game Design 102 (Grid O8)**\nThis is available after you upgrade Game Design 101. This gives you extra overall research exp based on your total observation levels (even if nothing is studying that observation). All that hard work coloring in old observations is finally paying off!",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-28T04:41:07.954000+00:00",
+    "edited_timestamp": "2026-03-12T01:14:15.496000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1477163689512796222",
+    "channel_id": "1476420553173635253",
+    "author": {
+      "id": "148507835272003585",
+      "username": "jeradooka",
+      "avatar": "146d1ac49ab1426b8ac5d9dc21a9892c",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Jeradooka",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 3
+  },
+  {
+    "type": 0,
+    "content": "Reserved 2",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-28T04:41:12.864000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1477163710106566798",
+    "channel_id": "1476420553173635253",
+    "author": {
+      "id": "148507835272003585",
+      "username": "jeradooka",
+      "avatar": "146d1ac49ab1426b8ac5d9dc21a9892c",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Jeradooka",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 4
+  },
+  {
+    "type": 0,
+    "content": "Colors Legend for Insight:\n [Level:Color]\n1: Brown\n2: Light Blue\n3: Yellow\n4: Blue\n5: Purple\n6: Red\n7: Green\n8: Pink\n9: Orange\n10+: Dark Gray",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-28T04:45:16.478000+00:00",
+    "edited_timestamp": "2026-03-01T11:15:52.039000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1477164731898007603",
+    "channel_id": "1476420553173635253",
+    "author": {
+      "id": "148507835272003585",
+      "username": "jeradooka",
+      "avatar": "146d1ac49ab1426b8ac5d9dc21a9892c",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Jeradooka",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 5
+  },
+  {
+    "type": 0,
+    "content": "balls",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-28T05:29:14.028000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1477175794584518726",
+    "channel_id": "1476420553173635253",
+    "author": {
+      "id": "1412906361691570199",
+      "username": "rooyyy72",
+      "avatar": "b0e0abfb60ea9e6892ccc32aec69c71e",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Blood Berserker",
+      "avatar_decoration_data": {
+        "asset": "a_d3e51a9751016df2778a47efbb8bb455",
+        "sku_id": "1493391761085567066",
+        "expires_at": 1782864000
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 6
+  },
+  {
+    "type": 0,
+    "content": "level 3 is yellow/light golden",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1477378531225895012",
+        "filename": "image.png",
+        "size": 68045,
+        "url": "https://cdn.discordapp.com/attachments/1476420553173635253/1477378531225895012/image.png?ex=6a0f54fa&is=6a0e037a&hm=082c8c116a09d226f1fd7655ca8a7f692de4e988382fdd6e1a62be1b6a9da54a&",
+        "proxy_url": "https://media.discordapp.net/attachments/1476420553173635253/1477378531225895012/image.png?ex=6a0f54fa&is=6a0e037a&hm=082c8c116a09d226f1fd7655ca8a7f692de4e988382fdd6e1a62be1b6a9da54a&",
+        "width": 584,
+        "height": 274,
+        "content_type": "image/png",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "sAgKE4KHd4ePh5eI/Fq3v0U=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2026-02-28T18:54:50.261000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1477378531439808684",
+    "channel_id": "1476420553173635253",
+    "author": {
+      "id": "264742207918047243",
+      "username": "kaberite",
+      "avatar": "dda6dc1cfafec93257d47d529477bbe3",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "kaberite",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 7,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍🏻"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "8 is pink, 9 is orange and 10 should be dark grey shown in the exp bar",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1477452725905002508",
+        "filename": "Untitled.png",
+        "size": 61978,
+        "url": "https://cdn.discordapp.com/attachments/1476420553173635253/1477452725905002508/Untitled.png?ex=6a0ef153&is=6a0d9fd3&hm=99a30f61b8de8e50d9fc75278d61582765d168ac30e4f7552554d4028ef45975&",
+        "proxy_url": "https://media.discordapp.net/attachments/1476420553173635253/1477452725905002508/Untitled.png?ex=6a0ef153&is=6a0d9fd3&hm=99a30f61b8de8e50d9fc75278d61582765d168ac30e4f7552554d4028ef45975&",
+        "width": 760,
+        "height": 159,
+        "content_type": "image/webp",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "6ygGEYbvxiaOV4dqDGv0iEY=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2026-02-28T23:49:39.654000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1477452726131626034",
+    "channel_id": "1476420553173635253",
+    "author": {
+      "id": "440582619696988181",
+      "username": "luv.yubin",
+      "avatar": "578746aba194d83926f3fb92853306d1",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "*Winterrr",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712028516443",
+          "asset": "nameplates/nameplates_v2/spirit_moon/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SPIRIT_MOON_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "968385909730971668",
+        "identity_enabled": true,
+        "tag": "WAV",
+        "badge": "7f8f9af96f2a1549f4d7ba59fe43f44a"
+      },
+      "primary_guild": {
+        "identity_guild_id": "968385909730971668",
+        "identity_enabled": true,
+        "tag": "WAV",
+        "badge": "7f8f9af96f2a1549f4d7ba59fe43f44a"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 8,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍🏻"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "after after 10 ; it stays dark , (i didn't try if it can go 11)",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1477454904393072771",
+        "filename": "image.png",
+        "size": 45268,
+        "url": "https://cdn.discordapp.com/attachments/1476420553173635253/1477454904393072771/image.png?ex=6a0ef35a&is=6a0da1da&hm=c2129258a48efdd7a7e515f37a274eb6ba30bc76e143888f8adb21062bc39acf&",
+        "proxy_url": "https://media.discordapp.net/attachments/1476420553173635253/1477454904393072771/image.png?ex=6a0ef35a&is=6a0da1da&hm=c2129258a48efdd7a7e515f37a274eb6ba30bc76e143888f8adb21062bc39acf&",
+        "width": 583,
+        "height": 177,
+        "content_type": "image/webp",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "qwgGCoKTdrl/h6eq0V+c33Y=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2026-02-28T23:58:19.086000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1477454904787341372",
+    "channel_id": "1476420553173635253",
+    "author": {
+      "id": "240136907445501952",
+      "username": "aiko_thebakaneko",
+      "avatar": "0028b5d6062ee13621048d1acf8aaabe",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Aiko",
+      "avatar_decoration_data": {
+        "asset": "a_9bcb2ac65d168641ba962e563500768d",
+        "sku_id": "1341506443563499520",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614143979540",
+          "asset": "nameplates/nameplates/cat_beans/",
+          "label": "COLLECTIBLES_NAMEPLATES_CAT_BEANS_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 3,
+        "effect_id": 2,
+        "colors": [
+          16734893,
+          56575
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1313075185959571526",
+        "identity_enabled": true,
+        "tag": "BAKA",
+        "badge": "65c4d4aaf48d4db2766f12aaedf3cb4d"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1313075185959571526",
+        "identity_enabled": true,
+        "tag": "BAKA",
+        "badge": "65c4d4aaf48d4db2766f12aaedf3cb4d"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 9,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍🏻"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "eeding",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-03-07T03:32:49.989000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1479683216460877965",
+    "channel_id": "1476420553173635253",
+    "author": {
+      "id": "328472227500523531",
+      "username": "atomasnow",
+      "avatar": "b68a9c98a41598d6e6ca767bef3f83aa",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "ATomasnow",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 10
+  }
+]

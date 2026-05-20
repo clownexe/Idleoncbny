@@ -1,0 +1,1484 @@
+[
+  {
+    "type": 0,
+    "content": "First, set Proton to a recent GE-Proton Version (I used GE-Proton-10.25)\nNext, set your launch options as such: `PROTON_ENABLE_WAYLAND=1 %command% --disable-gpu --disable-gpu-compositing --enable-software-rasterizer`\n\nThis should give a *significant* performance boost. I dunno if or how well this works on Windows. I don't know if Steam on WIndows lets you access launch options and the Windows version doesn't use Proton so the `PROTON_ENABLE_WAYLAND=1 %command%` won't do anything. The rest may help, try at your own discretion if its possible.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1446738194090557582",
+        "filename": "MAX_FPS_thumbnail.png",
+        "size": 57480,
+        "url": "https://cdn.discordapp.com/attachments/1446738193893429358/1446738194090557582/MAX_FPS_thumbnail.png?ex=6a0f43b0&is=6a0df230&hm=6172c18b66cadff3e585c4df8c39e4f3c9fab96cae22d4df7aa921cb5706519a&",
+        "proxy_url": "https://media.discordapp.net/attachments/1446738193893429358/1446738194090557582/MAX_FPS_thumbnail.png?ex=6a0f43b0&is=6a0df230&hm=6172c18b66cadff3e585c4df8c39e4f3c9fab96cae22d4df7aa921cb5706519a&",
+        "width": 320,
+        "height": 127,
+        "content_type": "image/png",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "osgFM4ivlHqYl8iQkWuQyAc=",
+        "placeholder_version": 1,
+        "title": "MAX FPS thumbnail"
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2025-12-06T05:41:04.520000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1446738193893429358",
+    "channel_id": "1446738193893429358",
+    "author": {
+      "id": "219154455478796288",
+      "username": "tiana_atr",
+      "avatar": "9397ac8d6ffc508a87190436404e69ee",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Ti'ana_atr",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 21,
+        "count_details": {
+          "burst": 0,
+          "normal": 21
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "❤️"
+        },
+        "count": 7,
+        "count_details": {
+          "burst": 0,
+          "normal": 7
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🔥"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "Basically, for Electron you use same commands\n`%command% --disable-gpu --disable-gpu-compositing --enable-software-rasterizer`",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-06T05:57:29.009000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1446742323139710996",
+    "channel_id": "1446738193893429358",
+    "author": {
+      "id": "210879097067274244",
+      "username": "youwillloveeachother",
+      "avatar": "6b88a3bb5ee6267d115dccdcead6d5a9",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "BHY4A",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0
+  },
+  {
+    "type": 0,
+    "content": "basalt",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-06T06:22:07.706000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1446748525244190730",
+    "channel_id": "1446738193893429358",
+    "author": {
+      "id": "781645214317412374",
+      "username": "2headphones",
+      "avatar": "7dcc3ae8e5573af9204159b2b0ca6879",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "2headphones",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 1,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇧"
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇦"
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇸"
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🅰️"
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇱"
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇹"
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "853743703583883284",
+          "name": "salt"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1074896471079526431",
+          "name": "Frog_Gentlemen"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "926638015118463026",
+          "name": "hihi"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "Can confirm disabling the GPU increased my performance massively on Arch. When I first started playing I noticed weird FPS drops at random moments and after I found that fix online I never had that issue again.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-06T08:39:26.467000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1446783081112539268",
+    "channel_id": "1446738193893429358",
+    "author": {
+      "id": "66265756840501248",
+      "username": "archina",
+      "avatar": "74e077b5fed75c70ccb03e9f2bfd60c3",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Archina",
+      "avatar_decoration_data": {
+        "asset": "a_fe3c76cac2adf426832a7e495e8329d3",
+        "sku_id": "1144046002110738634",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1409983105577783410",
+          "asset": "nameplates/special_events_2/nitro_rocketfuel_nameplate/",
+          "label": "COLLECTIBLES_SEPTEMBER_2025_MARKETING_NAMEPLATE_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1245404904789381251",
+        "identity_enabled": true,
+        "tag": "ARCH",
+        "badge": "9c28e4c3edde095f2c4d72a51ff1b8bd"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1245404904789381251",
+        "identity_enabled": true,
+        "tag": "ARCH",
+        "badge": "9c28e4c3edde095f2c4d72a51ff1b8bd"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 2
+  },
+  {
+    "type": 0,
+    "content": "On Pop_OS and can confirm that this absolutely saved my ability to play on the steam version. I can even say it made it better than the web version, so this is saying something.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-07T00:23:26.910000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1447020648349044858",
+    "channel_id": "1446738193893429358",
+    "author": {
+      "id": "1081398814528778280",
+      "username": "snowobsidian",
+      "avatar": "93d21c3de9072a4012af0b73e03b11c4",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Snow-Obsidian",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 3
+  },
+  {
+    "type": 0,
+    "content": "I use arch btw",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-07T00:32:18.419000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1447022877659369482",
+    "channel_id": "1446738193893429358",
+    "author": {
+      "id": "631221280896712723",
+      "username": "badatbreathing",
+      "avatar": "377984ad5ac469ef91b0bd3d1bb27a23",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Steckdosenbefruchter",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1340690913520914513",
+        "identity_enabled": true,
+        "tag": "Z404",
+        "badge": "7f8a41eb9266f6e44ef8c414e253d77a"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1340690913520914513",
+        "identity_enabled": true,
+        "tag": "Z404",
+        "badge": "7f8a41eb9266f6e44ef8c414e253d77a"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 4
+  },
+  {
+    "type": 0,
+    "content": "CachyOS here and this is a life saver, everything is smooth again",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-07T01:15:55.065000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1447033852668284958",
+    "channel_id": "1446738193893429358",
+    "author": {
+      "id": "290206317061341195",
+      "username": "fibory",
+      "avatar": "c3a58641c28c33e17a39636276f898ba",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Fibory",
+      "avatar_decoration_data": {
+        "asset": "a_a0ff7f9be49be57356dd3cf0d9c02605",
+        "sku_id": "1343751617345749012",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1417311919735308399",
+          "asset": "nameplates/nameplate_bonanza/firefly_meadow/",
+          "label": "COLLECTIBLES_NAMEPLATE_BONANZA_FIREFLY_MEADOW_NP_A11Y",
+          "palette": "sky"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1287124725893562471",
+        "identity_enabled": true,
+        "tag": "KING",
+        "badge": "0655274d28d7910197faf05cc8184fcb"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1287124725893562471",
+        "identity_enabled": true,
+        "tag": "KING",
+        "badge": "0655274d28d7910197faf05cc8184fcb"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 5
+  },
+  {
+    "type": 0,
+    "content": "Works great on Manjaro and removes a lot of lags for me, as example when using the daily alchemy bubble upgrades",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-07T10:22:06.643000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1447171306628845619",
+    "channel_id": "1446738193893429358",
+    "author": {
+      "id": "231912027767963648",
+      "username": "partigeist",
+      "avatar": "335a9ae8a9ad60dd99ec319cbbb59856",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 6
+  },
+  {
+    "type": 0,
+    "content": "This is freaking amazing. Thank you for the guide.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-10T04:03:44.619000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1448163251035836569",
+    "channel_id": "1446738193893429358",
+    "author": {
+      "id": "228631510280830978",
+      "username": "baldington",
+      "avatar": "0d23e5018d578f2152708793fc006e88",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "CaptainDeSoto",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 7
+  },
+  {
+    "type": 0,
+    "content": "Exactly what ive been looking for since the windows guide a few months back. you rock",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-10T16:49:10.789000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1448355879354237020",
+    "channel_id": "1446738193893429358",
+    "author": {
+      "id": "142407138856271873",
+      "username": "caboozel",
+      "avatar": "24f8f5e1a2d1d8dae5cb93c898cd43a0",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Dr. DOOMscroll",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 8
+  },
+  {
+    "type": 19,
+    "content": "love you thanks for the guide",
+    "mentions": [
+      {
+        "id": "219154455478796288",
+        "username": "tiana_atr",
+        "avatar": "9397ac8d6ffc508a87190436404e69ee",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Ti'ana_atr",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-10T17:10:59.347000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1448361367844163658",
+    "channel_id": "1446738193893429358",
+    "author": {
+      "id": "315530541153648642",
+      "username": "trazcs",
+      "avatar": "6b9d5c195af1d116bd4eedc56358f603",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "TrazCS",
+      "avatar_decoration_data": {
+        "asset": "a_9532e6bc08133eb1401c654a4f1a800e",
+        "sku_id": "1332505467980873728",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1462116614131548265",
+          "asset": "nameplates/gothica/nevermore/",
+          "label": "COLLECTIBLES_GOTHICA_NEVERMORE_NP_A11Y",
+          "palette": "white"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "747807131536982068",
+        "identity_enabled": true,
+        "tag": "ORV",
+        "badge": "b6f6582eb0301ce069e00b2a99323975"
+      },
+      "primary_guild": {
+        "identity_guild_id": "747807131536982068",
+        "identity_enabled": true,
+        "tag": "ORV",
+        "badge": "b6f6582eb0301ce069e00b2a99323975"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1446738193893429358",
+      "message_id": "1446738193893429358",
+      "guild_id": "437797104786604034"
+    },
+    "position": 9,
+    "referenced_message": {
+      "type": 0,
+      "content": "First, set Proton to a recent GE-Proton Version (I used GE-Proton-10.25)\nNext, set your launch options as such: `PROTON_ENABLE_WAYLAND=1 %command% --disable-gpu --disable-gpu-compositing --enable-software-rasterizer`\n\nThis should give a *significant* performance boost. I dunno if or how well this works on Windows. I don't know if Steam on WIndows lets you access launch options and the Windows version doesn't use Proton so the `PROTON_ENABLE_WAYLAND=1 %command%` won't do anything. The rest may help, try at your own discretion if its possible.",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [
+        {
+          "id": "1446738194090557582",
+          "filename": "MAX_FPS_thumbnail.png",
+          "size": 57480,
+          "url": "https://cdn.discordapp.com/attachments/1446738193893429358/1446738194090557582/MAX_FPS_thumbnail.png?ex=6a0f43b0&is=6a0df230&hm=6172c18b66cadff3e585c4df8c39e4f3c9fab96cae22d4df7aa921cb5706519a&",
+          "proxy_url": "https://media.discordapp.net/attachments/1446738193893429358/1446738194090557582/MAX_FPS_thumbnail.png?ex=6a0f43b0&is=6a0df230&hm=6172c18b66cadff3e585c4df8c39e4f3c9fab96cae22d4df7aa921cb5706519a&",
+          "width": 320,
+          "height": 127,
+          "content_type": "image/png",
+          "original_content_type": "image/png",
+          "content_scan_version": 4,
+          "placeholder": "osgFM4ivlHqYl8iQkWuQyAc=",
+          "placeholder_version": 1,
+          "title": "MAX FPS thumbnail"
+        }
+      ],
+      "embeds": [],
+      "timestamp": "2025-12-06T05:41:04.520000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1446738193893429358",
+      "channel_id": "1446738193893429358",
+      "author": {
+        "id": "219154455478796288",
+        "username": "tiana_atr",
+        "avatar": "9397ac8d6ffc508a87190436404e69ee",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Ti'ana_atr",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 0
+    }
+  },
+  {
+    "type": 0,
+    "content": "<:Grumblo_Pray:1114306970816630876>",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-10T17:11:03.871000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1448361386819321936",
+    "channel_id": "1446738193893429358",
+    "author": {
+      "id": "315530541153648642",
+      "username": "trazcs",
+      "avatar": "6b9d5c195af1d116bd4eedc56358f603",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "TrazCS",
+      "avatar_decoration_data": {
+        "asset": "a_9532e6bc08133eb1401c654a4f1a800e",
+        "sku_id": "1332505467980873728",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1462116614131548265",
+          "asset": "nameplates/gothica/nevermore/",
+          "label": "COLLECTIBLES_GOTHICA_NEVERMORE_NP_A11Y",
+          "palette": "white"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "747807131536982068",
+        "identity_enabled": true,
+        "tag": "ORV",
+        "badge": "b6f6582eb0301ce069e00b2a99323975"
+      },
+      "primary_guild": {
+        "identity_guild_id": "747807131536982068",
+        "identity_enabled": true,
+        "tag": "ORV",
+        "badge": "b6f6582eb0301ce069e00b2a99323975"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 10
+  },
+  {
+    "type": 0,
+    "content": "Seems to help too. Thank you! Good to see Linux Love!",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-11T03:45:55.939000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1448521156532637777",
+    "channel_id": "1446738193893429358",
+    "author": {
+      "id": "143843549287284747",
+      "username": "julysfire",
+      "avatar": "eaa7c17dff26809e9329d32ecbfd62ac",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Julysfire",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "755432897095139388",
+        "identity_enabled": true,
+        "tag": "BTFU",
+        "badge": "64451b4ff37aef3af21a3948eb399d76"
+      },
+      "primary_guild": {
+        "identity_guild_id": "755432897095139388",
+        "identity_enabled": true,
+        "tag": "BTFU",
+        "badge": "64451b4ff37aef3af21a3948eb399d76"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 11
+  },
+  {
+    "type": 0,
+    "content": "been using this for a few days now. --disable-gpu --disable-gpu-compositing --enable-software-rasterizer\nthis in Steam command on windows 11 has been great for performance and lag",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-11T08:32:42.351000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1448593325455052850",
+    "channel_id": "1446738193893429358",
+    "author": {
+      "id": "128142774242508800",
+      "username": "daedric0379",
+      "avatar": "5672e74e26fce953d2b4cf1e55062ee9",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Daedric",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 12
+  },
+  {
+    "type": 0,
+    "content": "as a heads up, Using this made my steam overlay not open, thus not allowing me to make in game purchases. So if anyone is having trouble trying to buy gems/packs just remove the launch options and it will work again 👍",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-11T17:06:53.517000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1448722724624273574",
+    "channel_id": "1446738193893429358",
+    "author": {
+      "id": "142407138856271873",
+      "username": "caboozel",
+      "avatar": "24f8f5e1a2d1d8dae5cb93c898cd43a0",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Dr. DOOMscroll",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 13,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "Oh, is that what was causing it? I just resorted to buying the gems on mobile lol",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-13T03:03:45.425000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1449235318518579250",
+    "channel_id": "1446738193893429358",
+    "author": {
+      "id": "66265756840501248",
+      "username": "archina",
+      "avatar": "74e077b5fed75c70ccb03e9f2bfd60c3",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Archina",
+      "avatar_decoration_data": {
+        "asset": "a_fe3c76cac2adf426832a7e495e8329d3",
+        "sku_id": "1144046002110738634",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1409983105577783410",
+          "asset": "nameplates/special_events_2/nitro_rocketfuel_nameplate/",
+          "label": "COLLECTIBLES_SEPTEMBER_2025_MARKETING_NAMEPLATE_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1245404904789381251",
+        "identity_enabled": true,
+        "tag": "ARCH",
+        "badge": "9c28e4c3edde095f2c4d72a51ff1b8bd"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1245404904789381251",
+        "identity_enabled": true,
+        "tag": "ARCH",
+        "badge": "9c28e4c3edde095f2c4d72a51ff1b8bd"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 14
+  },
+  {
+    "type": 0,
+    "content": "I'm on Windows 11 and some basic testing seems like just using `--disable-gpu-compositing` is the best option but this is also the option that stops the steam overlay from working.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-14T23:57:36.043000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1449913246466179192",
+    "channel_id": "1446738193893429358",
+    "author": {
+      "id": "101386841604751360",
+      "username": "corprall",
+      "avatar": "e0468d516f89eacc822d96582be0909f",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Corprall",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712162738196",
+          "asset": "nameplates/nameplates_v2/sword_of_legend/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SWORD_OF_LEGEND_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1369431413622833284",
+        "identity_enabled": true,
+        "tag": "woof",
+        "badge": "3a024935535496221609c2eb6d170aaf"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1369431413622833284",
+        "identity_enabled": true,
+        "tag": "woof",
+        "badge": "3a024935535496221609c2eb6d170aaf"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 15
+  },
+  {
+    "type": 19,
+    "content": "I am testing  this suggested launch options (Linux Mint, GE-Proton-10.28) - and it did marvelous job. Especially, that I am using old computer with on-board graphics). Thanks a lot for this hint.",
+    "mentions": [
+      {
+        "id": "219154455478796288",
+        "username": "tiana_atr",
+        "avatar": "9397ac8d6ffc508a87190436404e69ee",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Ti'ana_atr",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-01-08T19:52:12.156000+00:00",
+    "edited_timestamp": "2026-01-08T19:52:32.385000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1458911186648174824",
+    "channel_id": "1446738193893429358",
+    "author": {
+      "id": "139282054197018625",
+      "username": "concretegarlic",
+      "avatar": "a9daecea2fae2cb920a66ce28390a366",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "ConcreteGarlic",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1446738193893429358",
+      "message_id": "1446738193893429358",
+      "guild_id": "437797104786604034"
+    },
+    "position": 16,
+    "referenced_message": {
+      "type": 0,
+      "content": "First, set Proton to a recent GE-Proton Version (I used GE-Proton-10.25)\nNext, set your launch options as such: `PROTON_ENABLE_WAYLAND=1 %command% --disable-gpu --disable-gpu-compositing --enable-software-rasterizer`\n\nThis should give a *significant* performance boost. I dunno if or how well this works on Windows. I don't know if Steam on WIndows lets you access launch options and the Windows version doesn't use Proton so the `PROTON_ENABLE_WAYLAND=1 %command%` won't do anything. The rest may help, try at your own discretion if its possible.",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [
+        {
+          "id": "1446738194090557582",
+          "filename": "MAX_FPS_thumbnail.png",
+          "size": 57480,
+          "url": "https://cdn.discordapp.com/attachments/1446738193893429358/1446738194090557582/MAX_FPS_thumbnail.png?ex=6a0f43b0&is=6a0df230&hm=6172c18b66cadff3e585c4df8c39e4f3c9fab96cae22d4df7aa921cb5706519a&",
+          "proxy_url": "https://media.discordapp.net/attachments/1446738193893429358/1446738194090557582/MAX_FPS_thumbnail.png?ex=6a0f43b0&is=6a0df230&hm=6172c18b66cadff3e585c4df8c39e4f3c9fab96cae22d4df7aa921cb5706519a&",
+          "width": 320,
+          "height": 127,
+          "content_type": "image/png",
+          "original_content_type": "image/png",
+          "content_scan_version": 4,
+          "placeholder": "osgFM4ivlHqYl8iQkWuQyAc=",
+          "placeholder_version": 1,
+          "title": "MAX FPS thumbnail"
+        }
+      ],
+      "embeds": [],
+      "timestamp": "2025-12-06T05:41:04.520000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1446738193893429358",
+      "channel_id": "1446738193893429358",
+      "author": {
+        "id": "219154455478796288",
+        "username": "tiana_atr",
+        "avatar": "9397ac8d6ffc508a87190436404e69ee",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Ti'ana_atr",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 0
+    }
+  },
+  {
+    "type": 0,
+    "content": "I found this helped but also stopped me being able to access the Steam Overlay, which is needed for purchases. \n\nI just remove it, restart, make purchase, add it back, restart.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-01-09T23:39:13.403000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1459330706164420903",
+    "channel_id": "1446738193893429358",
+    "author": {
+      "id": "1329241141375275134",
+      "username": "inventionicon",
+      "avatar": "c8630c7cc11665e06fe040a24a120119",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Invention Icon",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 17
+  },
+  {
+    "type": 0,
+    "content": "Example of steam settings menu for those who know nothing of such arcane magic:",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1461746370208862409",
+        "filename": "B3D603A3-B3BF-4831-9C53-F428FC7CE809.jpg",
+        "size": 75291,
+        "url": "https://cdn.discordapp.com/attachments/1446738193893429358/1461746370208862409/B3D603A3-B3BF-4831-9C53-F428FC7CE809.jpg?ex=6a0f26e4&is=6a0dd564&hm=a28e4e6bf4ce8eeed1e5536aa0bf4f12e5f6d6f7661f3705821d6186f41764ef&",
+        "proxy_url": "https://media.discordapp.net/attachments/1446738193893429358/1461746370208862409/B3D603A3-B3BF-4831-9C53-F428FC7CE809.jpg?ex=6a0f26e4&is=6a0dd564&hm=a28e4e6bf4ce8eeed1e5536aa0bf4f12e5f6d6f7661f3705821d6186f41764ef&",
+        "width": 1320,
+        "height": 946,
+        "content_type": "image/jpeg",
+        "content_scan_version": 4,
+        "placeholder": "ifcBBYDPmneKeIiFeEeIdr9k9nx3",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2026-01-16T15:38:12.556000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1461746370057605311",
+    "channel_id": "1446738193893429358",
+    "author": {
+      "id": "378239194000130061",
+      "username": "usernameerror3",
+      "avatar": "5cf9207ec3e5a96859d35ba28de98631",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "UserError03",
+      "avatar_decoration_data": {
+        "asset": "a_8d31b6b853913a2811916a2d8678b747",
+        "sku_id": "1420225379246805012",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 18
+  },
+  {
+    "type": 0,
+    "content": "Aarch64 runs so bad I decided to just recompile the game lol",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-15T19:30:53.602000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1472676562896945246",
+    "channel_id": "1446738193893429358",
+    "author": {
+      "id": "683364835685040143",
+      "username": "sun3k",
+      "avatar": "dd0be5b16b4d6e23728cffbb91e2f6a1",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Sunderw_3k",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614257225760",
+          "asset": "nameplates/nameplates/vengeance/",
+          "label": "COLLECTIBLES_NAMEPLATES_VENGEANCE_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "738045391416852520",
+        "identity_enabled": true,
+        "tag": "RFID",
+        "badge": "249ec50deb082d1756863906003f6a4c"
+      },
+      "primary_guild": {
+        "identity_guild_id": "738045391416852520",
+        "identity_enabled": true,
+        "tag": "RFID",
+        "badge": "249ec50deb082d1756863906003f6a4c"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 19
+  },
+  {
+    "type": 0,
+    "content": "bazzite using proton 10.0-4 and the launch options above. smooth as butter. we are so back boys",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-17T22:47:11.445000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1473450738482155556",
+    "channel_id": "1446738193893429358",
+    "author": {
+      "id": "101537459615039488",
+      "username": "killerkram",
+      "avatar": "b38a4a2f45229f12e2f4586f466d2ffc",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "killerkram",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "102224586711519232",
+        "identity_enabled": true,
+        "tag": "KoE",
+        "badge": "2cd22da80c7ad17728c23b66a2d983a5"
+      },
+      "primary_guild": {
+        "identity_guild_id": "102224586711519232",
+        "identity_enabled": true,
+        "tag": "KoE",
+        "badge": "2cd22da80c7ad17728c23b66a2d983a5"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 20
+  },
+  {
+    "type": 0,
+    "content": "Thanks for this. Can't run windows 11 with a 10 year old processor so linux mint cinnamon for me.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-22T17:32:48.198000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1475183559617679381",
+    "channel_id": "1446738193893429358",
+    "author": {
+      "id": "172047784403271680",
+      "username": "ecocrexis",
+      "avatar": "b500929055ab88470f41e094eff0e9e3",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "ecocrexis",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 21
+  }
+]

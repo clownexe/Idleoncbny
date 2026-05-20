@@ -1,0 +1,4714 @@
+[
+  {
+    "type": 0,
+    "content": "for those who are looking to optimize their Rank rank points . Doanload file>open in any browser> paste json > load . You will see two tables one is with your current set where you can add available points for most gains . another table below you can create by allocating x amount of points to create new optimized table with max gains\n\n\n\nNew Optimizer Website\nhttps://egizz983.github.io/FO/\nUpdated: 23/04/2026\n\n\nImportant info about the values:\nThe game uses two different values:\n\nDisplay Value – does not include the 2x chance upgrades (Product Doubler, Double Petal I, Double Petal II)\n Uncapped Value this has Random Modifier – this is what the game actually uses to calculate how many crops you get. It includes a Random Modifier, so sometimes you’ll get more and sometimes less.\n\nThe Crop Value shown on the site includes all bonuses for both caps and max value. These are the only values the game uses for calculations.\nAny bugs? Leave a comment and I’ll fix them ASAP.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1472428746236498054",
+        "filename": "2026-02-15_03_05_15-Discord_Overlay.png",
+        "size": 255746,
+        "url": "https://cdn.discordapp.com/attachments/1472428745561342124/1472428746236498054/2026-02-15_03_05_15-Discord_Overlay.png?ex=6a0f1f61&is=6a0dcde1&hm=82fcc19f55e3292513a6cf001f3c3a4ac36c483840dbca860557bf3ffef52f8d&",
+        "proxy_url": "https://media.discordapp.net/attachments/1472428745561342124/1472428746236498054/2026-02-15_03_05_15-Discord_Overlay.png?ex=6a0f1f61&is=6a0dcde1&hm=82fcc19f55e3292513a6cf001f3c3a4ac36c483840dbca860557bf3ffef52f8d&",
+        "width": 651,
+        "height": 679,
+        "content_type": "image/webp",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "2lkCDwAwGdipJJSkyU7aSEQXA2qo12UP",
+        "placeholder_version": 1,
+        "title": "2026-02-15 03_05_15-Discord Overlay"
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2026-02-15T03:06:09.345000+00:00",
+    "edited_timestamp": "2026-05-13T11:08:46.754000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1472428745561342124",
+    "channel_id": "1472428745561342124",
+    "author": {
+      "id": "220775685306712064",
+      "username": "egizz",
+      "avatar": "41a8cd0a15cc085772d525a001204fd1",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "egizz",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 19,
+        "count_details": {
+          "burst": 0,
+          "normal": 19
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "❤️"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "arm",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-15T22:53:13.867000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1472727482858733764",
+    "channel_id": "1472428745561342124",
+    "author": {
+      "id": "231143016520220683",
+      "username": "itrevsky",
+      "avatar": "e6cbfe6e50d71fb2603cd5d7c3c7a025",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "iTrevsky",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0
+  },
+  {
+    "type": 0,
+    "content": "What JSON does it require? Like the data from idleefficiency?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-16T21:07:17.144000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1473063208695632097",
+    "channel_id": "1472428745561342124",
+    "author": {
+      "id": "602406617467846666",
+      "username": "mystshadows",
+      "avatar": "5d62cdae851f6a7180e2264b343fff73",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "MystShadows",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 1
+  },
+  {
+    "type": 19,
+    "content": "yes json data from toolbox or idleonefficiency",
+    "mentions": [
+      {
+        "id": "602406617467846666",
+        "username": "mystshadows",
+        "avatar": "5d62cdae851f6a7180e2264b343fff73",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "MystShadows",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-16T21:50:03.463000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1473073972617674884",
+    "channel_id": "1472428745561342124",
+    "author": {
+      "id": "220775685306712064",
+      "username": "egizz",
+      "avatar": "41a8cd0a15cc085772d525a001204fd1",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "egizz",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1472428745561342124",
+      "message_id": "1473063208695632097",
+      "guild_id": "437797104786604034"
+    },
+    "position": 2,
+    "referenced_message": {
+      "type": 0,
+      "content": "What JSON does it require? Like the data from idleefficiency?",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2026-02-16T21:07:17.144000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1473063208695632097",
+      "channel_id": "1472428745561342124",
+      "author": {
+        "id": "602406617467846666",
+        "username": "mystshadows",
+        "avatar": "5d62cdae851f6a7180e2264b343fff73",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "MystShadows",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 1
+    }
+  },
+  {
+    "type": 0,
+    "content": "<@128697267950452737> and if u need land rank optimizer",
+    "mentions": [
+      {
+        "id": "128697267950452737",
+        "username": "sunkist_.",
+        "avatar": "cf5fbb7c134d2242595716f29ed13cdf",
+        "discriminator": "0",
+        "public_flags": 640,
+        "flags": 640,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Sunkist",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "324132423636090880",
+          "identity_enabled": true,
+          "tag": "OSRS",
+          "badge": "49d4ec9660e42fbcd0112846581241af"
+        },
+        "primary_guild": {
+          "identity_guild_id": "324132423636090880",
+          "identity_enabled": true,
+          "tag": "OSRS",
+          "badge": "49d4ec9660e42fbcd0112846581241af"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-19T23:53:35.455000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1474192224362303639",
+    "channel_id": "1472428745561342124",
+    "author": {
+      "id": "220775685306712064",
+      "username": "egizz",
+      "avatar": "41a8cd0a15cc085772d525a001204fd1",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "egizz",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 3
+  },
+  {
+    "type": 0,
+    "content": "<@178714227983253504>",
+    "mentions": [
+      {
+        "id": "178714227983253504",
+        "username": "sol1369",
+        "avatar": "d54d079b73f83656ad02bf714cffca75",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Solly",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-20T00:04:17.714000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1474194918191665364",
+    "channel_id": "1472428745561342124",
+    "author": {
+      "id": "220775685306712064",
+      "username": "egizz",
+      "avatar": "41a8cd0a15cc085772d525a001204fd1",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "egizz",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 4
+  },
+  {
+    "type": 0,
+    "content": "<@102295506796941312>",
+    "mentions": [
+      {
+        "id": "102295506796941312",
+        "username": "polarthief",
+        "avatar": "977de1cb4c8b5b634c09a4c7c34ebf27",
+        "discriminator": "0",
+        "public_flags": 128,
+        "flags": 128,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Polarthief",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1034534280757522442",
+          "identity_enabled": true,
+          "tag": "SQWK",
+          "badge": "5cddef7c4ef24ed42e6c69540756b9ba"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1034534280757522442",
+          "identity_enabled": true,
+          "tag": "SQWK",
+          "badge": "5cddef7c4ef24ed42e6c69540756b9ba"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-21T15:56:22.424000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1474796904456917136",
+    "channel_id": "1472428745561342124",
+    "author": {
+      "id": "220775685306712064",
+      "username": "egizz",
+      "avatar": "41a8cd0a15cc085772d525a001204fd1",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "egizz",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 5,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "1101692875248521366",
+          "name": "grumblo_thumbsup"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "💯"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "<@220775685306712064> Did you make this, and if so can I offer some suggestions on how to improve it?",
+    "mentions": [
+      {
+        "id": "220775685306712064",
+        "username": "egizz",
+        "avatar": "41a8cd0a15cc085772d525a001204fd1",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "egizz",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-21T16:14:44.304000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1474801526076735598",
+    "channel_id": "1472428745561342124",
+    "author": {
+      "id": "102295506796941312",
+      "username": "polarthief",
+      "avatar": "977de1cb4c8b5b634c09a4c7c34ebf27",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Polarthief",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1034534280757522442",
+        "identity_enabled": true,
+        "tag": "SQWK",
+        "badge": "5cddef7c4ef24ed42e6c69540756b9ba"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1034534280757522442",
+        "identity_enabled": true,
+        "tag": "SQWK",
+        "badge": "5cddef7c4ef24ed42e6c69540756b9ba"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 6
+  },
+  {
+    "type": 19,
+    "content": "sure",
+    "mentions": [
+      {
+        "id": "102295506796941312",
+        "username": "polarthief",
+        "avatar": "977de1cb4c8b5b634c09a4c7c34ebf27",
+        "discriminator": "0",
+        "public_flags": 128,
+        "flags": 128,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Polarthief",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1034534280757522442",
+          "identity_enabled": true,
+          "tag": "SQWK",
+          "badge": "5cddef7c4ef24ed42e6c69540756b9ba"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1034534280757522442",
+          "identity_enabled": true,
+          "tag": "SQWK",
+          "badge": "5cddef7c4ef24ed42e6c69540756b9ba"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-21T16:14:55.097000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1474801571345989632",
+    "channel_id": "1472428745561342124",
+    "author": {
+      "id": "220775685306712064",
+      "username": "egizz",
+      "avatar": "41a8cd0a15cc085772d525a001204fd1",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "egizz",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1472428745561342124",
+      "message_id": "1474801526076735598",
+      "guild_id": "437797104786604034"
+    },
+    "position": 7,
+    "referenced_message": {
+      "type": 0,
+      "content": "<@220775685306712064> Did you make this, and if so can I offer some suggestions on how to improve it?",
+      "mentions": [
+        {
+          "id": "220775685306712064",
+          "username": "egizz",
+          "avatar": "41a8cd0a15cc085772d525a001204fd1",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "egizz",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": {
+            "identity_guild_id": "437797104786604034",
+            "identity_enabled": true,
+            "tag": "idle",
+            "badge": "613dd0a2876f97a2422d121940ecc992"
+          },
+          "primary_guild": {
+            "identity_guild_id": "437797104786604034",
+            "identity_enabled": true,
+            "tag": "idle",
+            "badge": "613dd0a2876f97a2422d121940ecc992"
+          }
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2026-02-21T16:14:44.304000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1474801526076735598",
+      "channel_id": "1472428745561342124",
+      "author": {
+        "id": "102295506796941312",
+        "username": "polarthief",
+        "avatar": "977de1cb4c8b5b634c09a4c7c34ebf27",
+        "discriminator": "0",
+        "public_flags": 128,
+        "flags": 128,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Polarthief",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1034534280757522442",
+          "identity_enabled": true,
+          "tag": "SQWK",
+          "badge": "5cddef7c4ef24ed42e6c69540756b9ba"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1034534280757522442",
+          "identity_enabled": true,
+          "tag": "SQWK",
+          "badge": "5cddef7c4ef24ed42e6c69540756b9ba"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 6
+    }
+  },
+  {
+    "type": 19,
+    "content": "So I'd recommend something where it reads all your base Evo from non-LR (Land Ranks) sources, and it tries to hit X% Evo chance on the highest crop (whether that's going for the final Glassy or Medal, I don't know, whichever it is), and having an input for what you want X% to be, whether that's 100%, 50%, whatever. If you're unable to hit above 0% on the final crop, then you can allocate points to it.\n\nSame thing with value. Because Value has a *hard* cap of 10k that can only be increased via Exotic Market, same thing as Evo, getting up to your capped value is all you need. I don't know how many LR I need to invest to hit my cap and going over my cap is effectively worthless points; the optimizer should know how I hit that cap value though.\n\nFrom there, having us then divvy out the rest of the points as we wish to on OG, LR EXP, and Farming EXP as it does currently. I think that would go a long way towards it truly optimizing your Evo and Value at least.\n\nHopefully that all made sense! (I'm bad at words lol) <:grumblo_thumbsup:1101692875248521366>",
+    "mentions": [
+      {
+        "id": "220775685306712064",
+        "username": "egizz",
+        "avatar": "41a8cd0a15cc085772d525a001204fd1",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "egizz",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-21T16:21:11.573000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1474803150400520212",
+    "channel_id": "1472428745561342124",
+    "author": {
+      "id": "102295506796941312",
+      "username": "polarthief",
+      "avatar": "977de1cb4c8b5b634c09a4c7c34ebf27",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Polarthief",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1034534280757522442",
+        "identity_enabled": true,
+        "tag": "SQWK",
+        "badge": "5cddef7c4ef24ed42e6c69540756b9ba"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1034534280757522442",
+        "identity_enabled": true,
+        "tag": "SQWK",
+        "badge": "5cddef7c4ef24ed42e6c69540756b9ba"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1472428745561342124",
+      "message_id": "1474801571345989632",
+      "guild_id": "437797104786604034"
+    },
+    "position": 8,
+    "referenced_message": {
+      "type": 19,
+      "content": "sure",
+      "mentions": [
+        {
+          "id": "102295506796941312",
+          "username": "polarthief",
+          "avatar": "977de1cb4c8b5b634c09a4c7c34ebf27",
+          "discriminator": "0",
+          "public_flags": 128,
+          "flags": 128,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Polarthief",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": {
+            "identity_guild_id": "1034534280757522442",
+            "identity_enabled": true,
+            "tag": "SQWK",
+            "badge": "5cddef7c4ef24ed42e6c69540756b9ba"
+          },
+          "primary_guild": {
+            "identity_guild_id": "1034534280757522442",
+            "identity_enabled": true,
+            "tag": "SQWK",
+            "badge": "5cddef7c4ef24ed42e6c69540756b9ba"
+          }
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2026-02-21T16:14:55.097000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1474801571345989632",
+      "channel_id": "1472428745561342124",
+      "author": {
+        "id": "220775685306712064",
+        "username": "egizz",
+        "avatar": "41a8cd0a15cc085772d525a001204fd1",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "egizz",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1472428745561342124",
+        "message_id": "1474801526076735598",
+        "guild_id": "437797104786604034"
+      },
+      "position": 7
+    }
+  },
+  {
+    "type": 19,
+    "content": "its doable but it requires alot of work json file is pretty much raw numbers and stored all over so unless you know where all base values are stores talents ect its very hard to do accurate calculations even tool box dont have all values included in many cases .i did this simple optimizer as all lanranks and and stuff was located in FarmRank array and other stuff was on wiki so it was easy to do calculations based on data available",
+    "mentions": [
+      {
+        "id": "102295506796941312",
+        "username": "polarthief",
+        "avatar": "977de1cb4c8b5b634c09a4c7c34ebf27",
+        "discriminator": "0",
+        "public_flags": 128,
+        "flags": 128,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Polarthief",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1034534280757522442",
+          "identity_enabled": true,
+          "tag": "SQWK",
+          "badge": "5cddef7c4ef24ed42e6c69540756b9ba"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1034534280757522442",
+          "identity_enabled": true,
+          "tag": "SQWK",
+          "badge": "5cddef7c4ef24ed42e6c69540756b9ba"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-21T16:28:22.409000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1474804957457944798",
+    "channel_id": "1472428745561342124",
+    "author": {
+      "id": "220775685306712064",
+      "username": "egizz",
+      "avatar": "41a8cd0a15cc085772d525a001204fd1",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "egizz",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1472428745561342124",
+      "message_id": "1474803150400520212",
+      "guild_id": "437797104786604034"
+    },
+    "position": 9,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "1101692875248521366",
+          "name": "grumblo_thumbsup"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ],
+    "referenced_message": {
+      "type": 19,
+      "content": "So I'd recommend something where it reads all your base Evo from non-LR (Land Ranks) sources, and it tries to hit X% Evo chance on the highest crop (whether that's going for the final Glassy or Medal, I don't know, whichever it is), and having an input for what you want X% to be, whether that's 100%, 50%, whatever. If you're unable to hit above 0% on the final crop, then you can allocate points to it.\n\nSame thing with value. Because Value has a *hard* cap of 10k that can only be increased via Exotic Market, same thing as Evo, getting up to your capped value is all you need. I don't know how many LR I need to invest to hit my cap and going over my cap is effectively worthless points; the optimizer should know how I hit that cap value though.\n\nFrom there, having us then divvy out the rest of the points as we wish to on OG, LR EXP, and Farming EXP as it does currently. I think that would go a long way towards it truly optimizing your Evo and Value at least.\n\nHopefully that all made sense! (I'm bad at words lol) <:grumblo_thumbsup:1101692875248521366>",
+      "mentions": [
+        {
+          "id": "220775685306712064",
+          "username": "egizz",
+          "avatar": "41a8cd0a15cc085772d525a001204fd1",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "egizz",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": {
+            "identity_guild_id": "437797104786604034",
+            "identity_enabled": true,
+            "tag": "idle",
+            "badge": "613dd0a2876f97a2422d121940ecc992"
+          },
+          "primary_guild": {
+            "identity_guild_id": "437797104786604034",
+            "identity_enabled": true,
+            "tag": "idle",
+            "badge": "613dd0a2876f97a2422d121940ecc992"
+          }
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2026-02-21T16:21:11.573000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1474803150400520212",
+      "channel_id": "1472428745561342124",
+      "author": {
+        "id": "102295506796941312",
+        "username": "polarthief",
+        "avatar": "977de1cb4c8b5b634c09a4c7c34ebf27",
+        "discriminator": "0",
+        "public_flags": 128,
+        "flags": 128,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Polarthief",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1034534280757522442",
+          "identity_enabled": true,
+          "tag": "SQWK",
+          "badge": "5cddef7c4ef24ed42e6c69540756b9ba"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1034534280757522442",
+          "identity_enabled": true,
+          "tag": "SQWK",
+          "badge": "5cddef7c4ef24ed42e6c69540756b9ba"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1472428745561342124",
+        "message_id": "1474801571345989632",
+        "guild_id": "437797104786604034"
+      },
+      "position": 8
+    }
+  },
+  {
+    "type": 19,
+    "content": "Oh yeah for sure, hence \"if you'd like the recommendation to improve it\". I would assume it's a lot of work given I'm not a programmer so I wouldn't know or pretend to know. I know seemingly-simple things can be monumental. I just figured I'd throw the suggestion out and see what happens since it could be an afternoon or like weeks of work and not having the knowledge, I simply wouldn't know. <:dogkek:879404899866132520>",
+    "mentions": [
+      {
+        "id": "220775685306712064",
+        "username": "egizz",
+        "avatar": "41a8cd0a15cc085772d525a001204fd1",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "egizz",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-21T16:30:03.918000+00:00",
+    "edited_timestamp": "2026-02-21T16:30:14.650000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1474805383217549352",
+    "channel_id": "1472428745561342124",
+    "author": {
+      "id": "102295506796941312",
+      "username": "polarthief",
+      "avatar": "977de1cb4c8b5b634c09a4c7c34ebf27",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Polarthief",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1034534280757522442",
+        "identity_enabled": true,
+        "tag": "SQWK",
+        "badge": "5cddef7c4ef24ed42e6c69540756b9ba"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1034534280757522442",
+        "identity_enabled": true,
+        "tag": "SQWK",
+        "badge": "5cddef7c4ef24ed42e6c69540756b9ba"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1472428745561342124",
+      "message_id": "1474804957457944798",
+      "guild_id": "437797104786604034"
+    },
+    "position": 10,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "✅"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ],
+    "referenced_message": {
+      "type": 19,
+      "content": "its doable but it requires alot of work json file is pretty much raw numbers and stored all over so unless you know where all base values are stores talents ect its very hard to do accurate calculations even tool box dont have all values included in many cases .i did this simple optimizer as all lanranks and and stuff was located in FarmRank array and other stuff was on wiki so it was easy to do calculations based on data available",
+      "mentions": [
+        {
+          "id": "102295506796941312",
+          "username": "polarthief",
+          "avatar": "977de1cb4c8b5b634c09a4c7c34ebf27",
+          "discriminator": "0",
+          "public_flags": 128,
+          "flags": 128,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Polarthief",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": {
+            "identity_guild_id": "1034534280757522442",
+            "identity_enabled": true,
+            "tag": "SQWK",
+            "badge": "5cddef7c4ef24ed42e6c69540756b9ba"
+          },
+          "primary_guild": {
+            "identity_guild_id": "1034534280757522442",
+            "identity_enabled": true,
+            "tag": "SQWK",
+            "badge": "5cddef7c4ef24ed42e6c69540756b9ba"
+          }
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2026-02-21T16:28:22.409000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1474804957457944798",
+      "channel_id": "1472428745561342124",
+      "author": {
+        "id": "220775685306712064",
+        "username": "egizz",
+        "avatar": "41a8cd0a15cc085772d525a001204fd1",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "egizz",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1472428745561342124",
+        "message_id": "1474803150400520212",
+        "guild_id": "437797104786604034"
+      },
+      "position": 9
+    }
+  },
+  {
+    "type": 0,
+    "content": "i don't understand, i was thinking this would let me brain off allocate points",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-03-15T23:09:36.703000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1482878465408499873",
+    "channel_id": "1472428745561342124",
+    "author": {
+      "id": "128697267950452737",
+      "username": "sunkist_.",
+      "avatar": "cf5fbb7c134d2242595716f29ed13cdf",
+      "discriminator": "0",
+      "public_flags": 640,
+      "flags": 640,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Sunkist",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "324132423636090880",
+        "identity_enabled": true,
+        "tag": "OSRS",
+        "badge": "49d4ec9660e42fbcd0112846581241af"
+      },
+      "primary_guild": {
+        "identity_guild_id": "324132423636090880",
+        "identity_enabled": true,
+        "tag": "OSRS",
+        "badge": "49d4ec9660e42fbcd0112846581241af"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 12
+  },
+  {
+    "type": 0,
+    "content": "how much point into each? equaly?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1488067505044983858",
+        "filename": "image.png",
+        "size": 7089,
+        "url": "https://cdn.discordapp.com/attachments/1472428745561342124/1488067505044983858/image.png?ex=6a0f539c&is=6a0e021c&hm=09d1164aad415fce5d9ff3b2c59838dc81a17a560cb0a00eac9ceec38b19d7ff&",
+        "proxy_url": "https://media.discordapp.net/attachments/1472428745561342124/1488067505044983858/image.png?ex=6a0f539c&is=6a0e021c&hm=09d1164aad415fce5d9ff3b2c59838dc81a17a560cb0a00eac9ceec38b19d7ff&",
+        "width": 259,
+        "height": 144,
+        "content_type": "image/png",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "+QcGBIBgqpWPh3ekiouun/HdeA==",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2026-03-30T06:49:00.244000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1488067505397174404",
+    "channel_id": "1472428745561342124",
+    "author": {
+      "id": "278594608911482890",
+      "username": "shoninya",
+      "avatar": "a61e75e813818d3d5c2e71ed0c5f16a0",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Shoninya",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 13
+  },
+  {
+    "type": 19,
+    "content": "you should not invest into farm exp unless you need also production you probably only need couple hundred depending on your max",
+    "mentions": [
+      {
+        "id": "278594608911482890",
+        "username": "shoninya",
+        "avatar": "a61e75e813818d3d5c2e71ed0c5f16a0",
+        "discriminator": "0",
+        "public_flags": 256,
+        "flags": 256,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Shoninya",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-04-10T22:31:58.959000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1492291080249675837",
+    "channel_id": "1472428745561342124",
+    "author": {
+      "id": "220775685306712064",
+      "username": "egizz",
+      "avatar": "41a8cd0a15cc085772d525a001204fd1",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "egizz",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1472428745561342124",
+      "message_id": "1488067505397174404",
+      "guild_id": "437797104786604034"
+    },
+    "position": 15,
+    "referenced_message": {
+      "type": 0,
+      "content": "how much point into each? equaly?",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [
+        {
+          "id": "1488067505044983858",
+          "filename": "image.png",
+          "size": 7089,
+          "url": "https://cdn.discordapp.com/attachments/1472428745561342124/1488067505044983858/image.png?ex=6a0f539c&is=6a0e021c&hm=09d1164aad415fce5d9ff3b2c59838dc81a17a560cb0a00eac9ceec38b19d7ff&",
+          "proxy_url": "https://media.discordapp.net/attachments/1472428745561342124/1488067505044983858/image.png?ex=6a0f539c&is=6a0e021c&hm=09d1164aad415fce5d9ff3b2c59838dc81a17a560cb0a00eac9ceec38b19d7ff&",
+          "width": 259,
+          "height": 144,
+          "content_type": "image/png",
+          "original_content_type": "image/png",
+          "content_scan_version": 4,
+          "placeholder": "+QcGBIBgqpWPh3ekiouun/HdeA==",
+          "placeholder_version": 1
+        }
+      ],
+      "embeds": [],
+      "timestamp": "2026-03-30T06:49:00.244000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1488067505397174404",
+      "channel_id": "1472428745561342124",
+      "author": {
+        "id": "278594608911482890",
+        "username": "shoninya",
+        "avatar": "a61e75e813818d3d5c2e71ed0c5f16a0",
+        "discriminator": "0",
+        "public_flags": 256,
+        "flags": 256,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Shoninya",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 13
+    }
+  },
+  {
+    "type": 0,
+    "content": "There should be a way to insert the idleontoolbox link like the autoreview \nSince the copy thing doesn't work on phones",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-04-16T15:18:14.474000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1494356252841480345",
+    "channel_id": "1472428745561342124",
+    "author": {
+      "id": "885873094328188980",
+      "username": "diary_._",
+      "avatar": "f2a124a0fc8cea76ef3a486d9129b472",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "diary",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 18
+  },
+  {
+    "type": 0,
+    "content": "i am completely reworking this into much more detailed and more functionality version that will hopefully come out in couple weeks time . i do not play on phone so i would need details  because the only automatic way i know would require set up api with steam",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-04-17T09:34:40.889000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1494632181065060373",
+    "channel_id": "1472428745561342124",
+    "author": {
+      "id": "220775685306712064",
+      "username": "egizz",
+      "avatar": "41a8cd0a15cc085772d525a001204fd1",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "egizz",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 19
+  },
+  {
+    "type": 19,
+    "content": "https://idleontoolbox.com/?profile=somebodythatweu",
+    "mentions": [
+      {
+        "id": "220775685306712064",
+        "username": "egizz",
+        "avatar": "41a8cd0a15cc085772d525a001204fd1",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "egizz",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-04-18T10:04:03.627000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1495001962389962954",
+    "channel_id": "1472428745561342124",
+    "author": {
+      "id": "885873094328188980",
+      "username": "diary_._",
+      "avatar": "f2a124a0fc8cea76ef3a486d9129b472",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "diary",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1472428745561342124",
+      "message_id": "1494632181065060373",
+      "guild_id": "437797104786604034"
+    },
+    "position": 20,
+    "referenced_message": {
+      "type": 0,
+      "content": "i am completely reworking this into much more detailed and more functionality version that will hopefully come out in couple weeks time . i do not play on phone so i would need details  because the only automatic way i know would require set up api with steam",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2026-04-17T09:34:40.889000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1494632181065060373",
+      "channel_id": "1472428745561342124",
+      "author": {
+        "id": "220775685306712064",
+        "username": "egizz",
+        "avatar": "41a8cd0a15cc085772d525a001204fd1",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "egizz",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 19
+    }
+  },
+  {
+    "type": 0,
+    "content": "This is what I talked about",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-04-18T10:04:12.776000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1495002000763654256",
+    "channel_id": "1472428745561342124",
+    "author": {
+      "id": "885873094328188980",
+      "username": "diary_._",
+      "avatar": "f2a124a0fc8cea76ef3a486d9129b472",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "diary",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 21
+  },
+  {
+    "type": 19,
+    "content": "i need to check if they have APi so i can copy json data",
+    "mentions": [
+      {
+        "id": "885873094328188980",
+        "username": "diary_._",
+        "avatar": "f2a124a0fc8cea76ef3a486d9129b472",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "diary",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-04-18T10:04:45.755000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1495002139087474810",
+    "channel_id": "1472428745561342124",
+    "author": {
+      "id": "220775685306712064",
+      "username": "egizz",
+      "avatar": "41a8cd0a15cc085772d525a001204fd1",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "egizz",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1472428745561342124",
+      "message_id": "1495001962389962954",
+      "guild_id": "437797104786604034"
+    },
+    "position": 22,
+    "referenced_message": {
+      "type": 19,
+      "content": "https://idleontoolbox.com/?profile=somebodythatweu",
+      "mentions": [
+        {
+          "id": "220775685306712064",
+          "username": "egizz",
+          "avatar": "41a8cd0a15cc085772d525a001204fd1",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "egizz",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": {
+            "identity_guild_id": "437797104786604034",
+            "identity_enabled": true,
+            "tag": "idle",
+            "badge": "613dd0a2876f97a2422d121940ecc992"
+          },
+          "primary_guild": {
+            "identity_guild_id": "437797104786604034",
+            "identity_enabled": true,
+            "tag": "idle",
+            "badge": "613dd0a2876f97a2422d121940ecc992"
+          }
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2026-04-18T10:04:03.627000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1495001962389962954",
+      "channel_id": "1472428745561342124",
+      "author": {
+        "id": "885873094328188980",
+        "username": "diary_._",
+        "avatar": "f2a124a0fc8cea76ef3a486d9129b472",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "diary",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1472428745561342124",
+        "message_id": "1494632181065060373",
+        "guild_id": "437797104786604034"
+      },
+      "position": 20
+    }
+  },
+  {
+    "type": 19,
+    "content": "You can most certainly copy json on mobile, ive done it multiple times",
+    "mentions": [
+      {
+        "id": "885873094328188980",
+        "username": "diary_._",
+        "avatar": "f2a124a0fc8cea76ef3a486d9129b472",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "diary",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-04-18T11:11:54.681000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1495019037627912232",
+    "channel_id": "1472428745561342124",
+    "author": {
+      "id": "303486007037394945",
+      "username": "lazzmazz",
+      "avatar": "730fc5e605c56674567734d74bfc0105",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Not like us",
+      "avatar_decoration_data": {
+        "asset": "a_462b0bddc07dd495765fe12abe8b077f",
+        "sku_id": "1343751617379307653",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": {
+        "font_id": 3,
+        "effect_id": 2,
+        "colors": [
+          2535780,
+          9497343
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1472428745561342124",
+      "message_id": "1494356252841480345",
+      "guild_id": "437797104786604034"
+    },
+    "position": 23,
+    "referenced_message": {
+      "type": 0,
+      "content": "There should be a way to insert the idleontoolbox link like the autoreview \nSince the copy thing doesn't work on phones",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2026-04-16T15:18:14.474000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1494356252841480345",
+      "channel_id": "1472428745561342124",
+      "author": {
+        "id": "885873094328188980",
+        "username": "diary_._",
+        "avatar": "f2a124a0fc8cea76ef3a486d9129b472",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "diary",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 18
+    }
+  },
+  {
+    "type": 19,
+    "content": "It always says not the correct thing",
+    "mentions": [
+      {
+        "id": "303486007037394945",
+        "username": "lazzmazz",
+        "avatar": "730fc5e605c56674567734d74bfc0105",
+        "discriminator": "0",
+        "public_flags": 512,
+        "flags": 512,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Not like us",
+        "avatar_decoration_data": {
+          "asset": "a_462b0bddc07dd495765fe12abe8b077f",
+          "sku_id": "1343751617379307653",
+          "expires_at": null
+        },
+        "collectibles": null,
+        "display_name_styles": {
+          "font_id": 3,
+          "effect_id": 2,
+          "colors": [
+            2535780,
+            9497343
+          ]
+        },
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-04-18T11:12:28.190000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1495019178174840892",
+    "channel_id": "1472428745561342124",
+    "author": {
+      "id": "885873094328188980",
+      "username": "diary_._",
+      "avatar": "f2a124a0fc8cea76ef3a486d9129b472",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "diary",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1472428745561342124",
+      "message_id": "1495019037627912232",
+      "guild_id": "437797104786604034"
+    },
+    "position": 24,
+    "referenced_message": {
+      "type": 19,
+      "content": "You can most certainly copy json on mobile, ive done it multiple times",
+      "mentions": [
+        {
+          "id": "885873094328188980",
+          "username": "diary_._",
+          "avatar": "f2a124a0fc8cea76ef3a486d9129b472",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "diary",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2026-04-18T11:11:54.681000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1495019037627912232",
+      "channel_id": "1472428745561342124",
+      "author": {
+        "id": "303486007037394945",
+        "username": "lazzmazz",
+        "avatar": "730fc5e605c56674567734d74bfc0105",
+        "discriminator": "0",
+        "public_flags": 512,
+        "flags": 512,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Not like us",
+        "avatar_decoration_data": {
+          "asset": "a_462b0bddc07dd495765fe12abe8b077f",
+          "sku_id": "1343751617379307653",
+          "expires_at": null
+        },
+        "collectibles": null,
+        "display_name_styles": {
+          "font_id": 3,
+          "effect_id": 2,
+          "colors": [
+            2535780,
+            9497343
+          ]
+        },
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1472428745561342124",
+        "message_id": "1494356252841480345",
+        "guild_id": "437797104786604034"
+      },
+      "position": 23
+    }
+  },
+  {
+    "type": 19,
+    "content": "Worked perfectly for me",
+    "mentions": [
+      {
+        "id": "885873094328188980",
+        "username": "diary_._",
+        "avatar": "f2a124a0fc8cea76ef3a486d9129b472",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "diary",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1495019518949588992",
+        "filename": "Screenshot_2026-04-18-14-13-24-91_40deb401b9ffe8e1df2f1cc5ba480b12.jpg",
+        "size": 143055,
+        "url": "https://cdn.discordapp.com/attachments/1472428745561342124/1495019518949588992/Screenshot_2026-04-18-14-13-24-91_40deb401b9ffe8e1df2f1cc5ba480b12.jpg?ex=6a0ee8ed&is=6a0d976d&hm=acbb855ebddaa004884881c86216587268705f3b56d913b0b7faeb684664b56b&",
+        "proxy_url": "https://media.discordapp.net/attachments/1472428745561342124/1495019518949588992/Screenshot_2026-04-18-14-13-24-91_40deb401b9ffe8e1df2f1cc5ba480b12.jpg?ex=6a0ee8ed&is=6a0d976d&hm=acbb855ebddaa004884881c86216587268705f3b56d913b0b7faeb684664b56b&",
+        "width": 1080,
+        "height": 2400,
+        "content_type": "image/jpeg",
+        "content_scan_version": 4,
+        "placeholder": "8/cRAwB3dAd4dYE3iI+A+Ag=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2026-04-18T11:13:49.545000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1495019519402442843",
+    "channel_id": "1472428745561342124",
+    "author": {
+      "id": "303486007037394945",
+      "username": "lazzmazz",
+      "avatar": "730fc5e605c56674567734d74bfc0105",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Not like us",
+      "avatar_decoration_data": {
+        "asset": "a_462b0bddc07dd495765fe12abe8b077f",
+        "sku_id": "1343751617379307653",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": {
+        "font_id": 3,
+        "effect_id": 2,
+        "colors": [
+          2535780,
+          9497343
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1472428745561342124",
+      "message_id": "1495019178174840892",
+      "guild_id": "437797104786604034"
+    },
+    "position": 25,
+    "referenced_message": {
+      "type": 19,
+      "content": "It always says not the correct thing",
+      "mentions": [
+        {
+          "id": "303486007037394945",
+          "username": "lazzmazz",
+          "avatar": "730fc5e605c56674567734d74bfc0105",
+          "discriminator": "0",
+          "public_flags": 512,
+          "flags": 512,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Not like us",
+          "avatar_decoration_data": {
+            "asset": "a_462b0bddc07dd495765fe12abe8b077f",
+            "sku_id": "1343751617379307653",
+            "expires_at": null
+          },
+          "collectibles": null,
+          "display_name_styles": {
+            "font_id": 3,
+            "effect_id": 2,
+            "colors": [
+              2535780,
+              9497343
+            ]
+          },
+          "banner_color": null,
+          "clan": {
+            "identity_guild_id": "437797104786604034",
+            "identity_enabled": true,
+            "tag": "idle",
+            "badge": "613dd0a2876f97a2422d121940ecc992"
+          },
+          "primary_guild": {
+            "identity_guild_id": "437797104786604034",
+            "identity_enabled": true,
+            "tag": "idle",
+            "badge": "613dd0a2876f97a2422d121940ecc992"
+          }
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2026-04-18T11:12:28.190000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1495019178174840892",
+      "channel_id": "1472428745561342124",
+      "author": {
+        "id": "885873094328188980",
+        "username": "diary_._",
+        "avatar": "f2a124a0fc8cea76ef3a486d9129b472",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "diary",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1472428745561342124",
+        "message_id": "1495019037627912232",
+        "guild_id": "437797104786604034"
+      },
+      "position": 24
+    }
+  },
+  {
+    "type": 19,
+    "content": "Probably my phone then",
+    "mentions": [
+      {
+        "id": "303486007037394945",
+        "username": "lazzmazz",
+        "avatar": "730fc5e605c56674567734d74bfc0105",
+        "discriminator": "0",
+        "public_flags": 512,
+        "flags": 512,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Not like us",
+        "avatar_decoration_data": {
+          "asset": "a_462b0bddc07dd495765fe12abe8b077f",
+          "sku_id": "1343751617379307653",
+          "expires_at": null
+        },
+        "collectibles": null,
+        "display_name_styles": {
+          "font_id": 3,
+          "effect_id": 2,
+          "colors": [
+            2535780,
+            9497343
+          ]
+        },
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-04-18T11:14:09.851000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1495019604571852900",
+    "channel_id": "1472428745561342124",
+    "author": {
+      "id": "885873094328188980",
+      "username": "diary_._",
+      "avatar": "f2a124a0fc8cea76ef3a486d9129b472",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "diary",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1472428745561342124",
+      "message_id": "1495019519402442843",
+      "guild_id": "437797104786604034"
+    },
+    "position": 26,
+    "referenced_message": {
+      "type": 19,
+      "content": "Worked perfectly for me",
+      "mentions": [
+        {
+          "id": "885873094328188980",
+          "username": "diary_._",
+          "avatar": "f2a124a0fc8cea76ef3a486d9129b472",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "diary",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [
+        {
+          "id": "1495019518949588992",
+          "filename": "Screenshot_2026-04-18-14-13-24-91_40deb401b9ffe8e1df2f1cc5ba480b12.jpg",
+          "size": 143055,
+          "url": "https://cdn.discordapp.com/attachments/1472428745561342124/1495019518949588992/Screenshot_2026-04-18-14-13-24-91_40deb401b9ffe8e1df2f1cc5ba480b12.jpg?ex=6a0ee8ed&is=6a0d976d&hm=acbb855ebddaa004884881c86216587268705f3b56d913b0b7faeb684664b56b&",
+          "proxy_url": "https://media.discordapp.net/attachments/1472428745561342124/1495019518949588992/Screenshot_2026-04-18-14-13-24-91_40deb401b9ffe8e1df2f1cc5ba480b12.jpg?ex=6a0ee8ed&is=6a0d976d&hm=acbb855ebddaa004884881c86216587268705f3b56d913b0b7faeb684664b56b&",
+          "width": 1080,
+          "height": 2400,
+          "content_type": "image/jpeg",
+          "content_scan_version": 4,
+          "placeholder": "8/cRAwB3dAd4dYE3iI+A+Ag=",
+          "placeholder_version": 1
+        }
+      ],
+      "embeds": [],
+      "timestamp": "2026-04-18T11:13:49.545000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1495019519402442843",
+      "channel_id": "1472428745561342124",
+      "author": {
+        "id": "303486007037394945",
+        "username": "lazzmazz",
+        "avatar": "730fc5e605c56674567734d74bfc0105",
+        "discriminator": "0",
+        "public_flags": 512,
+        "flags": 512,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Not like us",
+        "avatar_decoration_data": {
+          "asset": "a_462b0bddc07dd495765fe12abe8b077f",
+          "sku_id": "1343751617379307653",
+          "expires_at": null
+        },
+        "collectibles": null,
+        "display_name_styles": {
+          "font_id": 3,
+          "effect_id": 2,
+          "colors": [
+            2535780,
+            9497343
+          ]
+        },
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1472428745561342124",
+        "message_id": "1495019178174840892",
+        "guild_id": "437797104786604034"
+      },
+      "position": 25
+    }
+  },
+  {
+    "type": 19,
+    "content": "Apple?",
+    "mentions": [
+      {
+        "id": "885873094328188980",
+        "username": "diary_._",
+        "avatar": "f2a124a0fc8cea76ef3a486d9129b472",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "diary",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-04-18T11:14:22.203000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1495019656380026942",
+    "channel_id": "1472428745561342124",
+    "author": {
+      "id": "303486007037394945",
+      "username": "lazzmazz",
+      "avatar": "730fc5e605c56674567734d74bfc0105",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Not like us",
+      "avatar_decoration_data": {
+        "asset": "a_462b0bddc07dd495765fe12abe8b077f",
+        "sku_id": "1343751617379307653",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": {
+        "font_id": 3,
+        "effect_id": 2,
+        "colors": [
+          2535780,
+          9497343
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1472428745561342124",
+      "message_id": "1495019604571852900",
+      "guild_id": "437797104786604034"
+    },
+    "position": 27,
+    "referenced_message": {
+      "type": 19,
+      "content": "Probably my phone then",
+      "mentions": [
+        {
+          "id": "303486007037394945",
+          "username": "lazzmazz",
+          "avatar": "730fc5e605c56674567734d74bfc0105",
+          "discriminator": "0",
+          "public_flags": 512,
+          "flags": 512,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Not like us",
+          "avatar_decoration_data": {
+            "asset": "a_462b0bddc07dd495765fe12abe8b077f",
+            "sku_id": "1343751617379307653",
+            "expires_at": null
+          },
+          "collectibles": null,
+          "display_name_styles": {
+            "font_id": 3,
+            "effect_id": 2,
+            "colors": [
+              2535780,
+              9497343
+            ]
+          },
+          "banner_color": null,
+          "clan": {
+            "identity_guild_id": "437797104786604034",
+            "identity_enabled": true,
+            "tag": "idle",
+            "badge": "613dd0a2876f97a2422d121940ecc992"
+          },
+          "primary_guild": {
+            "identity_guild_id": "437797104786604034",
+            "identity_enabled": true,
+            "tag": "idle",
+            "badge": "613dd0a2876f97a2422d121940ecc992"
+          }
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2026-04-18T11:14:09.851000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1495019604571852900",
+      "channel_id": "1472428745561342124",
+      "author": {
+        "id": "885873094328188980",
+        "username": "diary_._",
+        "avatar": "f2a124a0fc8cea76ef3a486d9129b472",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "diary",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1472428745561342124",
+        "message_id": "1495019519402442843",
+        "guild_id": "437797104786604034"
+      },
+      "position": 26
+    }
+  },
+  {
+    "type": 0,
+    "content": "Also do you copy the raw data?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-04-18T11:14:49.004000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1495019768791437414",
+    "channel_id": "1472428745561342124",
+    "author": {
+      "id": "303486007037394945",
+      "username": "lazzmazz",
+      "avatar": "730fc5e605c56674567734d74bfc0105",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Not like us",
+      "avatar_decoration_data": {
+        "asset": "a_462b0bddc07dd495765fe12abe8b077f",
+        "sku_id": "1343751617379307653",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": {
+        "font_id": 3,
+        "effect_id": 2,
+        "colors": [
+          2535780,
+          9497343
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 28
+  },
+  {
+    "type": 19,
+    "content": "No android \nAnd idk",
+    "mentions": [
+      {
+        "id": "303486007037394945",
+        "username": "lazzmazz",
+        "avatar": "730fc5e605c56674567734d74bfc0105",
+        "discriminator": "0",
+        "public_flags": 512,
+        "flags": 512,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Not like us",
+        "avatar_decoration_data": {
+          "asset": "a_462b0bddc07dd495765fe12abe8b077f",
+          "sku_id": "1343751617379307653",
+          "expires_at": null
+        },
+        "collectibles": null,
+        "display_name_styles": {
+          "font_id": 3,
+          "effect_id": 2,
+          "colors": [
+            2535780,
+            9497343
+          ]
+        },
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-04-18T11:18:57.732000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1495020812032544809",
+    "channel_id": "1472428745561342124",
+    "author": {
+      "id": "885873094328188980",
+      "username": "diary_._",
+      "avatar": "f2a124a0fc8cea76ef3a486d9129b472",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "diary",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1472428745561342124",
+      "message_id": "1495019656380026942",
+      "guild_id": "437797104786604034"
+    },
+    "position": 29,
+    "referenced_message": {
+      "type": 19,
+      "content": "Apple?",
+      "mentions": [
+        {
+          "id": "885873094328188980",
+          "username": "diary_._",
+          "avatar": "f2a124a0fc8cea76ef3a486d9129b472",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "diary",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2026-04-18T11:14:22.203000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1495019656380026942",
+      "channel_id": "1472428745561342124",
+      "author": {
+        "id": "303486007037394945",
+        "username": "lazzmazz",
+        "avatar": "730fc5e605c56674567734d74bfc0105",
+        "discriminator": "0",
+        "public_flags": 512,
+        "flags": 512,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Not like us",
+        "avatar_decoration_data": {
+          "asset": "a_462b0bddc07dd495765fe12abe8b077f",
+          "sku_id": "1343751617379307653",
+          "expires_at": null
+        },
+        "collectibles": null,
+        "display_name_styles": {
+          "font_id": 3,
+          "effect_id": 2,
+          "colors": [
+            2535780,
+            9497343
+          ]
+        },
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1472428745561342124",
+        "message_id": "1495019604571852900",
+        "guild_id": "437797104786604034"
+      },
+      "position": 27
+    }
+  },
+  {
+    "type": 0,
+    "content": "I don't remember",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-04-18T11:19:04.309000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1495020839618482258",
+    "channel_id": "1472428745561342124",
+    "author": {
+      "id": "885873094328188980",
+      "username": "diary_._",
+      "avatar": "f2a124a0fc8cea76ef3a486d9129b472",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "diary",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 30
+  },
+  {
+    "type": 0,
+    "content": "Well obviously you need to copy the raw data",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-04-18T11:19:18.481000+00:00",
+    "edited_timestamp": "2026-04-18T11:19:23.032000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1495020899060023517",
+    "channel_id": "1472428745561342124",
+    "author": {
+      "id": "303486007037394945",
+      "username": "lazzmazz",
+      "avatar": "730fc5e605c56674567734d74bfc0105",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Not like us",
+      "avatar_decoration_data": {
+        "asset": "a_462b0bddc07dd495765fe12abe8b077f",
+        "sku_id": "1343751617379307653",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": {
+        "font_id": 3,
+        "effect_id": 2,
+        "colors": [
+          2535780,
+          9497343
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 31
+  },
+  {
+    "type": 0,
+    "content": "note Button is using incorrect index for crop evolution chance and its using spelunk multiplier index 5 instead of index 7",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-04-21T23:45:07.740000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1496295754652717130",
+    "channel_id": "1472428745561342124",
+    "author": {
+      "id": "220775685306712064",
+      "username": "egizz",
+      "avatar": "41a8cd0a15cc085772d525a001204fd1",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "egizz",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 32
+  },
+  {
+    "type": 0,
+    "content": "https://egizz983.github.io/FO/ you can use this to check your current crop value cap and uncapped value game uses when calculating how much crop you get.  other functions are not yet fully finished",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-04-23T21:31:23.739000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1496986875284684900",
+    "channel_id": "1472428745561342124",
+    "author": {
+      "id": "220775685306712064",
+      "username": "egizz",
+      "avatar": "41a8cd0a15cc085772d525a001204fd1",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "egizz",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 34
+  },
+  {
+    "type": 0,
+    "content": "ok",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-04-23T21:41:17.914000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1496989367435264151",
+    "channel_id": "1472428745561342124",
+    "author": {
+      "id": "613951032552062976",
+      "username": "katakuri4",
+      "avatar": "9015f626d821ea6e6bb994ee72470f07",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Katakuri",
+      "avatar_decoration_data": {
+        "asset": "a_e27ca3c6b6846cdc0ea84f13ad6c4812",
+        "sku_id": "1428438924589662298",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1428438925021548544",
+          "asset": "nameplates/plastic/yuji_itadori/",
+          "label": "COLLECTIBLES_PLASTIC_YUJI_ITADORI_NP_A11Y",
+          "palette": "crimson"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 7,
+        "effect_id": 4,
+        "colors": [
+          11080677
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "480809905138171924",
+        "identity_enabled": true,
+        "tag": "OSAV",
+        "badge": "d1f1872b4ab3e06033446a3dc11b0fc2"
+      },
+      "primary_guild": {
+        "identity_guild_id": "480809905138171924",
+        "identity_enabled": true,
+        "tag": "OSAV",
+        "badge": "d1f1872b4ab3e06033446a3dc11b0fc2"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 35
+  },
+  {
+    "type": 0,
+    "content": "Update :\nHow to Use:\n\nPaste your JSON data into the input field and press Load.\nSelect the companions you have from the list.\nSelect the lab bonuses you have active.\nEnter your tome manual data.\nEnter your vote bonus.\n\nChangelog:\n\nFully implemented bonus stats for Evolution and Crop Value.\nAdded threshold display so you can see the % of the true max you are currently at.\n(Later: target threshold will be added to show levels needed.)\nAdded local storage so your manual inputs are remembered and don’t need to be selected every time.\nRemoved custom crop counts. Instead, exposed the actual variables that can be edited, with results updating in real time.\nExposed talent levels so they can be edited to experiment with the data. Later I will expose all other relevant levels so users can simulate different setups.\nCompletely restructured the old bonus tree. All bonuses are now grouped exactly how the engine uses them (additive bonuses shown with +, multiplicative with ×).\n\nSome engine errors discovered:\n\nThe game incorrectly displays talent points. I cloned its actual function to calculate bonus levels for talents — you actually get more than what the game shows you.\nCertified Stamp Book uses a condition that always fails, therefore it never applies its bonus to the Evolution stamp.\nButton uses the incorrect bonus for crop value calculations (Spelunk instead of Evo).\n\nNext up:\n\nImplement OG, Growth Speed, and Soil Exp bonuses\nExpose all values for users to edit\nCreate optimizer for land ranks as well as other farming bonuses\nCreate “Other Bonuses Affecting Farming” section that displays all relevant multipliers and their thresholds",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-05-01T14:31:52.265000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1499780401395269804",
+    "channel_id": "1472428745561342124",
+    "author": {
+      "id": "220775685306712064",
+      "username": "egizz",
+      "avatar": "41a8cd0a15cc085772d525a001204fd1",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "egizz",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 37
+  },
+  {
+    "type": 0,
+    "content": "OG is fully implemented it shows your total Multiplier which then used against randomFloat < Your Multi  . Multi goes down with each OG . i will add timer and calculator on how much OG player will have after x minutes or hours",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-05-01T18:34:15.337000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1499841399460331520",
+    "channel_id": "1472428745561342124",
+    "author": {
+      "id": "220775685306712064",
+      "username": "egizz",
+      "avatar": "41a8cd0a15cc085772d525a001204fd1",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "egizz",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 38
+  },
+  {
+    "type": 4,
+    "content": "Farming Optimizer",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-05-01T18:36:53.296000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1499842061988397227",
+    "channel_id": "1472428745561342124",
+    "author": {
+      "id": "220775685306712064",
+      "username": "egizz",
+      "avatar": "41a8cd0a15cc085772d525a001204fd1",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "egizz",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 39
+  },
+  {
+    "type": 0,
+    "content": "Growth Speed Bonuses are finished you can see total as well as all sources and which are multi and which are additives",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-05-02T18:00:16.894000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1500195237476171917",
+    "channel_id": "1472428745561342124",
+    "author": {
+      "id": "220775685306712064",
+      "username": "egizz",
+      "avatar": "41a8cd0a15cc085772d525a001204fd1",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "egizz",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 40
+  },
+  {
+    "type": 0,
+    "content": "Soil exp Updated it displays all bonuses and sources for Soil exp , Big bug in engine code does not include alot of sources in total exp you get calculations only used in display  under \"skill info\" i listed them so i would not focus on them until its fixed",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1500257904085696684",
+        "filename": "image.png",
+        "size": 8434,
+        "url": "https://cdn.discordapp.com/attachments/1472428745561342124/1500257904085696684/image.png?ex=6a0ed9cd&is=6a0d884d&hm=93c5d4a2884fbc1d91e4eee98a8c2e1a3d05c2696b7090120d1d8fa5eeeb9a77&",
+        "proxy_url": "https://media.discordapp.net/attachments/1472428745561342124/1500257904085696684/image.png?ex=6a0ed9cd&is=6a0d884d&hm=93c5d4a2884fbc1d91e4eee98a8c2e1a3d05c2696b7090120d1d8fa5eeeb9a77&",
+        "width": 974,
+        "height": 318,
+        "content_type": "image/webp",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "POgBAoKEc3twiUiIUFaTClc=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2026-05-02T22:09:17.857000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1500257904417177751",
+    "channel_id": "1472428745561342124",
+    "author": {
+      "id": "220775685306712064",
+      "username": "egizz",
+      "avatar": "41a8cd0a15cc085772d525a001204fd1",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "egizz",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 41
+  },
+  {
+    "type": 0,
+    "content": "This is a beautiful page with lots of delicious math - huge kudos to making this.\nHowever I'm lost as to how it is helpful to someone other than seeing how their farming numbers break down. Am I missing something, or is there not a way to tamper with numbers (largely Land Rank points) to see what betters? Or even just an output to show what the best setup would be based on all the information the site gathers?\n\ntl;dr: VERY cool, but without meaning to be rude, how is it an optimizer?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-05-04T00:35:23.406000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1500657057659883530",
+    "channel_id": "1472428745561342124",
+    "author": {
+      "id": "197802181489983489",
+      "username": "sn0wy0wl",
+      "avatar": "7ab6038d4d03c843dc583e6f3ca8b2ed",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Sn0wy0wl",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 42
+  },
+  {
+    "type": 19,
+    "content": "Currently its just a detailed and accurate stat display i grouped them all in multi groups might be hard to understand but will do some tooltips and guide on how to use it later . I had to get all stats first now that that is done, test branch already have refactored version with bones for actual optimizer , first land rank and later will do night and day markets most likely. Project is on going all though hard work is mainly done now just code in optimizers it self based on stats",
+    "mentions": [
+      {
+        "id": "197802181489983489",
+        "username": "sn0wy0wl",
+        "avatar": "7ab6038d4d03c843dc583e6f3ca8b2ed",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Sn0wy0wl",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-05-04T11:16:16.931000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1500818343433732136",
+    "channel_id": "1472428745561342124",
+    "author": {
+      "id": "220775685306712064",
+      "username": "egizz",
+      "avatar": "41a8cd0a15cc085772d525a001204fd1",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "egizz",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1472428745561342124",
+      "message_id": "1500657057659883530",
+      "guild_id": "437797104786604034"
+    },
+    "position": 43,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "♥️"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ],
+    "referenced_message": {
+      "type": 0,
+      "content": "This is a beautiful page with lots of delicious math - huge kudos to making this.\nHowever I'm lost as to how it is helpful to someone other than seeing how their farming numbers break down. Am I missing something, or is there not a way to tamper with numbers (largely Land Rank points) to see what betters? Or even just an output to show what the best setup would be based on all the information the site gathers?\n\ntl;dr: VERY cool, but without meaning to be rude, how is it an optimizer?",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2026-05-04T00:35:23.406000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1500657057659883530",
+      "channel_id": "1472428745561342124",
+      "author": {
+        "id": "197802181489983489",
+        "username": "sn0wy0wl",
+        "avatar": "7ab6038d4d03c843dc583e6f3ca8b2ed",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Sn0wy0wl",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 42
+    }
+  },
+  {
+    "type": 0,
+    "content": "Ah, it's still a work in progress  that makes sense.\nWell - big fan of your work here. Keep up the good work, you seem to be doing very well. \nThanks for responding too with some explanation",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-05-04T11:43:43.464000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1500825249493811201",
+    "channel_id": "1472428745561342124",
+    "author": {
+      "id": "197802181489983489",
+      "username": "sn0wy0wl",
+      "avatar": "7ab6038d4d03c843dc583e6f3ca8b2ed",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Sn0wy0wl",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 44
+  },
+  {
+    "type": 0,
+    "content": "Breaks for me with:\n\ninstallHook.js:1 ❌ FarmingOptimizer load failed: TypeError: Cannot read properties of undefined (reading '0')\n    at recalcChipBonuses (calcFormulas.js:2281:48)\n    at DNSMInit (calcFormulas.js:2298:5)\n    at FarmingOptimizer.parseAll (models.js:75:20)\n    at FarmingOptimizer.loadPlayerData (models.js<:13:941689794877095986>18)\n    at window.loadJsonData (FO/:568:43)\n    at HTMLButtonElement.onclick (FO/:20:200)\n\nWith a lot of \n\ninstallHook.js:1 ⚠️ FarmCrop data not found in JSON\nfarmingParser.js:21 ✅ parseFarmingData completed ( crop counts)\ninstallHook.js:1 ⚠️ FarmUpg data not found or too short\ninstallHook.js:1 ⚠️ CauldronInfo array is missing or too short\ninstallHook.js:1 ⚠️ AchieveReg array not found or invalid\ninstallHook.js:1 ⚠️ Breeding array is missing or too short\ninstallHook.js:1 ⚠️ StarSg field is missing or empty\ninstallHook.js:1 ⚠️ KLA_0 is not an array, skipping\ninstallHook.js:1 ⚠️ KLA_1 is not an array, skipping\ninstallHook.js:1 ⚠️ KLA_2 is not an array, skipping\ninstallHook.js:1 ⚠️ KLA_3 is not an array, skipping\ninstallHook.js:1 ⚠️ KLA_4 is not an array, skipping\ninstallHook.js:1 ⚠️ KLA_5 is not an array, skipping\ninstallHook.js:1 ⚠️ KLA_6 is not an array, skipping\ninstallHook.js:1 ⚠️ KLA_7 is not an array, skipping\ninstallHook.js:1 ⚠️ KLA_8 is not an array, skipping\ninstallHook.js:1 ⚠️ KLA_9 is not an array, skipping\ninstallHook.js:1 ⚠️ parseKillsLeftToAdvanceData found no KLA data to parse\ninstallHook.js:1 ⚠️ CharacterClass_0 not found in savedata\ninstallHook.js:1 ⚠️ CharacterClass_1 not found in savedata\ninstallHook.js:1 ⚠️ CharacterClass_2 not found in savedata\ninstallHook.js:1 ⚠️ CharacterClass_3 not found in savedata\ninstallHook.js:1 ⚠️ CharacterClass_4 not found in savedata\ninstallHook.js:1 ⚠️ CharacterClass_5 not found in savedata\ninstallHook.js:1 ⚠️ CharacterClass_6 not found in savedata\ninstallHook.js:1 ⚠️ CharacterClass_7 not found in savedata\ninstallHook.js:1 ⚠️ CharacterClass_8 not found in savedata\ninstallHook.js:1 ⚠️ CharacterClass_9 not found in savedata\ninstallHook.js:1 ⚠️ parseCharacterClassData found no character class data to parse\ninstallHook.js:1 ⚠️ Lv0_0 is not an array, skipping\ninstallHook.js:1 ⚠️ Lv0_1 is not an array, skipping\ninstallHook.js:1 ⚠️ Lv0_2 is not an array, skipping\ninstallHook.js:1 ⚠️ Lv0_3 is not an array, skipping\ninstallHook.js:1 ⚠️ Lv0_4 is not an array, skipping\ninstallHook.js:1 ⚠️ Lv0_5 is not an array, skipping\ninstallHook.js:1 ⚠️ Lv0_6 is not an array, skipping\ninstallHook.js:1 ⚠️ Lv0_7 is not an array, skipping\ninstallHook.js:1 ⚠️ Lv0_8 is not an array, skipping\ninstallHook.js:1 ⚠️ Lv0_9 is not an array, skipping\ninstallHook.js:1 ⚠️ parseLv0Data found no Lv0 data to parse\ninstallHook.js:1 ❌ FarmingOptimizer load failed: TypeError: Cannot read properties of \n\nbefore that.\n\nI used my json from the idleontoolbox, that works fine in other tools, do I need to do something different?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-05-04T17:57:51.104000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1500919401719922689",
+    "channel_id": "1472428745561342124",
+    "author": {
+      "id": "213615063699947520",
+      "username": "hevymusic",
+      "avatar": "5caff537ba645d884fba61c6618f9375",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Hevy",
+      "avatar_decoration_data": {
+        "asset": "a_f6fbc6e9dedd53a1b70e5573499ddd11",
+        "sku_id": "1418326115893907677",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1409983105577783410",
+          "asset": "nameplates/special_events_2/nitro_rocketfuel_nameplate/",
+          "label": "COLLECTIBLES_SEPTEMBER_2025_MARKETING_NAMEPLATE_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 6,
+        "effect_id": 4,
+        "colors": [
+          14287177
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "479488644990894090",
+        "identity_enabled": true,
+        "tag": "CYBE",
+        "badge": "79366e8660935912726217b413fcc19b"
+      },
+      "primary_guild": {
+        "identity_guild_id": "479488644990894090",
+        "identity_enabled": true,
+        "tag": "CYBE",
+        "badge": "79366e8660935912726217b413fcc19b"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 47
+  },
+  {
+    "type": 0,
+    "content": "paste your json inside txt file and send it to me i will double check , i tested with my own toolbox data issue clearly with parsing are you using support or raw data ?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-05-04T18:41:30.112000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1500930386635526244",
+    "channel_id": "1472428745561342124",
+    "author": {
+      "id": "220775685306712064",
+      "username": "egizz",
+      "avatar": "41a8cd0a15cc085772d525a001204fd1",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "egizz",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 48
+  },
+  {
+    "type": 0,
+    "content": "I indeed used the support data, I used that all the time with other tools.\nRaw data seems to work fine.\n\nDo you still want the support formatted data?\nIs that supposed to be also supported?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-05-04T19:50:48.868000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1500947829722583070",
+    "channel_id": "1472428745561342124",
+    "author": {
+      "id": "213615063699947520",
+      "username": "hevymusic",
+      "avatar": "5caff537ba645d884fba61c6618f9375",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Hevy",
+      "avatar_decoration_data": {
+        "asset": "a_f6fbc6e9dedd53a1b70e5573499ddd11",
+        "sku_id": "1418326115893907677",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1409983105577783410",
+          "asset": "nameplates/special_events_2/nitro_rocketfuel_nameplate/",
+          "label": "COLLECTIBLES_SEPTEMBER_2025_MARKETING_NAMEPLATE_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 6,
+        "effect_id": 4,
+        "colors": [
+          14287177
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "479488644990894090",
+        "identity_enabled": true,
+        "tag": "CYBE",
+        "badge": "79366e8660935912726217b413fcc19b"
+      },
+      "primary_guild": {
+        "identity_guild_id": "479488644990894090",
+        "identity_enabled": true,
+        "tag": "CYBE",
+        "badge": "79366e8660935912726217b413fcc19b"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 49
+  },
+  {
+    "type": 19,
+    "content": "i will update later so it works for both , my old optimizer page for land rank should work for both as i remember fixing it",
+    "mentions": [
+      {
+        "id": "213615063699947520",
+        "username": "hevymusic",
+        "avatar": "5caff537ba645d884fba61c6618f9375",
+        "discriminator": "0",
+        "public_flags": 128,
+        "flags": 128,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Hevy",
+        "avatar_decoration_data": {
+          "asset": "a_f6fbc6e9dedd53a1b70e5573499ddd11",
+          "sku_id": "1418326115893907677",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1409983105577783410",
+            "asset": "nameplates/special_events_2/nitro_rocketfuel_nameplate/",
+            "label": "COLLECTIBLES_SEPTEMBER_2025_MARKETING_NAMEPLATE_A11Y",
+            "palette": "violet"
+          }
+        },
+        "display_name_styles": {
+          "font_id": 6,
+          "effect_id": 4,
+          "colors": [
+            14287177
+          ]
+        },
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "479488644990894090",
+          "identity_enabled": true,
+          "tag": "CYBE",
+          "badge": "79366e8660935912726217b413fcc19b"
+        },
+        "primary_guild": {
+          "identity_guild_id": "479488644990894090",
+          "identity_enabled": true,
+          "tag": "CYBE",
+          "badge": "79366e8660935912726217b413fcc19b"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-05-05T18:17:45.574000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1501286799555821629",
+    "channel_id": "1472428745561342124",
+    "author": {
+      "id": "220775685306712064",
+      "username": "egizz",
+      "avatar": "41a8cd0a15cc085772d525a001204fd1",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "egizz",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1472428745561342124",
+      "message_id": "1500947829722583070",
+      "guild_id": "437797104786604034"
+    },
+    "position": 50,
+    "referenced_message": {
+      "type": 0,
+      "content": "I indeed used the support data, I used that all the time with other tools.\nRaw data seems to work fine.\n\nDo you still want the support formatted data?\nIs that supposed to be also supported?",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2026-05-04T19:50:48.868000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1500947829722583070",
+      "channel_id": "1472428745561342124",
+      "author": {
+        "id": "213615063699947520",
+        "username": "hevymusic",
+        "avatar": "5caff537ba645d884fba61c6618f9375",
+        "discriminator": "0",
+        "public_flags": 128,
+        "flags": 128,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Hevy",
+        "avatar_decoration_data": {
+          "asset": "a_f6fbc6e9dedd53a1b70e5573499ddd11",
+          "sku_id": "1418326115893907677",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1409983105577783410",
+            "asset": "nameplates/special_events_2/nitro_rocketfuel_nameplate/",
+            "label": "COLLECTIBLES_SEPTEMBER_2025_MARKETING_NAMEPLATE_A11Y",
+            "palette": "violet"
+          }
+        },
+        "display_name_styles": {
+          "font_id": 6,
+          "effect_id": 4,
+          "colors": [
+            14287177
+          ]
+        },
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "479488644990894090",
+          "identity_enabled": true,
+          "tag": "CYBE",
+          "badge": "79366e8660935912726217b413fcc19b"
+        },
+        "primary_guild": {
+          "identity_guild_id": "479488644990894090",
+          "identity_enabled": true,
+          "tag": "CYBE",
+          "badge": "79366e8660935912726217b413fcc19b"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 49
+    }
+  },
+  {
+    "type": 0,
+    "content": "am i tripping or where do i find the land rank optimizer?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-05-05T20:01:06.188000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1501312806815797269",
+    "channel_id": "1472428745561342124",
+    "author": {
+      "id": "263037436198780929",
+      "username": "swiftxq",
+      "avatar": "6c3609872381ad1b768c542e6f5a4636",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "SwiftXQ",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 51
+  },
+  {
+    "type": 0,
+    "content": "for now you can use old version single file download and open with browser . i should have new version finished during the weekend",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-05-05T21:36:35.479000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1501336837204082788",
+    "channel_id": "1472428745561342124",
+    "author": {
+      "id": "220775685306712064",
+      "username": "egizz",
+      "avatar": "41a8cd0a15cc085772d525a001204fd1",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "egizz",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 52
+  },
+  {
+    "type": 19,
+    "content": "thanks, no worries, I can also use the raw data, just never had to as far as I can remember. \nAnd as it was recently changed on idleontoolbox, it's a bit more hidden now anyway.\n\nThanks for the efford and for creating the tool!",
+    "mentions": [
+      {
+        "id": "220775685306712064",
+        "username": "egizz",
+        "avatar": "41a8cd0a15cc085772d525a001204fd1",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "egizz",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-05-06T13:48:18.920000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1501581379559755877",
+    "channel_id": "1472428745561342124",
+    "author": {
+      "id": "213615063699947520",
+      "username": "hevymusic",
+      "avatar": "5caff537ba645d884fba61c6618f9375",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Hevy",
+      "avatar_decoration_data": {
+        "asset": "a_f6fbc6e9dedd53a1b70e5573499ddd11",
+        "sku_id": "1418326115893907677",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1409983105577783410",
+          "asset": "nameplates/special_events_2/nitro_rocketfuel_nameplate/",
+          "label": "COLLECTIBLES_SEPTEMBER_2025_MARKETING_NAMEPLATE_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 6,
+        "effect_id": 4,
+        "colors": [
+          14287177
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "479488644990894090",
+        "identity_enabled": true,
+        "tag": "CYBE",
+        "badge": "79366e8660935912726217b413fcc19b"
+      },
+      "primary_guild": {
+        "identity_guild_id": "479488644990894090",
+        "identity_enabled": true,
+        "tag": "CYBE",
+        "badge": "79366e8660935912726217b413fcc19b"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1472428745561342124",
+      "message_id": "1501286799555821629",
+      "guild_id": "437797104786604034"
+    },
+    "position": 53,
+    "referenced_message": {
+      "type": 19,
+      "content": "i will update later so it works for both , my old optimizer page for land rank should work for both as i remember fixing it",
+      "mentions": [
+        {
+          "id": "213615063699947520",
+          "username": "hevymusic",
+          "avatar": "5caff537ba645d884fba61c6618f9375",
+          "discriminator": "0",
+          "public_flags": 128,
+          "flags": 128,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Hevy",
+          "avatar_decoration_data": {
+            "asset": "a_f6fbc6e9dedd53a1b70e5573499ddd11",
+            "sku_id": "1418326115893907677",
+            "expires_at": null
+          },
+          "collectibles": {
+            "nameplate": {
+              "sku_id": "1409983105577783410",
+              "asset": "nameplates/special_events_2/nitro_rocketfuel_nameplate/",
+              "label": "COLLECTIBLES_SEPTEMBER_2025_MARKETING_NAMEPLATE_A11Y",
+              "palette": "violet"
+            }
+          },
+          "display_name_styles": {
+            "font_id": 6,
+            "effect_id": 4,
+            "colors": [
+              14287177
+            ]
+          },
+          "banner_color": null,
+          "clan": {
+            "identity_guild_id": "479488644990894090",
+            "identity_enabled": true,
+            "tag": "CYBE",
+            "badge": "79366e8660935912726217b413fcc19b"
+          },
+          "primary_guild": {
+            "identity_guild_id": "479488644990894090",
+            "identity_enabled": true,
+            "tag": "CYBE",
+            "badge": "79366e8660935912726217b413fcc19b"
+          }
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2026-05-05T18:17:45.574000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1501286799555821629",
+      "channel_id": "1472428745561342124",
+      "author": {
+        "id": "220775685306712064",
+        "username": "egizz",
+        "avatar": "41a8cd0a15cc085772d525a001204fd1",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "egizz",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1472428745561342124",
+        "message_id": "1500947829722583070",
+        "guild_id": "437797104786604034"
+      },
+      "position": 50
+    }
+  },
+  {
+    "type": 0,
+    "content": "how does this tool work? 🤔 I don't see any buttons for \"optimise\" after loading my json. is this one of those things where we need to figure it out for ourselves?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-05-09T09:13:58.127000+00:00",
+    "edited_timestamp": "2026-05-09T09:14:07.395000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1502599501586628679",
+    "channel_id": "1472428745561342124",
+    "author": {
+      "id": "233052072746942472",
+      "username": "mrdinnertime",
+      "avatar": "0ac33201004adc43a9111536d264b684",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "🧐 Lord Dinnertime 🎩",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 54
+  },
+  {
+    "type": 0,
+    "content": "nvm I got it 😛 the optimizer website in the link is a separate thing and has nothing to do with optimizing land ranks",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-05-09T09:16:43.106000+00:00",
+    "edited_timestamp": "2026-05-09T09:16:48.584000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1502600193558839337",
+    "channel_id": "1472428745561342124",
+    "author": {
+      "id": "233052072746942472",
+      "username": "mrdinnertime",
+      "avatar": "0ac33201004adc43a9111536d264b684",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "🧐 Lord Dinnertime 🎩",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 55
+  },
+  {
+    "type": 19,
+    "content": "am working on it right now website will be updated tomorrow with new optimizer with more options and overall better optimization",
+    "mentions": [
+      {
+        "id": "233052072746942472",
+        "username": "mrdinnertime",
+        "avatar": "0ac33201004adc43a9111536d264b684",
+        "discriminator": "0",
+        "public_flags": 512,
+        "flags": 512,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "🧐 Lord Dinnertime 🎩",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-05-09T13:17:45.349000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1502660852602507417",
+    "channel_id": "1472428745561342124",
+    "author": {
+      "id": "220775685306712064",
+      "username": "egizz",
+      "avatar": "41a8cd0a15cc085772d525a001204fd1",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "egizz",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1472428745561342124",
+      "message_id": "1502600193558839337",
+      "guild_id": "437797104786604034"
+    },
+    "position": 56,
+    "referenced_message": {
+      "type": 0,
+      "content": "nvm I got it 😛 the optimizer website in the link is a separate thing and has nothing to do with optimizing land ranks",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2026-05-09T09:16:43.106000+00:00",
+      "edited_timestamp": "2026-05-09T09:16:48.584000+00:00",
+      "flags": 0,
+      "components": [],
+      "id": "1502600193558839337",
+      "channel_id": "1472428745561342124",
+      "author": {
+        "id": "233052072746942472",
+        "username": "mrdinnertime",
+        "avatar": "0ac33201004adc43a9111536d264b684",
+        "discriminator": "0",
+        "public_flags": 512,
+        "flags": 512,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "🧐 Lord Dinnertime 🎩",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 55
+    }
+  },
+  {
+    "type": 0,
+    "content": "ah excellent 😄 thanks!",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-05-09T13:49:56.038000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1502668950499234034",
+    "channel_id": "1472428745561342124",
+    "author": {
+      "id": "233052072746942472",
+      "username": "mrdinnertime",
+      "avatar": "0ac33201004adc43a9111536d264b684",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "🧐 Lord Dinnertime 🎩",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 57
+  },
+  {
+    "type": 0,
+    "content": "i added all i could come up with including evolution og cap , thresholds to help people see  results if anybody have any other suggestions do tell i will add them before pushing update tomorrow",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1502804838550077553",
+        "filename": "image.png",
+        "size": 170006,
+        "url": "https://cdn.discordapp.com/attachments/1472428745561342124/1502804838550077553/image.png?ex=6a0ee352&is=6a0d91d2&hm=da232058e69fc4642de432d9174709ced29a815de3847467a66bb5339a6bf7ce&",
+        "proxy_url": "https://media.discordapp.net/attachments/1472428745561342124/1502804838550077553/image.png?ex=6a0ee352&is=6a0d91d2&hm=da232058e69fc4642de432d9174709ced29a815de3847467a66bb5339a6bf7ce&",
+        "width": 1817,
+        "height": 616,
+        "content_type": "image/webp",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "qRgWGoSAaJhmmXd4j3n3l4c=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2026-05-09T22:49:54.343000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1502804838839222383",
+    "channel_id": "1472428745561342124",
+    "author": {
+      "id": "220775685306712064",
+      "username": "egizz",
+      "avatar": "41a8cd0a15cc085772d525a001204fd1",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "egizz",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 58
+  },
+  {
+    "type": 0,
+    "content": "ah nice 😄 what do the percentages mean on the 1st box?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-05-10T14:21:16.383000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1503039225103257620",
+    "channel_id": "1472428745561342124",
+    "author": {
+      "id": "233052072746942472",
+      "username": "mrdinnertime",
+      "avatar": "0ac33201004adc43a9111536d264b684",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "🧐 Lord Dinnertime 🎩",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 59
+  },
+  {
+    "type": 19,
+    "content": "thresholds all bonuses use decay formula so there is max bonus you can get of them so 90% means you are getting 90% of max bonus possible",
+    "mentions": [
+      {
+        "id": "233052072746942472",
+        "username": "mrdinnertime",
+        "avatar": "0ac33201004adc43a9111536d264b684",
+        "discriminator": "0",
+        "public_flags": 512,
+        "flags": 512,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "🧐 Lord Dinnertime 🎩",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-05-10T19:32:58.190000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1503117666167160832",
+    "channel_id": "1472428745561342124",
+    "author": {
+      "id": "220775685306712064",
+      "username": "egizz",
+      "avatar": "41a8cd0a15cc085772d525a001204fd1",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "egizz",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1472428745561342124",
+      "message_id": "1503039225103257620",
+      "guild_id": "437797104786604034"
+    },
+    "position": 60,
+    "referenced_message": {
+      "type": 0,
+      "content": "ah nice 😄 what do the percentages mean on the 1st box?",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2026-05-10T14:21:16.383000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1503039225103257620",
+      "channel_id": "1472428745561342124",
+      "author": {
+        "id": "233052072746942472",
+        "username": "mrdinnertime",
+        "avatar": "0ac33201004adc43a9111536d264b684",
+        "discriminator": "0",
+        "public_flags": 512,
+        "flags": 512,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "🧐 Lord Dinnertime 🎩",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 59
+    }
+  },
+  {
+    "type": 0,
+    "content": "ah I see 😄 thanks!",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-05-10T19:33:27.011000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1503117787051200574",
+    "channel_id": "1472428745561342124",
+    "author": {
+      "id": "233052072746942472",
+      "username": "mrdinnertime",
+      "avatar": "0ac33201004adc43a9111536d264b684",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "🧐 Lord Dinnertime 🎩",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 61
+  },
+  {
+    "type": 0,
+    "content": "land rank optimizer is now up to date with new panel and some other things old optimizer have some issue and was not accurate on soil exp and maybe other things ,current optimizer works differently so i would recommend redo it https://egizz983.github.io/FO/",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-05-11T19:12:08.416000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1503474812100804761",
+    "channel_id": "1472428745561342124",
+    "author": {
+      "id": "220775685306712064",
+      "username": "egizz",
+      "avatar": "41a8cd0a15cc085772d525a001204fd1",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "egizz",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 62
+  },
+  {
+    "type": 0,
+    "content": "settings need to be set once and then can be toggled off",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-05-11T19:13:19.378000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1503475109737009162",
+    "channel_id": "1472428745561342124",
+    "author": {
+      "id": "220775685306712064",
+      "username": "egizz",
+      "avatar": "41a8cd0a15cc085772d525a001204fd1",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "egizz",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 63,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "♥️"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,292 @@
+[
+  {
+    "type": 0,
+    "content": "Even though the \"return\" button in the anvil disappears when leaving the anvil,\nyou can still click it. It's just invisible 👍 (found by <@175572531103793152>)",
+    "mentions": [
+      {
+        "id": "175572531103793152",
+        "username": "teacup0209",
+        "avatar": "53faaa22d5d48c5058b100ff81f45757",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Teacup",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "736096289686552616",
+          "identity_enabled": true,
+          "tag": "ADV",
+          "badge": "fa9cc80236e71715c90d24db7ee9eb53"
+        },
+        "primary_guild": {
+          "identity_guild_id": "736096289686552616",
+          "identity_enabled": true,
+          "tag": "ADV",
+          "badge": "fa9cc80236e71715c90d24db7ee9eb53"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1085205706438869002",
+        "filename": "unknown.png",
+        "size": 316359,
+        "url": "https://cdn.discordapp.com/attachments/1085205706111721502/1085205706438869002/unknown.png?ex=6a0f1492&is=6a0dc312&hm=ba1bdd171d675a5e9d80bef9478e48b5be087a360a99148e7161ff959cc4bf7b&",
+        "proxy_url": "https://media.discordapp.net/attachments/1085205706111721502/1085205706438869002/unknown.png?ex=6a0f1492&is=6a0dc312&hm=ba1bdd171d675a5e9d80bef9478e48b5be087a360a99148e7161ff959cc4bf7b&",
+        "width": 724,
+        "height": 746,
+        "content_type": "image/png",
+        "content_scan_version": 4
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2023-03-14T14:20:02.484000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1085205706111721502",
+    "channel_id": "1085205706111721502",
+    "author": {
+      "id": "239468874867671050",
+      "username": "dot06",
+      "avatar": "d70f0a12af6229087d2ee27b9cc64470",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Dot",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 164,
+        "count_details": {
+          "burst": 0,
+          "normal": 164
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "❤️"
+        },
+        "count": 16,
+        "count_details": {
+          "burst": 0,
+          "normal": 16
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🤦‍♂️"
+        },
+        "count": 6,
+        "count_details": {
+          "burst": 0,
+          "normal": 6
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "446103753976971265",
+          "name": "Baggy"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "545113738592911380",
+          "name": "ABSOLUTELY"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "Thank you for this help!",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-10-19T16:07:40.285000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1164595734658683051",
+    "channel_id": "1085205706111721502",
+    "author": {
+      "id": "969871206876577833",
+      "username": "whyyoubullyme9500",
+      "avatar": "391dfb464a3e528d8b6b525f175f46f3",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Creepier- i = creeper",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 29
+  },
+  {
+    "type": 0,
+    "content": "I understand why i can't close when i click here now ^^'",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-11-08T20:26:34.904000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1171908648885297162",
+    "channel_id": "1085205706111721502",
+    "author": {
+      "id": "149617161176875008",
+      "username": "chokaopik",
+      "avatar": "cf753edf933a10158bb81b452e045027",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Chokaopik",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 30
+  },
+  {
+    "type": 0,
+    "content": "thx",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-11-10T07:12:02.337000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1172433471378038834",
+    "channel_id": "1085205706111721502",
+    "author": {
+      "id": "701717067132567656",
+      "username": "endminflolar",
+      "avatar": "c6fa3c6ebd253b163a4b27064646f65e",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "FlolaR",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 31,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "💀"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  }
+]

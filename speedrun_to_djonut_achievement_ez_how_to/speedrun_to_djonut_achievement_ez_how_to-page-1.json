@@ -1,0 +1,1310 @@
+[
+  {
+    "type": 0,
+    "content": "The achievement is to make to efaunt’s tomb from w2 town in 2min with under 132% move speed \n\nHOWEVER you can have 1 character @ town and another @ djonutown and still get the achievement \n\nnote: this maybe patched idk if it is I’ll change the title",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1116990974653112371",
+        "filename": "IMG_0910.png",
+        "size": 30550,
+        "url": "https://cdn.discordapp.com/attachments/1116990974246273095/1116990974653112371/IMG_0910.png?ex=6a0f5ba9&is=6a0e0a29&hm=94520edea73c1ca3aff24548e06986381c560ee15cb1ca5bab6fd08013a7188f&",
+        "proxy_url": "https://media.discordapp.net/attachments/1116990974246273095/1116990974653112371/IMG_0910.png?ex=6a0f5ba9&is=6a0e0a29&hm=94520edea73c1ca3aff24548e06986381c560ee15cb1ca5bab6fd08013a7188f&",
+        "width": 120,
+        "height": 120,
+        "content_type": "image/jpeg",
+        "content_scan_version": 4
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2023-06-10T07:23:20.949000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1116990974246273095",
+    "channel_id": "1116990974246273095",
+    "author": {
+      "id": "810372480438239233",
+      "username": "elfinartist1906",
+      "avatar": "9ad9cdff92771f48501602ff4fe3b759",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "elfinartist1906",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "1102342435637559377",
+          "name": "Grumblo_xplode"
+        },
+        "count": 18,
+        "count_details": {
+          "burst": 0,
+          "normal": 18
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🛑"
+        },
+        "count": 11,
+        "count_details": {
+          "burst": 0,
+          "normal": 11
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "470152800291127316",
+          "name": "GodShrad"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "It looks like an exploit",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-06-10T07:43:22.638000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1116996014495248434",
+    "channel_id": "1116990974246273095",
+    "author": {
+      "id": "1007617786975109292",
+      "username": "skeleris_",
+      "avatar": "80a76c01de30d02648243a9ced5bcb57",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Skeleris",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "481714069930246147",
+          "name": "YES"
+        },
+        "count": 22,
+        "count_details": {
+          "burst": 0,
+          "normal": 22
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "552994580723924993",
+          "name": "cringe"
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "The actual way you're *supposed* to do it is with the Mage teleport (despite it saying no teleporting, that's just for map teleports), but it can become impossible if you get too far in progression. Also needs you to put a decent amount of points in the talent.\n\nI think it sometimes wouldn't work even under 132% Movespeed? I *think* I tried using the teleport talent while slightly below that, yet didn't get the achievement? Been awhile since then, so I might've just been crossing maps inefficiently.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-06-10T08:36:30.940000+00:00",
+    "edited_timestamp": "2023-06-10T08:42:40.499000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1117009387203072001",
+    "channel_id": "1116990974246273095",
+    "author": {
+      "id": "201332225881538561",
+      "username": "rhimona",
+      "avatar": "5ee0741629fd4cfbfadae4e224fca1d5",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Rinoa",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 1
+  },
+  {
+    "type": 0,
+    "content": "you may not teleport, but you can use the gem shop to skip parts of the larger maps if the respawning point is at the end of the map",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-06-10T09:06:24.752000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1117016910995914882",
+    "channel_id": "1116990974246273095",
+    "author": {
+      "id": "202221679663906826",
+      "username": "_muffi",
+      "avatar": "f0c8d3112afa6145faa102172f0a32a1",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "muffi 🐾",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "229259188856029184",
+        "identity_enabled": true,
+        "tag": "ESC",
+        "badge": "40a7aa796426347d6b76d20dfed2c273"
+      },
+      "primary_guild": {
+        "identity_guild_id": "229259188856029184",
+        "identity_enabled": true,
+        "tag": "ESC",
+        "badge": "40a7aa796426347d6b76d20dfed2c273"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 2
+  },
+  {
+    "type": 0,
+    "content": "I was able to do this very carefully with 131.8 (?) movespeed.  I noticed every 3 levels of the movement talent took me from 129, to 130, to 131, and I bought 2 more levels of the movement talent and it still said 131 movement speed.  Took about 5 tries to remember the exact position of where the portals are, but was able to do it on an archer class. I can confirm it is certainly possible.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-07-24T06:21:29.989000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1132920475438293105",
+    "channel_id": "1116990974246273095",
+    "author": {
+      "id": "304149031561592832",
+      "username": "rexierabbit",
+      "avatar": "3bf7c87e148b1682ce912e82c75a7859",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Rexie Rabbit",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1417311919429128312",
+          "asset": "nameplates/nameplate_bonanza/berry_bunny/",
+          "label": "COLLECTIBLES_NAMEPLATE_BONANZA_BERRY_BUNNY_NP_A11Y",
+          "palette": "berry"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 4
+  },
+  {
+    "type": 0,
+    "content": "does this till work?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-08-03T07:33:42.679000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1136562526713282560",
+    "channel_id": "1116990974246273095",
+    "author": {
+      "id": "487586773568978955",
+      "username": "bennithebest",
+      "avatar": "92de1d4681c572510fd6c9e69b9c0da2",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": {
+        "asset": "a_5889f65c4a28cdafc06847cc02790af1",
+        "sku_id": "1462116613674373345",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1462116614131548265",
+          "asset": "nameplates/gothica/nevermore/",
+          "label": "COLLECTIBLES_GOTHICA_NEVERMORE_NP_A11Y",
+          "palette": "white"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "484676017513037844",
+        "identity_enabled": true,
+        "tag": "GHG",
+        "badge": "24bd7c59017331a176d63f21ba6c2c29"
+      },
+      "primary_guild": {
+        "identity_guild_id": "484676017513037844",
+        "identity_enabled": true,
+        "tag": "GHG",
+        "badge": "24bd7c59017331a176d63f21ba6c2c29"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 5
+  },
+  {
+    "type": 0,
+    "content": "I did it by having 1 character in town and at the end switch from town to end character and it worked for me",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-10-22T03:15:17.187000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1165488521214177430",
+    "channel_id": "1116990974246273095",
+    "author": {
+      "id": "344237188114022403",
+      "username": "justice6683",
+      "avatar": "7e8370471ef893cdead65e96a0d03551",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Testit!#06421",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 6,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "all mine charachters have over 200 %, even if i reset everything i cant get below 132, so i guess just waiting for the new characther haha",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-10-24T12:37:27.691000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1166354772933230624",
+    "channel_id": "1116990974246273095",
+    "author": {
+      "id": "597391436769525760",
+      "username": "risingoodgame",
+      "avatar": "7dfdd16f133d68eeee4d616a8074b87d",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "RisinGG",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 7,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "1098086015396225065",
+          "name": "Grumblo_Pensive"
+        },
+        "count": 9,
+        "count_details": {
+          "burst": 0,
+          "normal": 9
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "Just go to all random events. If you're in W2 town and get the option to go to random event, the event teleport doesn't count against teleports for this. If the event is at efaunt's map entrance, then you get this achievement instantly.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-11-01T05:31:26.852000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1169146665928773702",
+    "channel_id": "1116990974246273095",
+    "author": {
+      "id": "377387304106328064",
+      "username": "42squared",
+      "avatar": "68b79bdf08e6a7dc025e8218067bb695",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "42Squared",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 8
+  },
+  {
+    "type": 0,
+    "content": "Does this still work? I feel like there should be more to it than just swapping character",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-11-13T15:51:29.195000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1173651358252019764",
+    "channel_id": "1116990974246273095",
+    "author": {
+      "id": "269621495167320064",
+      "username": "playerjj430",
+      "avatar": "e6080b993400da834426c54ac310396e",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Playerjj430",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 9
+  },
+  {
+    "type": 0,
+    "content": "Can confirm it does <@269621495167320064>",
+    "mentions": [
+      {
+        "id": "269621495167320064",
+        "username": "playerjj430",
+        "avatar": "e6080b993400da834426c54ac310396e",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Playerjj430",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1462574032464642309",
+          "identity_enabled": true,
+          "tag": "HOLO",
+          "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1462574032464642309",
+          "identity_enabled": true,
+          "tag": "HOLO",
+          "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1173893547649409124",
+        "filename": "image0.jpg",
+        "size": 206745,
+        "url": "https://cdn.discordapp.com/attachments/1116990974246273095/1173893547649409124/image0.jpg?ex=6a0f62cf&is=6a0e114f&hm=d947170cb67d35f9b1f3d13e709d2ea5449ae800da8c5a0f922432ed837cdac4&",
+        "proxy_url": "https://media.discordapp.net/attachments/1116990974246273095/1173893547649409124/image0.jpg?ex=6a0f62cf&is=6a0e114f&hm=d947170cb67d35f9b1f3d13e709d2ea5449ae800da8c5a0f922432ed837cdac4&",
+        "width": 2340,
+        "height": 1080,
+        "content_type": "image/jpeg",
+        "content_scan_version": 4,
+        "placeholder": "jhgKE4JFKElgioiIZFNABAU=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2023-11-14T07:53:51.697000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1173893547859136543",
+    "channel_id": "1116990974246273095",
+    "author": {
+      "id": "168749378419425280",
+      "username": "mister_ostroum",
+      "avatar": "8ace937a7a080d84c15c204a4fbdb80b",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Mister_Ostroum",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1320546674849874050",
+        "identity_enabled": true,
+        "tag": "FATE",
+        "badge": "8f311f0413ab74d6fba9ecd8b9bd4db2"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1320546674849874050",
+        "identity_enabled": true,
+        "tag": "FATE",
+        "badge": "8f311f0413ab74d6fba9ecd8b9bd4db2"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 10
+  },
+  {
+    "type": 19,
+    "content": "How do you do it?",
+    "mentions": [
+      {
+        "id": "168749378419425280",
+        "username": "mister_ostroum",
+        "avatar": "8ace937a7a080d84c15c204a4fbdb80b",
+        "discriminator": "0",
+        "public_flags": 128,
+        "flags": 128,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Mister_Ostroum",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1320546674849874050",
+          "identity_enabled": true,
+          "tag": "FATE",
+          "badge": "8f311f0413ab74d6fba9ecd8b9bd4db2"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1320546674849874050",
+          "identity_enabled": true,
+          "tag": "FATE",
+          "badge": "8f311f0413ab74d6fba9ecd8b9bd4db2"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-11-14T13:16:33.487000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1173974757092380672",
+    "channel_id": "1116990974246273095",
+    "author": {
+      "id": "269621495167320064",
+      "username": "playerjj430",
+      "avatar": "e6080b993400da834426c54ac310396e",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Playerjj430",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1116990974246273095",
+      "message_id": "1173893547859136543",
+      "guild_id": "437797104786604034"
+    },
+    "position": 11,
+    "referenced_message": {
+      "type": 0,
+      "content": "Can confirm it does <@269621495167320064>",
+      "mentions": [
+        {
+          "id": "269621495167320064",
+          "username": "playerjj430",
+          "avatar": "e6080b993400da834426c54ac310396e",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Playerjj430",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": {
+            "identity_guild_id": "1462574032464642309",
+            "identity_enabled": true,
+            "tag": "HOLO",
+            "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+          },
+          "primary_guild": {
+            "identity_guild_id": "1462574032464642309",
+            "identity_enabled": true,
+            "tag": "HOLO",
+            "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+          }
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [
+        {
+          "id": "1173893547649409124",
+          "filename": "image0.jpg",
+          "size": 206745,
+          "url": "https://cdn.discordapp.com/attachments/1116990974246273095/1173893547649409124/image0.jpg?ex=6a0f62cf&is=6a0e114f&hm=d947170cb67d35f9b1f3d13e709d2ea5449ae800da8c5a0f922432ed837cdac4&",
+          "proxy_url": "https://media.discordapp.net/attachments/1116990974246273095/1173893547649409124/image0.jpg?ex=6a0f62cf&is=6a0e114f&hm=d947170cb67d35f9b1f3d13e709d2ea5449ae800da8c5a0f922432ed837cdac4&",
+          "width": 2340,
+          "height": 1080,
+          "content_type": "image/jpeg",
+          "content_scan_version": 4,
+          "placeholder": "jhgKE4JFKElgioiIZFNABAU=",
+          "placeholder_version": 1
+        }
+      ],
+      "embeds": [],
+      "timestamp": "2023-11-14T07:53:51.697000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1173893547859136543",
+      "channel_id": "1116990974246273095",
+      "author": {
+        "id": "168749378419425280",
+        "username": "mister_ostroum",
+        "avatar": "8ace937a7a080d84c15c204a4fbdb80b",
+        "discriminator": "0",
+        "public_flags": 128,
+        "flags": 128,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Mister_Ostroum",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1320546674849874050",
+          "identity_enabled": true,
+          "tag": "FATE",
+          "badge": "8f311f0413ab74d6fba9ecd8b9bd4db2"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1320546674849874050",
+          "identity_enabled": true,
+          "tag": "FATE",
+          "badge": "8f311f0413ab74d6fba9ecd8b9bd4db2"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 10
+    }
+  },
+  {
+    "type": 0,
+    "content": "oh wait, its beause I have too much move speed maybe",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-11-14T13:16:57.910000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1173974859529846864",
+    "channel_id": "1116990974246273095",
+    "author": {
+      "id": "269621495167320064",
+      "username": "playerjj430",
+      "avatar": "e6080b993400da834426c54ac310396e",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Playerjj430",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 12
+  },
+  {
+    "type": 0,
+    "content": "I logged on first char, tped him to town 2, tped this one to djinni, reloaded first one, reloaded second one. <@269621495167320064>",
+    "mentions": [
+      {
+        "id": "269621495167320064",
+        "username": "playerjj430",
+        "avatar": "e6080b993400da834426c54ac310396e",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Playerjj430",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1462574032464642309",
+          "identity_enabled": true,
+          "tag": "HOLO",
+          "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1462574032464642309",
+          "identity_enabled": true,
+          "tag": "HOLO",
+          "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-11-14T13:30:29.279000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1173978262658105394",
+    "channel_id": "1116990974246273095",
+    "author": {
+      "id": "168749378419425280",
+      "username": "mister_ostroum",
+      "avatar": "8ace937a7a080d84c15c204a4fbdb80b",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Mister_Ostroum",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1320546674849874050",
+        "identity_enabled": true,
+        "tag": "FATE",
+        "badge": "8f311f0413ab74d6fba9ecd8b9bd4db2"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1320546674849874050",
+        "identity_enabled": true,
+        "tag": "FATE",
+        "badge": "8f311f0413ab74d6fba9ecd8b9bd4db2"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 13
+  },
+  {
+    "type": 0,
+    "content": "Sooo... I've been ignoring achievements for a while and my lowest respecced character has above 138% movespeed..\n\nWhat now?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-11-17T12:02:29.519000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1175043281336418394",
+    "channel_id": "1116990974246273095",
+    "author": {
+      "id": "635106186588454923",
+      "username": "zeehraaa.",
+      "avatar": "f5e05cca41e822abbae72fb3f31e1942",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "zeehraaa",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 15
+  },
+  {
+    "type": 19,
+    "content": "Tfw you create a new character and they are at 180% speed from the get go",
+    "mentions": [
+      {
+        "id": "597391436769525760",
+        "username": "risingoodgame",
+        "avatar": "7dfdd16f133d68eeee4d616a8074b87d",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "RisinGG",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-11-17T21:18:58.470000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1175183324747137125",
+    "channel_id": "1116990974246273095",
+    "author": {
+      "id": "176432913368219648",
+      "username": "feds3317",
+      "avatar": "5b85672c9a7f70441f55540c5a4e265c",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Feds",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1116990974246273095",
+      "message_id": "1166354772933230624",
+      "guild_id": "437797104786604034"
+    },
+    "position": 16,
+    "referenced_message": {
+      "type": 0,
+      "content": "all mine charachters have over 200 %, even if i reset everything i cant get below 132, so i guess just waiting for the new characther haha",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2023-10-24T12:37:27.691000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1166354772933230624",
+      "channel_id": "1116990974246273095",
+      "author": {
+        "id": "597391436769525760",
+        "username": "risingoodgame",
+        "avatar": "7dfdd16f133d68eeee4d616a8074b87d",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "RisinGG",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 7
+    }
+  },
+  {
+    "type": 19,
+    "content": "Hasn't worked for me",
+    "mentions": [
+      {
+        "id": "377387304106328064",
+        "username": "42squared",
+        "avatar": "68b79bdf08e6a7dc025e8218067bb695",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "42Squared",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-11-20T01:38:33.749000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1175973427933364285",
+    "channel_id": "1116990974246273095",
+    "author": {
+      "id": "481609341745627150",
+      "username": "barbie_jean",
+      "avatar": "c99fd12252a5206771ebc6cc8ae9abad",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Bi0tCh",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1116990974246273095",
+      "message_id": "1169146665928773702",
+      "guild_id": "437797104786604034"
+    },
+    "position": 17,
+    "referenced_message": {
+      "type": 0,
+      "content": "Just go to all random events. If you're in W2 town and get the option to go to random event, the event teleport doesn't count against teleports for this. If the event is at efaunt's map entrance, then you get this achievement instantly.",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2023-11-01T05:31:26.852000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1169146665928773702",
+      "channel_id": "1116990974246273095",
+      "author": {
+        "id": "377387304106328064",
+        "username": "42squared",
+        "avatar": "68b79bdf08e6a7dc025e8218067bb695",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "42Squared",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 8
+    }
+  },
+  {
+    "type": 0,
+    "content": "damn that *still* works",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-09-05T08:31:07.989000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1281169735765200900",
+    "channel_id": "1116990974246273095",
+    "author": {
+      "id": "358286435633201153",
+      "username": "20jonas02",
+      "avatar": "1e39d707f45a4a161cf6463deb0905d6",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "20jonas02",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 20
+  },
+  {
+    "type": 0,
+    "content": "Damn, you guys won't believe it-",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-02-11T23:38:43.758000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1339017810445209632",
+    "channel_id": "1116990974246273095",
+    "author": {
+      "id": "258470365221748737",
+      "username": "omnibeta",
+      "avatar": "848fb9e92178aa60426eb42b571269a7",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "OmniBeta",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 21,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "😂"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,205 @@
+[
+  {
+    "type": 0,
+    "content": "The odds of getting any one type of directional\nThe odds of once a directional is pulled, what bonus it will provide\n\nDoes NOT account for the value of the bonus, just the chance of it being rolled in the first place.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1431876775385763890",
+        "filename": "image.png",
+        "size": 60194,
+        "url": "https://cdn.discordapp.com/attachments/1431876775058739210/1431876775385763890/image.png?ex=6a0f406a&is=6a0deeea&hm=29d74898aa3d50ab23621b07c39d1d049f9ce9dc7383267b8118501ef18b36cf&",
+        "proxy_url": "https://media.discordapp.net/attachments/1431876775058739210/1431876775385763890/image.png?ex=6a0f406a&is=6a0deeea&hm=29d74898aa3d50ab23621b07c39d1d049f9ce9dc7383267b8118501ef18b36cf&",
+        "width": 700,
+        "height": 780,
+        "content_type": "image/webp",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "+fcJDgL1asc4loh3iHObi2aH+n+T/zc=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2025-10-26T05:27:06.158000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1431876775058739210",
+    "channel_id": "1431876775058739210",
+    "author": {
+      "id": "258524947922681856",
+      "username": "bradlikesfeet",
+      "avatar": "2f5153799cb7f10fb7a3489d7eede18a",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "ZAMN",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 12,
+        "count_details": {
+          "burst": 0,
+          "normal": 12
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "https://cdn.discordapp.com/attachments/1236455214668583067/1431336568521490512/yeah.gif",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "image",
+        "url": "https://cdn.discordapp.com/attachments/1236455214668583067/1431336568521490512/yeah.gif",
+        "thumbnail": {
+          "url": "https://cdn.discordapp.com/attachments/1236455214668583067/1431336568521490512/yeah.gif?ex=6a0f438e&is=6a0df20e&hm=76ed7ca3060a514ed68ed9877b16ae281aa05ea273fef2a52d3054ac6ca644f7&",
+          "proxy_url": "https://media.discordapp.net/attachments/1236455214668583067/1431336568521490512/yeah.gif?ex=6a0f438e&is=6a0df20e&hm=76ed7ca3060a514ed68ed9877b16ae281aa05ea273fef2a52d3054ac6ca644f7&",
+          "width": 66,
+          "height": 57,
+          "content_type": "image/gif",
+          "placeholder": "WCyGFIA4jHObSDBZxckIIlDacGiZNnV3Bg==",
+          "placeholder_version": 1,
+          "flags": 32
+        },
+        "content_scan_version": 4
+      }
+    ],
+    "timestamp": "2025-10-26T15:28:23.310000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1432028093601681439",
+    "channel_id": "1431876775058739210",
+    "author": {
+      "id": "878005890182156379",
+      "username": "bakanobu9979",
+      "avatar": "776caa9a984f2a8afab105aa4dbe8651",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "BakaNobu",
+      "avatar_decoration_data": {
+        "asset": "a_17e170cd07a325877152cc0ae31c3219",
+        "sku_id": "1432550258256121966",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1432550258357043320",
+          "asset": "nameplates/cosmos/cosmic_twilight_flow_amethyst/",
+          "label": "COLLECTIBLES_COSMOS_COSMIC_TWILIGHT_FLOW_AMETHYST_NP_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "😂"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "cog",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-18T23:02:40.038000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1440477337513627669",
+    "channel_id": "1431876775058739210",
+    "author": {
+      "id": "165776299502206977",
+      "username": "tobben94",
+      "avatar": "18151037c12d585b77e9002359caf6d4",
+      "discriminator": "0",
+      "public_flags": 768,
+      "flags": 768,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Tobben",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 1
+  }
+]

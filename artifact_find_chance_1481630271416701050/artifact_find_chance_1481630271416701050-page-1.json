@@ -1,0 +1,587 @@
+[
+  {
+    "type": 0,
+    "content": "With the addition of Transcendent Artifacts I found myself lacking a lot of Artifact Find Chance.\nI've tried to gather all the available sources below, please let me know if something is missing!",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1481630271835996180",
+        "filename": "ArtifactFindChance_thumbnail.png",
+        "size": 67692,
+        "url": "https://cdn.discordapp.com/attachments/1481630271416701050/1481630271835996180/ArtifactFindChance_thumbnail.png?ex=6a0efab8&is=6a0da938&hm=a5367b2b3fe7dd1e5b03b2fe003d1d97e040d25128517ceeb7faab9ac81f8232&",
+        "proxy_url": "https://media.discordapp.net/attachments/1481630271416701050/1481630271835996180/ArtifactFindChance_thumbnail.png?ex=6a0efab8&is=6a0da938&hm=a5367b2b3fe7dd1e5b03b2fe003d1d97e040d25128517ceeb7faab9ac81f8232&",
+        "width": 401,
+        "height": 153,
+        "content_type": "image/webp",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "VjgGE4Z4iHeQiFh5iICKOfg=",
+        "placeholder_version": 1,
+        "title": "ArtifactFindChance thumbnail"
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2026-03-12T12:29:44.065000+00:00",
+    "edited_timestamp": "2026-03-12T12:31:18.776000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1481630271416701050",
+    "channel_id": "1481630271416701050",
+    "author": {
+      "id": "107801450771419136",
+      "username": "sanktas",
+      "avatar": "5d7fa659fbe3bd84683f14e3f8904373",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Sanktas",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 14,
+        "count_details": {
+          "burst": 0,
+          "normal": 14
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1114306970816630876",
+          "name": "Grumblo_Pray"
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "**Artifact Find Chance - Collection**\n\n**-- World 1 --**\n* Bribes\n--> % Bonus - (20%) -- Artifact Pilfering\n\n* Star Signs\n--> % Bonus - (15%) -- Hydron -> 'Artifosho'\n\n* Upgrade Vault\n--> % Bonus  -- Artifact Find Chance (Below Vault Mastery 2)\n\n\n**-- World 2 --**\n* Arcade Shop (Spirit Reindeer is x2)\n--> % Bonus - (25% normal, 50% Super) - Blue Background Artifact Find\n--> % Bonus - (30% normal, 60% Super)- Yellow Background Artifact Find\n\n* Fractal Island\n--> x Multiplier - (1.20x) - 2500 Hours Nothing AFK\n\n* Killroy\n--> x Multiplier\n\n* Vote Ballot\n--> x Multiplier \n\n* Alchemy Vial\n--> % Bonus Multiplicative - Turtle Tisane Vial\n\n\n**-- World 4 --**\n* Laboratory Mainframe\n--> x Multiplier - (1.5x) - Artifact Attraction (Unlocked in JadeEmporium)\n\n* Laboratory Console\n--> Star sign doubler \n(Make sure you have ArtifactFindChance star sign equipped)\n(Hydron -> 'Artifosho')\n\n* Tome bonus\n--> x Multiplier (More score = higher ArtifactFindChance)\n\n* Breeding Shiny Pets\n--> % Bonus - (Soda can, Tyson, Mamooth -- Shiny passive bonus)\n\n_",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-03-12T12:30:15.447000+00:00",
+    "edited_timestamp": "2026-03-14T07:52:17.766000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1481630403042213963",
+    "channel_id": "1481630271416701050",
+    "author": {
+      "id": "107801450771419136",
+      "username": "sanktas",
+      "avatar": "5d7fa659fbe3bd84683f14e3f8904373",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Sanktas",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "💚"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "**-- World 5 --**\n* Sailing Islands\n--> % Bonus - (1% per sailing LV.) - Safari island = Fauxory Tusk Artifact\n\n* Sailing Captains\n--> % Bonus - (+ ArtifactFindChance bonus on captains)\n--> % Bonus Multiplicative - (Endercaptain +25% multi account-wide bonus, per captain)\n\n* Gaming Duper Bits\n--> x Multiplier - (1.02x per Spelunk Discovery) - 'Artifacto Discoveries'\n\n* Gaming Palette\n--> x Multiplier - (Bright Cyan)\n\n* Hole - Engineer\n--> % Bonus - 10% for every Power of 10 Natural Notes (Tune of Artifaction)\n\n* Hole - Monument of Justice\n--> x Multiplier\n\n\n**-- World 6 --**\n* Farming Exotic Market\n--> x Multiplier (5 Leaf Clover)\n\n* Farming Stickers\n--> % Bonus - (Chocotastic Muffin Sticker (3rd crop))\n\n* Sneaking Charms\n--> x Multiplier - (1.40x) - Pristine charm \"Glowing Veil\"\n\n* Summoning Winner Bonus\n--> x Multiplier\n\n* Summoning Battle - (Thanks to Chairnatomy for filling the list)\n--> x Multiplier (1.53x) - Battle White 5\n--> x Multiplier (1.7x) - Battle Green 8\n--> x Multiplier (1.53x) - Battle Green 12\n--> x Multiplier (1.7x) - Battle Yellow 10\n--> x Multiplier (1.7x) - Battle Blue 8\n--> x Multiplier (1.88x) - Battle Purple 11\n--> x Multiplier (1.53x) - Battle Red 12\n--> x Multiplier (1.6x) - Battle Teal 2\n--> x Multiplier (1.7x) - Battle Teal 7\n--> x Multiplier (1.81x) - Battle Teal 11\n\n\n\n**-- World 7 --**\n* Research\n--> % Bonus - ResearchGrid J7 (Transcendent Artifacts)\n\n* Legend Talents\n--> x Multiplier - (1.60x bonus to \"Davey Jones Training\" gemshop purchase)\nBrown 7\n\n\n**-- Gemshop --**\n* World 5 Bonuses\n--> x Multiplier - Davey Jones Training (8 upgrades)\n\n\n**-- Pets --**\n* Shallow Waters\n--> x Multiplier (1.25x) - Litterfish\n\n* Exclusive Pets\n--> x Multiplier (2.00x) - Glimbo",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-03-12T12:30:26.610000+00:00",
+    "edited_timestamp": "2026-03-14T07:54:32.976000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1481630449863491687",
+    "channel_id": "1481630271416701050",
+    "author": {
+      "id": "107801450771419136",
+      "username": "sanktas",
+      "avatar": "5d7fa659fbe3bd84683f14e3f8904373",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Sanktas",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 1,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "👀"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "-\n-\n-\n-",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-03-12T12:32:34.957000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1481630988189700198",
+    "channel_id": "1481630271416701050",
+    "author": {
+      "id": "107801450771419136",
+      "username": "sanktas",
+      "avatar": "5d7fa659fbe3bd84683f14e3f8904373",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Sanktas",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 2
+  },
+  {
+    "type": 0,
+    "content": "-\n-\n-\n-",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-03-12T12:32:37.678000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1481630999602528359",
+    "channel_id": "1481630271416701050",
+    "author": {
+      "id": "107801450771419136",
+      "username": "sanktas",
+      "avatar": "5d7fa659fbe3bd84683f14e3f8904373",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Sanktas",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 3
+  },
+  {
+    "type": 0,
+    "content": "I was wrong about Killroy being linear.\nAt the time, I hadn't had very much upgrades to it, so it was leveling each 4.\nNow at around 1.64x, it's taking 8+ to get +0.01x\n\nEven more, now at 1.66x, It hasn't leveled in over 20 purchases.\nSo it levels decently till somewhere between 1.5x and 1.6x, where it slows extremely hard.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-03-12T22:07:41.074000+00:00",
+    "edited_timestamp": "2026-05-08T11:52:52.997000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1481775717334126682",
+    "channel_id": "1481630271416701050",
+    "author": {
+      "id": "1277289011785891972",
+      "username": "chairnatomy.",
+      "avatar": "4d91135cdc18159147209c1f464a321a",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "chairnatomy",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 4,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "🫡"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "full list of summoning battles for arti chance\n(1.53x) - Battle White 5\n(1.7x) - Battle Green 8\n(1.53x) - Battle Green 12\n(1.7x) - Battle Yellow 10\n(1.7x) - Battle Blue 8\n(1.88x) - Battle Purple 11\n(1.53x) - Battle Red 12\n(1.6x) - Battle Teal 2\n(1.7x) - Battle Teal 7\n(1.81x) - Battle Teal 11",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-03-12T22:45:23.438000+00:00",
+    "edited_timestamp": "2026-03-15T00:43:23.054000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1481785206376632470",
+    "channel_id": "1481630271416701050",
+    "author": {
+      "id": "1277289011785891972",
+      "username": "chairnatomy.",
+      "avatar": "4d91135cdc18159147209c1f464a321a",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "chairnatomy",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 5,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "🫡"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "!weeklyboss",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-05-07T17:19:01.603000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1501996794681495816",
+    "channel_id": "1481630271416701050",
+    "author": {
+      "id": "1474187516050669761",
+      "username": "guti_59.",
+      "avatar": null,
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Guti_59",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 8
+  },
+  {
+    "type": 0,
+    "content": "Want the W2 Weekly Boss kill strategies? Of course you do. You can head to https://discord.com/channels/437797104786604034/1157094107085283428 and read the pins.\r\n\r\nWant to know the strategies for future weeks too? [Check out the Google Sheet](<https://docs.google.com/spreadsheets/d/1z1P2ouvYhe2pryWoF0kIQE7QichYpJt1GaPPos-e-aw/edit#gid=0>) made by Roronoa Zoro and DiamondDoge.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-05-07T17:19:01.998000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1501996796338114591",
+    "channel_id": "1481630271416701050",
+    "author": {
+      "id": "828161279256297525",
+      "username": "Lava Lad",
+      "avatar": "34545fc87583fedfbcb5ecf8900fcc1d",
+      "discriminator": "4583",
+      "public_flags": 0,
+      "flags": 0,
+      "bot": true,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 9
+  },
+  {
+    "type": 0,
+    "content": "ard",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-05-08T10:13:54.490000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1502252197960745040",
+    "channel_id": "1481630271416701050",
+    "author": {
+      "id": "678323050504126484",
+      "username": "aslsl123",
+      "avatar": null,
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Laurens",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 10
+  }
+]

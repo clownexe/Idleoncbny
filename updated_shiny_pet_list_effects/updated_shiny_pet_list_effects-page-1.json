@@ -1,0 +1,1815 @@
+[
+  {
+    "type": 0,
+    "content": "<@283188158961811456> is the creator, questions and thanks to them.\n\nupdates: nacho added",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1099088196291264623",
+        "filename": "ShinyPetEffect.png",
+        "size": 544582,
+        "url": "https://cdn.discordapp.com/attachments/1099088196027027606/1099088196291264623/ShinyPetEffect.png?ex=6a0ed3e6&is=6a0d8266&hm=7ce98566e71be6e283067c353b464ee2b0d1e10dfef5aa71644735cf376db15e&",
+        "proxy_url": "https://media.discordapp.net/attachments/1099088196027027606/1099088196291264623/ShinyPetEffect.png?ex=6a0ed3e6&is=6a0d8266&hm=7ce98566e71be6e283067c353b464ee2b0d1e10dfef5aa71644735cf376db15e&",
+        "width": 875,
+        "height": 775,
+        "content_type": "image/png",
+        "content_scan_version": 4
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2023-04-21T21:44:06.004000+00:00",
+    "edited_timestamp": "2023-04-21T21:48:17.101000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1099088196027027606",
+    "channel_id": "1099088196027027606",
+    "author": {
+      "id": "153712812454051840",
+      "username": "sakii_nightshade",
+      "avatar": "22048356f2d67e6c2da073031ad289ef",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Sakii~!",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "77176186148499456",
+        "identity_enabled": true,
+        "tag": "WFCD",
+        "badge": "b77980ae47597b59f50923edbad59ea9"
+      },
+      "primary_guild": {
+        "identity_guild_id": "77176186148499456",
+        "identity_enabled": true,
+        "tag": "WFCD",
+        "badge": "b77980ae47597b59f50923edbad59ea9"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 164,
+        "count_details": {
+          "burst": 0,
+          "normal": 164
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "812252292597547018",
+          "name": "Hearto"
+        },
+        "count": 12,
+        "count_details": {
+          "burst": 0,
+          "normal": 12
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "😽"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "570507518141267978",
+          "name": "doghead"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1418636960683130980",
+          "name": "JynxziW"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "what was updated?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-04-21T21:45:06.701000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1099088450608697455",
+    "channel_id": "1099088196027027606",
+    "author": {
+      "id": "473530353244438530",
+      "username": "dark_foxxy",
+      "avatar": "572a7e6e811a0b9b153613f9eb6a4483",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "DarkFoxxy",
+      "avatar_decoration_data": {
+        "asset": "a_be111e4303d634c55500202a61656e0b",
+        "sku_id": "1298033986571866112",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "998292567408001034",
+        "identity_enabled": true,
+        "tag": "MOFU",
+        "badge": "ec60c5e6d1f14d3bbff586e2e0b9e54e"
+      },
+      "primary_guild": {
+        "identity_guild_id": "998292567408001034",
+        "identity_enabled": true,
+        "tag": "MOFU",
+        "badge": "ec60c5e6d1f14d3bbff586e2e0b9e54e"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0
+  },
+  {
+    "type": 0,
+    "content": "I thought it already had Hedgehog, rat and panda before? Nacho is new, though.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-04-21T21:47:15.371000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1099088990289805372",
+    "channel_id": "1099088196027027606",
+    "author": {
+      "id": "201332225881538561",
+      "username": "rhimona",
+      "avatar": "5ee0741629fd4cfbfadae4e224fca1d5",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Rinoa",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 1
+  },
+  {
+    "type": 0,
+    "content": "Why did you need to make a new thread to update the list? Does Discord not let you edit it in?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-04-21T21:53:48.993000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1099090641260122222",
+    "channel_id": "1099088196027027606",
+    "author": {
+      "id": "201332225881538561",
+      "username": "rhimona",
+      "avatar": "5ee0741629fd4cfbfadae4e224fca1d5",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Rinoa",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 2
+  },
+  {
+    "type": 0,
+    "content": "<a:PepeLaugh:797102901621162014>",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-04-21T21:58:29.219000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1099091816613155046",
+    "channel_id": "1099088196027027606",
+    "author": {
+      "id": "138769677902938112",
+      "username": "thunda8",
+      "avatar": "5badd64ccc6817cf72cdf60026026421",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Thunda",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 3
+  },
+  {
+    "type": 19,
+    "content": "wouldnt let me replace the picture",
+    "mentions": [
+      {
+        "id": "201332225881538561",
+        "username": "rhimona",
+        "avatar": "5ee0741629fd4cfbfadae4e224fca1d5",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Rinoa",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1462574032464642309",
+          "identity_enabled": true,
+          "tag": "HOLO",
+          "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1462574032464642309",
+          "identity_enabled": true,
+          "tag": "HOLO",
+          "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-04-22T23:34:01.166000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1099478246006980608",
+    "channel_id": "1099088196027027606",
+    "author": {
+      "id": "153712812454051840",
+      "username": "sakii_nightshade",
+      "avatar": "22048356f2d67e6c2da073031ad289ef",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Sakii~!",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "77176186148499456",
+        "identity_enabled": true,
+        "tag": "WFCD",
+        "badge": "b77980ae47597b59f50923edbad59ea9"
+      },
+      "primary_guild": {
+        "identity_guild_id": "77176186148499456",
+        "identity_enabled": true,
+        "tag": "WFCD",
+        "badge": "b77980ae47597b59f50923edbad59ea9"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1099088196027027606",
+      "message_id": "1099090641260122222",
+      "guild_id": "437797104786604034"
+    },
+    "position": 4,
+    "referenced_message": {
+      "type": 0,
+      "content": "Why did you need to make a new thread to update the list? Does Discord not let you edit it in?",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2023-04-21T21:53:48.993000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1099090641260122222",
+      "channel_id": "1099088196027027606",
+      "author": {
+        "id": "201332225881538561",
+        "username": "rhimona",
+        "avatar": "5ee0741629fd4cfbfadae4e224fca1d5",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Rinoa",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1462574032464642309",
+          "identity_enabled": true,
+          "tag": "HOLO",
+          "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1462574032464642309",
+          "identity_enabled": true,
+          "tag": "HOLO",
+          "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 2
+    }
+  },
+  {
+    "type": 0,
+    "content": "Green Mushroom was +3% at level one, Squirrel was +2 Star Signs at level one.\n\nMight be like sailing captains, going up by the base bonus per level? I haven't seen the Lv.3 versions yet.\nHopefully someone with a more complete set will post all the Lv.1 Shiny Passives? It's easier pick and choose, when you know that a +?% bonus is a +1%... or not, as the case may be.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-04-23T22:42:54.648000+00:00",
+    "edited_timestamp": "2023-04-23T22:43:20.153000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1099827771963867167",
+    "channel_id": "1099088196027027606",
+    "author": {
+      "id": "201332225881538561",
+      "username": "rhimona",
+      "avatar": "5ee0741629fd4cfbfadae4e224fca1d5",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Rinoa",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 5
+  },
+  {
+    "type": 0,
+    "content": "",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1099827828503105597",
+        "filename": "image.png",
+        "size": 449253,
+        "url": "https://cdn.discordapp.com/attachments/1099088196027027606/1099827828503105597/image.png?ex=6a0ee1bc&is=6a0d903c&hm=3337127d35084acb6efef7c143c8e0a4e75e1d05ab6d5a59251112fc411ccaab&",
+        "proxy_url": "https://media.discordapp.net/attachments/1099088196027027606/1099827828503105597/image.png?ex=6a0ee1bc&is=6a0d903c&hm=3337127d35084acb6efef7c143c8e0a4e75e1d05ab6d5a59251112fc411ccaab&",
+        "width": 2231,
+        "height": 502,
+        "content_type": "image/png",
+        "content_scan_version": 4
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2023-04-23T22:43:08.226000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1099827828914135070",
+    "channel_id": "1099088196027027606",
+    "author": {
+      "id": "201332225881538561",
+      "username": "rhimona",
+      "avatar": "5ee0741629fd4cfbfadae4e224fca1d5",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Rinoa",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 6
+  },
+  {
+    "type": 0,
+    "content": "",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1099827896757010472",
+        "filename": "image.png",
+        "size": 346961,
+        "url": "https://cdn.discordapp.com/attachments/1099088196027027606/1099827896757010472/image.png?ex=6a0ee1cc&is=6a0d904c&hm=2406eb255445a77c07a081d3258a70f1b60e0d4c47b0a5ad43aecbe0a040c62c&",
+        "proxy_url": "https://media.discordapp.net/attachments/1099088196027027606/1099827896757010472/image.png?ex=6a0ee1cc&is=6a0d904c&hm=2406eb255445a77c07a081d3258a70f1b60e0d4c47b0a5ad43aecbe0a040c62c&",
+        "width": 2230,
+        "height": 488,
+        "content_type": "image/png",
+        "content_scan_version": 4
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2023-04-23T22:43:24.499000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1099827897168044052",
+    "channel_id": "1099088196027027606",
+    "author": {
+      "id": "201332225881538561",
+      "username": "rhimona",
+      "avatar": "5ee0741629fd4cfbfadae4e224fca1d5",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Rinoa",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 7,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "🔥"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🥇"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "😂"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "doesnt matter what world the pet is from, if they share a effect they share a bonus",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-04-23T22:48:47.529000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1099829252054077440",
+    "channel_id": "1099088196027027606",
+    "author": {
+      "id": "473530353244438530",
+      "username": "dark_foxxy",
+      "avatar": "572a7e6e811a0b9b153613f9eb6a4483",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "DarkFoxxy",
+      "avatar_decoration_data": {
+        "asset": "a_be111e4303d634c55500202a61656e0b",
+        "sku_id": "1298033986571866112",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "998292567408001034",
+        "identity_enabled": true,
+        "tag": "MOFU",
+        "badge": "ec60c5e6d1f14d3bbff586e2e0b9e54e"
+      },
+      "primary_guild": {
+        "identity_guild_id": "998292567408001034",
+        "identity_enabled": true,
+        "tag": "MOFU",
+        "badge": "ec60c5e6d1f14d3bbff586e2e0b9e54e"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 8
+  },
+  {
+    "type": 19,
+    "content": "It doesn't let you edit/change image because discord = stupid.",
+    "mentions": [
+      {
+        "id": "201332225881538561",
+        "username": "rhimona",
+        "avatar": "5ee0741629fd4cfbfadae4e224fca1d5",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Rinoa",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1462574032464642309",
+          "identity_enabled": true,
+          "tag": "HOLO",
+          "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1462574032464642309",
+          "identity_enabled": true,
+          "tag": "HOLO",
+          "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-04-25T15:44:19.685000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1100447207905304608",
+    "channel_id": "1099088196027027606",
+    "author": {
+      "id": "528405236583366666",
+      "username": "goostz",
+      "avatar": "281c4edc230d8aa5f018e10e5d2d365d",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Goostz",
+      "avatar_decoration_data": {
+        "asset": "a_16c37062979f43db8074d72792890f50",
+        "sku_id": "1498719106642219108",
+        "expires_at": 1783666799
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1417311919454425269",
+          "asset": "nameplates/nameplate_bonanza/the_same_duck/",
+          "label": "COLLECTIBLES_NAMEPLATE_BONANZA_THE_SAME_DUCK_NP_A11Y",
+          "palette": "forest"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "309399445785673728",
+        "identity_enabled": true,
+        "tag": "SLAY",
+        "badge": "d202755dd05fb1b3f6740522de386c9e"
+      },
+      "primary_guild": {
+        "identity_guild_id": "309399445785673728",
+        "identity_enabled": true,
+        "tag": "SLAY",
+        "badge": "d202755dd05fb1b3f6740522de386c9e"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1099088196027027606",
+      "message_id": "1099090641260122222",
+      "guild_id": "437797104786604034"
+    },
+    "position": 9,
+    "referenced_message": {
+      "type": 0,
+      "content": "Why did you need to make a new thread to update the list? Does Discord not let you edit it in?",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2023-04-21T21:53:48.993000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1099090641260122222",
+      "channel_id": "1099088196027027606",
+      "author": {
+        "id": "201332225881538561",
+        "username": "rhimona",
+        "avatar": "5ee0741629fd4cfbfadae4e224fca1d5",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Rinoa",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1462574032464642309",
+          "identity_enabled": true,
+          "tag": "HOLO",
+          "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1462574032464642309",
+          "identity_enabled": true,
+          "tag": "HOLO",
+          "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 2
+    }
+  },
+  {
+    "type": 0,
+    "content": "That's why I add cards stuff as comments and not at the top.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-04-25T15:44:58.797000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1100447371952918598",
+    "channel_id": "1099088196027027606",
+    "author": {
+      "id": "528405236583366666",
+      "username": "goostz",
+      "avatar": "281c4edc230d8aa5f018e10e5d2d365d",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Goostz",
+      "avatar_decoration_data": {
+        "asset": "a_16c37062979f43db8074d72792890f50",
+        "sku_id": "1498719106642219108",
+        "expires_at": 1783666799
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1417311919454425269",
+          "asset": "nameplates/nameplate_bonanza/the_same_duck/",
+          "label": "COLLECTIBLES_NAMEPLATE_BONANZA_THE_SAME_DUCK_NP_A11Y",
+          "palette": "forest"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "309399445785673728",
+        "identity_enabled": true,
+        "tag": "SLAY",
+        "badge": "d202755dd05fb1b3f6740522de386c9e"
+      },
+      "primary_guild": {
+        "identity_guild_id": "309399445785673728",
+        "identity_enabled": true,
+        "tag": "SLAY",
+        "badge": "d202755dd05fb1b3f6740522de386c9e"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 10
+  },
+  {
+    "type": 19,
+    "content": "that's not strictly true, bonuses for a given pet level up independently even if the effect stacks with another pet",
+    "mentions": [
+      {
+        "id": "473530353244438530",
+        "username": "dark_foxxy",
+        "avatar": "572a7e6e811a0b9b153613f9eb6a4483",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "DarkFoxxy",
+        "avatar_decoration_data": {
+          "asset": "a_be111e4303d634c55500202a61656e0b",
+          "sku_id": "1298033986571866112",
+          "expires_at": null
+        },
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "998292567408001034",
+          "identity_enabled": true,
+          "tag": "MOFU",
+          "badge": "ec60c5e6d1f14d3bbff586e2e0b9e54e"
+        },
+        "primary_guild": {
+          "identity_guild_id": "998292567408001034",
+          "identity_enabled": true,
+          "tag": "MOFU",
+          "badge": "ec60c5e6d1f14d3bbff586e2e0b9e54e"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-04-26T16:51:37.627000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1100826532127199284",
+    "channel_id": "1099088196027027606",
+    "author": {
+      "id": "355309263368749057",
+      "username": "alexandria343",
+      "avatar": null,
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Alexandria",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1099088196027027606",
+      "message_id": "1099829252054077440",
+      "guild_id": "437797104786604034"
+    },
+    "position": 11,
+    "referenced_message": {
+      "type": 0,
+      "content": "doesnt matter what world the pet is from, if they share a effect they share a bonus",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2023-04-23T22:48:47.529000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1099829252054077440",
+      "channel_id": "1099088196027027606",
+      "author": {
+        "id": "473530353244438530",
+        "username": "dark_foxxy",
+        "avatar": "572a7e6e811a0b9b153613f9eb6a4483",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "DarkFoxxy",
+        "avatar_decoration_data": {
+          "asset": "a_be111e4303d634c55500202a61656e0b",
+          "sku_id": "1298033986571866112",
+          "expires_at": null
+        },
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "998292567408001034",
+          "identity_enabled": true,
+          "tag": "MOFU",
+          "badge": "ec60c5e6d1f14d3bbff586e2e0b9e54e"
+        },
+        "primary_guild": {
+          "identity_guild_id": "998292567408001034",
+          "identity_enabled": true,
+          "tag": "MOFU",
+          "badge": "ec60c5e6d1f14d3bbff586e2e0b9e54e"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 8
+    }
+  },
+  {
+    "type": 0,
+    "content": "The amount given per level is shared, the base amount",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-04-26T21:01:04.741000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1100889308753297468",
+    "channel_id": "1099088196027027606",
+    "author": {
+      "id": "473530353244438530",
+      "username": "dark_foxxy",
+      "avatar": "572a7e6e811a0b9b153613f9eb6a4483",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "DarkFoxxy",
+      "avatar_decoration_data": {
+        "asset": "a_be111e4303d634c55500202a61656e0b",
+        "sku_id": "1298033986571866112",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "998292567408001034",
+        "identity_enabled": true,
+        "tag": "MOFU",
+        "badge": "ec60c5e6d1f14d3bbff586e2e0b9e54e"
+      },
+      "primary_guild": {
+        "identity_guild_id": "998292567408001034",
+        "identity_enabled": true,
+        "tag": "MOFU",
+        "badge": "ec60c5e6d1f14d3bbff586e2e0b9e54e"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 12
+  },
+  {
+    "type": 0,
+    "content": "I wouldn't use the word share here, but yeah, for a given bonus, the pets all give the same number per level",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-04-26T21:13:11.978000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1100892359006363768",
+    "channel_id": "1099088196027027606",
+    "author": {
+      "id": "355309263368749057",
+      "username": "alexandria343",
+      "avatar": null,
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Alexandria",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 13
+  },
+  {
+    "type": 0,
+    "content": "x10 all other pet effects, beeg poggies",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-07-26T03:34:09.208000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1133603137081577514",
+    "channel_id": "1099088196027027606",
+    "author": {
+      "id": "153712812454051840",
+      "username": "sakii_nightshade",
+      "avatar": "22048356f2d67e6c2da073031ad289ef",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Sakii~!",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "77176186148499456",
+        "identity_enabled": true,
+        "tag": "WFCD",
+        "badge": "b77980ae47597b59f50923edbad59ea9"
+      },
+      "primary_guild": {
+        "identity_guild_id": "77176186148499456",
+        "identity_enabled": true,
+        "tag": "WFCD",
+        "badge": "b77980ae47597b59f50923edbad59ea9"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 34
+  },
+  {
+    "type": 0,
+    "content": "is the max level 2?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-12-28T22:05:05.696000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1190052833823825931",
+    "channel_id": "1099088196027027606",
+    "author": {
+      "id": "523951639972020265",
+      "username": "barthaluh",
+      "avatar": "04a26baef7d43b10fd9880846b57ab5c",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Barthaluh",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 51
+  },
+  {
+    "type": 0,
+    "content": "nevermind, whats the max level?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-12-28T22:06:38.278000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1190053222140891286",
+    "channel_id": "1099088196027027606",
+    "author": {
+      "id": "523951639972020265",
+      "username": "barthaluh",
+      "avatar": "04a26baef7d43b10fd9880846b57ab5c",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Barthaluh",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 52
+  },
+  {
+    "type": 0,
+    "content": "I don't know that anyone has hit it if there is one. For me Level 5 takes 200 days, level 6 takes 448... and that's from the prior level threshhold. Base values are probably higher as I have a few \"faster pet level up rate\" ones levelled.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-12-29T01:48:53.780000+00:00",
+    "edited_timestamp": "2023-12-29T01:52:12.538000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1190109155290251304",
+    "channel_id": "1099088196027027606",
+    "author": {
+      "id": "328041045080145921",
+      "username": "ledgriaz",
+      "avatar": "2db26cba2f1307d5bc046a792cd3c914",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Ledgriaz",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 53
+  },
+  {
+    "type": 0,
+    "content": "jesus, thats insane. thank you",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-12-29T03:53:36.852000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1190140541569089618",
+    "channel_id": "1099088196027027606",
+    "author": {
+      "id": "523951639972020265",
+      "username": "barthaluh",
+      "avatar": "04a26baef7d43b10fd9880846b57ab5c",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Barthaluh",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 54
+  },
+  {
+    "type": 0,
+    "content": "",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1210887129685688330",
+        "filename": "Shiny_Pets_Passives.png",
+        "size": 349703,
+        "url": "https://cdn.discordapp.com/attachments/1099088196027027606/1210887129685688330/Shiny_Pets_Passives.png?ex=6a0ed604&is=6a0d8484&hm=e6171304cc4586cd51f911d19002adb6ab160adfbf9cd466ce712d79c4f14bf9&",
+        "proxy_url": "https://media.discordapp.net/attachments/1099088196027027606/1210887129685688330/Shiny_Pets_Passives.png?ex=6a0ed604&is=6a0d8484&hm=e6171304cc4586cd51f911d19002adb6ab160adfbf9cd466ce712d79c4f14bf9&",
+        "width": 1920,
+        "height": 1507,
+        "content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "ELgFDYB4d2d/iIh8h8eIjpiQg2Ab",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2024-02-24T09:53:08.985000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1210887129992011836",
+    "channel_id": "1099088196027027606",
+    "author": {
+      "id": "315192370100568076",
+      "username": "diamonddoge",
+      "avatar": "cfa0909da0507dd4cc14aeddd07e6d7e",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "DiamondDoge",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 57,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 26,
+        "count_details": {
+          "burst": 0,
+          "normal": 26
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "updated pic, since Bop Box gives infinite star signs now",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-02-24T09:53:34.987000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1210887239052042250",
+    "channel_id": "1099088196027027606",
+    "author": {
+      "id": "315192370100568076",
+      "username": "diamonddoge",
+      "avatar": "cfa0909da0507dd4cc14aeddd07e6d7e",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "DiamondDoge",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 58
+  },
+  {
+    "type": 0,
+    "content": "spice",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-04-07T18:05:32.217000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1358865292452827392",
+    "channel_id": "1099088196027027606",
+    "author": {
+      "id": "196351244137267201",
+      "username": "wasabibobby",
+      "avatar": "27857b0b96ba67438cf95a63fff10400",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Wasabi Bobby",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 60
+  },
+  {
+    "type": 19,
+    "content": "tips and tricks channel is a gift from god himself",
+    "mentions": [
+      {
+        "id": "315192370100568076",
+        "username": "diamonddoge",
+        "avatar": "cfa0909da0507dd4cc14aeddd07e6d7e",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "DiamondDoge",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-06-28T10:20:23.447000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1388464039566377025",
+    "channel_id": "1099088196027027606",
+    "author": {
+      "id": "1102890027509358634",
+      "username": "flylowkirk",
+      "avatar": "51bc7367302653b9bc5ca6c1837911d1",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Uncle",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1099088196027027606",
+      "message_id": "1210887129992011836",
+      "guild_id": "437797104786604034"
+    },
+    "position": 61,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "1114306970816630876",
+          "name": "Grumblo_Pray"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇴"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ],
+    "referenced_message": {
+      "type": 0,
+      "content": "",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [
+        {
+          "id": "1210887129685688330",
+          "filename": "Shiny_Pets_Passives.png",
+          "size": 349703,
+          "url": "https://cdn.discordapp.com/attachments/1099088196027027606/1210887129685688330/Shiny_Pets_Passives.png?ex=6a0ed604&is=6a0d8484&hm=e6171304cc4586cd51f911d19002adb6ab160adfbf9cd466ce712d79c4f14bf9&",
+          "proxy_url": "https://media.discordapp.net/attachments/1099088196027027606/1210887129685688330/Shiny_Pets_Passives.png?ex=6a0ed604&is=6a0d8484&hm=e6171304cc4586cd51f911d19002adb6ab160adfbf9cd466ce712d79c4f14bf9&",
+          "width": 1920,
+          "height": 1507,
+          "content_type": "image/png",
+          "content_scan_version": 4,
+          "placeholder": "ELgFDYB4d2d/iIh8h8eIjpiQg2Ab",
+          "placeholder_version": 1
+        }
+      ],
+      "embeds": [],
+      "timestamp": "2024-02-24T09:53:08.985000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1210887129992011836",
+      "channel_id": "1099088196027027606",
+      "author": {
+        "id": "315192370100568076",
+        "username": "diamonddoge",
+        "avatar": "cfa0909da0507dd4cc14aeddd07e6d7e",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "DiamondDoge",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 57
+    }
+  },
+  {
+    "type": 0,
+    "content": "Nice",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-07-06T06:51:45.186000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1391310637099126845",
+    "channel_id": "1099088196027027606",
+    "author": {
+      "id": "1384017345193836554",
+      "username": "kaftre",
+      "avatar": "8e93be50203ddbff28d1d2d3bb24a62e",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Kafvan",
+      "avatar_decoration_data": {
+        "asset": "a_d3e51a9751016df2778a47efbb8bb455",
+        "sku_id": "1493391761085567066",
+        "expires_at": 1782259200
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1382845914225442886",
+          "asset": "nameplates/nameplates_v3/bonsai/",
+          "label": "COLLECTIBLES_NAMEPLATES_VOL_3_BONSAI_A11Y",
+          "palette": "bubble_gum"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 62
+  },
+  {
+    "type": 0,
+    "content": "Nice",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-10T19:47:36.234000+00:00",
+    "edited_timestamp": "2026-02-10T20:28:51.643000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1470868828912095327",
+    "channel_id": "1099088196027027606",
+    "author": {
+      "id": "146442066228936704",
+      "username": ".st0ve",
+      "avatar": "f98ff00ac97a1480a549c3e709ea60d4",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "st0ve",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 63
+  },
+  {
+    "type": 0,
+    "content": "Nice",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-20T13:13:29.198000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1474393524710670380",
+    "channel_id": "1099088196027027606",
+    "author": {
+      "id": "1208429487377879080",
+      "username": "anboiboi",
+      "avatar": "54e40ec3d1533dddc466094048ee916c",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "anboiboi 🪼",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 64
+  },
+  {
+    "type": 0,
+    "content": "pice",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-20T20:28:43.357000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1474503055431962655",
+    "channel_id": "1099088196027027606",
+    "author": {
+      "id": "430399389572530176",
+      "username": "ma234ton",
+      "avatar": "79e191047186e4379c6490ecbb986a97",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Ma234ton",
+      "avatar_decoration_data": {
+        "asset": "a_f824f7f3d04732ce5e2ff0f3f05d1937",
+        "sku_id": "1427463138634109027",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1427463138646954035",
+          "asset": "nameplates/orb/infinite_swirl/",
+          "label": "COLLECTIBLES_ORB_INFINITE_SWIRL_NP_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "225030931008847874",
+        "identity_enabled": true,
+        "tag": "CLAM",
+        "badge": "3a7d40481a7d104eb7dcf589d0f9c694"
+      },
+      "primary_guild": {
+        "identity_guild_id": "225030931008847874",
+        "identity_enabled": true,
+        "tag": "CLAM",
+        "badge": "3a7d40481a7d104eb7dcf589d0f9c694"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 65
+  },
+  {
+    "type": 0,
+    "content": "et",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-20T22:49:30.486000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1474538485259042846",
+    "channel_id": "1099088196027027606",
+    "author": {
+      "id": "498674148974002179",
+      "username": "slothinsoup",
+      "avatar": "8737848acd71f7e2abc554a1d05d61a2",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Sloth",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 66
+  }
+]

@@ -1,0 +1,2657 @@
+[
+  {
+    "type": 0,
+    "content": "Authored by SolarFrost",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1137838063595303143",
+        "filename": "IMG_2215.png",
+        "size": 913799,
+        "url": "https://cdn.discordapp.com/attachments/1137838063331053721/1137838063595303143/IMG_2215.png?ex=6a0f64c6&is=6a0e1346&hm=66d2352cdb81b0b29740baaff4c769dc0e64103631c2e7af417f44586e5be9c7&",
+        "proxy_url": "https://media.discordapp.net/attachments/1137838063331053721/1137838063595303143/IMG_2215.png?ex=6a0f64c6&is=6a0e1346&hm=66d2352cdb81b0b29740baaff4c769dc0e64103631c2e7af417f44586e5be9c7&",
+        "width": 615,
+        "height": 1000,
+        "content_type": "image/jpeg",
+        "content_scan_version": 4
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2023-08-06T20:02:14.307000+00:00",
+    "edited_timestamp": "2023-08-06T20:05:23.311000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1137838063331053721",
+    "channel_id": "1137838063331053721",
+    "author": {
+      "id": "200047791354019840",
+      "username": "evan.0",
+      "avatar": "4fa5b57b11c7c065df95c9223f353ff5",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Evan",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 71,
+        "count_details": {
+          "burst": 0,
+          "normal": 71
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "481714069930246147",
+          "name": "YES"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1102342435637559377",
+          "name": "Grumblo_xplode"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "💯"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1101690217913663649",
+          "name": "Pregnant_Male_Grumblo"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 4,
+    "content": "Island Expeditions Navigation (SolarFrost)",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-08-06T20:05:23.391000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1137838856406839326",
+    "channel_id": "1137838063331053721",
+    "author": {
+      "id": "200047791354019840",
+      "username": "evan.0",
+      "avatar": "4fa5b57b11c7c065df95c9223f353ff5",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Evan",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0
+  },
+  {
+    "type": 0,
+    "content": "https://tenor.com/view/ken-jeong-community-too-small-to-read-read-reading-gif-5494204",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "gifv",
+        "url": "https://tenor.com/view/ken-jeong-community-too-small-to-read-read-reading-gif-5494204",
+        "title": "Too small to read - Small",
+        "provider": {
+          "name": "Tenor",
+          "url": "https://tenor.co"
+        },
+        "thumbnail": {
+          "url": "https://media.tenor.com/khJthyXJxtcAAAAD/ken-jeong-community.png",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/C9Yc-cxf8j_30-WsksRn0HChQQJeljghz_wsyfBaDkM/https/media.tenor.com/khJthyXJxtcAAAAD/ken-jeong-community.png",
+          "width": 498,
+          "height": 350,
+          "flags": 0
+        },
+        "video": {
+          "url": "https://media.tenor.com/khJthyXJxtcAAAPo/ken-jeong-community.mp4",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/JwMolomuGnWQ4R6onEw4Veny9G6Nup7BW-8ScATmDWY/https/media.tenor.com/khJthyXJxtcAAAPo/ken-jeong-community.mp4",
+          "width": 498,
+          "height": 350,
+          "flags": 0
+        },
+        "content_scan_version": 4
+      }
+    ],
+    "timestamp": "2023-08-06T20:14:23.116000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1137841120177561801",
+    "channel_id": "1137838063331053721",
+    "author": {
+      "id": "223298203074691072",
+      "username": "zenvd",
+      "avatar": "fa27ff9bf78f8e767ff905cc60bb1b07",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Zen",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 1,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "😁"
+        },
+        "count": 48,
+        "count_details": {
+          "burst": 0,
+          "normal": 48
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "❓"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "why is it tiny",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-08-06T20:14:30.484000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1137841151081185420",
+    "channel_id": "1137838063331053721",
+    "author": {
+      "id": "223298203074691072",
+      "username": "zenvd",
+      "avatar": "fa27ff9bf78f8e767ff905cc60bb1b07",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Zen",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 2
+  },
+  {
+    "type": 0,
+    "content": "the talent books are barely readable",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-08-06T20:19:15.917000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1137842348273979453",
+    "channel_id": "1137838063331053721",
+    "author": {
+      "id": "223298203074691072",
+      "username": "zenvd",
+      "avatar": "fa27ff9bf78f8e767ff905cc60bb1b07",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Zen",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 4
+  },
+  {
+    "type": 0,
+    "content": "Open in browser and zoom in? It's clear",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-08-06T20:42:11.757000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1137848118965194823",
+    "channel_id": "1137838063331053721",
+    "author": {
+      "id": "200047791354019840",
+      "username": "evan.0",
+      "avatar": "4fa5b57b11c7c065df95c9223f353ff5",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Evan",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 6,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 6,
+        "count_details": {
+          "burst": 0,
+          "normal": 6
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "481714069930246147",
+          "name": "YES"
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1137764187582496938",
+          "name": "gigachadd"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "482784949489893376",
+          "name": "ALMOST"
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "834183976699691033",
+          "name": "bunni"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "very clear",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-08-06T21:22:42.254000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1137858313208463410",
+    "channel_id": "1137838063331053721",
+    "author": {
+      "id": "662760802398371880",
+      "username": "duffl",
+      "avatar": "a_39843c5cb480ec323d6abffb55f4979e",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Med",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1417311919643299840",
+          "asset": "nameplates/nameplate_bonanza/twilight_dusk/",
+          "label": "COLLECTIBLES_NAMEPLATE_BONANZA_TWILIGHT_DUSK_NP_A11Y",
+          "palette": "white"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 8,
+        "effect_id": 3,
+        "colors": [
+          14408927
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 8
+  },
+  {
+    "type": 0,
+    "content": "Are the star talent books for island expedition guaranteed max level?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-08-06T22:37:28.166000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1137877128487108709",
+    "channel_id": "1137838063331053721",
+    "author": {
+      "id": "402557016058626048",
+      "username": "jinglejangle3527",
+      "avatar": "5ee7451d03fc39231c9f605ee6213cb2",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "ShredBundy",
+      "avatar_decoration_data": {
+        "asset": "a_c46ea0826e16fb1abf09ce0b56669d69",
+        "sku_id": "1481685548509954162",
+        "expires_at": 1779408000
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 10
+  },
+  {
+    "type": 0,
+    "content": "Like the shimmer star talent for example",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-08-06T22:37:59.082000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1137877258158215310",
+    "channel_id": "1137838063331053721",
+    "author": {
+      "id": "402557016058626048",
+      "username": "jinglejangle3527",
+      "avatar": "5ee7451d03fc39231c9f605ee6213cb2",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "ShredBundy",
+      "avatar_decoration_data": {
+        "asset": "a_c46ea0826e16fb1abf09ce0b56669d69",
+        "sku_id": "1481685548509954162",
+        "expires_at": 1779408000
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 11
+  },
+  {
+    "type": 0,
+    "content": "Thank you",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-08-06T23:55:45.319000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1137896829774725150",
+    "channel_id": "1137838063331053721",
+    "author": {
+      "id": "364203147176050700",
+      "username": "averip",
+      "avatar": "1a043dcfb36c23dc8739c0065644dc2a",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Averip",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 12
+  },
+  {
+    "type": 19,
+    "content": "\"very clear\"",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1138083837314859089",
+        "filename": "image.png",
+        "size": 87011,
+        "url": "https://cdn.discordapp.com/attachments/1137838063331053721/1138083837314859089/image.png?ex=6a0ef82b&is=6a0da6ab&hm=4dc173719f0db2cd1420a2470962e1bddaa25e893c1f61a07afea0464ddafcbe&",
+        "proxy_url": "https://media.discordapp.net/attachments/1137838063331053721/1138083837314859089/image.png?ex=6a0ef82b&is=6a0da6ab&hm=4dc173719f0db2cd1420a2470962e1bddaa25e893c1f61a07afea0464ddafcbe&",
+        "width": 442,
+        "height": 148,
+        "content_type": "image/png",
+        "content_scan_version": 4
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2023-08-07T12:18:51.458000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1138083837595881512",
+    "channel_id": "1137838063331053721",
+    "author": {
+      "id": "170957189324865536",
+      "username": "scoli290",
+      "avatar": "5d3210598bce4dd755cc2cfaf2a09c4d",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Scoli",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1137838063331053721",
+      "message_id": "1137858313208463410",
+      "guild_id": "437797104786604034"
+    },
+    "position": 14,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "👆"
+        },
+        "count": 28,
+        "count_details": {
+          "burst": 0,
+          "normal": 28
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ],
+    "referenced_message": {
+      "type": 0,
+      "content": "very clear",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2023-08-06T21:22:42.254000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1137858313208463410",
+      "channel_id": "1137838063331053721",
+      "author": {
+        "id": "662760802398371880",
+        "username": "duffl",
+        "avatar": "a_39843c5cb480ec323d6abffb55f4979e",
+        "discriminator": "0",
+        "public_flags": 64,
+        "flags": 64,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Med",
+        "avatar_decoration_data": null,
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1417311919643299840",
+            "asset": "nameplates/nameplate_bonanza/twilight_dusk/",
+            "label": "COLLECTIBLES_NAMEPLATE_BONANZA_TWILIGHT_DUSK_NP_A11Y",
+            "palette": "white"
+          }
+        },
+        "display_name_styles": {
+          "font_id": 8,
+          "effect_id": 3,
+          "colors": [
+            14408927
+          ]
+        },
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 8
+    }
+  },
+  {
+    "type": 19,
+    "content": "It's not majorly blurry, but it is noticeably difficult to read the word \"Recommendation\", and the Talents are even worse.\nEverything else has a minor blur, but is still readable (for me, at least. Your eyes may get different mileage :P).\n\nGoing to the page for Omar, then Shellfish found me the page for Expeditions. So if you can't read the Island Navigation Guide, you can still get some info from there.\nhttps://idleon.wiki/wiki/Island_Expeditions\nhttps://idleon.wiki/wiki/Special_Talents#Special_Talents_Page_3",
+    "mentions": [
+      {
+        "id": "200047791354019840",
+        "username": "evan.0",
+        "avatar": "4fa5b57b11c7c065df95c9223f353ff5",
+        "discriminator": "0",
+        "public_flags": 512,
+        "flags": 512,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Evan",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1138112963006443551",
+        "filename": "image.png",
+        "size": 1022371,
+        "url": "https://cdn.discordapp.com/attachments/1137838063331053721/1138112963006443551/image.png?ex=6a0f134b&is=6a0dc1cb&hm=eec5dc9fdbc7124e0a8dc00b112ce2e09f9b2ae14fce573b4d7637aac52ce1c1&",
+        "proxy_url": "https://media.discordapp.net/attachments/1137838063331053721/1138112963006443551/image.png?ex=6a0f134b&is=6a0dc1cb&hm=eec5dc9fdbc7124e0a8dc00b112ce2e09f9b2ae14fce573b4d7637aac52ce1c1&",
+        "width": 1560,
+        "height": 936,
+        "content_type": "image/png",
+        "content_scan_version": 4
+      },
+      {
+        "id": "1138112963543322685",
+        "filename": "image.png",
+        "size": 1920726,
+        "url": "https://cdn.discordapp.com/attachments/1137838063331053721/1138112963543322685/image.png?ex=6a0f134b&is=6a0dc1cb&hm=f97d34ca2ca315ee84c0a04efce10099dd9c11b09e86da854999474bfefa1fce&",
+        "proxy_url": "https://media.discordapp.net/attachments/1137838063331053721/1138112963543322685/image.png?ex=6a0f134b&is=6a0dc1cb&hm=f97d34ca2ca315ee84c0a04efce10099dd9c11b09e86da854999474bfefa1fce&",
+        "width": 1715,
+        "height": 1339,
+        "content_type": "image/png",
+        "content_scan_version": 4
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2023-08-07T14:14:35.448000+00:00",
+    "edited_timestamp": null,
+    "flags": 4,
+    "components": [],
+    "id": "1138112962800914523",
+    "channel_id": "1137838063331053721",
+    "author": {
+      "id": "201332225881538561",
+      "username": "rhimona",
+      "avatar": "5ee0741629fd4cfbfadae4e224fca1d5",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Rinoa",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1137838063331053721",
+      "message_id": "1137848118965194823",
+      "guild_id": "437797104786604034"
+    },
+    "position": 15,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ],
+    "referenced_message": {
+      "type": 0,
+      "content": "Open in browser and zoom in? It's clear",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2023-08-06T20:42:11.757000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1137848118965194823",
+      "channel_id": "1137838063331053721",
+      "author": {
+        "id": "200047791354019840",
+        "username": "evan.0",
+        "avatar": "4fa5b57b11c7c065df95c9223f353ff5",
+        "discriminator": "0",
+        "public_flags": 512,
+        "flags": 512,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Evan",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 6
+    }
+  },
+  {
+    "type": 0,
+    "content": "I found a less blurry version. https://media.discordapp.net/attachments/1120713689385938945/1138123192842604666/feafaef.png?width=575&height=934\n\nSide note for those it may affect:\nYou need to use a Teleport to leave a Island. So grab a Town Teleport first if you don't have Map Teleports, or don't want to use one.\nOr just keep some Town Teleports on you constantly.\n\nIf you have neither a Bottled Town Teleport or a Map Teleport available, you could potentially get softlocked without EZ Access shops or Storage from Anywhere.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1138130887473647616",
+        "filename": "image.png",
+        "size": 939368,
+        "url": "https://cdn.discordapp.com/attachments/1137838063331053721/1138130887473647616/image.png?ex=6a0f23fd&is=6a0dd27d&hm=7569a094737bb6b552d56b8d99dce37428bb936a66b6c4a7b9b053167fb23154&",
+        "proxy_url": "https://media.discordapp.net/attachments/1137838063331053721/1138130887473647616/image.png?ex=6a0f23fd&is=6a0dd27d&hm=7569a094737bb6b552d56b8d99dce37428bb936a66b6c4a7b9b053167fb23154&",
+        "width": 1093,
+        "height": 631,
+        "content_type": "image/png",
+        "content_scan_version": 4
+      },
+      {
+        "id": "1138130887813369966",
+        "filename": "image.png",
+        "size": 625341,
+        "url": "https://cdn.discordapp.com/attachments/1137838063331053721/1138130887813369966/image.png?ex=6a0f23fd&is=6a0dd27d&hm=e1ae12aaa28d1e58b53b093988b94dcf18421d934c0db9f9a7b46e686955862d&",
+        "proxy_url": "https://media.discordapp.net/attachments/1137838063331053721/1138130887813369966/image.png?ex=6a0f23fd&is=6a0dd27d&hm=e1ae12aaa28d1e58b53b093988b94dcf18421d934c0db9f9a7b46e686955862d&",
+        "width": 1093,
+        "height": 629,
+        "content_type": "image/png",
+        "content_scan_version": 4
+      }
+    ],
+    "embeds": [
+      {
+        "type": "image",
+        "url": "https://media.discordapp.net/attachments/1120713689385938945/1138123192842604666/feafaef.png?width=575&height=934",
+        "thumbnail": {
+          "url": "https://media.discordapp.net/attachments/1120713689385938945/1138123192842604666/feafaef.png?width=575&height=934&ex=6a0f1cd2&is=6a0dcb52&hm=8eed37d81345aac03b9eb642d832a2311b77bac4ccf4bd2938c49ff9fd3275d2&",
+          "proxy_url": "https://media.discordapp.net/attachments/1120713689385938945/1138123192842604666/feafaef.png?ex=6a0f1cd2&is=6a0dcb52&hm=8eed37d81345aac03b9eb642d832a2311b77bac4ccf4bd2938c49ff9fd3275d2&",
+          "width": 575,
+          "height": 934,
+          "content_type": "image/png",
+          "flags": 0
+        },
+        "content_scan_version": 4
+      }
+    ],
+    "timestamp": "2023-08-07T15:25:48.954000+00:00",
+    "edited_timestamp": "2023-08-07T15:28:39.173000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1138130887184220190",
+    "channel_id": "1137838063331053721",
+    "author": {
+      "id": "201332225881538561",
+      "username": "rhimona",
+      "avatar": "5ee0741629fd4cfbfadae4e224fca1d5",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Rinoa",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 16,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 6,
+        "count_details": {
+          "burst": 0,
+          "normal": 6
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "Bruh it's really hard to ream \nWith image yeah i can readi it",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-08-07T16:26:05.557000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1138146056316661860",
+    "channel_id": "1137838063331053721",
+    "author": {
+      "id": "1016900526123778148",
+      "username": "mrrydernotshow",
+      "avatar": "ef9317809efda2c7e2b25327ae67642c",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "メ『ItsMrRyder⛩』",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "302094807046684672",
+        "identity_enabled": true,
+        "tag": "MC",
+        "badge": "ec60c5e6d1f14d3bbff586e2e0b9e54e"
+      },
+      "primary_guild": {
+        "identity_guild_id": "302094807046684672",
+        "identity_enabled": true,
+        "tag": "MC",
+        "badge": "ec60c5e6d1f14d3bbff586e2e0b9e54e"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 17
+  },
+  {
+    "type": 0,
+    "content": "If Seasalt island is required for Omars last quest, shouldnt that be the first island you go too?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-08-07T16:56:21.698000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1138153673764118672",
+    "channel_id": "1137838063331053721",
+    "author": {
+      "id": "829843930550894622",
+      "username": "crumplyturtle",
+      "avatar": "5f981e845cdb22d8af61de7e33db1134",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 18
+  },
+  {
+    "type": 19,
+    "content": "<@200047791354019840> if you can replace the op image with this one, it seems less blurry",
+    "mentions": [
+      {
+        "id": "200047791354019840",
+        "username": "evan.0",
+        "avatar": "4fa5b57b11c7c065df95c9223f353ff5",
+        "discriminator": "0",
+        "public_flags": 512,
+        "flags": 512,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Evan",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      },
+      {
+        "id": "201332225881538561",
+        "username": "rhimona",
+        "avatar": "5ee0741629fd4cfbfadae4e224fca1d5",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Rinoa",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1462574032464642309",
+          "identity_enabled": true,
+          "tag": "HOLO",
+          "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1462574032464642309",
+          "identity_enabled": true,
+          "tag": "HOLO",
+          "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-08-07T17:54:36.737000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1138168333020188733",
+    "channel_id": "1137838063331053721",
+    "author": {
+      "id": "260709609508044800",
+      "username": "mimimimimimimimimimimimimimimimi",
+      "avatar": "f95bfb27505e25ca9e06dfa12ff13024",
+      "discriminator": "0",
+      "public_flags": 640,
+      "flags": 640,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Mimi",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712162738196",
+          "asset": "nameplates/nameplates_v2/sword_of_legend/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SWORD_OF_LEGEND_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "302152934249070593",
+        "identity_enabled": true,
+        "tag": "VS",
+        "badge": "eda770f3d7806c5809adda0215c166b3"
+      },
+      "primary_guild": {
+        "identity_guild_id": "302152934249070593",
+        "identity_enabled": true,
+        "tag": "VS",
+        "badge": "eda770f3d7806c5809adda0215c166b3"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1137838063331053721",
+      "message_id": "1138130887184220190",
+      "guild_id": "437797104786604034"
+    },
+    "position": 19,
+    "referenced_message": {
+      "type": 0,
+      "content": "I found a less blurry version. https://media.discordapp.net/attachments/1120713689385938945/1138123192842604666/feafaef.png?width=575&height=934\n\nSide note for those it may affect:\nYou need to use a Teleport to leave a Island. So grab a Town Teleport first if you don't have Map Teleports, or don't want to use one.\nOr just keep some Town Teleports on you constantly.\n\nIf you have neither a Bottled Town Teleport or a Map Teleport available, you could potentially get softlocked without EZ Access shops or Storage from Anywhere.",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [
+        {
+          "id": "1138130887473647616",
+          "filename": "image.png",
+          "size": 939368,
+          "url": "https://cdn.discordapp.com/attachments/1137838063331053721/1138130887473647616/image.png?ex=6a0f23fd&is=6a0dd27d&hm=7569a094737bb6b552d56b8d99dce37428bb936a66b6c4a7b9b053167fb23154&",
+          "proxy_url": "https://media.discordapp.net/attachments/1137838063331053721/1138130887473647616/image.png?ex=6a0f23fd&is=6a0dd27d&hm=7569a094737bb6b552d56b8d99dce37428bb936a66b6c4a7b9b053167fb23154&",
+          "width": 1093,
+          "height": 631,
+          "content_type": "image/png",
+          "content_scan_version": 4
+        },
+        {
+          "id": "1138130887813369966",
+          "filename": "image.png",
+          "size": 625341,
+          "url": "https://cdn.discordapp.com/attachments/1137838063331053721/1138130887813369966/image.png?ex=6a0f23fd&is=6a0dd27d&hm=e1ae12aaa28d1e58b53b093988b94dcf18421d934c0db9f9a7b46e686955862d&",
+          "proxy_url": "https://media.discordapp.net/attachments/1137838063331053721/1138130887813369966/image.png?ex=6a0f23fd&is=6a0dd27d&hm=e1ae12aaa28d1e58b53b093988b94dcf18421d934c0db9f9a7b46e686955862d&",
+          "width": 1093,
+          "height": 629,
+          "content_type": "image/png",
+          "content_scan_version": 4
+        }
+      ],
+      "embeds": [
+        {
+          "type": "image",
+          "url": "https://media.discordapp.net/attachments/1120713689385938945/1138123192842604666/feafaef.png?width=575&height=934",
+          "thumbnail": {
+            "url": "https://media.discordapp.net/attachments/1120713689385938945/1138123192842604666/feafaef.png?width=575&height=934&ex=6a0f1cd2&is=6a0dcb52&hm=8eed37d81345aac03b9eb642d832a2311b77bac4ccf4bd2938c49ff9fd3275d2&",
+            "proxy_url": "https://media.discordapp.net/attachments/1120713689385938945/1138123192842604666/feafaef.png?ex=6a0f1cd2&is=6a0dcb52&hm=8eed37d81345aac03b9eb642d832a2311b77bac4ccf4bd2938c49ff9fd3275d2&",
+            "width": 575,
+            "height": 934,
+            "content_type": "image/png",
+            "flags": 0
+          },
+          "content_scan_version": 4
+        }
+      ],
+      "timestamp": "2023-08-07T15:25:48.954000+00:00",
+      "edited_timestamp": "2023-08-07T15:28:39.173000+00:00",
+      "flags": 0,
+      "components": [],
+      "id": "1138130887184220190",
+      "channel_id": "1137838063331053721",
+      "author": {
+        "id": "201332225881538561",
+        "username": "rhimona",
+        "avatar": "5ee0741629fd4cfbfadae4e224fca1d5",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Rinoa",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1462574032464642309",
+          "identity_enabled": true,
+          "tag": "HOLO",
+          "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1462574032464642309",
+          "identity_enabled": true,
+          "tag": "HOLO",
+          "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 16
+    }
+  },
+  {
+    "type": 0,
+    "content": "Maybe the original image here was the discord preview saved",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-08-07T17:54:48.505000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1138168382378745877",
+    "channel_id": "1137838063331053721",
+    "author": {
+      "id": "260709609508044800",
+      "username": "mimimimimimimimimimimimimimimimi",
+      "avatar": "f95bfb27505e25ca9e06dfa12ff13024",
+      "discriminator": "0",
+      "public_flags": 640,
+      "flags": 640,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Mimi",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712162738196",
+          "asset": "nameplates/nameplates_v2/sword_of_legend/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SWORD_OF_LEGEND_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "302152934249070593",
+        "identity_enabled": true,
+        "tag": "VS",
+        "badge": "eda770f3d7806c5809adda0215c166b3"
+      },
+      "primary_guild": {
+        "identity_guild_id": "302152934249070593",
+        "identity_enabled": true,
+        "tag": "VS",
+        "badge": "eda770f3d7806c5809adda0215c166b3"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 20
+  },
+  {
+    "type": 19,
+    "content": "I’ll replace it, thanks",
+    "mentions": [
+      {
+        "id": "260709609508044800",
+        "username": "mimimimimimimimimimimimimimimimi",
+        "avatar": "f95bfb27505e25ca9e06dfa12ff13024",
+        "discriminator": "0",
+        "public_flags": 640,
+        "flags": 640,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Mimi",
+        "avatar_decoration_data": null,
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1377377712162738196",
+            "asset": "nameplates/nameplates_v2/sword_of_legend/",
+            "label": "COLLECTIBLES_NAMEPLATES_V2_SWORD_OF_LEGEND_A11Y",
+            "palette": "cobalt"
+          }
+        },
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "302152934249070593",
+          "identity_enabled": true,
+          "tag": "VS",
+          "badge": "eda770f3d7806c5809adda0215c166b3"
+        },
+        "primary_guild": {
+          "identity_guild_id": "302152934249070593",
+          "identity_enabled": true,
+          "tag": "VS",
+          "badge": "eda770f3d7806c5809adda0215c166b3"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-08-07T17:59:57.314000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1138169677617578084",
+    "channel_id": "1137838063331053721",
+    "author": {
+      "id": "200047791354019840",
+      "username": "evan.0",
+      "avatar": "4fa5b57b11c7c065df95c9223f353ff5",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Evan",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1137838063331053721",
+      "message_id": "1138168333020188733",
+      "guild_id": "437797104786604034"
+    },
+    "position": 21,
+    "referenced_message": {
+      "type": 19,
+      "content": "<@200047791354019840> if you can replace the op image with this one, it seems less blurry",
+      "mentions": [
+        {
+          "id": "200047791354019840",
+          "username": "evan.0",
+          "avatar": "4fa5b57b11c7c065df95c9223f353ff5",
+          "discriminator": "0",
+          "public_flags": 512,
+          "flags": 512,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Evan",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": {
+            "identity_guild_id": "437797104786604034",
+            "identity_enabled": true,
+            "tag": "idle",
+            "badge": "613dd0a2876f97a2422d121940ecc992"
+          },
+          "primary_guild": {
+            "identity_guild_id": "437797104786604034",
+            "identity_enabled": true,
+            "tag": "idle",
+            "badge": "613dd0a2876f97a2422d121940ecc992"
+          }
+        },
+        {
+          "id": "201332225881538561",
+          "username": "rhimona",
+          "avatar": "5ee0741629fd4cfbfadae4e224fca1d5",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Rinoa",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": {
+            "identity_guild_id": "1462574032464642309",
+            "identity_enabled": true,
+            "tag": "HOLO",
+            "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+          },
+          "primary_guild": {
+            "identity_guild_id": "1462574032464642309",
+            "identity_enabled": true,
+            "tag": "HOLO",
+            "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+          }
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2023-08-07T17:54:36.737000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1138168333020188733",
+      "channel_id": "1137838063331053721",
+      "author": {
+        "id": "260709609508044800",
+        "username": "mimimimimimimimimimimimimimimimi",
+        "avatar": "f95bfb27505e25ca9e06dfa12ff13024",
+        "discriminator": "0",
+        "public_flags": 640,
+        "flags": 640,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Mimi",
+        "avatar_decoration_data": null,
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1377377712162738196",
+            "asset": "nameplates/nameplates_v2/sword_of_legend/",
+            "label": "COLLECTIBLES_NAMEPLATES_V2_SWORD_OF_LEGEND_A11Y",
+            "palette": "cobalt"
+          }
+        },
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "302152934249070593",
+          "identity_enabled": true,
+          "tag": "VS",
+          "badge": "eda770f3d7806c5809adda0215c166b3"
+        },
+        "primary_guild": {
+          "identity_guild_id": "302152934249070593",
+          "identity_enabled": true,
+          "tag": "VS",
+          "badge": "eda770f3d7806c5809adda0215c166b3"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1137838063331053721",
+        "message_id": "1138130887184220190",
+        "guild_id": "437797104786604034"
+      },
+      "position": 19
+    }
+  },
+  {
+    "type": 0,
+    "content": "ngl, Shimmer kinda sucks",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-08-08T18:19:21.070000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1138536946629619865",
+    "channel_id": "1137838063331053721",
+    "author": {
+      "id": "161920894506106880",
+      "username": "mulligan",
+      "avatar": "891347d43c457f5f5944f3d658e59223",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Mulligan",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "123928658057494530",
+        "identity_enabled": true,
+        "tag": "GRUB",
+        "badge": "7b571a46a1266491cfabe2e362aad176"
+      },
+      "primary_guild": {
+        "identity_guild_id": "123928658057494530",
+        "identity_enabled": true,
+        "tag": "GRUB",
+        "badge": "7b571a46a1266491cfabe2e362aad176"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 22,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "1098086015396225065",
+          "name": "Grumblo_Pensive"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "481714069930246147",
+          "name": "YES"
+        },
+        "count": 7,
+        "count_details": {
+          "burst": 0,
+          "normal": 7
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 19,
+    "content": "Can you just click the boat to leave the island?",
+    "mentions": [
+      {
+        "id": "201332225881538561",
+        "username": "rhimona",
+        "avatar": "5ee0741629fd4cfbfadae4e224fca1d5",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Rinoa",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1462574032464642309",
+          "identity_enabled": true,
+          "tag": "HOLO",
+          "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1462574032464642309",
+          "identity_enabled": true,
+          "tag": "HOLO",
+          "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-08-09T11:32:02.879000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1138796833292963912",
+    "channel_id": "1137838063331053721",
+    "author": {
+      "id": "448612840954265621",
+      "username": "mainopoly",
+      "avatar": "200f017d618fd07966cb4b6c1bfc8221",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Adrenaline",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1137838063331053721",
+      "message_id": "1138130887184220190",
+      "guild_id": "437797104786604034"
+    },
+    "position": 23,
+    "referenced_message": {
+      "type": 0,
+      "content": "I found a less blurry version. https://media.discordapp.net/attachments/1120713689385938945/1138123192842604666/feafaef.png?width=575&height=934\n\nSide note for those it may affect:\nYou need to use a Teleport to leave a Island. So grab a Town Teleport first if you don't have Map Teleports, or don't want to use one.\nOr just keep some Town Teleports on you constantly.\n\nIf you have neither a Bottled Town Teleport or a Map Teleport available, you could potentially get softlocked without EZ Access shops or Storage from Anywhere.",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [
+        {
+          "id": "1138130887473647616",
+          "filename": "image.png",
+          "size": 939368,
+          "url": "https://cdn.discordapp.com/attachments/1137838063331053721/1138130887473647616/image.png?ex=6a0f23fd&is=6a0dd27d&hm=7569a094737bb6b552d56b8d99dce37428bb936a66b6c4a7b9b053167fb23154&",
+          "proxy_url": "https://media.discordapp.net/attachments/1137838063331053721/1138130887473647616/image.png?ex=6a0f23fd&is=6a0dd27d&hm=7569a094737bb6b552d56b8d99dce37428bb936a66b6c4a7b9b053167fb23154&",
+          "width": 1093,
+          "height": 631,
+          "content_type": "image/png",
+          "content_scan_version": 4
+        },
+        {
+          "id": "1138130887813369966",
+          "filename": "image.png",
+          "size": 625341,
+          "url": "https://cdn.discordapp.com/attachments/1137838063331053721/1138130887813369966/image.png?ex=6a0f23fd&is=6a0dd27d&hm=e1ae12aaa28d1e58b53b093988b94dcf18421d934c0db9f9a7b46e686955862d&",
+          "proxy_url": "https://media.discordapp.net/attachments/1137838063331053721/1138130887813369966/image.png?ex=6a0f23fd&is=6a0dd27d&hm=e1ae12aaa28d1e58b53b093988b94dcf18421d934c0db9f9a7b46e686955862d&",
+          "width": 1093,
+          "height": 629,
+          "content_type": "image/png",
+          "content_scan_version": 4
+        }
+      ],
+      "embeds": [
+        {
+          "type": "image",
+          "url": "https://media.discordapp.net/attachments/1120713689385938945/1138123192842604666/feafaef.png?width=575&height=934",
+          "thumbnail": {
+            "url": "https://media.discordapp.net/attachments/1120713689385938945/1138123192842604666/feafaef.png?width=575&height=934&ex=6a0f1cd2&is=6a0dcb52&hm=8eed37d81345aac03b9eb642d832a2311b77bac4ccf4bd2938c49ff9fd3275d2&",
+            "proxy_url": "https://media.discordapp.net/attachments/1120713689385938945/1138123192842604666/feafaef.png?ex=6a0f1cd2&is=6a0dcb52&hm=8eed37d81345aac03b9eb642d832a2311b77bac4ccf4bd2938c49ff9fd3275d2&",
+            "width": 575,
+            "height": 934,
+            "content_type": "image/png",
+            "flags": 0
+          },
+          "content_scan_version": 4
+        }
+      ],
+      "timestamp": "2023-08-07T15:25:48.954000+00:00",
+      "edited_timestamp": "2023-08-07T15:28:39.173000+00:00",
+      "flags": 0,
+      "components": [],
+      "id": "1138130887184220190",
+      "channel_id": "1137838063331053721",
+      "author": {
+        "id": "201332225881538561",
+        "username": "rhimona",
+        "avatar": "5ee0741629fd4cfbfadae4e224fca1d5",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Rinoa",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1462574032464642309",
+          "identity_enabled": true,
+          "tag": "HOLO",
+          "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1462574032464642309",
+          "identity_enabled": true,
+          "tag": "HOLO",
+          "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 16
+    }
+  },
+  {
+    "type": 19,
+    "content": "No",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-08-11T15:13:38.966000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1139577376855052309",
+    "channel_id": "1137838063331053721",
+    "author": {
+      "id": "829843930550894622",
+      "username": "crumplyturtle",
+      "avatar": "5f981e845cdb22d8af61de7e33db1134",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1137838063331053721",
+      "message_id": "1138796833292963912",
+      "guild_id": "437797104786604034"
+    },
+    "position": 24,
+    "referenced_message": {
+      "type": 19,
+      "content": "Can you just click the boat to leave the island?",
+      "mentions": [
+        {
+          "id": "201332225881538561",
+          "username": "rhimona",
+          "avatar": "5ee0741629fd4cfbfadae4e224fca1d5",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Rinoa",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": {
+            "identity_guild_id": "1462574032464642309",
+            "identity_enabled": true,
+            "tag": "HOLO",
+            "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+          },
+          "primary_guild": {
+            "identity_guild_id": "1462574032464642309",
+            "identity_enabled": true,
+            "tag": "HOLO",
+            "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+          }
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2023-08-09T11:32:02.879000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1138796833292963912",
+      "channel_id": "1137838063331053721",
+      "author": {
+        "id": "448612840954265621",
+        "username": "mainopoly",
+        "avatar": "200f017d618fd07966cb4b6c1bfc8221",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Adrenaline",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1137838063331053721",
+        "message_id": "1138130887184220190",
+        "guild_id": "437797104786604034"
+      },
+      "position": 23
+    }
+  },
+  {
+    "type": 0,
+    "content": "is there a recommended order of garbage upgrades?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-08-13T08:32:19.906000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1140201157688578182",
+    "channel_id": "1137838063331053721",
+    "author": {
+      "id": "243811385794887680",
+      "username": "deadlockounet",
+      "avatar": "a1b168b2d65c6a367f1772e4037456e7",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Deadlock",
+      "avatar_decoration_data": {
+        "asset": "a_f7dcc7b9b55715880755e24ff440f241",
+        "sku_id": "1343751617337491516",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 25
+  },
+  {
+    "type": 0,
+    "content": "I’ve been told from Endgamers to level up Garbage % to 6, then save for bribes, then level up Garbage % again forever until stamps are cheaper, then once unlocked all stamps, go for anything you want",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-08-13T08:58:19.815000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1140207700421128223",
+    "channel_id": "1137838063331053721",
+    "author": {
+      "id": "200047791354019840",
+      "username": "evan.0",
+      "avatar": "4fa5b57b11c7c065df95c9223f353ff5",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Evan",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 26
+  },
+  {
+    "type": 0,
+    "content": "<@243811385794887680>",
+    "mentions": [
+      {
+        "id": "243811385794887680",
+        "username": "deadlockounet",
+        "avatar": "a1b168b2d65c6a367f1772e4037456e7",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Deadlock",
+        "avatar_decoration_data": {
+          "asset": "a_f7dcc7b9b55715880755e24ff440f241",
+          "sku_id": "1343751617337491516",
+          "expires_at": null
+        },
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-08-13T08:58:31.740000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1140207750438203412",
+    "channel_id": "1137838063331053721",
+    "author": {
+      "id": "200047791354019840",
+      "username": "evan.0",
+      "avatar": "4fa5b57b11c7c065df95c9223f353ff5",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Evan",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 27
+  },
+  {
+    "type": 0,
+    "content": "ok, thanks",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-08-13T09:01:42.806000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1140208551827083264",
+    "channel_id": "1137838063331053721",
+    "author": {
+      "id": "243811385794887680",
+      "username": "deadlockounet",
+      "avatar": "a1b168b2d65c6a367f1772e4037456e7",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Deadlock",
+      "avatar_decoration_data": {
+        "asset": "a_f7dcc7b9b55715880755e24ff440f241",
+        "sku_id": "1343751617337491516",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 28
+  },
+  {
+    "type": 0,
+    "content": "How can I use candy for nothing on fractal island? The island is fishing and in town I can’t use candies for nothing?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-08-14T07:02:03.745000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1140540828528414780",
+    "channel_id": "1137838063331053721",
+    "author": {
+      "id": "118952919629430786",
+      "username": "psyrok",
+      "avatar": "b3b4da6f898eea40420ea4f56787f9f7",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Psyrok",
+      "avatar_decoration_data": {
+        "asset": "a_25e6d6c44079a0c58648295e591968b0",
+        "sku_id": "1400163655252967504",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1400163655487848501",
+          "asset": "nameplates/rock/dragon_ball/",
+          "label": "COLLECTIBLES_ROCK_DRAGON_BALL_NP_A11Y",
+          "palette": "crimson"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "907731213538713622",
+        "identity_enabled": true,
+        "tag": "SOLO",
+        "badge": "fa9cc80236e71715c90d24db7ee9eb53"
+      },
+      "primary_guild": {
+        "identity_guild_id": "907731213538713622",
+        "identity_enabled": true,
+        "tag": "SOLO",
+        "badge": "fa9cc80236e71715c90d24db7ee9eb53"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 29
+  },
+  {
+    "type": 0,
+    "content": "Nevermind, relog fixed it",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-08-14T07:03:32.625000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1140541201318154289",
+    "channel_id": "1137838063331053721",
+    "author": {
+      "id": "118952919629430786",
+      "username": "psyrok",
+      "avatar": "b3b4da6f898eea40420ea4f56787f9f7",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Psyrok",
+      "avatar_decoration_data": {
+        "asset": "a_25e6d6c44079a0c58648295e591968b0",
+        "sku_id": "1400163655252967504",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1400163655487848501",
+          "asset": "nameplates/rock/dragon_ball/",
+          "label": "COLLECTIBLES_ROCK_DRAGON_BALL_NP_A11Y",
+          "palette": "crimson"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "907731213538713622",
+        "identity_enabled": true,
+        "tag": "SOLO",
+        "badge": "fa9cc80236e71715c90d24db7ee9eb53"
+      },
+      "primary_guild": {
+        "identity_guild_id": "907731213538713622",
+        "identity_enabled": true,
+        "tag": "SOLO",
+        "badge": "fa9cc80236e71715c90d24db7ee9eb53"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 30
+  },
+  {
+    "type": 0,
+    "content": "Hey guys!\nIs there any requirments for shimer island challanges?\nI mean for example ow many dps i need to get at least one pearl ?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-08-14T13:10:39.217000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1140633587541082114",
+    "channel_id": "1137838063331053721",
+    "author": {
+      "id": "298070000651206657",
+      "username": "antonmerzlyakov",
+      "avatar": "5e63da7c0ef2aad303331c4cc2900f83",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Anton Merzlyakov",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 31
+  },
+  {
+    "type": 19,
+    "content": "Just wanted to add in: Can type \"If u love me let me go\" to get into spike minigame, then open gem shop, once you close gem shop you'll be in w1 town, works just about anywhere except maybe dungeons?",
+    "mentions": [
+      {
+        "id": "201332225881538561",
+        "username": "rhimona",
+        "avatar": "5ee0741629fd4cfbfadae4e224fca1d5",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Rinoa",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1462574032464642309",
+          "identity_enabled": true,
+          "tag": "HOLO",
+          "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1462574032464642309",
+          "identity_enabled": true,
+          "tag": "HOLO",
+          "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-08-22T11:38:39.084000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1143509537349972028",
+    "channel_id": "1137838063331053721",
+    "author": {
+      "id": "271612424451391488",
+      "username": "killvin666",
+      "avatar": "04dcbe67e06a2f66b0bd460ae71e0ec3",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "White Kevin",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1137838063331053721",
+      "message_id": "1138130887184220190",
+      "guild_id": "437797104786604034"
+    },
+    "position": 33,
+    "referenced_message": {
+      "type": 0,
+      "content": "I found a less blurry version. https://media.discordapp.net/attachments/1120713689385938945/1138123192842604666/feafaef.png?width=575&height=934\n\nSide note for those it may affect:\nYou need to use a Teleport to leave a Island. So grab a Town Teleport first if you don't have Map Teleports, or don't want to use one.\nOr just keep some Town Teleports on you constantly.\n\nIf you have neither a Bottled Town Teleport or a Map Teleport available, you could potentially get softlocked without EZ Access shops or Storage from Anywhere.",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [
+        {
+          "id": "1138130887473647616",
+          "filename": "image.png",
+          "size": 939368,
+          "url": "https://cdn.discordapp.com/attachments/1137838063331053721/1138130887473647616/image.png?ex=6a0f23fd&is=6a0dd27d&hm=7569a094737bb6b552d56b8d99dce37428bb936a66b6c4a7b9b053167fb23154&",
+          "proxy_url": "https://media.discordapp.net/attachments/1137838063331053721/1138130887473647616/image.png?ex=6a0f23fd&is=6a0dd27d&hm=7569a094737bb6b552d56b8d99dce37428bb936a66b6c4a7b9b053167fb23154&",
+          "width": 1093,
+          "height": 631,
+          "content_type": "image/png",
+          "content_scan_version": 4
+        },
+        {
+          "id": "1138130887813369966",
+          "filename": "image.png",
+          "size": 625341,
+          "url": "https://cdn.discordapp.com/attachments/1137838063331053721/1138130887813369966/image.png?ex=6a0f23fd&is=6a0dd27d&hm=e1ae12aaa28d1e58b53b093988b94dcf18421d934c0db9f9a7b46e686955862d&",
+          "proxy_url": "https://media.discordapp.net/attachments/1137838063331053721/1138130887813369966/image.png?ex=6a0f23fd&is=6a0dd27d&hm=e1ae12aaa28d1e58b53b093988b94dcf18421d934c0db9f9a7b46e686955862d&",
+          "width": 1093,
+          "height": 629,
+          "content_type": "image/png",
+          "content_scan_version": 4
+        }
+      ],
+      "embeds": [
+        {
+          "type": "image",
+          "url": "https://media.discordapp.net/attachments/1120713689385938945/1138123192842604666/feafaef.png?width=575&height=934",
+          "thumbnail": {
+            "url": "https://media.discordapp.net/attachments/1120713689385938945/1138123192842604666/feafaef.png?width=575&height=934&ex=6a0f1cd2&is=6a0dcb52&hm=8eed37d81345aac03b9eb642d832a2311b77bac4ccf4bd2938c49ff9fd3275d2&",
+            "proxy_url": "https://media.discordapp.net/attachments/1120713689385938945/1138123192842604666/feafaef.png?ex=6a0f1cd2&is=6a0dcb52&hm=8eed37d81345aac03b9eb642d832a2311b77bac4ccf4bd2938c49ff9fd3275d2&",
+            "width": 575,
+            "height": 934,
+            "content_type": "image/png",
+            "flags": 0
+          },
+          "content_scan_version": 4
+        }
+      ],
+      "timestamp": "2023-08-07T15:25:48.954000+00:00",
+      "edited_timestamp": "2023-08-07T15:28:39.173000+00:00",
+      "flags": 0,
+      "components": [],
+      "id": "1138130887184220190",
+      "channel_id": "1137838063331053721",
+      "author": {
+        "id": "201332225881538561",
+        "username": "rhimona",
+        "avatar": "5ee0741629fd4cfbfadae4e224fca1d5",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Rinoa",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1462574032464642309",
+          "identity_enabled": true,
+          "tag": "HOLO",
+          "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1462574032464642309",
+          "identity_enabled": true,
+          "tag": "HOLO",
+          "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 16
+    }
+  },
+  {
+    "type": 0,
+    "content": "the clearest",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-10-15T05:50:59.849000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1162990992119582861",
+    "channel_id": "1137838063331053721",
+    "author": {
+      "id": "177613672192016384",
+      "username": "keknort",
+      "avatar": "ed036afacc34568f5326867cccbbcc26",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Knort ඞ",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 36
+  },
+  {
+    "type": 0,
+    "content": "I want to note that the giant crystals do not appear to have the same candy drop table as mini bosses. Theirs seem to be unique. \n\nGiant crystals seem to only be able to drop one candy each.\nTested once with orb and summon items, as well.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-10-15T08:18:48.362000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1163028189359132773",
+    "channel_id": "1137838063331053721",
+    "author": {
+      "id": "323670898886574081",
+      "username": "ifahlna",
+      "avatar": null,
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "ıƒªʱƖƞₐ",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1049369650649124954",
+        "identity_enabled": true,
+        "tag": "1969",
+        "badge": "8e228078dc56d4ad8bdccb696d4e90be"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1049369650649124954",
+        "identity_enabled": true,
+        "tag": "1969",
+        "badge": "8e228078dc56d4ad8bdccb696d4e90be"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 37
+  },
+  {
+    "type": 0,
+    "content": "The crystal island is SUPER useful. Its daily free time candies and free levels. My lvl 270 gets a free level with every single crystal mob kill.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-11-06T21:07:31.987000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1171194178907148428",
+    "channel_id": "1137838063331053721",
+    "author": {
+      "id": "292036331037523968",
+      "username": "nevernothin",
+      "avatar": "79d819e122b5c0c252c845febc21008e",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nevernothin",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 39
+  },
+  {
+    "type": 0,
+    "content": "yee the exp from it is nice. I get a decent chunk of exp on my level 500+ characters thats probably equal to about 20-30 mins of active afk on the big blue eyes white dragon larvae in world 5(last area) in just 1 minute.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-11-12T17:16:43.766000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1173310422452023316",
+    "channel_id": "1137838063331053721",
+    "author": {
+      "id": "177613672192016384",
+      "username": "keknort",
+      "avatar": "ed036afacc34568f5326867cccbbcc26",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Knort ඞ",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 40,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "456707411395346447",
+          "name": "pointer2"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "FWIW on crystal island - the crystals spawned from chocolatey chip give the same amount of boosted XP. It's been quite helpful catching my Vman up in levels",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-02-20T22:12:05.540000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1209623539519590460",
+    "channel_id": "1137838063331053721",
+    "author": {
+      "id": "133389354780327937",
+      "username": "tigrr",
+      "avatar": "46a3f3a9829b76186c5438d244701e5d",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Tigrr",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1243977533133820045",
+        "identity_enabled": true,
+        "tag": "LOCK",
+        "badge": "17450651319160ea7a70d46523288dbe"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1243977533133820045",
+        "identity_enabled": true,
+        "tag": "LOCK",
+        "badge": "17450651319160ea7a70d46523288dbe"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 43,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,2820 @@
+[
+  {
+    "type": 0,
+    "content": "`Sheepie posted another method that uses bubo. First post after this one, use whichever works for you`\n\n<:block:1110959753800196247> Woodlin Elder has a questline that asks you to kill 50, 150 and 333 monsters exactly. Get it wrong, you have to start over. Completing all 3 quests rewards you with 8,000 gold food coupons.\n<:block:1110959753800196247> I recommend using Dk as divine intervention and boomerang makes this quest quite simple.\n<:block:1110959753800196247> You can also use orb to keep track however; it will include crystals in its count.\n\nThe map has 22 spawns split between 3 platforms.\n* Platform one has 7 spawns.\n* Platform two has 12 spawns.\n* Platform three has 3 spawns.\n* Platform four is where you need to stand to get quest credit, or to reset your progress should you mess up or lose count.\n* Crystals do not count.\n* These quests can be done consecutively and it will retain the kills from the previous to expedite the process. (Thank you <@323670898886574081>  for pointing this out <:Hearto:812252292597547018> )\n\n\n**Consecutive**\nFiddy\n> To kill 50 you need to fully clear the map twice and then kill all but one on the first platform.\nHunned Fiddy\n> To get to 150 kills you need to fully clear the map 4 more times and then kill all 12 on platform 2.\nTriple Tre\n> To get to 333 kills you need to fully clear the map 8 more times and then kill all 7 on platform 1.\n\n**Individual**\nFiddy\n> To kill 50 you need to full clear the map twice and then kill all but one on the first platform.\nHunned Fiddy\n> To kill 150 you need to fully clear the map 6 times, then kill the second platform and all but 1 on the first platform.\nTriple Tre\n> To kill 333 you need to fully clear the map 15 times, then kill the three on platform three.",
+    "mentions": [
+      {
+        "id": "323670898886574081",
+        "username": "ifahlna",
+        "avatar": null,
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "ıƒªʱƖƞₐ",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1049369650649124954",
+          "identity_enabled": true,
+          "tag": "1969",
+          "badge": "8e228078dc56d4ad8bdccb696d4e90be"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1049369650649124954",
+          "identity_enabled": true,
+          "tag": "1969",
+          "badge": "8e228078dc56d4ad8bdccb696d4e90be"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1208827425492836442",
+        "filename": "image.png",
+        "size": 554084,
+        "url": "https://cdn.discordapp.com/attachments/1208827423836344402/1208827425492836442/image.png?ex=6a0f40c5&is=6a0def45&hm=da6892e9940c431ff1a95369ef70d4a55261c9833e690ac5cd78c2cee3c438dc&",
+        "proxy_url": "https://media.discordapp.net/attachments/1208827423836344402/1208827425492836442/image.png?ex=6a0f40c5&is=6a0def45&hm=da6892e9940c431ff1a95369ef70d4a55261c9833e690ac5cd78c2cee3c438dc&",
+        "width": 1186,
+        "height": 630,
+        "content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "I8kJLIh5doiPiIeKeHl2cNQFdQ==",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2024-02-18T17:28:36.770000+00:00",
+    "edited_timestamp": "2024-02-19T01:01:33.572000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1208827423836344402",
+    "channel_id": "1208827423836344402",
+    "author": {
+      "id": "236928332430573569",
+      "username": "rashaken",
+      "avatar": "c589bd219a130db4bbcec6d12a4f6a9a",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Rashaken",
+      "avatar_decoration_data": {
+        "asset": "a_c7e1751e8122f1b475cb3006966fb28c",
+        "sku_id": "1154896005045694555",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "368953963267096586",
+        "identity_enabled": true,
+        "tag": "LE",
+        "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+      },
+      "primary_guild": {
+        "identity_guild_id": "368953963267096586",
+        "identity_enabled": true,
+        "tag": "LE",
+        "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+      }
+    },
+    "pinned": true,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 58,
+        "count_details": {
+          "burst": 0,
+          "normal": 58
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1114306970816630876",
+          "name": "Grumblo_Pray"
+        },
+        "count": 9,
+        "count_details": {
+          "burst": 0,
+          "normal": 9
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "__**ive got a less confusing route with a bubo:**__\n\nso the bottom platform has 12 mobs\nthe first 1 needs 50\nso:\nput an aura\nuse raise dead and count the amount of times they die\nwhen it reaches 4 stop\nkill 2 other woodlins\n__completed first task__\nnow you need 100 more\nso kill the bottom platform 8 times\nand kill 4 woodlins\n__completed second task__\nnow you need 183 more\nso kill the bottom platform 15 times\nand kill 3 woodlins\n__completed third task__",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-02-18T23:45:08.843000+00:00",
+    "edited_timestamp": "2024-02-18T23:47:55.133000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1208922181858361424",
+    "channel_id": "1208827423836344402",
+    "author": {
+      "id": "773192392043790367",
+      "username": "mega_yairzzz",
+      "avatar": "4a99a3239e6149beeed7c6b945618708",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Mega",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "337985280969801728",
+        "identity_enabled": true,
+        "tag": "IL",
+        "badge": "ead40c6aa63f3427a25947f36b63bc0c"
+      },
+      "primary_guild": {
+        "identity_guild_id": "337985280969801728",
+        "identity_enabled": true,
+        "tag": "IL",
+        "badge": "ead40c6aa63f3427a25947f36b63bc0c"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 16,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "💚"
+        },
+        "count": 21,
+        "count_details": {
+          "burst": 0,
+          "normal": 21
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "446103753976971265",
+          "name": "Baggy"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "I pretty much did the same thing as Sheepie, but on my ES. All I did was pop out my zip zap (Radiant Chainbolt for the uninitiated), let it kill the whole map, and kept count. The respawn time was slow, but it was reliable.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-02-18T23:56:24.342000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1208925015106388008",
+    "channel_id": "1208827423836344402",
+    "author": {
+      "id": "99742137230319616",
+      "username": "hotair",
+      "avatar": "a_cc08294b2a80e575d0b817495d7da200",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Hotair - 4 days",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712162738196",
+          "asset": "nameplates/nameplates_v2/sword_of_legend/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SWORD_OF_LEGEND_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 17
+  },
+  {
+    "type": 19,
+    "content": "If crystals don't count, this isn't a good idea",
+    "mentions": [
+      {
+        "id": "294563357153951744",
+        "username": "bashes",
+        "avatar": "a_470f7c9f2534b84a91b4e02380358055",
+        "discriminator": "0",
+        "public_flags": 64,
+        "flags": 64,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Bashes",
+        "avatar_decoration_data": {
+          "asset": "a_a47890109a231f72dae7b17b27164676",
+          "sku_id": "1232070870093008937",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1382845914267521117",
+            "asset": "nameplates/nameplates_v3/sun_and_moon/",
+            "label": "COLLECTIBLES_NAMEPLATES_CAT_BEANS_A11Y",
+            "palette": "cobalt"
+          }
+        },
+        "display_name_styles": {
+          "font_id": 12,
+          "effect_id": 3,
+          "colors": [
+            12790527
+          ]
+        },
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-02-19T00:06:23.364000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1208927527586766899",
+    "channel_id": "1208827423836344402",
+    "author": {
+      "id": "323670898886574081",
+      "username": "ifahlna",
+      "avatar": null,
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "ıƒªʱƖƞₐ",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1049369650649124954",
+        "identity_enabled": true,
+        "tag": "1969",
+        "badge": "8e228078dc56d4ad8bdccb696d4e90be"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1049369650649124954",
+        "identity_enabled": true,
+        "tag": "1969",
+        "badge": "8e228078dc56d4ad8bdccb696d4e90be"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1208827423836344402",
+      "message_id": "1208909687609753600",
+      "guild_id": "437797104786604034"
+    },
+    "position": 18,
+    "referenced_message": null
+  },
+  {
+    "type": 19,
+    "content": "they dont",
+    "mentions": [
+      {
+        "id": "323670898886574081",
+        "username": "ifahlna",
+        "avatar": null,
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "ıƒªʱƖƞₐ",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1049369650649124954",
+          "identity_enabled": true,
+          "tag": "1969",
+          "badge": "8e228078dc56d4ad8bdccb696d4e90be"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1049369650649124954",
+          "identity_enabled": true,
+          "tag": "1969",
+          "badge": "8e228078dc56d4ad8bdccb696d4e90be"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-02-19T00:08:00.286000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1208927934107230228",
+    "channel_id": "1208827423836344402",
+    "author": {
+      "id": "773192392043790367",
+      "username": "mega_yairzzz",
+      "avatar": "4a99a3239e6149beeed7c6b945618708",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Mega",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "337985280969801728",
+        "identity_enabled": true,
+        "tag": "IL",
+        "badge": "ead40c6aa63f3427a25947f36b63bc0c"
+      },
+      "primary_guild": {
+        "identity_guild_id": "337985280969801728",
+        "identity_enabled": true,
+        "tag": "IL",
+        "badge": "ead40c6aa63f3427a25947f36b63bc0c"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1208827423836344402",
+      "message_id": "1208927527586766899",
+      "guild_id": "437797104786604034"
+    },
+    "position": 19,
+    "referenced_message": {
+      "type": 19,
+      "content": "If crystals don't count, this isn't a good idea",
+      "mentions": [
+        {
+          "id": "294563357153951744",
+          "username": "bashes",
+          "avatar": "a_470f7c9f2534b84a91b4e02380358055",
+          "discriminator": "0",
+          "public_flags": 64,
+          "flags": 64,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Bashes",
+          "avatar_decoration_data": {
+            "asset": "a_a47890109a231f72dae7b17b27164676",
+            "sku_id": "1232070870093008937",
+            "expires_at": null
+          },
+          "collectibles": {
+            "nameplate": {
+              "sku_id": "1382845914267521117",
+              "asset": "nameplates/nameplates_v3/sun_and_moon/",
+              "label": "COLLECTIBLES_NAMEPLATES_CAT_BEANS_A11Y",
+              "palette": "cobalt"
+            }
+          },
+          "display_name_styles": {
+            "font_id": 12,
+            "effect_id": 3,
+            "colors": [
+              12790527
+            ]
+          },
+          "banner_color": null,
+          "clan": {
+            "identity_guild_id": "437797104786604034",
+            "identity_enabled": true,
+            "tag": "idle",
+            "badge": "613dd0a2876f97a2422d121940ecc992"
+          },
+          "primary_guild": {
+            "identity_guild_id": "437797104786604034",
+            "identity_enabled": true,
+            "tag": "idle",
+            "badge": "613dd0a2876f97a2422d121940ecc992"
+          }
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2024-02-19T00:06:23.364000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1208927527586766899",
+      "channel_id": "1208827423836344402",
+      "author": {
+        "id": "323670898886574081",
+        "username": "ifahlna",
+        "avatar": null,
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "ıƒªʱƖƞₐ",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1049369650649124954",
+          "identity_enabled": true,
+          "tag": "1969",
+          "badge": "8e228078dc56d4ad8bdccb696d4e90be"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1049369650649124954",
+          "identity_enabled": true,
+          "tag": "1969",
+          "badge": "8e228078dc56d4ad8bdccb696d4e90be"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1208827423836344402",
+        "message_id": "1208909687609753600",
+        "guild_id": "437797104786604034"
+      },
+      "position": 18
+    }
+  },
+  {
+    "type": 19,
+    "content": "that... seems more complicated",
+    "mentions": [
+      {
+        "id": "773192392043790367",
+        "username": "mega_yairzzz",
+        "avatar": "4a99a3239e6149beeed7c6b945618708",
+        "discriminator": "0",
+        "public_flags": 256,
+        "flags": 256,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Mega",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "337985280969801728",
+          "identity_enabled": true,
+          "tag": "IL",
+          "badge": "ead40c6aa63f3427a25947f36b63bc0c"
+        },
+        "primary_guild": {
+          "identity_guild_id": "337985280969801728",
+          "identity_enabled": true,
+          "tag": "IL",
+          "badge": "ead40c6aa63f3427a25947f36b63bc0c"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-02-19T00:52:04.768000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1208939025868521482",
+    "channel_id": "1208827423836344402",
+    "author": {
+      "id": "236928332430573569",
+      "username": "rashaken",
+      "avatar": "c589bd219a130db4bbcec6d12a4f6a9a",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Rashaken",
+      "avatar_decoration_data": {
+        "asset": "a_c7e1751e8122f1b475cb3006966fb28c",
+        "sku_id": "1154896005045694555",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "368953963267096586",
+        "identity_enabled": true,
+        "tag": "LE",
+        "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+      },
+      "primary_guild": {
+        "identity_guild_id": "368953963267096586",
+        "identity_enabled": true,
+        "tag": "LE",
+        "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1208827423836344402",
+      "message_id": "1208922181858361424",
+      "guild_id": "437797104786604034"
+    },
+    "position": 20,
+    "referenced_message": {
+      "type": 0,
+      "content": "__**ive got a less confusing route with a bubo:**__\n\nso the bottom platform has 12 mobs\nthe first 1 needs 50\nso:\nput an aura\nuse raise dead and count the amount of times they die\nwhen it reaches 4 stop\nkill 2 other woodlins\n__completed first task__\nnow you need 100 more\nso kill the bottom platform 8 times\nand kill 4 woodlins\n__completed second task__\nnow you need 183 more\nso kill the bottom platform 15 times\nand kill 3 woodlins\n__completed third task__",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2024-02-18T23:45:08.843000+00:00",
+      "edited_timestamp": "2024-02-18T23:47:55.133000+00:00",
+      "flags": 0,
+      "components": [],
+      "id": "1208922181858361424",
+      "channel_id": "1208827423836344402",
+      "author": {
+        "id": "773192392043790367",
+        "username": "mega_yairzzz",
+        "avatar": "4a99a3239e6149beeed7c6b945618708",
+        "discriminator": "0",
+        "public_flags": 256,
+        "flags": 256,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Mega",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "337985280969801728",
+          "identity_enabled": true,
+          "tag": "IL",
+          "badge": "ead40c6aa63f3427a25947f36b63bc0c"
+        },
+        "primary_guild": {
+          "identity_guild_id": "337985280969801728",
+          "identity_enabled": true,
+          "tag": "IL",
+          "badge": "ead40c6aa63f3427a25947f36b63bc0c"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 16
+    }
+  },
+  {
+    "type": 0,
+    "content": "you're sitting around waiting to kill individual platforms rather than the entire map and a single platform.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-02-19T00:52:22.053000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1208939098367332372",
+    "channel_id": "1208827423836344402",
+    "author": {
+      "id": "236928332430573569",
+      "username": "rashaken",
+      "avatar": "c589bd219a130db4bbcec6d12a4f6a9a",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Rashaken",
+      "avatar_decoration_data": {
+        "asset": "a_c7e1751e8122f1b475cb3006966fb28c",
+        "sku_id": "1154896005045694555",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "368953963267096586",
+        "identity_enabled": true,
+        "tag": "LE",
+        "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+      },
+      "primary_guild": {
+        "identity_guild_id": "368953963267096586",
+        "identity_enabled": true,
+        "tag": "LE",
+        "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 21
+  },
+  {
+    "type": 0,
+    "content": "sounds like it would take longer and require more counting",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-02-19T00:52:30.146000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1208939132311834634",
+    "channel_id": "1208827423836344402",
+    "author": {
+      "id": "236928332430573569",
+      "username": "rashaken",
+      "avatar": "c589bd219a130db4bbcec6d12a4f6a9a",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Rashaken",
+      "avatar_decoration_data": {
+        "asset": "a_c7e1751e8122f1b475cb3006966fb28c",
+        "sku_id": "1154896005045694555",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "368953963267096586",
+        "identity_enabled": true,
+        "tag": "LE",
+        "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+      },
+      "primary_guild": {
+        "identity_guild_id": "368953963267096586",
+        "identity_enabled": true,
+        "tag": "LE",
+        "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 22
+  },
+  {
+    "type": 19,
+    "content": "literally no\nyou put down an aura\nuse raise dead\nand all you count is how many times you cleared the platform",
+    "mentions": [
+      {
+        "id": "236928332430573569",
+        "username": "rashaken",
+        "avatar": "c589bd219a130db4bbcec6d12a4f6a9a",
+        "discriminator": "0",
+        "public_flags": 64,
+        "flags": 64,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Rashaken",
+        "avatar_decoration_data": {
+          "asset": "a_c7e1751e8122f1b475cb3006966fb28c",
+          "sku_id": "1154896005045694555",
+          "expires_at": null
+        },
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "368953963267096586",
+          "identity_enabled": true,
+          "tag": "LE",
+          "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+        },
+        "primary_guild": {
+          "identity_guild_id": "368953963267096586",
+          "identity_enabled": true,
+          "tag": "LE",
+          "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-02-19T00:54:43.077000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1208939689864593469",
+    "channel_id": "1208827423836344402",
+    "author": {
+      "id": "773192392043790367",
+      "username": "mega_yairzzz",
+      "avatar": "4a99a3239e6149beeed7c6b945618708",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Mega",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "337985280969801728",
+        "identity_enabled": true,
+        "tag": "IL",
+        "badge": "ead40c6aa63f3427a25947f36b63bc0c"
+      },
+      "primary_guild": {
+        "identity_guild_id": "337985280969801728",
+        "identity_enabled": true,
+        "tag": "IL",
+        "badge": "ead40c6aa63f3427a25947f36b63bc0c"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1208827423836344402",
+      "message_id": "1208939132311834634",
+      "guild_id": "437797104786604034"
+    },
+    "position": 23,
+    "referenced_message": {
+      "type": 0,
+      "content": "sounds like it would take longer and require more counting",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2024-02-19T00:52:30.146000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1208939132311834634",
+      "channel_id": "1208827423836344402",
+      "author": {
+        "id": "236928332430573569",
+        "username": "rashaken",
+        "avatar": "c589bd219a130db4bbcec6d12a4f6a9a",
+        "discriminator": "0",
+        "public_flags": 64,
+        "flags": 64,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Rashaken",
+        "avatar_decoration_data": {
+          "asset": "a_c7e1751e8122f1b475cb3006966fb28c",
+          "sku_id": "1154896005045694555",
+          "expires_at": null
+        },
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "368953963267096586",
+          "identity_enabled": true,
+          "tag": "LE",
+          "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+        },
+        "primary_guild": {
+          "identity_guild_id": "368953963267096586",
+          "identity_enabled": true,
+          "tag": "LE",
+          "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 22
+    }
+  },
+  {
+    "type": 0,
+    "content": "it was much easier for me than to clear the map",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-02-19T00:56:02.110000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1208940021353025566",
+    "channel_id": "1208827423836344402",
+    "author": {
+      "id": "773192392043790367",
+      "username": "mega_yairzzz",
+      "avatar": "4a99a3239e6149beeed7c6b945618708",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Mega",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "337985280969801728",
+        "identity_enabled": true,
+        "tag": "IL",
+        "badge": "ead40c6aa63f3427a25947f36b63bc0c"
+      },
+      "primary_guild": {
+        "identity_guild_id": "337985280969801728",
+        "identity_enabled": true,
+        "tag": "IL",
+        "badge": "ead40c6aa63f3427a25947f36b63bc0c"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 24
+  },
+  {
+    "type": 0,
+    "content": "is the 12 on the bot plat actually enough to reset raise day every time?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-02-19T00:56:51.184000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1208940227184304168",
+    "channel_id": "1208827423836344402",
+    "author": {
+      "id": "236928332430573569",
+      "username": "rashaken",
+      "avatar": "c589bd219a130db4bbcec6d12a4f6a9a",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Rashaken",
+      "avatar_decoration_data": {
+        "asset": "a_c7e1751e8122f1b475cb3006966fb28c",
+        "sku_id": "1154896005045694555",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "368953963267096586",
+        "identity_enabled": true,
+        "tag": "LE",
+        "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+      },
+      "primary_guild": {
+        "identity_guild_id": "368953963267096586",
+        "identity_enabled": true,
+        "tag": "LE",
+        "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 25
+  },
+  {
+    "type": 0,
+    "content": "also, is that going to be dependent on talent levels?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-02-19T00:57:04.057000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1208940281177575434",
+    "channel_id": "1208827423836344402",
+    "author": {
+      "id": "236928332430573569",
+      "username": "rashaken",
+      "avatar": "c589bd219a130db4bbcec6d12a4f6a9a",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Rashaken",
+      "avatar_decoration_data": {
+        "asset": "a_c7e1751e8122f1b475cb3006966fb28c",
+        "sku_id": "1154896005045694555",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "368953963267096586",
+        "identity_enabled": true,
+        "tag": "LE",
+        "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+      },
+      "primary_guild": {
+        "identity_guild_id": "368953963267096586",
+        "identity_enabled": true,
+        "tag": "LE",
+        "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 26
+  },
+  {
+    "type": 19,
+    "content": "its depending on your tenteclye luck \nits like 5 seconds of waiting if you get unlucky pretty much",
+    "mentions": [
+      {
+        "id": "236928332430573569",
+        "username": "rashaken",
+        "avatar": "c589bd219a130db4bbcec6d12a4f6a9a",
+        "discriminator": "0",
+        "public_flags": 64,
+        "flags": 64,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Rashaken",
+        "avatar_decoration_data": {
+          "asset": "a_c7e1751e8122f1b475cb3006966fb28c",
+          "sku_id": "1154896005045694555",
+          "expires_at": null
+        },
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "368953963267096586",
+          "identity_enabled": true,
+          "tag": "LE",
+          "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+        },
+        "primary_guild": {
+          "identity_guild_id": "368953963267096586",
+          "identity_enabled": true,
+          "tag": "LE",
+          "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-02-19T00:58:57.365000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1208940756425908324",
+    "channel_id": "1208827423836344402",
+    "author": {
+      "id": "773192392043790367",
+      "username": "mega_yairzzz",
+      "avatar": "4a99a3239e6149beeed7c6b945618708",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Mega",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "337985280969801728",
+        "identity_enabled": true,
+        "tag": "IL",
+        "badge": "ead40c6aa63f3427a25947f36b63bc0c"
+      },
+      "primary_guild": {
+        "identity_guild_id": "337985280969801728",
+        "identity_enabled": true,
+        "tag": "IL",
+        "badge": "ead40c6aa63f3427a25947f36b63bc0c"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1208827423836344402",
+      "message_id": "1208940227184304168",
+      "guild_id": "437797104786604034"
+    },
+    "position": 27,
+    "referenced_message": {
+      "type": 0,
+      "content": "is the 12 on the bot plat actually enough to reset raise day every time?",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2024-02-19T00:56:51.184000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1208940227184304168",
+      "channel_id": "1208827423836344402",
+      "author": {
+        "id": "236928332430573569",
+        "username": "rashaken",
+        "avatar": "c589bd219a130db4bbcec6d12a4f6a9a",
+        "discriminator": "0",
+        "public_flags": 64,
+        "flags": 64,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Rashaken",
+        "avatar_decoration_data": {
+          "asset": "a_c7e1751e8122f1b475cb3006966fb28c",
+          "sku_id": "1154896005045694555",
+          "expires_at": null
+        },
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "368953963267096586",
+          "identity_enabled": true,
+          "tag": "LE",
+          "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+        },
+        "primary_guild": {
+          "identity_guild_id": "368953963267096586",
+          "identity_enabled": true,
+          "tag": "LE",
+          "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 25
+    }
+  },
+  {
+    "type": 19,
+    "content": "the bigger aura the better\nbut as long as you got 200 tente you should be good",
+    "mentions": [
+      {
+        "id": "236928332430573569",
+        "username": "rashaken",
+        "avatar": "c589bd219a130db4bbcec6d12a4f6a9a",
+        "discriminator": "0",
+        "public_flags": 64,
+        "flags": 64,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Rashaken",
+        "avatar_decoration_data": {
+          "asset": "a_c7e1751e8122f1b475cb3006966fb28c",
+          "sku_id": "1154896005045694555",
+          "expires_at": null
+        },
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "368953963267096586",
+          "identity_enabled": true,
+          "tag": "LE",
+          "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+        },
+        "primary_guild": {
+          "identity_guild_id": "368953963267096586",
+          "identity_enabled": true,
+          "tag": "LE",
+          "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-02-19T00:59:13.364000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1208940823530709032",
+    "channel_id": "1208827423836344402",
+    "author": {
+      "id": "773192392043790367",
+      "username": "mega_yairzzz",
+      "avatar": "4a99a3239e6149beeed7c6b945618708",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Mega",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "337985280969801728",
+        "identity_enabled": true,
+        "tag": "IL",
+        "badge": "ead40c6aa63f3427a25947f36b63bc0c"
+      },
+      "primary_guild": {
+        "identity_guild_id": "337985280969801728",
+        "identity_enabled": true,
+        "tag": "IL",
+        "badge": "ead40c6aa63f3427a25947f36b63bc0c"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1208827423836344402",
+      "message_id": "1208940281177575434",
+      "guild_id": "437797104786604034"
+    },
+    "position": 28,
+    "referenced_message": {
+      "type": 0,
+      "content": "also, is that going to be dependent on talent levels?",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2024-02-19T00:57:04.057000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1208940281177575434",
+      "channel_id": "1208827423836344402",
+      "author": {
+        "id": "236928332430573569",
+        "username": "rashaken",
+        "avatar": "c589bd219a130db4bbcec6d12a4f6a9a",
+        "discriminator": "0",
+        "public_flags": 64,
+        "flags": 64,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Rashaken",
+        "avatar_decoration_data": {
+          "asset": "a_c7e1751e8122f1b475cb3006966fb28c",
+          "sku_id": "1154896005045694555",
+          "expires_at": null
+        },
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "368953963267096586",
+          "identity_enabled": true,
+          "tag": "LE",
+          "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+        },
+        "primary_guild": {
+          "identity_guild_id": "368953963267096586",
+          "identity_enabled": true,
+          "tag": "LE",
+          "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 26
+    }
+  },
+  {
+    "type": 0,
+    "content": "Im going to delete messages and put yours as the second post,  so its there as an alternative.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-02-19T00:59:43.811000+00:00",
+    "edited_timestamp": "2024-02-19T05:05:04.885000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1208940951234674728",
+    "channel_id": "1208827423836344402",
+    "author": {
+      "id": "236928332430573569",
+      "username": "rashaken",
+      "avatar": "c589bd219a130db4bbcec6d12a4f6a9a",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Rashaken",
+      "avatar_decoration_data": {
+        "asset": "a_c7e1751e8122f1b475cb3006966fb28c",
+        "sku_id": "1154896005045694555",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "368953963267096586",
+        "identity_enabled": true,
+        "tag": "LE",
+        "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+      },
+      "primary_guild": {
+        "identity_guild_id": "368953963267096586",
+        "identity_enabled": true,
+        "tag": "LE",
+        "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 29,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "i'd also suggest to do it on DK since he has the orb to count for you, just need to be aware of crystals if they don't count. Just need to make sure to unequip sword for the last kills since you don't want to accidentally trigger a shockwave with a basic attack",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-02-19T11:20:43.058000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1209097227843280936",
+    "channel_id": "1208827423836344402",
+    "author": {
+      "id": "732218653151330387",
+      "username": "irineu9572",
+      "avatar": "b34ae3ef419fa3210d09e72249f3280a",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 30
+  },
+  {
+    "type": 0,
+    "content": "do giants count?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-02-20T01:32:21.121000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1209311548653310042",
+    "channel_id": "1208827423836344402",
+    "author": {
+      "id": "473530353244438530",
+      "username": "dark_foxxy",
+      "avatar": "572a7e6e811a0b9b153613f9eb6a4483",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "DarkFoxxy",
+      "avatar_decoration_data": {
+        "asset": "a_be111e4303d634c55500202a61656e0b",
+        "sku_id": "1298033986571866112",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "998292567408001034",
+        "identity_enabled": true,
+        "tag": "MOFU",
+        "badge": "ec60c5e6d1f14d3bbff586e2e0b9e54e"
+      },
+      "primary_guild": {
+        "identity_guild_id": "998292567408001034",
+        "identity_enabled": true,
+        "tag": "MOFU",
+        "badge": "ec60c5e6d1f14d3bbff586e2e0b9e54e"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 31
+  },
+  {
+    "type": 0,
+    "content": "they do",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-02-20T01:34:42.540000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1209312141807452170",
+    "channel_id": "1208827423836344402",
+    "author": {
+      "id": "473530353244438530",
+      "username": "dark_foxxy",
+      "avatar": "572a7e6e811a0b9b153613f9eb6a4483",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "DarkFoxxy",
+      "avatar_decoration_data": {
+        "asset": "a_be111e4303d634c55500202a61656e0b",
+        "sku_id": "1298033986571866112",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "998292567408001034",
+        "identity_enabled": true,
+        "tag": "MOFU",
+        "badge": "ec60c5e6d1f14d3bbff586e2e0b9e54e"
+      },
+      "primary_guild": {
+        "identity_guild_id": "998292567408001034",
+        "identity_enabled": true,
+        "tag": "MOFU",
+        "badge": "ec60c5e6d1f14d3bbff586e2e0b9e54e"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 32
+  },
+  {
+    "type": 0,
+    "content": "aaarrrggghhh",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-02-20T01:34:51.231000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1209312178260279338",
+    "channel_id": "1208827423836344402",
+    "author": {
+      "id": "473530353244438530",
+      "username": "dark_foxxy",
+      "avatar": "572a7e6e811a0b9b153613f9eb6a4483",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "DarkFoxxy",
+      "avatar_decoration_data": {
+        "asset": "a_be111e4303d634c55500202a61656e0b",
+        "sku_id": "1298033986571866112",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "998292567408001034",
+        "identity_enabled": true,
+        "tag": "MOFU",
+        "badge": "ec60c5e6d1f14d3bbff586e2e0b9e54e"
+      },
+      "primary_guild": {
+        "identity_guild_id": "998292567408001034",
+        "identity_enabled": true,
+        "tag": "MOFU",
+        "badge": "ec60c5e6d1f14d3bbff586e2e0b9e54e"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 33
+  },
+  {
+    "type": 0,
+    "content": "tysm for this!",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-02-20T09:22:49.028000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1209429945076420678",
+    "channel_id": "1208827423836344402",
+    "author": {
+      "id": "346481470337974273",
+      "username": "hylevel",
+      "avatar": "20c3b8f3f699ecb6e8bcd6b3c874ab33",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Hylevel",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614286585866",
+          "asset": "nameplates/nameplates/cityscape/",
+          "label": "COLLECTIBLES_NAMEPLATES_CITYSCAPE_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 34
+  },
+  {
+    "type": 19,
+    "content": "??",
+    "mentions": [
+      {
+        "id": "454927394990718996",
+        "username": "serkesx",
+        "avatar": "91ee218bc15829f49b5f43755b7b43bb",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Serkesx",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-02-22T14:24:45.111000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1210230705167147008",
+    "channel_id": "1208827423836344402",
+    "author": {
+      "id": "773192392043790367",
+      "username": "mega_yairzzz",
+      "avatar": "4a99a3239e6149beeed7c6b945618708",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Mega",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "337985280969801728",
+        "identity_enabled": true,
+        "tag": "IL",
+        "badge": "ead40c6aa63f3427a25947f36b63bc0c"
+      },
+      "primary_guild": {
+        "identity_guild_id": "337985280969801728",
+        "identity_enabled": true,
+        "tag": "IL",
+        "badge": "ead40c6aa63f3427a25947f36b63bc0c"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1208827423836344402",
+      "message_id": "1210228191084548178",
+      "guild_id": "437797104786604034"
+    },
+    "position": 36,
+    "referenced_message": null
+  },
+  {
+    "type": 19,
+    "content": "I fail sorry",
+    "mentions": [
+      {
+        "id": "773192392043790367",
+        "username": "mega_yairzzz",
+        "avatar": "4a99a3239e6149beeed7c6b945618708",
+        "discriminator": "0",
+        "public_flags": 256,
+        "flags": 256,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Mega",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "337985280969801728",
+          "identity_enabled": true,
+          "tag": "IL",
+          "badge": "ead40c6aa63f3427a25947f36b63bc0c"
+        },
+        "primary_guild": {
+          "identity_guild_id": "337985280969801728",
+          "identity_enabled": true,
+          "tag": "IL",
+          "badge": "ead40c6aa63f3427a25947f36b63bc0c"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-02-22T14:30:10.516000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1210232070014509136",
+    "channel_id": "1208827423836344402",
+    "author": {
+      "id": "454927394990718996",
+      "username": "serkesx",
+      "avatar": "91ee218bc15829f49b5f43755b7b43bb",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Serkesx",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1208827423836344402",
+      "message_id": "1210230705167147008",
+      "guild_id": "437797104786604034"
+    },
+    "position": 37,
+    "referenced_message": {
+      "type": 19,
+      "content": "??",
+      "mentions": [
+        {
+          "id": "454927394990718996",
+          "username": "serkesx",
+          "avatar": "91ee218bc15829f49b5f43755b7b43bb",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Serkesx",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2024-02-22T14:24:45.111000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1210230705167147008",
+      "channel_id": "1208827423836344402",
+      "author": {
+        "id": "773192392043790367",
+        "username": "mega_yairzzz",
+        "avatar": "4a99a3239e6149beeed7c6b945618708",
+        "discriminator": "0",
+        "public_flags": 256,
+        "flags": 256,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Mega",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "337985280969801728",
+          "identity_enabled": true,
+          "tag": "IL",
+          "badge": "ead40c6aa63f3427a25947f36b63bc0c"
+        },
+        "primary_guild": {
+          "identity_guild_id": "337985280969801728",
+          "identity_enabled": true,
+          "tag": "IL",
+          "badge": "ead40c6aa63f3427a25947f36b63bc0c"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1208827423836344402",
+        "message_id": "1210228191084548178",
+        "guild_id": "437797104786604034"
+      },
+      "position": 36
+    }
+  },
+  {
+    "type": 0,
+    "content": "It went very smooth, thanks for the detailed info + instructions! <:Grumblo_Pray:1114306970816630876> 🙇",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-02-23T17:24:08.197000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1210638236687278080",
+    "channel_id": "1208827423836344402",
+    "author": {
+      "id": "285693097944416256",
+      "username": "8matchii",
+      "avatar": "1168173609439f08ea8b5697dafd071a",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "8matchii",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 38
+  },
+  {
+    "type": 0,
+    "content": "I tried using the orb to help with the count, but honestly it got in the way and made it more confusing due to crystals. In the end I was better off just counting the number of full wipes + extras needed to reach the numbers 👌",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-02-23T17:25:45.325000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1210638644071768124",
+    "channel_id": "1208827423836344402",
+    "author": {
+      "id": "285693097944416256",
+      "username": "8matchii",
+      "avatar": "1168173609439f08ea8b5697dafd071a",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "8matchii",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 39
+  },
+  {
+    "type": 0,
+    "content": "Thanks for the correction on how they stack, was a frustrating questline if you dont' know that.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-02-24T15:23:18.720000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1210970218042490960",
+    "channel_id": "1208827423836344402",
+    "author": {
+      "id": "262738764554698752",
+      "username": "mini4x.5477",
+      "avatar": "f3bd5069f23e9a184ab42805717db887",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Mini4x",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 41
+  },
+  {
+    "type": 0,
+    "content": "Worked like a charm (I had to do an extra kill on 3rd platform on 3rd consecutive only because 1 of my dk hand resurrect skill replaced mobs while 1 was still alive on 3rd platform)",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-02-26T00:43:53.121000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1211473678811004988",
+    "channel_id": "1208827423836344402",
+    "author": {
+      "id": "408723379684900884",
+      "username": "seraphic_star",
+      "avatar": "3465ae7805b5ddf89a9331c420bab5fc",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "SeraphicStar",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 42
+  },
+  {
+    "type": 0,
+    "content": "why advise for a particular class, I think it's important to do the quest on every char",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-03-02T12:07:10.948000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1213457575488651264",
+    "channel_id": "1208827423836344402",
+    "author": {
+      "id": "467055213883162645",
+      "username": "winstonsurechill",
+      "avatar": "4f1540eb41da65f111419a3b330f47b3",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "winstonSureChill",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 43
+  },
+  {
+    "type": 19,
+    "content": "I think because it can only be done once? 🤔",
+    "mentions": [
+      {
+        "id": "467055213883162645",
+        "username": "winstonsurechill",
+        "avatar": "4f1540eb41da65f111419a3b330f47b3",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "winstonSureChill",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-03-02T12:13:36.616000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1213459193097359360",
+    "channel_id": "1208827423836344402",
+    "author": {
+      "id": "408723379684900884",
+      "username": "seraphic_star",
+      "avatar": "3465ae7805b5ddf89a9331c420bab5fc",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "SeraphicStar",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1208827423836344402",
+      "message_id": "1213457575488651264",
+      "guild_id": "437797104786604034"
+    },
+    "position": 44,
+    "referenced_message": {
+      "type": 0,
+      "content": "why advise for a particular class, I think it's important to do the quest on every char",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2024-03-02T12:07:10.948000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1213457575488651264",
+      "channel_id": "1208827423836344402",
+      "author": {
+        "id": "467055213883162645",
+        "username": "winstonsurechill",
+        "avatar": "4f1540eb41da65f111419a3b330f47b3",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "winstonSureChill",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 43
+    }
+  },
+  {
+    "type": 19,
+    "content": "you cant, its account wide quest",
+    "mentions": [
+      {
+        "id": "467055213883162645",
+        "username": "winstonsurechill",
+        "avatar": "4f1540eb41da65f111419a3b330f47b3",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "winstonSureChill",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-03-02T12:13:37.555000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1213459197036072980",
+    "channel_id": "1208827423836344402",
+    "author": {
+      "id": "177375525713608704",
+      "username": "roronoa_zoro93",
+      "avatar": "3e830c48a958ef83abfc395c776d28c0",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Roronoa Zoro",
+      "avatar_decoration_data": {
+        "asset": "a_7f863078aee4932cd50ee4e3b55d3035",
+        "sku_id": "1237654224712765440",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 4,
+        "colors": [
+          1027403
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1208827423836344402",
+      "message_id": "1213457575488651264",
+      "guild_id": "437797104786604034"
+    },
+    "position": 45,
+    "referenced_message": {
+      "type": 0,
+      "content": "why advise for a particular class, I think it's important to do the quest on every char",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2024-03-02T12:07:10.948000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1213457575488651264",
+      "channel_id": "1208827423836344402",
+      "author": {
+        "id": "467055213883162645",
+        "username": "winstonsurechill",
+        "avatar": "4f1540eb41da65f111419a3b330f47b3",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "winstonSureChill",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 43
+    }
+  },
+  {
+    "type": 0,
+    "content": "once you do it, its done for everyone",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-03-02T12:13:48.652000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1213459243580133426",
+    "channel_id": "1208827423836344402",
+    "author": {
+      "id": "177375525713608704",
+      "username": "roronoa_zoro93",
+      "avatar": "3e830c48a958ef83abfc395c776d28c0",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Roronoa Zoro",
+      "avatar_decoration_data": {
+        "asset": "a_7f863078aee4932cd50ee4e3b55d3035",
+        "sku_id": "1237654224712765440",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 4,
+        "colors": [
+          1027403
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 46
+  },
+  {
+    "type": 19,
+    "content": "oooh ok my bad",
+    "mentions": [
+      {
+        "id": "408723379684900884",
+        "username": "seraphic_star",
+        "avatar": "3465ae7805b5ddf89a9331c420bab5fc",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "SeraphicStar",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-03-03T08:26:11.421000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1213764348867252224",
+    "channel_id": "1208827423836344402",
+    "author": {
+      "id": "467055213883162645",
+      "username": "winstonsurechill",
+      "avatar": "4f1540eb41da65f111419a3b330f47b3",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "winstonSureChill",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1208827423836344402",
+      "message_id": "1213459193097359360",
+      "guild_id": "437797104786604034"
+    },
+    "position": 47,
+    "referenced_message": {
+      "type": 19,
+      "content": "I think because it can only be done once? 🤔",
+      "mentions": [
+        {
+          "id": "467055213883162645",
+          "username": "winstonsurechill",
+          "avatar": "4f1540eb41da65f111419a3b330f47b3",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "winstonSureChill",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2024-03-02T12:13:36.616000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1213459193097359360",
+      "channel_id": "1208827423836344402",
+      "author": {
+        "id": "408723379684900884",
+        "username": "seraphic_star",
+        "avatar": "3465ae7805b5ddf89a9331c420bab5fc",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "SeraphicStar",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1208827423836344402",
+        "message_id": "1213457575488651264",
+        "guild_id": "437797104786604034"
+      },
+      "position": 44
+    }
+  },
+  {
+    "type": 0,
+    "content": "im glad i was looking for a tips n tricks post on this, didnt have the urge to do it myself. So helpful ❤️",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-03-12T15:23:57.944000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1217130976275333190",
+    "channel_id": "1208827423836344402",
+    "author": {
+      "id": "335112996730830854",
+      "username": "stijnmertens",
+      "avatar": "9b44ac91f2b67b9e20e661cfb3517ce9",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "StijnMertens",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 49
+  },
+  {
+    "type": 0,
+    "content": "Nice thanks",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-03-20T09:27:29.937000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1219940371396562954",
+    "channel_id": "1208827423836344402",
+    "author": {
+      "id": "223181737646227456",
+      "username": "prinlot",
+      "avatar": "ba26e3d382ed5284e0fd822758275b4a",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Prinlot",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 52
+  },
+  {
+    "type": 0,
+    "content": "HOT TIP!\nUse the beast master for the 333 kills\nUse the whale wallop ability 15 times then kill 3 guys",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-04-16T22:07:44.371000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1229916164570878032",
+    "channel_id": "1208827423836344402",
+    "author": {
+      "id": "979111682745958470",
+      "username": "prochicken4398",
+      "avatar": "6c6280c156a2a7bc8dc91a9287bf6854",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Chicken",
+      "avatar_decoration_data": {
+        "asset": "a_366644b579a2cd9d14c891a70bdc9fc5",
+        "sku_id": "1483857762890022923",
+        "expires_at": 1780037999
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 53
+  },
+  {
+    "type": 6,
+    "content": "",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-05-15T20:07:13.593000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1240395084592185555",
+    "channel_id": "1208827423836344402",
+    "author": {
+      "id": "236928332430573569",
+      "username": "rashaken",
+      "avatar": "c589bd219a130db4bbcec6d12a4f6a9a",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Rashaken",
+      "avatar_decoration_data": {
+        "asset": "a_c7e1751e8122f1b475cb3006966fb28c",
+        "sku_id": "1154896005045694555",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "368953963267096586",
+        "identity_enabled": true,
+        "tag": "LE",
+        "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+      },
+      "primary_guild": {
+        "identity_guild_id": "368953963267096586",
+        "identity_enabled": true,
+        "tag": "LE",
+        "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1208827423836344402",
+      "message_id": "1208827423836344402"
+    },
+    "position": 54
+  },
+  {
+    "type": 0,
+    "content": "Thanks for the tip! Was able to clear it first try! I ended up using the calculator app to keep track lol but was able to do all 3 quests in one go on my DK <:happy:644766908218081300>",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-06-05T13:16:03.566000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1247901756176728144",
+    "channel_id": "1208827423836344402",
+    "author": {
+      "id": "118529461342830599",
+      "username": "abir.com",
+      "avatar": "0da0c1962fcb53e892f9b8bf3568768b",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Abir",
+      "avatar_decoration_data": {
+        "asset": "a_3c97a2d37f433a7913a1c7b7a735d000",
+        "sku_id": "1144308439720394944",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1461062060300435722",
+          "asset": "nameplates/tarot/manifesting_magic/",
+          "label": "COLLECTIBLES_TAROT_MANIFESTING_MAGIC_NP_A11Y",
+          "palette": "crimson"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 55
+  },
+  {
+    "type": 0,
+    "content": "the best way to track your kills is the first daily guild quest, it tracks how many kills u get even if you already completed it. just calculate how many u need and add those to the number you already have and kill mods untill you reach that number",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-12-22T20:24:01.219000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1320487029179420787",
+    "channel_id": "1208827423836344402",
+    "author": {
+      "id": "1161062898672611358",
+      "username": "nandobtw",
+      "avatar": "13c08a82ed0b29aa8e1d30af94724ab8",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Kreydos",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 57,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "☝️"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "Isn't this world 5?6? why is this tagged early game?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-03-14T00:40:22.339000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1349904959386292305",
+    "channel_id": "1208827423836344402",
+    "author": {
+      "id": "381552214969286656",
+      "username": "xenapan",
+      "avatar": "9a7ada2710e113467947131fc53ce864",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "xenapan",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 59,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "🫡"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "oh boy",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-03-14T00:42:01.223000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1349905374135713867",
+    "channel_id": "1208827423836344402",
+    "author": {
+      "id": "773192392043790367",
+      "username": "mega_yairzzz",
+      "avatar": "4a99a3239e6149beeed7c6b945618708",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Mega",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "337985280969801728",
+        "identity_enabled": true,
+        "tag": "IL",
+        "badge": "ead40c6aa63f3427a25947f36b63bc0c"
+      },
+      "primary_guild": {
+        "identity_guild_id": "337985280969801728",
+        "identity_enabled": true,
+        "tag": "IL",
+        "badge": "ead40c6aa63f3427a25947f36b63bc0c"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 60
+  },
+  {
+    "type": 0,
+    "content": "i just kept typing in chat the amount of kills to keep track",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-03-15T05:12:35.807000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1350335854781927444",
+    "channel_id": "1208827423836344402",
+    "author": {
+      "id": "205689133874675713",
+      "username": "thepepega",
+      "avatar": "c398ff25c45fc9afa03a03df040d3317",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "thepepega",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "274980577545945090",
+        "identity_enabled": true,
+        "tag": "F/GO",
+        "badge": "5384513030a4e701a7bef23e6b75ca99"
+      },
+      "primary_guild": {
+        "identity_guild_id": "274980577545945090",
+        "identity_enabled": true,
+        "tag": "F/GO",
+        "badge": "5384513030a4e701a7bef23e6b75ca99"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 61
+  },
+  {
+    "type": 0,
+    "content": "do giants count",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-04-13T22:13:57.237000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1361102135831433447",
+    "channel_id": "1208827423836344402",
+    "author": {
+      "id": "749463814273236992",
+      "username": "crickurt",
+      "avatar": "b9a0fe4ceb7e4ee9c8bf88d6e1d2c942",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Crickurt",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 62
+  }
+]

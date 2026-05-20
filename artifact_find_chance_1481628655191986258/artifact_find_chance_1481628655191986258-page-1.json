@@ -1,0 +1,92 @@
+[
+  {
+    "type": 0,
+    "content": "**-- World 5 --**\n* Sailing Islands\n--> % Bonus - (1% per sailing LV.) - Safari island = Fauxory Tusk Artifact\n\n* Sailing Captains\n--> % Bonus - (+ ArtifactFindChance bonus on captains)\n--> % Bonus - (Endercaptain +25% account-wide bonus, per captain)\n\n* Gaming\n--> x Multiplier - (1.02x per Spelunk Discovery)\n\n* Gaming Palette\n--> x Multiplier - (Bright Cyan)\n\n* Hole Engineer\n--> % Bonus - 10% for every Power of 10 Natural Notes (Tune of Artifaction)\n\n* Hole Monument of Justice\n--> x Multiplier\n\n\n**-- World 6 --**\n* Farming Exotic Market\n--> x Multiplier (5 Leaf Clover)\n\n* Farming Stickers\n--> % Bonus - (Chocotastic Muffin Sticker (3rd crop))\n\n* Sneaking Charms\n--> x Multiplier - (1.40x) - Pristine charm \"Glowing Veil\"\n\n* Summoning Winner Bonus\n--> x Multiplier\n\n* Summoning Battle\n--> x Multiplier - (1.81x) - Battle Teal 11\n\n\n**-- World 7 --**\n* Research\n--> % Bonus - ResearchGrid J7 (Transcendent Artifacts)\n\n* Legend Talents\n--> x Multiplier - (1.60x bonus to \"Davey Jones Training\" gemshop purchase)\nBrown 7\n\n\n**-- Gemshop --**\n* World 5 Bonuses\n--> x Multiplier - Davey Jones Training (8 upgrades)\n--> Finding stuff there\n\n\n**-- Pets --**\n* Shallow Waters\n--> x Multiplier (1.25x) - Litterfish\n\n* Exclusive Pets\n--> x Multiplier (2.00x) - Glimbo",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-03-12T12:23:42.865000+00:00",
+    "edited_timestamp": "2026-03-12T12:25:48.800000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1481628756434096188",
+    "channel_id": "1481628655191986258",
+    "author": {
+      "id": "107801450771419136",
+      "username": "sanktas",
+      "avatar": "5d7fa659fbe3bd84683f14e3f8904373",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Sanktas",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0
+  },
+  {
+    "type": 0,
+    "content": "-",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-03-12T12:24:51.643000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1481629044909936784",
+    "channel_id": "1481628655191986258",
+    "author": {
+      "id": "107801450771419136",
+      "username": "sanktas",
+      "avatar": "5d7fa659fbe3bd84683f14e3f8904373",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Sanktas",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 1
+  }
+]

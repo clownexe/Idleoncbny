@@ -1,0 +1,388 @@
+[
+  {
+    "type": 0,
+    "content": "1. **Each post must be about 1 central idea. **For example: \"Alchemy bubbles\", or \"Maximize Printer Samples\". Something like \"Alchemy bubbles and Construction\" would not be allowed, since they are 2 unrelated ideas.\n2. **You must use a clear thumbnail, so viewers know what your guide is before reading it.** For example, if this was a guide about alchemy, my thumbnail would be perfect.\n3. **No double posts.** If someone else already has a guide on something you want to cover, DM them with the additional info you have, so they can update their guide!\n4. **Apply the right tag.** \"All game\" means the guide is useful for all points, not just specific stages like early/mid/late/end.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1084914204676468807",
+        "filename": "ThumboJ1.png",
+        "size": 18530,
+        "url": "https://cdn.discordapp.com/attachments/1084914204508700723/1084914204676468807/ThumboJ1.png?ex=6a0f5697&is=6a0e0517&hm=bce7f3420680d58a591dd63e83f47afc4d5137d5461b572b54a1256dbc8f4fbb&",
+        "proxy_url": "https://media.discordapp.net/attachments/1084914204508700723/1084914204676468807/ThumboJ1.png?ex=6a0f5697&is=6a0e0517&hm=bce7f3420680d58a591dd63e83f47afc4d5137d5461b572b54a1256dbc8f4fbb&",
+        "width": 1280,
+        "height": 720,
+        "content_type": "image/png",
+        "content_scan_version": 4
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2023-03-13T19:01:43.086000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1084914204508700723",
+    "channel_id": "1084914204508700723",
+    "author": {
+      "id": "282657635067494410",
+      "username": "lavaflame2",
+      "avatar": "88e1d09ba6ede54358eb4eca6e687c5e",
+      "discriminator": "0",
+      "public_flags": 258,
+      "flags": 258,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "LavaFlame2",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614257225760",
+          "asset": "nameplates/nameplates/vengeance/",
+          "label": "COLLECTIBLES_NAMEPLATES_VENGEANCE_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 346,
+        "count_details": {
+          "burst": 0,
+          "normal": 346
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🤔"
+        },
+        "count": 36,
+        "count_details": {
+          "burst": 0,
+          "normal": 36
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "993227203548545104",
+          "name": "anyway"
+        },
+        "count": 6,
+        "count_details": {
+          "burst": 0,
+          "normal": 6
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇨"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇦"
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇳"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "📌"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "❔"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "799037335147905024",
+          "name": "PogPig"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1097570274230145125",
+          "name": "grumblo_shh"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "972657462194868224",
+          "name": "PinchyPic"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇨🇳"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "644766908218081300",
+          "name": "happy"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "1️⃣"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "❌"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "852416161786101771",
+          "name": "ArrowDown"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1139686290930012300",
+          "name": "Biggiecheese"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1101690217913663649",
+          "name": "Pregnant_Male_Grumblo"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🦆"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "775360164546478121",
+          "name": "BobJoePickle"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  }
+]

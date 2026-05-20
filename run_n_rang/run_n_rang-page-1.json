@@ -1,0 +1,1267 @@
+[
+  {
+    "type": 0,
+    "content": "If you run along with your Rang toss just at the right spot, you don't have to be stationary to catch it and cut CD.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1495655298466054305",
+        "filename": "Desktop_2026.04.19_-_22.12.26.05.mp4",
+        "size": 3308911,
+        "url": "https://cdn.discordapp.com/attachments/1495655297920925786/1495655298466054305/Desktop_2026.04.19_-_22.12.26.05.mp4?ex=6a0f3ecb&is=6a0ded4b&hm=22f0b8f9a0f9063e8eab6eefa6ea0a64a58c4f2846457e0d627b4d97903b07ec&",
+        "proxy_url": "https://media.discordapp.net/attachments/1495655297920925786/1495655298466054305/Desktop_2026.04.19_-_22.12.26.05.mp4?ex=6a0f3ecb&is=6a0ded4b&hm=22f0b8f9a0f9063e8eab6eefa6ea0a64a58c4f2846457e0d627b4d97903b07ec&",
+        "width": 1280,
+        "height": 720,
+        "content_type": "video/mp4",
+        "original_content_type": "video/mp4",
+        "content_scan_version": 4,
+        "placeholder": "lcgFFIJEhmdQh4eZiHtUdqAN5w==",
+        "placeholder_version": 1,
+        "title": "Desktop 2026.04.19 - 22.12.26.05"
+      },
+      {
+        "id": "1495655298910654557",
+        "filename": "image.png",
+        "size": 133922,
+        "url": "https://cdn.discordapp.com/attachments/1495655297920925786/1495655298910654557/image.png?ex=6a0f3ecb&is=6a0ded4b&hm=fcbf0fd4bc095887c9e6f60050fc39266437e34c7ec6e955ccca3d6cdfbbe55f&",
+        "proxy_url": "https://media.discordapp.net/attachments/1495655297920925786/1495655298910654557/image.png?ex=6a0f3ecb&is=6a0ded4b&hm=fcbf0fd4bc095887c9e6f60050fc39266437e34c7ec6e955ccca3d6cdfbbe55f&",
+        "width": 601,
+        "height": 521,
+        "content_type": "image/webp",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "3OgJHoZVeWhwmIZ3aqZ4NXhpfYACNkc=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2026-04-20T05:20:10.956000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1495655297920925786",
+    "channel_id": "1495655297920925786",
+    "author": {
+      "id": "1222261300617285814",
+      "username": "aeohex",
+      "avatar": "343c2db177f27d855464eb4a368068d6",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "etic",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "1114306970816630876",
+          "name": "Grumblo_Pray"
+        },
+        "count": 8,
+        "count_details": {
+          "burst": 0,
+          "normal": 8
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "You should re read the description of the task, carefully.\n\"Run from left portal to right portal without touching a lantern spirit, on 4 players. **All mobs must be alive when you start.** \"",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-04-20T10:29:22.219000+00:00",
+    "edited_timestamp": "2026-04-20T10:37:24.540000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1495733107557531719",
+    "channel_id": "1495655297920925786",
+    "author": {
+      "id": "232217513302294528",
+      "username": "calsworth",
+      "avatar": "67d905cceb1b3aac12ff6bfc030213b3",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Calsworth",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1344363482983698593",
+        "identity_enabled": true,
+        "tag": "PSG",
+        "badge": "ec60c5e6d1f14d3bbff586e2e0b9e54e"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1344363482983698593",
+        "identity_enabled": true,
+        "tag": "PSG",
+        "badge": "ec60c5e6d1f14d3bbff586e2e0b9e54e"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "⁉️"
+        },
+        "count": 7,
+        "count_details": {
+          "burst": 0,
+          "normal": 7
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "❔"
+        },
+        "count": 9,
+        "count_details": {
+          "burst": 0,
+          "normal": 9
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 19,
+    "content": "Aint no one talking about the task on that map, it is just a showcase of a neat trick",
+    "mentions": [
+      {
+        "id": "232217513302294528",
+        "username": "calsworth",
+        "avatar": "67d905cceb1b3aac12ff6bfc030213b3",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Calsworth",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1344363482983698593",
+          "identity_enabled": true,
+          "tag": "PSG",
+          "badge": "ec60c5e6d1f14d3bbff586e2e0b9e54e"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1344363482983698593",
+          "identity_enabled": true,
+          "tag": "PSG",
+          "badge": "ec60c5e6d1f14d3bbff586e2e0b9e54e"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-04-20T11:18:30.482000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1495745473468825770",
+    "channel_id": "1495655297920925786",
+    "author": {
+      "id": "490821429772943361",
+      "username": "n1375",
+      "avatar": "4ca4094b48ce78bd3c03396433c729ee",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Enn",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "321626025467314176",
+        "identity_enabled": true,
+        "tag": "fwog",
+        "badge": "2a82fc690b1608d81ab5febe5fcc2f58"
+      },
+      "primary_guild": {
+        "identity_guild_id": "321626025467314176",
+        "identity_enabled": true,
+        "tag": "fwog",
+        "badge": "2a82fc690b1608d81ab5febe5fcc2f58"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1495655297920925786",
+      "message_id": "1495733107557531719",
+      "guild_id": "437797104786604034"
+    },
+    "position": 1,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍"
+        },
+        "count": 7,
+        "count_details": {
+          "burst": 0,
+          "normal": 7
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ],
+    "referenced_message": {
+      "type": 0,
+      "content": "You should re read the description of the task, carefully.\n\"Run from left portal to right portal without touching a lantern spirit, on 4 players. **All mobs must be alive when you start.** \"",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2026-04-20T10:29:22.219000+00:00",
+      "edited_timestamp": "2026-04-20T10:37:24.540000+00:00",
+      "flags": 0,
+      "components": [],
+      "id": "1495733107557531719",
+      "channel_id": "1495655297920925786",
+      "author": {
+        "id": "232217513302294528",
+        "username": "calsworth",
+        "avatar": "67d905cceb1b3aac12ff6bfc030213b3",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Calsworth",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1344363482983698593",
+          "identity_enabled": true,
+          "tag": "PSG",
+          "badge": "ec60c5e6d1f14d3bbff586e2e0b9e54e"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1344363482983698593",
+          "identity_enabled": true,
+          "tag": "PSG",
+          "badge": "ec60c5e6d1f14d3bbff586e2e0b9e54e"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 0
+    }
+  },
+  {
+    "type": 19,
+    "content": "does this require divine knight class?",
+    "mentions": [
+      {
+        "id": "1222261300617285814",
+        "username": "aeohex",
+        "avatar": "343c2db177f27d855464eb4a368068d6",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "etic",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-04-20T13:54:49.710000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1495784812802215997",
+    "channel_id": "1495655297920925786",
+    "author": {
+      "id": "1220055323524595866",
+      "username": "exotricus",
+      "avatar": "9642d349a2c753e02c330d19a4d9dc3d",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "exo",
+      "avatar_decoration_data": {
+        "asset": "a_5889f65c4a28cdafc06847cc02790af1",
+        "sku_id": "1462116613674373345",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1462116614131548265",
+          "asset": "nameplates/gothica/nevermore/",
+          "label": "COLLECTIBLES_GOTHICA_NEVERMORE_NP_A11Y",
+          "palette": "white"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1495655297920925786",
+      "message_id": "1495655297920925786",
+      "guild_id": "437797104786604034"
+    },
+    "position": 2,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ],
+    "referenced_message": {
+      "type": 0,
+      "content": "If you run along with your Rang toss just at the right spot, you don't have to be stationary to catch it and cut CD.",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [
+        {
+          "id": "1495655298466054305",
+          "filename": "Desktop_2026.04.19_-_22.12.26.05.mp4",
+          "size": 3308911,
+          "url": "https://cdn.discordapp.com/attachments/1495655297920925786/1495655298466054305/Desktop_2026.04.19_-_22.12.26.05.mp4?ex=6a0f3ecb&is=6a0ded4b&hm=22f0b8f9a0f9063e8eab6eefa6ea0a64a58c4f2846457e0d627b4d97903b07ec&",
+          "proxy_url": "https://media.discordapp.net/attachments/1495655297920925786/1495655298466054305/Desktop_2026.04.19_-_22.12.26.05.mp4?ex=6a0f3ecb&is=6a0ded4b&hm=22f0b8f9a0f9063e8eab6eefa6ea0a64a58c4f2846457e0d627b4d97903b07ec&",
+          "width": 1280,
+          "height": 720,
+          "content_type": "video/mp4",
+          "original_content_type": "video/mp4",
+          "content_scan_version": 4,
+          "placeholder": "lcgFFIJEhmdQh4eZiHtUdqAN5w==",
+          "placeholder_version": 1,
+          "title": "Desktop 2026.04.19 - 22.12.26.05"
+        },
+        {
+          "id": "1495655298910654557",
+          "filename": "image.png",
+          "size": 133922,
+          "url": "https://cdn.discordapp.com/attachments/1495655297920925786/1495655298910654557/image.png?ex=6a0f3ecb&is=6a0ded4b&hm=fcbf0fd4bc095887c9e6f60050fc39266437e34c7ec6e955ccca3d6cdfbbe55f&",
+          "proxy_url": "https://media.discordapp.net/attachments/1495655297920925786/1495655298910654557/image.png?ex=6a0f3ecb&is=6a0ded4b&hm=fcbf0fd4bc095887c9e6f60050fc39266437e34c7ec6e955ccca3d6cdfbbe55f&",
+          "width": 601,
+          "height": 521,
+          "content_type": "image/webp",
+          "original_content_type": "image/png",
+          "content_scan_version": 4,
+          "placeholder": "3OgJHoZVeWhwmIZ3aqZ4NXhpfYACNkc=",
+          "placeholder_version": 1
+        }
+      ],
+      "embeds": [],
+      "timestamp": "2026-04-20T05:20:10.956000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1495655297920925786",
+      "channel_id": "1495655297920925786",
+      "author": {
+        "id": "1222261300617285814",
+        "username": "aeohex",
+        "avatar": "343c2db177f27d855464eb4a368068d6",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "etic",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 0
+    }
+  },
+  {
+    "type": 19,
+    "content": "Yes",
+    "mentions": [
+      {
+        "id": "1220055323524595866",
+        "username": "exotricus",
+        "avatar": "9642d349a2c753e02c330d19a4d9dc3d",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "exo",
+        "avatar_decoration_data": {
+          "asset": "a_5889f65c4a28cdafc06847cc02790af1",
+          "sku_id": "1462116613674373345",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1462116614131548265",
+            "asset": "nameplates/gothica/nevermore/",
+            "label": "COLLECTIBLES_GOTHICA_NEVERMORE_NP_A11Y",
+            "palette": "white"
+          }
+        },
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1462574032464642309",
+          "identity_enabled": true,
+          "tag": "HOLO",
+          "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1462574032464642309",
+          "identity_enabled": true,
+          "tag": "HOLO",
+          "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-04-21T06:36:40.510000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1496036935771361391",
+    "channel_id": "1495655297920925786",
+    "author": {
+      "id": "200021026514534400",
+      "username": "nonlethalshotgun",
+      "avatar": "ab5efd1d419b9fbacca8fe79881e55b3",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "CompanyLethalizer",
+      "avatar_decoration_data": {
+        "asset": "a_f824f7f3d04732ce5e2ff0f3f05d1937",
+        "sku_id": "1427463138634109027",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1427463138646954035",
+          "asset": "nameplates/orb/infinite_swirl/",
+          "label": "COLLECTIBLES_ORB_INFINITE_SWIRL_NP_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1318317964122132570",
+        "identity_enabled": true,
+        "tag": "God†",
+        "badge": "ef3effb124da17fdb40dc580ca4551f5"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1318317964122132570",
+        "identity_enabled": true,
+        "tag": "God†",
+        "badge": "ef3effb124da17fdb40dc580ca4551f5"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1495655297920925786",
+      "message_id": "1495784812802215997",
+      "guild_id": "437797104786604034"
+    },
+    "position": 3,
+    "referenced_message": {
+      "type": 19,
+      "content": "does this require divine knight class?",
+      "mentions": [
+        {
+          "id": "1222261300617285814",
+          "username": "aeohex",
+          "avatar": "343c2db177f27d855464eb4a368068d6",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "etic",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2026-04-20T13:54:49.710000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1495784812802215997",
+      "channel_id": "1495655297920925786",
+      "author": {
+        "id": "1220055323524595866",
+        "username": "exotricus",
+        "avatar": "9642d349a2c753e02c330d19a4d9dc3d",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "exo",
+        "avatar_decoration_data": {
+          "asset": "a_5889f65c4a28cdafc06847cc02790af1",
+          "sku_id": "1462116613674373345",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1462116614131548265",
+            "asset": "nameplates/gothica/nevermore/",
+            "label": "COLLECTIBLES_GOTHICA_NEVERMORE_NP_A11Y",
+            "palette": "white"
+          }
+        },
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1462574032464642309",
+          "identity_enabled": true,
+          "tag": "HOLO",
+          "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1462574032464642309",
+          "identity_enabled": true,
+          "tag": "HOLO",
+          "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1495655297920925786",
+        "message_id": "1495655297920925786",
+        "guild_id": "437797104786604034"
+      },
+      "position": 2
+    }
+  },
+  {
+    "type": 19,
+    "content": "so i cant perform this trick on ac?",
+    "mentions": [
+      {
+        "id": "200021026514534400",
+        "username": "nonlethalshotgun",
+        "avatar": "ab5efd1d419b9fbacca8fe79881e55b3",
+        "discriminator": "0",
+        "public_flags": 128,
+        "flags": 128,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "CompanyLethalizer",
+        "avatar_decoration_data": {
+          "asset": "a_f824f7f3d04732ce5e2ff0f3f05d1937",
+          "sku_id": "1427463138634109027",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1427463138646954035",
+            "asset": "nameplates/orb/infinite_swirl/",
+            "label": "COLLECTIBLES_ORB_INFINITE_SWIRL_NP_A11Y",
+            "palette": "violet"
+          }
+        },
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1318317964122132570",
+          "identity_enabled": true,
+          "tag": "God†",
+          "badge": "ef3effb124da17fdb40dc580ca4551f5"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1318317964122132570",
+          "identity_enabled": true,
+          "tag": "God†",
+          "badge": "ef3effb124da17fdb40dc580ca4551f5"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-04-21T07:18:33.646000+00:00",
+    "edited_timestamp": "2026-04-21T07:18:39.660000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1496047476627472485",
+    "channel_id": "1495655297920925786",
+    "author": {
+      "id": "1220055323524595866",
+      "username": "exotricus",
+      "avatar": "9642d349a2c753e02c330d19a4d9dc3d",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "exo",
+      "avatar_decoration_data": {
+        "asset": "a_5889f65c4a28cdafc06847cc02790af1",
+        "sku_id": "1462116613674373345",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1462116614131548265",
+          "asset": "nameplates/gothica/nevermore/",
+          "label": "COLLECTIBLES_GOTHICA_NEVERMORE_NP_A11Y",
+          "palette": "white"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1495655297920925786",
+      "message_id": "1496036935771361391",
+      "guild_id": "437797104786604034"
+    },
+    "position": 4,
+    "referenced_message": {
+      "type": 19,
+      "content": "Yes",
+      "mentions": [
+        {
+          "id": "1220055323524595866",
+          "username": "exotricus",
+          "avatar": "9642d349a2c753e02c330d19a4d9dc3d",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "exo",
+          "avatar_decoration_data": {
+            "asset": "a_5889f65c4a28cdafc06847cc02790af1",
+            "sku_id": "1462116613674373345",
+            "expires_at": null
+          },
+          "collectibles": {
+            "nameplate": {
+              "sku_id": "1462116614131548265",
+              "asset": "nameplates/gothica/nevermore/",
+              "label": "COLLECTIBLES_GOTHICA_NEVERMORE_NP_A11Y",
+              "palette": "white"
+            }
+          },
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": {
+            "identity_guild_id": "1462574032464642309",
+            "identity_enabled": true,
+            "tag": "HOLO",
+            "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+          },
+          "primary_guild": {
+            "identity_guild_id": "1462574032464642309",
+            "identity_enabled": true,
+            "tag": "HOLO",
+            "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+          }
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2026-04-21T06:36:40.510000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1496036935771361391",
+      "channel_id": "1495655297920925786",
+      "author": {
+        "id": "200021026514534400",
+        "username": "nonlethalshotgun",
+        "avatar": "ab5efd1d419b9fbacca8fe79881e55b3",
+        "discriminator": "0",
+        "public_flags": 128,
+        "flags": 128,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "CompanyLethalizer",
+        "avatar_decoration_data": {
+          "asset": "a_f824f7f3d04732ce5e2ff0f3f05d1937",
+          "sku_id": "1427463138634109027",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1427463138646954035",
+            "asset": "nameplates/orb/infinite_swirl/",
+            "label": "COLLECTIBLES_ORB_INFINITE_SWIRL_NP_A11Y",
+            "palette": "violet"
+          }
+        },
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1318317964122132570",
+          "identity_enabled": true,
+          "tag": "God†",
+          "badge": "ef3effb124da17fdb40dc580ca4551f5"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1318317964122132570",
+          "identity_enabled": true,
+          "tag": "God†",
+          "badge": "ef3effb124da17fdb40dc580ca4551f5"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1495655297920925786",
+        "message_id": "1495784812802215997",
+        "guild_id": "437797104786604034"
+      },
+      "position": 3
+    }
+  },
+  {
+    "type": 19,
+    "content": "I don't think so I don't know what they throw",
+    "mentions": [
+      {
+        "id": "1220055323524595866",
+        "username": "exotricus",
+        "avatar": "9642d349a2c753e02c330d19a4d9dc3d",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "exo",
+        "avatar_decoration_data": {
+          "asset": "a_5889f65c4a28cdafc06847cc02790af1",
+          "sku_id": "1462116613674373345",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1462116614131548265",
+            "asset": "nameplates/gothica/nevermore/",
+            "label": "COLLECTIBLES_GOTHICA_NEVERMORE_NP_A11Y",
+            "palette": "white"
+          }
+        },
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1462574032464642309",
+          "identity_enabled": true,
+          "tag": "HOLO",
+          "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1462574032464642309",
+          "identity_enabled": true,
+          "tag": "HOLO",
+          "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-04-21T07:22:10.089000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1496048384455479307",
+    "channel_id": "1495655297920925786",
+    "author": {
+      "id": "200021026514534400",
+      "username": "nonlethalshotgun",
+      "avatar": "ab5efd1d419b9fbacca8fe79881e55b3",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "CompanyLethalizer",
+      "avatar_decoration_data": {
+        "asset": "a_f824f7f3d04732ce5e2ff0f3f05d1937",
+        "sku_id": "1427463138634109027",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1427463138646954035",
+          "asset": "nameplates/orb/infinite_swirl/",
+          "label": "COLLECTIBLES_ORB_INFINITE_SWIRL_NP_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1318317964122132570",
+        "identity_enabled": true,
+        "tag": "God†",
+        "badge": "ef3effb124da17fdb40dc580ca4551f5"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1318317964122132570",
+        "identity_enabled": true,
+        "tag": "God†",
+        "badge": "ef3effb124da17fdb40dc580ca4551f5"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1495655297920925786",
+      "message_id": "1496047476627472485",
+      "guild_id": "437797104786604034"
+    },
+    "position": 5,
+    "referenced_message": {
+      "type": 19,
+      "content": "so i cant perform this trick on ac?",
+      "mentions": [
+        {
+          "id": "200021026514534400",
+          "username": "nonlethalshotgun",
+          "avatar": "ab5efd1d419b9fbacca8fe79881e55b3",
+          "discriminator": "0",
+          "public_flags": 128,
+          "flags": 128,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "CompanyLethalizer",
+          "avatar_decoration_data": {
+            "asset": "a_f824f7f3d04732ce5e2ff0f3f05d1937",
+            "sku_id": "1427463138634109027",
+            "expires_at": null
+          },
+          "collectibles": {
+            "nameplate": {
+              "sku_id": "1427463138646954035",
+              "asset": "nameplates/orb/infinite_swirl/",
+              "label": "COLLECTIBLES_ORB_INFINITE_SWIRL_NP_A11Y",
+              "palette": "violet"
+            }
+          },
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": {
+            "identity_guild_id": "1318317964122132570",
+            "identity_enabled": true,
+            "tag": "God†",
+            "badge": "ef3effb124da17fdb40dc580ca4551f5"
+          },
+          "primary_guild": {
+            "identity_guild_id": "1318317964122132570",
+            "identity_enabled": true,
+            "tag": "God†",
+            "badge": "ef3effb124da17fdb40dc580ca4551f5"
+          }
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2026-04-21T07:18:33.646000+00:00",
+      "edited_timestamp": "2026-04-21T07:18:39.660000+00:00",
+      "flags": 0,
+      "components": [],
+      "id": "1496047476627472485",
+      "channel_id": "1495655297920925786",
+      "author": {
+        "id": "1220055323524595866",
+        "username": "exotricus",
+        "avatar": "9642d349a2c753e02c330d19a4d9dc3d",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "exo",
+        "avatar_decoration_data": {
+          "asset": "a_5889f65c4a28cdafc06847cc02790af1",
+          "sku_id": "1462116613674373345",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1462116614131548265",
+            "asset": "nameplates/gothica/nevermore/",
+            "label": "COLLECTIBLES_GOTHICA_NEVERMORE_NP_A11Y",
+            "palette": "white"
+          }
+        },
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1462574032464642309",
+          "identity_enabled": true,
+          "tag": "HOLO",
+          "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1462574032464642309",
+          "identity_enabled": true,
+          "tag": "HOLO",
+          "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1495655297920925786",
+        "message_id": "1496036935771361391",
+        "guild_id": "437797104786604034"
+      },
+      "position": 4
+    }
+  },
+  {
+    "type": 0,
+    "content": "the whole thing with the boomerang is you throw it then catch it to reduce cooldown",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-04-21T07:22:40.724000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1496048512947720304",
+    "channel_id": "1495655297920925786",
+    "author": {
+      "id": "200021026514534400",
+      "username": "nonlethalshotgun",
+      "avatar": "ab5efd1d419b9fbacca8fe79881e55b3",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "CompanyLethalizer",
+      "avatar_decoration_data": {
+        "asset": "a_f824f7f3d04732ce5e2ff0f3f05d1937",
+        "sku_id": "1427463138634109027",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1427463138646954035",
+          "asset": "nameplates/orb/infinite_swirl/",
+          "label": "COLLECTIBLES_ORB_INFINITE_SWIRL_NP_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1318317964122132570",
+        "identity_enabled": true,
+        "tag": "God†",
+        "badge": "ef3effb124da17fdb40dc580ca4551f5"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1318317964122132570",
+        "identity_enabled": true,
+        "tag": "God†",
+        "badge": "ef3effb124da17fdb40dc580ca4551f5"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 6
+  },
+  {
+    "type": 19,
+    "content": "ohh",
+    "mentions": [
+      {
+        "id": "200021026514534400",
+        "username": "nonlethalshotgun",
+        "avatar": "ab5efd1d419b9fbacca8fe79881e55b3",
+        "discriminator": "0",
+        "public_flags": 128,
+        "flags": 128,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "CompanyLethalizer",
+        "avatar_decoration_data": {
+          "asset": "a_f824f7f3d04732ce5e2ff0f3f05d1937",
+          "sku_id": "1427463138634109027",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1427463138646954035",
+            "asset": "nameplates/orb/infinite_swirl/",
+            "label": "COLLECTIBLES_ORB_INFINITE_SWIRL_NP_A11Y",
+            "palette": "violet"
+          }
+        },
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1318317964122132570",
+          "identity_enabled": true,
+          "tag": "God†",
+          "badge": "ef3effb124da17fdb40dc580ca4551f5"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1318317964122132570",
+          "identity_enabled": true,
+          "tag": "God†",
+          "badge": "ef3effb124da17fdb40dc580ca4551f5"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-04-21T07:24:52.073000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1496049063865618553",
+    "channel_id": "1495655297920925786",
+    "author": {
+      "id": "1220055323524595866",
+      "username": "exotricus",
+      "avatar": "9642d349a2c753e02c330d19a4d9dc3d",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "exo",
+      "avatar_decoration_data": {
+        "asset": "a_5889f65c4a28cdafc06847cc02790af1",
+        "sku_id": "1462116613674373345",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1462116614131548265",
+          "asset": "nameplates/gothica/nevermore/",
+          "label": "COLLECTIBLES_GOTHICA_NEVERMORE_NP_A11Y",
+          "palette": "white"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1495655297920925786",
+      "message_id": "1496048512947720304",
+      "guild_id": "437797104786604034"
+    },
+    "position": 7,
+    "referenced_message": {
+      "type": 0,
+      "content": "the whole thing with the boomerang is you throw it then catch it to reduce cooldown",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2026-04-21T07:22:40.724000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1496048512947720304",
+      "channel_id": "1495655297920925786",
+      "author": {
+        "id": "200021026514534400",
+        "username": "nonlethalshotgun",
+        "avatar": "ab5efd1d419b9fbacca8fe79881e55b3",
+        "discriminator": "0",
+        "public_flags": 128,
+        "flags": 128,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "CompanyLethalizer",
+        "avatar_decoration_data": {
+          "asset": "a_f824f7f3d04732ce5e2ff0f3f05d1937",
+          "sku_id": "1427463138634109027",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1427463138646954035",
+            "asset": "nameplates/orb/infinite_swirl/",
+            "label": "COLLECTIBLES_ORB_INFINITE_SWIRL_NP_A11Y",
+            "palette": "violet"
+          }
+        },
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1318317964122132570",
+          "identity_enabled": true,
+          "tag": "God†",
+          "badge": "ef3effb124da17fdb40dc580ca4551f5"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1318317964122132570",
+          "identity_enabled": true,
+          "tag": "God†",
+          "badge": "ef3effb124da17fdb40dc580ca4551f5"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 6
+    }
+  }
+]

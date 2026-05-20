@@ -1,0 +1,3337 @@
+[
+  {
+    "type": 0,
+    "content": "Hey y'all! Just made this for myself (spend quite a lot of time on it 😭, both the sorting and the editing (mostly picking colors that kinda fit the vibe without being too close to other colors))\n\nJust thought I'd share it for people who feel like just taking 5 minutes instead of a few hours on making a system for themselves!\n\nTried making it make sense as much as I could! Also so it looks good in both storage and \"Stored Pets\" next to the Fence Yard. As in grouped together in both inventories!\n\nThis way you also have the visually next to eachother and you can delete them after they're done :)",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1384505416540749896",
+        "filename": "Screenshot_2025-06-17_124125.png",
+        "size": 78983,
+        "url": "https://cdn.discordapp.com/attachments/1384505416259600457/1384505416540749896/Screenshot_2025-06-17_124125.png?ex=6a0ef626&is=6a0da4a6&hm=2bda751b47306f9e8259ee7535ca9ff2e3eb61f729947d85f460e9a39736589f&",
+        "proxy_url": "https://media.discordapp.net/attachments/1384505416259600457/1384505416540749896/Screenshot_2025-06-17_124125.png?ex=6a0ef626&is=6a0da4a6&hm=2bda751b47306f9e8259ee7535ca9ff2e3eb61f729947d85f460e9a39736589f&",
+        "width": 934,
+        "height": 414,
+        "content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "1vgJG4BWZmaQmWiIh4DGCTs=",
+        "placeholder_version": 1,
+        "title": "Screenshot 2025-06-17 124125"
+      },
+      {
+        "id": "1384505416989278269",
+        "filename": "Screenshot_2025-06-17_124138.png",
+        "size": 104063,
+        "url": "https://cdn.discordapp.com/attachments/1384505416259600457/1384505416989278269/Screenshot_2025-06-17_124138.png?ex=6a0ef626&is=6a0da4a6&hm=0f9a2943c928c4886a8b847a5e110f4bc888cf2c11ff94fd5a1cd04e0eb7ab0b&",
+        "proxy_url": "https://media.discordapp.net/attachments/1384505416259600457/1384505416989278269/Screenshot_2025-06-17_124138.png?ex=6a0ef626&is=6a0da4a6&hm=0f9a2943c928c4886a8b847a5e110f4bc888cf2c11ff94fd5a1cd04e0eb7ab0b&",
+        "width": 934,
+        "height": 416,
+        "content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "GwkKE4JDZFV2iQabcnlwdgE=",
+        "placeholder_version": 1,
+        "title": "Screenshot 2025-06-17 124138"
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2025-06-17T12:10:14.103000+00:00",
+    "edited_timestamp": "2025-12-30T11:19:41.638000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1384505416259600457",
+    "channel_id": "1384505416259600457",
+    "author": {
+      "id": "347695893044002816",
+      "username": "shyyskyy",
+      "avatar": "9e68a24ec8c617020d75d0c9e3b01a8d",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "ƎYKS",
+      "avatar_decoration_data": {
+        "asset": "a_780cd1b7e878dce85d20c7ee495a86fe",
+        "sku_id": "1352407446391492660",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "❓"
+        },
+        "count": 40,
+        "count_details": {
+          "burst": 0,
+          "normal": 40
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍"
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "666624745118236674",
+          "name": "IdleHMMMM"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "For how long it takes to lvl stuff and other neat info there is a community post for that!\n**Shiny Pet Bonus Tracker:**\nhttps://discord.com/channels/437797104786604034/1176478384688218234\n\nMisc:\nDark red: Highest power pet for the \"Animalistic Ferocity\" Talent (gives Weapon Power to Beast Master (Wind Walker)\n\nShinies:\n\n### I'd recommend having these first 3 as priority! ###\nDark Orange: Shiny Lv Rate\nWhite: Meal Bonus\nJungle Green: Drop Rate\n\nBlack: Multikill Per Tier\nLime: Base Critters per Trap\n\nBrown Farming EXP\nCyan: Summoning EXP\nDark Brown: Refinery Speed\n\nRed/White: Sail Captain EXP\nSea Gray?...: Minimum Boat Travel Time\nDiamond: Artifact Find Chance\nDark Blue: Line Width in Lab\nCopper: Base Efficiency\n\nSword Gray: Total Damage\nMagenta: Infinite Star Signs\n\nOrange: Base STR\nGreen: Base AGI\nYellow: Base LUK\n\nPurple: Base WIS\nSand:  Class EXP\nBlue: Skill EXP\nDark Green: Tab 1 Talent Pts\nLight Green: Tab 2 Talent Pts\n\nIce Blue: Tab 3 Talent Pts\nDark Purple: Tab 4 Talent Pts\nGold: Star Talent Pts\n\nBreeder pets speak for themselves\n\nThis is just for people who want their Shinies decluttered and a bit organised!\n\nIf its not for you thats also perfectly fine! 🫶",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-06-17T12:18:04.829000+00:00",
+    "edited_timestamp": "2025-07-31T07:21:15.710000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1384507390627418225",
+    "channel_id": "1384505416259600457",
+    "author": {
+      "id": "347695893044002816",
+      "username": "shyyskyy",
+      "avatar": "9e68a24ec8c617020d75d0c9e3b01a8d",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "ƎYKS",
+      "avatar_decoration_data": {
+        "asset": "a_780cd1b7e878dce85d20c7ee495a86fe",
+        "sku_id": "1352407446391492660",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0
+  },
+  {
+    "type": 0,
+    "content": "https://discord.com/channels/437797104786604034/1176478384688218234",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-06-17T12:20:16.036000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1384507940949721181",
+    "channel_id": "1384505416259600457",
+    "author": {
+      "id": "340778319161196544",
+      "username": "realdan.",
+      "avatar": "ae917e08c659b3a1163f0bdee54ba730",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "RealDan",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1385035256058482798",
+          "asset": "nameplates/chance/red_dragon/",
+          "label": "COLLECTIBLES_CHANCE_RED_DRAGON_NP_A11Y",
+          "palette": "crimson"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1320546674849874050",
+        "identity_enabled": true,
+        "tag": "FATE",
+        "badge": "8f311f0413ab74d6fba9ecd8b9bd4db2"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1320546674849874050",
+        "identity_enabled": true,
+        "tag": "FATE",
+        "badge": "8f311f0413ab74d6fba9ecd8b9bd4db2"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 1
+  },
+  {
+    "type": 0,
+    "content": "This is just a tool for sorting them! So its a bit more clear to find in your inv!",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-06-17T12:21:41.831000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1384508300800037026",
+    "channel_id": "1384505416259600457",
+    "author": {
+      "id": "347695893044002816",
+      "username": "shyyskyy",
+      "avatar": "9e68a24ec8c617020d75d0c9e3b01a8d",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "ƎYKS",
+      "avatar_decoration_data": {
+        "asset": "a_780cd1b7e878dce85d20c7ee495a86fe",
+        "sku_id": "1352407446391492660",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 2
+  },
+  {
+    "type": 0,
+    "content": "why keep them there, received, installed, deleted the extra ones",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-06-17T12:23:08.705000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1384508665175740497",
+    "channel_id": "1384505416259600457",
+    "author": {
+      "id": "340778319161196544",
+      "username": "realdan.",
+      "avatar": "ae917e08c659b3a1163f0bdee54ba730",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "RealDan",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1385035256058482798",
+          "asset": "nameplates/chance/red_dragon/",
+          "label": "COLLECTIBLES_CHANCE_RED_DRAGON_NP_A11Y",
+          "palette": "crimson"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1320546674849874050",
+        "identity_enabled": true,
+        "tag": "FATE",
+        "badge": "8f311f0413ab74d6fba9ecd8b9bd4db2"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1320546674849874050",
+        "identity_enabled": true,
+        "tag": "FATE",
+        "badge": "8f311f0413ab74d6fba9ecd8b9bd4db2"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 3
+  },
+  {
+    "type": 19,
+    "content": "Sorry what do you mean?",
+    "mentions": [
+      {
+        "id": "340778319161196544",
+        "username": "realdan.",
+        "avatar": "ae917e08c659b3a1163f0bdee54ba730",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "RealDan",
+        "avatar_decoration_data": null,
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1385035256058482798",
+            "asset": "nameplates/chance/red_dragon/",
+            "label": "COLLECTIBLES_CHANCE_RED_DRAGON_NP_A11Y",
+            "palette": "crimson"
+          }
+        },
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1320546674849874050",
+          "identity_enabled": true,
+          "tag": "FATE",
+          "badge": "8f311f0413ab74d6fba9ecd8b9bd4db2"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1320546674849874050",
+          "identity_enabled": true,
+          "tag": "FATE",
+          "badge": "8f311f0413ab74d6fba9ecd8b9bd4db2"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-06-17T12:23:42.741000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1384508807933071390",
+    "channel_id": "1384505416259600457",
+    "author": {
+      "id": "347695893044002816",
+      "username": "shyyskyy",
+      "avatar": "9e68a24ec8c617020d75d0c9e3b01a8d",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "ƎYKS",
+      "avatar_decoration_data": {
+        "asset": "a_780cd1b7e878dce85d20c7ee495a86fe",
+        "sku_id": "1352407446391492660",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1384505416259600457",
+      "message_id": "1384508665175740497",
+      "guild_id": "437797104786604034"
+    },
+    "position": 4,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "859584397539278859",
+          "name": "GuyMontag"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ],
+    "referenced_message": {
+      "type": 0,
+      "content": "why keep them there, received, installed, deleted the extra ones",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-06-17T12:23:08.705000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1384508665175740497",
+      "channel_id": "1384505416259600457",
+      "author": {
+        "id": "340778319161196544",
+        "username": "realdan.",
+        "avatar": "ae917e08c659b3a1163f0bdee54ba730",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "RealDan",
+        "avatar_decoration_data": null,
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1385035256058482798",
+            "asset": "nameplates/chance/red_dragon/",
+            "label": "COLLECTIBLES_CHANCE_RED_DRAGON_NP_A11Y",
+            "palette": "crimson"
+          }
+        },
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1320546674849874050",
+          "identity_enabled": true,
+          "tag": "FATE",
+          "badge": "8f311f0413ab74d6fba9ecd8b9bd4db2"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1320546674849874050",
+          "identity_enabled": true,
+          "tag": "FATE",
+          "badge": "8f311f0413ab74d6fba9ecd8b9bd4db2"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 3
+    }
+  },
+  {
+    "type": 19,
+    "content": "If you mean where my other pets are, I moved them to page 3 so I could have a clean screenshot! If thats what you mean?",
+    "mentions": [
+      {
+        "id": "340778319161196544",
+        "username": "realdan.",
+        "avatar": "ae917e08c659b3a1163f0bdee54ba730",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "RealDan",
+        "avatar_decoration_data": null,
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1385035256058482798",
+            "asset": "nameplates/chance/red_dragon/",
+            "label": "COLLECTIBLES_CHANCE_RED_DRAGON_NP_A11Y",
+            "palette": "crimson"
+          }
+        },
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1320546674849874050",
+          "identity_enabled": true,
+          "tag": "FATE",
+          "badge": "8f311f0413ab74d6fba9ecd8b9bd4db2"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1320546674849874050",
+          "identity_enabled": true,
+          "tag": "FATE",
+          "badge": "8f311f0413ab74d6fba9ecd8b9bd4db2"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-06-17T12:57:11.499000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1384517233274785883",
+    "channel_id": "1384505416259600457",
+    "author": {
+      "id": "347695893044002816",
+      "username": "shyyskyy",
+      "avatar": "9e68a24ec8c617020d75d0c9e3b01a8d",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "ƎYKS",
+      "avatar_decoration_data": {
+        "asset": "a_780cd1b7e878dce85d20c7ee495a86fe",
+        "sku_id": "1352407446391492660",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1384505416259600457",
+      "message_id": "1384508665175740497",
+      "guild_id": "437797104786604034"
+    },
+    "position": 5,
+    "referenced_message": {
+      "type": 0,
+      "content": "why keep them there, received, installed, deleted the extra ones",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-06-17T12:23:08.705000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1384508665175740497",
+      "channel_id": "1384505416259600457",
+      "author": {
+        "id": "340778319161196544",
+        "username": "realdan.",
+        "avatar": "ae917e08c659b3a1163f0bdee54ba730",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "RealDan",
+        "avatar_decoration_data": null,
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1385035256058482798",
+            "asset": "nameplates/chance/red_dragon/",
+            "label": "COLLECTIBLES_CHANCE_RED_DRAGON_NP_A11Y",
+            "palette": "crimson"
+          }
+        },
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1320546674849874050",
+          "identity_enabled": true,
+          "tag": "FATE",
+          "badge": "8f311f0413ab74d6fba9ecd8b9bd4db2"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1320546674849874050",
+          "identity_enabled": true,
+          "tag": "FATE",
+          "badge": "8f311f0413ab74d6fba9ecd8b9bd4db2"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 3
+    }
+  },
+  {
+    "type": 0,
+    "content": "nobody keeps shiny pets, they are immediately given to the pen and then removed",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-06-17T12:58:07.390000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1384517467698626640",
+    "channel_id": "1384505416259600457",
+    "author": {
+      "id": "340778319161196544",
+      "username": "realdan.",
+      "avatar": "ae917e08c659b3a1163f0bdee54ba730",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "RealDan",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1385035256058482798",
+          "asset": "nameplates/chance/red_dragon/",
+          "label": "COLLECTIBLES_CHANCE_RED_DRAGON_NP_A11Y",
+          "palette": "crimson"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1320546674849874050",
+        "identity_enabled": true,
+        "tag": "FATE",
+        "badge": "8f311f0413ab74d6fba9ecd8b9bd4db2"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1320546674849874050",
+        "identity_enabled": true,
+        "tag": "FATE",
+        "badge": "8f311f0413ab74d6fba9ecd8b9bd4db2"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 6,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 8,
+        "count_details": {
+          "burst": 0,
+          "normal": 8
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "how am I supposed to identify those colors 😂",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-06-17T12:59:02.051000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1384517696963612734",
+    "channel_id": "1384505416259600457",
+    "author": {
+      "id": "92076227472412672",
+      "username": "ferrous",
+      "avatar": "a_ab14ac11ab2737d6c9eb260d84ad2464",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Ferrous",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 5,
+        "colors": [
+          13391104
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 7,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "1208199310777393153",
+          "name": "happytroll"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "I just personally keep mine incase I need them! I mean its not like I need every single storage slot",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-06-17T12:59:38.696000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1384517850663878756",
+    "channel_id": "1384505416259600457",
+    "author": {
+      "id": "347695893044002816",
+      "username": "shyyskyy",
+      "avatar": "9e68a24ec8c617020d75d0c9e3b01a8d",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "ƎYKS",
+      "avatar_decoration_data": {
+        "asset": "a_780cd1b7e878dce85d20c7ee495a86fe",
+        "sku_id": "1352407446391492660",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 8
+  },
+  {
+    "type": 19,
+    "content": "In the text where it explains what kinda pets are where I grouped them per row! If there is anything I can do to make it even more clear then feel free to suggest!!",
+    "mentions": [
+      {
+        "id": "92076227472412672",
+        "username": "ferrous",
+        "avatar": "a_ab14ac11ab2737d6c9eb260d84ad2464",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Ferrous",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": {
+          "font_id": 12,
+          "effect_id": 5,
+          "colors": [
+            13391104
+          ]
+        },
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-06-17T13:00:34.161000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1384518083300823142",
+    "channel_id": "1384505416259600457",
+    "author": {
+      "id": "347695893044002816",
+      "username": "shyyskyy",
+      "avatar": "9e68a24ec8c617020d75d0c9e3b01a8d",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "ƎYKS",
+      "avatar_decoration_data": {
+        "asset": "a_780cd1b7e878dce85d20c7ee495a86fe",
+        "sku_id": "1352407446391492660",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1384505416259600457",
+      "message_id": "1384517696963612734",
+      "guild_id": "437797104786604034"
+    },
+    "position": 9,
+    "referenced_message": {
+      "type": 0,
+      "content": "how am I supposed to identify those colors 😂",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-06-17T12:59:02.051000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1384517696963612734",
+      "channel_id": "1384505416259600457",
+      "author": {
+        "id": "92076227472412672",
+        "username": "ferrous",
+        "avatar": "a_ab14ac11ab2737d6c9eb260d84ad2464",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Ferrous",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": {
+          "font_id": 12,
+          "effect_id": 5,
+          "colors": [
+            13391104
+          ]
+        },
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 7
+    }
+  },
+  {
+    "type": 0,
+    "content": "appreciate the effort bud",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-06-17T13:07:58.227000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1384519945848750090",
+    "channel_id": "1384505416259600457",
+    "author": {
+      "id": "435255468961824769",
+      "username": "ashdkx",
+      "avatar": "2691a15fecc4f5ed68611c5555e171b0",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 10,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "🫶"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "A version where its states how its organised in the image! ✨\n\nJust for better ease of use!\n\n[Dark Red doesn't have to be TV, just your highest number pet!]",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1384547914570797107",
+        "filename": "Screenshot_2025-06-17_124125-4.png",
+        "size": 124964,
+        "url": "https://cdn.discordapp.com/attachments/1384505416259600457/1384547914570797107/Screenshot_2025-06-17_124125-4.png?ex=6a0f1dba&is=6a0dcc3a&hm=f41b3ddb398fbac4a86de1b90485dcef2c82f1e267721f1ba6e73bb7f6fc4fc9&",
+        "proxy_url": "https://media.discordapp.net/attachments/1384505416259600457/1384547914570797107/Screenshot_2025-06-17_124125-4.png?ex=6a0f1dba&is=6a0dcc3a&hm=f41b3ddb398fbac4a86de1b90485dcef2c82f1e267721f1ba6e73bb7f6fc4fc9&",
+        "width": 934,
+        "height": 414,
+        "content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "lfgJG4JWZnWAmWiIl4D1m3s=",
+        "placeholder_version": 1,
+        "title": "Screenshot 2025-06-17 124125-4"
+      },
+      {
+        "id": "1384547915124576297",
+        "filename": "Screenshot_2025-06-17_124138-2.png",
+        "size": 117140,
+        "url": "https://cdn.discordapp.com/attachments/1384505416259600457/1384547915124576297/Screenshot_2025-06-17_124138-2.png?ex=6a0f1dba&is=6a0dcc3a&hm=a1b4679e92a8349cf28e4cccd6506537c1a347934b72573fd2cb77d708d2cfe3&",
+        "proxy_url": "https://media.discordapp.net/attachments/1384505416259600457/1384547915124576297/Screenshot_2025-06-17_124138-2.png?ex=6a0f1dba&is=6a0dcc3a&hm=a1b4679e92a8349cf28e4cccd6506537c1a347934b72573fd2cb77d708d2cfe3&",
+        "width": 934,
+        "height": 416,
+        "content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "2wgGG4JCY2R2iQacgneAhgA=",
+        "placeholder_version": 1,
+        "title": "Screenshot 2025-06-17 124138-2"
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2025-06-17T14:59:06.653000+00:00",
+    "edited_timestamp": "2025-06-17T15:00:10.400000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1384547915254595657",
+    "channel_id": "1384505416259600457",
+    "author": {
+      "id": "347695893044002816",
+      "username": "shyyskyy",
+      "avatar": "9e68a24ec8c617020d75d0c9e3b01a8d",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "ƎYKS",
+      "avatar_decoration_data": {
+        "asset": "a_780cd1b7e878dce85d20c7ee495a86fe",
+        "sku_id": "1352407446391492660",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 11,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "❤️"
+        },
+        "count": 14,
+        "count_details": {
+          "burst": 0,
+          "normal": 14
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "What does shiney actually do? I just unlocked them and have my first 2 shineys what do i do with them?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-07-24T10:56:11.881000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1397895135257432075",
+    "channel_id": "1384505416259600457",
+    "author": {
+      "id": "739250443762270230",
+      "username": "l6end",
+      "avatar": "4543b14cc638bd2266f96787e8f80777",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "!                          L6END",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 15,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "🔥"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 19,
+    "content": "put them in the fenceyard they will level up and increase the bonuses they give",
+    "mentions": [
+      {
+        "id": "739250443762270230",
+        "username": "l6end",
+        "avatar": "4543b14cc638bd2266f96787e8f80777",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "!                          L6END",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-07-25T05:21:58.750000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1398173414195331205",
+    "channel_id": "1384505416259600457",
+    "author": {
+      "id": "416717522210127872",
+      "username": "itaitui",
+      "avatar": "e960e7a486eb709e78e4af9256bd5c2e",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "itaitui",
+      "avatar_decoration_data": {
+        "asset": "a_22db6b911f5ad54f3939d665fe2a88cc",
+        "sku_id": "1420045363049398282",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1420045363171033128",
+          "asset": "nameplates/woodland_friends/petal_bloom/",
+          "label": "COLLECTIBLES_WOODLAND_FRIENDS_PETAL_BLOOM_NP_A11Y",
+          "palette": "sky"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1384505416259600457",
+      "message_id": "1397895135257432075",
+      "guild_id": "437797104786604034"
+    },
+    "position": 16,
+    "referenced_message": {
+      "type": 0,
+      "content": "What does shiney actually do? I just unlocked them and have my first 2 shineys what do i do with them?",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-07-24T10:56:11.881000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1397895135257432075",
+      "channel_id": "1384505416259600457",
+      "author": {
+        "id": "739250443762270230",
+        "username": "l6end",
+        "avatar": "4543b14cc638bd2266f96787e8f80777",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "!                          L6END",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 15
+    }
+  },
+  {
+    "type": 19,
+    "content": "So like the pink heart?",
+    "mentions": [
+      {
+        "id": "416717522210127872",
+        "username": "itaitui",
+        "avatar": "e960e7a486eb709e78e4af9256bd5c2e",
+        "discriminator": "0",
+        "public_flags": 64,
+        "flags": 64,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "itaitui",
+        "avatar_decoration_data": {
+          "asset": "a_22db6b911f5ad54f3939d665fe2a88cc",
+          "sku_id": "1420045363049398282",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1420045363171033128",
+            "asset": "nameplates/woodland_friends/petal_bloom/",
+            "label": "COLLECTIBLES_WOODLAND_FRIENDS_PETAL_BLOOM_NP_A11Y",
+            "palette": "sky"
+          }
+        },
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-07-26T18:39:23.116000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1398736475876757555",
+    "channel_id": "1384505416259600457",
+    "author": {
+      "id": "739250443762270230",
+      "username": "l6end",
+      "avatar": "4543b14cc638bd2266f96787e8f80777",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "!                          L6END",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1384505416259600457",
+      "message_id": "1398173414195331205",
+      "guild_id": "437797104786604034"
+    },
+    "position": 17,
+    "referenced_message": {
+      "type": 19,
+      "content": "put them in the fenceyard they will level up and increase the bonuses they give",
+      "mentions": [
+        {
+          "id": "739250443762270230",
+          "username": "l6end",
+          "avatar": "4543b14cc638bd2266f96787e8f80777",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "!                          L6END",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-07-25T05:21:58.750000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1398173414195331205",
+      "channel_id": "1384505416259600457",
+      "author": {
+        "id": "416717522210127872",
+        "username": "itaitui",
+        "avatar": "e960e7a486eb709e78e4af9256bd5c2e",
+        "discriminator": "0",
+        "public_flags": 64,
+        "flags": 64,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "itaitui",
+        "avatar_decoration_data": {
+          "asset": "a_22db6b911f5ad54f3939d665fe2a88cc",
+          "sku_id": "1420045363049398282",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1420045363171033128",
+            "asset": "nameplates/woodland_friends/petal_bloom/",
+            "label": "COLLECTIBLES_WOODLAND_FRIENDS_PETAL_BLOOM_NP_A11Y",
+            "palette": "sky"
+          }
+        },
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1384505416259600457",
+        "message_id": "1397895135257432075",
+        "guild_id": "437797104786604034"
+      },
+      "position": 16
+    }
+  },
+  {
+    "type": 19,
+    "content": "pink heart boosts the regular pet, if you put a shiny in the fence itll boost the shiny bonus",
+    "mentions": [
+      {
+        "id": "739250443762270230",
+        "username": "l6end",
+        "avatar": "4543b14cc638bd2266f96787e8f80777",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "!                          L6END",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-07-26T21:14:20.576000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1398775472250421430",
+    "channel_id": "1384505416259600457",
+    "author": {
+      "id": "416717522210127872",
+      "username": "itaitui",
+      "avatar": "e960e7a486eb709e78e4af9256bd5c2e",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "itaitui",
+      "avatar_decoration_data": {
+        "asset": "a_22db6b911f5ad54f3939d665fe2a88cc",
+        "sku_id": "1420045363049398282",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1420045363171033128",
+          "asset": "nameplates/woodland_friends/petal_bloom/",
+          "label": "COLLECTIBLES_WOODLAND_FRIENDS_PETAL_BLOOM_NP_A11Y",
+          "palette": "sky"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1384505416259600457",
+      "message_id": "1398736475876757555",
+      "guild_id": "437797104786604034"
+    },
+    "position": 18,
+    "referenced_message": {
+      "type": 19,
+      "content": "So like the pink heart?",
+      "mentions": [
+        {
+          "id": "416717522210127872",
+          "username": "itaitui",
+          "avatar": "e960e7a486eb709e78e4af9256bd5c2e",
+          "discriminator": "0",
+          "public_flags": 64,
+          "flags": 64,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "itaitui",
+          "avatar_decoration_data": {
+            "asset": "a_22db6b911f5ad54f3939d665fe2a88cc",
+            "sku_id": "1420045363049398282",
+            "expires_at": null
+          },
+          "collectibles": {
+            "nameplate": {
+              "sku_id": "1420045363171033128",
+              "asset": "nameplates/woodland_friends/petal_bloom/",
+              "label": "COLLECTIBLES_WOODLAND_FRIENDS_PETAL_BLOOM_NP_A11Y",
+              "palette": "sky"
+            }
+          },
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": {
+            "identity_guild_id": "437797104786604034",
+            "identity_enabled": true,
+            "tag": "idle",
+            "badge": "613dd0a2876f97a2422d121940ecc992"
+          },
+          "primary_guild": {
+            "identity_guild_id": "437797104786604034",
+            "identity_enabled": true,
+            "tag": "idle",
+            "badge": "613dd0a2876f97a2422d121940ecc992"
+          }
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-07-26T18:39:23.116000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1398736475876757555",
+      "channel_id": "1384505416259600457",
+      "author": {
+        "id": "739250443762270230",
+        "username": "l6end",
+        "avatar": "4543b14cc638bd2266f96787e8f80777",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "!                          L6END",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1384505416259600457",
+        "message_id": "1398173414195331205",
+        "guild_id": "437797104786604034"
+      },
+      "position": 17
+    }
+  },
+  {
+    "type": 19,
+    "content": "Where do i read the shiney bonuses?",
+    "mentions": [
+      {
+        "id": "416717522210127872",
+        "username": "itaitui",
+        "avatar": "e960e7a486eb709e78e4af9256bd5c2e",
+        "discriminator": "0",
+        "public_flags": 64,
+        "flags": 64,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "itaitui",
+        "avatar_decoration_data": {
+          "asset": "a_22db6b911f5ad54f3939d665fe2a88cc",
+          "sku_id": "1420045363049398282",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1420045363171033128",
+            "asset": "nameplates/woodland_friends/petal_bloom/",
+            "label": "COLLECTIBLES_WOODLAND_FRIENDS_PETAL_BLOOM_NP_A11Y",
+            "palette": "sky"
+          }
+        },
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-07-27T22:35:53.774000+00:00",
+    "edited_timestamp": "2025-07-27T22:36:02.094000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1399158383675703316",
+    "channel_id": "1384505416259600457",
+    "author": {
+      "id": "739250443762270230",
+      "username": "l6end",
+      "avatar": "4543b14cc638bd2266f96787e8f80777",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "!                          L6END",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1384505416259600457",
+      "message_id": "1398775472250421430",
+      "guild_id": "437797104786604034"
+    },
+    "position": 19,
+    "referenced_message": {
+      "type": 19,
+      "content": "pink heart boosts the regular pet, if you put a shiny in the fence itll boost the shiny bonus",
+      "mentions": [
+        {
+          "id": "739250443762270230",
+          "username": "l6end",
+          "avatar": "4543b14cc638bd2266f96787e8f80777",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "!                          L6END",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-07-26T21:14:20.576000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1398775472250421430",
+      "channel_id": "1384505416259600457",
+      "author": {
+        "id": "416717522210127872",
+        "username": "itaitui",
+        "avatar": "e960e7a486eb709e78e4af9256bd5c2e",
+        "discriminator": "0",
+        "public_flags": 64,
+        "flags": 64,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "itaitui",
+        "avatar_decoration_data": {
+          "asset": "a_22db6b911f5ad54f3939d665fe2a88cc",
+          "sku_id": "1420045363049398282",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1420045363171033128",
+            "asset": "nameplates/woodland_friends/petal_bloom/",
+            "label": "COLLECTIBLES_WOODLAND_FRIENDS_PETAL_BLOOM_NP_A11Y",
+            "palette": "sky"
+          }
+        },
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1384505416259600457",
+        "message_id": "1398736475876757555",
+        "guild_id": "437797104786604034"
+      },
+      "position": 18
+    }
+  },
+  {
+    "type": 19,
+    "content": "https://discord.com/channels/437797104786604034/1384505416259600457/1384507390627418225\nIf you scroll to the top\nI either have a link to someone who compiled it or there is a list where its sorted by color marker!\nYou could also see it in-game or on the wiki/a IdleOn tool",
+    "mentions": [
+      {
+        "id": "739250443762270230",
+        "username": "l6end",
+        "avatar": "4543b14cc638bd2266f96787e8f80777",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "!                          L6END",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-07-31T07:20:34.987000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1400377589050114178",
+    "channel_id": "1384505416259600457",
+    "author": {
+      "id": "347695893044002816",
+      "username": "shyyskyy",
+      "avatar": "9e68a24ec8c617020d75d0c9e3b01a8d",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "ƎYKS",
+      "avatar_decoration_data": {
+        "asset": "a_780cd1b7e878dce85d20c7ee495a86fe",
+        "sku_id": "1352407446391492660",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1384505416259600457",
+      "message_id": "1399158383675703316",
+      "guild_id": "437797104786604034"
+    },
+    "position": 20,
+    "referenced_message": {
+      "type": 19,
+      "content": "Where do i read the shiney bonuses?",
+      "mentions": [
+        {
+          "id": "416717522210127872",
+          "username": "itaitui",
+          "avatar": "e960e7a486eb709e78e4af9256bd5c2e",
+          "discriminator": "0",
+          "public_flags": 64,
+          "flags": 64,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "itaitui",
+          "avatar_decoration_data": {
+            "asset": "a_22db6b911f5ad54f3939d665fe2a88cc",
+            "sku_id": "1420045363049398282",
+            "expires_at": null
+          },
+          "collectibles": {
+            "nameplate": {
+              "sku_id": "1420045363171033128",
+              "asset": "nameplates/woodland_friends/petal_bloom/",
+              "label": "COLLECTIBLES_WOODLAND_FRIENDS_PETAL_BLOOM_NP_A11Y",
+              "palette": "sky"
+            }
+          },
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": {
+            "identity_guild_id": "437797104786604034",
+            "identity_enabled": true,
+            "tag": "idle",
+            "badge": "613dd0a2876f97a2422d121940ecc992"
+          },
+          "primary_guild": {
+            "identity_guild_id": "437797104786604034",
+            "identity_enabled": true,
+            "tag": "idle",
+            "badge": "613dd0a2876f97a2422d121940ecc992"
+          }
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-07-27T22:35:53.774000+00:00",
+      "edited_timestamp": "2025-07-27T22:36:02.094000+00:00",
+      "flags": 0,
+      "components": [],
+      "id": "1399158383675703316",
+      "channel_id": "1384505416259600457",
+      "author": {
+        "id": "739250443762270230",
+        "username": "l6end",
+        "avatar": "4543b14cc638bd2266f96787e8f80777",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "!                          L6END",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1384505416259600457",
+        "message_id": "1398775472250421430",
+        "guild_id": "437797104786604034"
+      },
+      "position": 19
+    }
+  },
+  {
+    "type": 19,
+    "content": "Do i just have zo pit them in the fence and leave them there to get the bonuses? Or can i also let them in the storage",
+    "mentions": [
+      {
+        "id": "347695893044002816",
+        "username": "shyyskyy",
+        "avatar": "9e68a24ec8c617020d75d0c9e3b01a8d",
+        "discriminator": "0",
+        "public_flags": 64,
+        "flags": 64,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "ƎYKS",
+        "avatar_decoration_data": {
+          "asset": "a_780cd1b7e878dce85d20c7ee495a86fe",
+          "sku_id": "1352407446391492660",
+          "expires_at": null
+        },
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-07-31T18:05:02.061000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1400539770513260594",
+    "channel_id": "1384505416259600457",
+    "author": {
+      "id": "739250443762270230",
+      "username": "l6end",
+      "avatar": "4543b14cc638bd2266f96787e8f80777",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "!                          L6END",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1384505416259600457",
+      "message_id": "1400377589050114178",
+      "guild_id": "437797104786604034"
+    },
+    "position": 21,
+    "referenced_message": {
+      "type": 19,
+      "content": "https://discord.com/channels/437797104786604034/1384505416259600457/1384507390627418225\nIf you scroll to the top\nI either have a link to someone who compiled it or there is a list where its sorted by color marker!\nYou could also see it in-game or on the wiki/a IdleOn tool",
+      "mentions": [
+        {
+          "id": "739250443762270230",
+          "username": "l6end",
+          "avatar": "4543b14cc638bd2266f96787e8f80777",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "!                          L6END",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-07-31T07:20:34.987000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1400377589050114178",
+      "channel_id": "1384505416259600457",
+      "author": {
+        "id": "347695893044002816",
+        "username": "shyyskyy",
+        "avatar": "9e68a24ec8c617020d75d0c9e3b01a8d",
+        "discriminator": "0",
+        "public_flags": 64,
+        "flags": 64,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "ƎYKS",
+        "avatar_decoration_data": {
+          "asset": "a_780cd1b7e878dce85d20c7ee495a86fe",
+          "sku_id": "1352407446391492660",
+          "expires_at": null
+        },
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1384505416259600457",
+        "message_id": "1399158383675703316",
+        "guild_id": "437797104786604034"
+      },
+      "position": 20
+    }
+  },
+  {
+    "type": 19,
+    "content": "They need to be in the fenceyard for the bonuses to get leveled up!",
+    "mentions": [
+      {
+        "id": "739250443762270230",
+        "username": "l6end",
+        "avatar": "4543b14cc638bd2266f96787e8f80777",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "!                          L6END",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-07-31T18:08:50.829000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1400540730035798097",
+    "channel_id": "1384505416259600457",
+    "author": {
+      "id": "347695893044002816",
+      "username": "shyyskyy",
+      "avatar": "9e68a24ec8c617020d75d0c9e3b01a8d",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "ƎYKS",
+      "avatar_decoration_data": {
+        "asset": "a_780cd1b7e878dce85d20c7ee495a86fe",
+        "sku_id": "1352407446391492660",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1384505416259600457",
+      "message_id": "1400539770513260594",
+      "guild_id": "437797104786604034"
+    },
+    "position": 22,
+    "referenced_message": {
+      "type": 19,
+      "content": "Do i just have zo pit them in the fence and leave them there to get the bonuses? Or can i also let them in the storage",
+      "mentions": [
+        {
+          "id": "347695893044002816",
+          "username": "shyyskyy",
+          "avatar": "9e68a24ec8c617020d75d0c9e3b01a8d",
+          "discriminator": "0",
+          "public_flags": 64,
+          "flags": 64,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "ƎYKS",
+          "avatar_decoration_data": {
+            "asset": "a_780cd1b7e878dce85d20c7ee495a86fe",
+            "sku_id": "1352407446391492660",
+            "expires_at": null
+          },
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-07-31T18:05:02.061000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1400539770513260594",
+      "channel_id": "1384505416259600457",
+      "author": {
+        "id": "739250443762270230",
+        "username": "l6end",
+        "avatar": "4543b14cc638bd2266f96787e8f80777",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "!                          L6END",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1384505416259600457",
+        "message_id": "1400377589050114178",
+        "guild_id": "437797104786604034"
+      },
+      "position": 21
+    }
+  },
+  {
+    "type": 19,
+    "content": "Ypu told me cou can see the bonuses in Game but how/where?",
+    "mentions": [
+      {
+        "id": "347695893044002816",
+        "username": "shyyskyy",
+        "avatar": "9e68a24ec8c617020d75d0c9e3b01a8d",
+        "discriminator": "0",
+        "public_flags": 64,
+        "flags": 64,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "ƎYKS",
+        "avatar_decoration_data": {
+          "asset": "a_780cd1b7e878dce85d20c7ee495a86fe",
+          "sku_id": "1352407446391492660",
+          "expires_at": null
+        },
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-07-31T18:16:01.905000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1400542538099724288",
+    "channel_id": "1384505416259600457",
+    "author": {
+      "id": "739250443762270230",
+      "username": "l6end",
+      "avatar": "4543b14cc638bd2266f96787e8f80777",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "!                          L6END",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1384505416259600457",
+      "message_id": "1400540730035798097",
+      "guild_id": "437797104786604034"
+    },
+    "position": 23,
+    "referenced_message": {
+      "type": 19,
+      "content": "They need to be in the fenceyard for the bonuses to get leveled up!",
+      "mentions": [
+        {
+          "id": "739250443762270230",
+          "username": "l6end",
+          "avatar": "4543b14cc638bd2266f96787e8f80777",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "!                          L6END",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-07-31T18:08:50.829000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1400540730035798097",
+      "channel_id": "1384505416259600457",
+      "author": {
+        "id": "347695893044002816",
+        "username": "shyyskyy",
+        "avatar": "9e68a24ec8c617020d75d0c9e3b01a8d",
+        "discriminator": "0",
+        "public_flags": 64,
+        "flags": 64,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "ƎYKS",
+        "avatar_decoration_data": {
+          "asset": "a_780cd1b7e878dce85d20c7ee495a86fe",
+          "sku_id": "1352407446391492660",
+          "expires_at": null
+        },
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1384505416259600457",
+        "message_id": "1400539770513260594",
+        "guild_id": "437797104786604034"
+      },
+      "position": 22
+    }
+  },
+  {
+    "type": 19,
+    "content": "Shinies page",
+    "mentions": [
+      {
+        "id": "739250443762270230",
+        "username": "l6end",
+        "avatar": "4543b14cc638bd2266f96787e8f80777",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "!                          L6END",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1400542862533460028",
+        "filename": "image.png",
+        "size": 2401,
+        "url": "https://cdn.discordapp.com/attachments/1384505416259600457/1400542862533460028/image.png?ex=6a0f4c2f&is=6a0dfaaf&hm=51a1b3f870d23c1054289e4d225c35e38d8b6416965aac40123514ecb73ba60a&",
+        "proxy_url": "https://media.discordapp.net/attachments/1384505416259600457/1400542862533460028/image.png?ex=6a0f4c2f&is=6a0dfaaf&hm=51a1b3f870d23c1054289e4d225c35e38d8b6416965aac40123514ecb73ba60a&",
+        "width": 123,
+        "height": 52,
+        "content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "VOgFC4TGp6d8i/p4V3qAhAc=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2025-07-31T18:17:19.311000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1400542862763888660",
+    "channel_id": "1384505416259600457",
+    "author": {
+      "id": "347695893044002816",
+      "username": "shyyskyy",
+      "avatar": "9e68a24ec8c617020d75d0c9e3b01a8d",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "ƎYKS",
+      "avatar_decoration_data": {
+        "asset": "a_780cd1b7e878dce85d20c7ee495a86fe",
+        "sku_id": "1352407446391492660",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1384505416259600457",
+      "message_id": "1400542538099724288",
+      "guild_id": "437797104786604034"
+    },
+    "position": 24,
+    "referenced_message": {
+      "type": 19,
+      "content": "Ypu told me cou can see the bonuses in Game but how/where?",
+      "mentions": [
+        {
+          "id": "347695893044002816",
+          "username": "shyyskyy",
+          "avatar": "9e68a24ec8c617020d75d0c9e3b01a8d",
+          "discriminator": "0",
+          "public_flags": 64,
+          "flags": 64,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "ƎYKS",
+          "avatar_decoration_data": {
+            "asset": "a_780cd1b7e878dce85d20c7ee495a86fe",
+            "sku_id": "1352407446391492660",
+            "expires_at": null
+          },
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-07-31T18:16:01.905000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1400542538099724288",
+      "channel_id": "1384505416259600457",
+      "author": {
+        "id": "739250443762270230",
+        "username": "l6end",
+        "avatar": "4543b14cc638bd2266f96787e8f80777",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "!                          L6END",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1384505416259600457",
+        "message_id": "1400540730035798097",
+        "guild_id": "437797104786604034"
+      },
+      "position": 23
+    }
+  },
+  {
+    "type": 19,
+    "content": "Ohhh thx",
+    "mentions": [
+      {
+        "id": "347695893044002816",
+        "username": "shyyskyy",
+        "avatar": "9e68a24ec8c617020d75d0c9e3b01a8d",
+        "discriminator": "0",
+        "public_flags": 64,
+        "flags": 64,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "ƎYKS",
+        "avatar_decoration_data": {
+          "asset": "a_780cd1b7e878dce85d20c7ee495a86fe",
+          "sku_id": "1352407446391492660",
+          "expires_at": null
+        },
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-07-31T20:26:07.600000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1400575277557485568",
+    "channel_id": "1384505416259600457",
+    "author": {
+      "id": "739250443762270230",
+      "username": "l6end",
+      "avatar": "4543b14cc638bd2266f96787e8f80777",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "!                          L6END",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1384505416259600457",
+      "message_id": "1400542862763888660",
+      "guild_id": "437797104786604034"
+    },
+    "position": 25,
+    "referenced_message": {
+      "type": 19,
+      "content": "Shinies page",
+      "mentions": [
+        {
+          "id": "739250443762270230",
+          "username": "l6end",
+          "avatar": "4543b14cc638bd2266f96787e8f80777",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "!                          L6END",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [
+        {
+          "id": "1400542862533460028",
+          "filename": "image.png",
+          "size": 2401,
+          "url": "https://cdn.discordapp.com/attachments/1384505416259600457/1400542862533460028/image.png?ex=6a0f4c2f&is=6a0dfaaf&hm=51a1b3f870d23c1054289e4d225c35e38d8b6416965aac40123514ecb73ba60a&",
+          "proxy_url": "https://media.discordapp.net/attachments/1384505416259600457/1400542862533460028/image.png?ex=6a0f4c2f&is=6a0dfaaf&hm=51a1b3f870d23c1054289e4d225c35e38d8b6416965aac40123514ecb73ba60a&",
+          "width": 123,
+          "height": 52,
+          "content_type": "image/png",
+          "content_scan_version": 4,
+          "placeholder": "VOgFC4TGp6d8i/p4V3qAhAc=",
+          "placeholder_version": 1
+        }
+      ],
+      "embeds": [],
+      "timestamp": "2025-07-31T18:17:19.311000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1400542862763888660",
+      "channel_id": "1384505416259600457",
+      "author": {
+        "id": "347695893044002816",
+        "username": "shyyskyy",
+        "avatar": "9e68a24ec8c617020d75d0c9e3b01a8d",
+        "discriminator": "0",
+        "public_flags": 64,
+        "flags": 64,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "ƎYKS",
+        "avatar_decoration_data": {
+          "asset": "a_780cd1b7e878dce85d20c7ee495a86fe",
+          "sku_id": "1352407446391492660",
+          "expires_at": null
+        },
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1384505416259600457",
+        "message_id": "1400542538099724288",
+        "guild_id": "437797104786604034"
+      },
+      "position": 24
+    }
+  },
+  {
+    "type": 19,
+    "content": "Are these alway giving the bonus or do i have to place them in fence no matter what  and whats with these days 0/3",
+    "mentions": [
+      {
+        "id": "347695893044002816",
+        "username": "shyyskyy",
+        "avatar": "9e68a24ec8c617020d75d0c9e3b01a8d",
+        "discriminator": "0",
+        "public_flags": 64,
+        "flags": 64,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "ƎYKS",
+        "avatar_decoration_data": {
+          "asset": "a_780cd1b7e878dce85d20c7ee495a86fe",
+          "sku_id": "1352407446391492660",
+          "expires_at": null
+        },
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1400576404843925616",
+        "filename": "Screenshot_20250731_222953.jpg",
+        "size": 193133,
+        "url": "https://cdn.discordapp.com/attachments/1384505416259600457/1400576404843925616/Screenshot_20250731_222953.jpg?ex=6a0f6b6c&is=6a0e19ec&hm=39efb7205b373345bd6bd75317f07debb10f0210099f390d06c01f129883c203&",
+        "proxy_url": "https://media.discordapp.net/attachments/1384505416259600457/1400576404843925616/Screenshot_20250731_222953.jpg?ex=6a0f6b6c&is=6a0e19ec&hm=39efb7205b373345bd6bd75317f07debb10f0210099f390d06c01f129883c203&",
+        "width": 2340,
+        "height": 1080,
+        "content_type": "image/jpeg",
+        "content_scan_version": 4,
+        "placeholder": "COgJA4JHV0iGePd4OZ+pXPY=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2025-07-31T20:30:36.412000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1400576405036601447",
+    "channel_id": "1384505416259600457",
+    "author": {
+      "id": "739250443762270230",
+      "username": "l6end",
+      "avatar": "4543b14cc638bd2266f96787e8f80777",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "!                          L6END",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1384505416259600457",
+      "message_id": "1400542862763888660",
+      "guild_id": "437797104786604034"
+    },
+    "position": 26,
+    "referenced_message": {
+      "type": 19,
+      "content": "Shinies page",
+      "mentions": [
+        {
+          "id": "739250443762270230",
+          "username": "l6end",
+          "avatar": "4543b14cc638bd2266f96787e8f80777",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "!                          L6END",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [
+        {
+          "id": "1400542862533460028",
+          "filename": "image.png",
+          "size": 2401,
+          "url": "https://cdn.discordapp.com/attachments/1384505416259600457/1400542862533460028/image.png?ex=6a0f4c2f&is=6a0dfaaf&hm=51a1b3f870d23c1054289e4d225c35e38d8b6416965aac40123514ecb73ba60a&",
+          "proxy_url": "https://media.discordapp.net/attachments/1384505416259600457/1400542862533460028/image.png?ex=6a0f4c2f&is=6a0dfaaf&hm=51a1b3f870d23c1054289e4d225c35e38d8b6416965aac40123514ecb73ba60a&",
+          "width": 123,
+          "height": 52,
+          "content_type": "image/png",
+          "content_scan_version": 4,
+          "placeholder": "VOgFC4TGp6d8i/p4V3qAhAc=",
+          "placeholder_version": 1
+        }
+      ],
+      "embeds": [],
+      "timestamp": "2025-07-31T18:17:19.311000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1400542862763888660",
+      "channel_id": "1384505416259600457",
+      "author": {
+        "id": "347695893044002816",
+        "username": "shyyskyy",
+        "avatar": "9e68a24ec8c617020d75d0c9e3b01a8d",
+        "discriminator": "0",
+        "public_flags": 64,
+        "flags": 64,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "ƎYKS",
+        "avatar_decoration_data": {
+          "asset": "a_780cd1b7e878dce85d20c7ee495a86fe",
+          "sku_id": "1352407446391492660",
+          "expires_at": null
+        },
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1384505416259600457",
+        "message_id": "1400542538099724288",
+        "guild_id": "437797104786604034"
+      },
+      "position": 24
+    }
+  },
+  {
+    "type": 19,
+    "content": "always giving",
+    "mentions": [
+      {
+        "id": "739250443762270230",
+        "username": "l6end",
+        "avatar": "4543b14cc638bd2266f96787e8f80777",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "!                          L6END",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-08-02T07:33:28.877000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1401105610711236811",
+    "channel_id": "1384505416259600457",
+    "author": {
+      "id": "210879558352764930",
+      "username": "rrraskarkapak",
+      "avatar": "5b58efe9352b1e73928a9f342e453276",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Raskarkapak",
+      "avatar_decoration_data": {
+        "asset": "a_77d421d4d94b180107904a5285050b1e",
+        "sku_id": "1432550258239602810",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": {
+        "font_id": 11,
+        "effect_id": 4,
+        "colors": [
+          6622829
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "118342632215674881",
+        "identity_enabled": true,
+        "tag": "GRIP",
+        "badge": "1bb50cd03ef55766ef6d1708097b7853"
+      },
+      "primary_guild": {
+        "identity_guild_id": "118342632215674881",
+        "identity_enabled": true,
+        "tag": "GRIP",
+        "badge": "1bb50cd03ef55766ef6d1708097b7853"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1384505416259600457",
+      "message_id": "1400576405036601447",
+      "guild_id": "437797104786604034"
+    },
+    "position": 27,
+    "referenced_message": {
+      "type": 19,
+      "content": "Are these alway giving the bonus or do i have to place them in fence no matter what  and whats with these days 0/3",
+      "mentions": [
+        {
+          "id": "347695893044002816",
+          "username": "shyyskyy",
+          "avatar": "9e68a24ec8c617020d75d0c9e3b01a8d",
+          "discriminator": "0",
+          "public_flags": 64,
+          "flags": 64,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "ƎYKS",
+          "avatar_decoration_data": {
+            "asset": "a_780cd1b7e878dce85d20c7ee495a86fe",
+            "sku_id": "1352407446391492660",
+            "expires_at": null
+          },
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [
+        {
+          "id": "1400576404843925616",
+          "filename": "Screenshot_20250731_222953.jpg",
+          "size": 193133,
+          "url": "https://cdn.discordapp.com/attachments/1384505416259600457/1400576404843925616/Screenshot_20250731_222953.jpg?ex=6a0f6b6c&is=6a0e19ec&hm=39efb7205b373345bd6bd75317f07debb10f0210099f390d06c01f129883c203&",
+          "proxy_url": "https://media.discordapp.net/attachments/1384505416259600457/1400576404843925616/Screenshot_20250731_222953.jpg?ex=6a0f6b6c&is=6a0e19ec&hm=39efb7205b373345bd6bd75317f07debb10f0210099f390d06c01f129883c203&",
+          "width": 2340,
+          "height": 1080,
+          "content_type": "image/jpeg",
+          "content_scan_version": 4,
+          "placeholder": "COgJA4JHV0iGePd4OZ+pXPY=",
+          "placeholder_version": 1
+        }
+      ],
+      "embeds": [],
+      "timestamp": "2025-07-31T20:30:36.412000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1400576405036601447",
+      "channel_id": "1384505416259600457",
+      "author": {
+        "id": "739250443762270230",
+        "username": "l6end",
+        "avatar": "4543b14cc638bd2266f96787e8f80777",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "!                          L6END",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1384505416259600457",
+        "message_id": "1400542862763888660",
+        "guild_id": "437797104786604034"
+      },
+      "position": 26
+    }
+  },
+  {
+    "type": 0,
+    "content": "So I’m curious. Do shinies have to be in the fence yard to level up, or can they be in the storage?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-10-12T14:40:24.294000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1426942588014952521",
+    "channel_id": "1384505416259600457",
+    "author": {
+      "id": "308505802744922112",
+      "username": "jragz",
+      "avatar": "646588809b3ada7272df48515f9780e6",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Jragz",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1138661873093464094",
+        "identity_enabled": true,
+        "tag": "JBOY",
+        "badge": "5f0404ec39b6724bf523b9ece78ccbd6"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1138661873093464094",
+        "identity_enabled": true,
+        "tag": "JBOY",
+        "badge": "5f0404ec39b6724bf523b9ece78ccbd6"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 29
+  },
+  {
+    "type": 0,
+    "content": "They have to be in the fenceyard to level up, but their bonus is permanent afterwards.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-10-12T16:27:39.301000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1426969578390556713",
+    "channel_id": "1384505416259600457",
+    "author": {
+      "id": "99742137230319616",
+      "username": "hotair",
+      "avatar": "a_cc08294b2a80e575d0b817495d7da200",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Hotair - 4 days",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712162738196",
+          "asset": "nameplates/nameplates_v2/sword_of_legend/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SWORD_OF_LEGEND_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 30
+  },
+  {
+    "type": 0,
+    "content": "when should i switch out shinies?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-10-13T05:52:33.239000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1427172137848016938",
+    "channel_id": "1384505416259600457",
+    "author": {
+      "id": "233951979741642752",
+      "username": "saidane_",
+      "avatar": "401c0924ae2539f21ba70ea8c30041d9",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "saidane",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 31
+  },
+  {
+    "type": 0,
+    "content": "when it seems to be too long for your need, it could be 10 days or 50 days, you decide",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-10-13T08:59:55.857000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1427219292805398598",
+    "channel_id": "1384505416259600457",
+    "author": {
+      "id": "210879558352764930",
+      "username": "rrraskarkapak",
+      "avatar": "5b58efe9352b1e73928a9f342e453276",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Raskarkapak",
+      "avatar_decoration_data": {
+        "asset": "a_77d421d4d94b180107904a5285050b1e",
+        "sku_id": "1432550258239602810",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": {
+        "font_id": 11,
+        "effect_id": 4,
+        "colors": [
+          6622829
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "118342632215674881",
+        "identity_enabled": true,
+        "tag": "GRIP",
+        "badge": "1bb50cd03ef55766ef6d1708097b7853"
+      },
+      "primary_guild": {
+        "identity_guild_id": "118342632215674881",
+        "identity_enabled": true,
+        "tag": "GRIP",
+        "badge": "1bb50cd03ef55766ef6d1708097b7853"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 32
+  },
+  {
+    "type": 19,
+    "content": "That’s what i thought. I just wanted to make sure. Thank you lol",
+    "mentions": [
+      {
+        "id": "99742137230319616",
+        "username": "hotair",
+        "avatar": "a_cc08294b2a80e575d0b817495d7da200",
+        "discriminator": "0",
+        "public_flags": 256,
+        "flags": 256,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Hotair - 4 days",
+        "avatar_decoration_data": null,
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1377377712162738196",
+            "asset": "nameplates/nameplates_v2/sword_of_legend/",
+            "label": "COLLECTIBLES_NAMEPLATES_V2_SWORD_OF_LEGEND_A11Y",
+            "palette": "cobalt"
+          }
+        },
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-10-17T03:17:11.402000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1428582590692200500",
+    "channel_id": "1384505416259600457",
+    "author": {
+      "id": "308505802744922112",
+      "username": "jragz",
+      "avatar": "646588809b3ada7272df48515f9780e6",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Jragz",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1138661873093464094",
+        "identity_enabled": true,
+        "tag": "JBOY",
+        "badge": "5f0404ec39b6724bf523b9ece78ccbd6"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1138661873093464094",
+        "identity_enabled": true,
+        "tag": "JBOY",
+        "badge": "5f0404ec39b6724bf523b9ece78ccbd6"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1384505416259600457",
+      "message_id": "1426969578390556713",
+      "guild_id": "437797104786604034"
+    },
+    "position": 33,
+    "referenced_message": {
+      "type": 0,
+      "content": "They have to be in the fenceyard to level up, but their bonus is permanent afterwards.",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-10-12T16:27:39.301000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1426969578390556713",
+      "channel_id": "1384505416259600457",
+      "author": {
+        "id": "99742137230319616",
+        "username": "hotair",
+        "avatar": "a_cc08294b2a80e575d0b817495d7da200",
+        "discriminator": "0",
+        "public_flags": 256,
+        "flags": 256,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Hotair - 4 days",
+        "avatar_decoration_data": null,
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1377377712162738196",
+            "asset": "nameplates/nameplates_v2/sword_of_legend/",
+            "label": "COLLECTIBLES_NAMEPLATES_V2_SWORD_OF_LEGEND_A11Y",
+            "palette": "cobalt"
+          }
+        },
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 30
+    }
+  },
+  {
+    "type": 0,
+    "content": "Has the spice setup changed much? I want to get breeding on the go but kinda feel the my spice teams need a revamp too not sure where to start",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-29T00:59:44.302000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1444130678068347001",
+    "channel_id": "1384505416259600457",
+    "author": {
+      "id": "216176983636312065",
+      "username": "tydfil",
+      "avatar": "35f64d126e037c50189c027d0495bde2",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Tydfil",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 37
+  },
+  {
+    "type": 0,
+    "content": "Is there any reason to collect one of each breeder pet?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-16T23:27:59.279000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1450630569909293219",
+    "channel_id": "1384505416259600457",
+    "author": {
+      "id": "214229502086086656",
+      "username": "yungwern",
+      "avatar": "60d066a979d3a9500f8a82f8c2b89ebc",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "YungWern",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 38
+  },
+  {
+    "type": 19,
+    "content": "they get really easy to just grab a new one later and you don't usually need more than a few breeders at once so the rest take up space.\nhaving one of each would take up 90-100% of an inventory",
+    "mentions": [
+      {
+        "id": "214229502086086656",
+        "username": "yungwern",
+        "avatar": "60d066a979d3a9500f8a82f8c2b89ebc",
+        "discriminator": "0",
+        "public_flags": 512,
+        "flags": 512,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "YungWern",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-17T21:17:22.911000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1450960089665241119",
+    "channel_id": "1384505416259600457",
+    "author": {
+      "id": "382597240524505090",
+      "username": "someonesmom6969",
+      "avatar": "4f9d03bbaae19f82298e68e52bdeed20",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "CookieMonster",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1384505416259600457",
+      "message_id": "1450630569909293219",
+      "guild_id": "437797104786604034"
+    },
+    "position": 39,
+    "referenced_message": {
+      "type": 0,
+      "content": "Is there any reason to collect one of each breeder pet?",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-12-16T23:27:59.279000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1450630569909293219",
+      "channel_id": "1384505416259600457",
+      "author": {
+        "id": "214229502086086656",
+        "username": "yungwern",
+        "avatar": "60d066a979d3a9500f8a82f8c2b89ebc",
+        "discriminator": "0",
+        "public_flags": 512,
+        "flags": 512,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "YungWern",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 38
+    }
+  },
+  {
+    "type": 4,
+    "content": "Breeding Pet Organising Helper",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-04-14T18:52:21.688000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1493685362231480350",
+    "channel_id": "1384505416259600457",
+    "author": {
+      "id": "347695893044002816",
+      "username": "shyyskyy",
+      "avatar": "9e68a24ec8c617020d75d0c9e3b01a8d",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "ƎYKS",
+      "avatar_decoration_data": {
+        "asset": "a_780cd1b7e878dce85d20c7ee495a86fe",
+        "sku_id": "1352407446391492660",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 46
+  },
+  {
+    "type": 4,
+    "content": "Pet Organize Helper",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-04-14T18:52:44.249000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1493685456859303977",
+    "channel_id": "1384505416259600457",
+    "author": {
+      "id": "347695893044002816",
+      "username": "shyyskyy",
+      "avatar": "9e68a24ec8c617020d75d0c9e3b01a8d",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "ƎYKS",
+      "avatar_decoration_data": {
+        "asset": "a_780cd1b7e878dce85d20c7ee495a86fe",
+        "sku_id": "1352407446391492660",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 47
+  }
+]

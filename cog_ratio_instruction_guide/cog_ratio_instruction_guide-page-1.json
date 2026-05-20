@@ -1,0 +1,392 @@
+[
+  {
+    "type": 0,
+    "content": "Guide is self explanatory and is used to calculate which cog will provide superior Construct Exp/HR for your character. \n\nImportant to note the differences between cogs. Improvements can be found with older cogs over time, use this to help plan for the future. \n\nRatio roughly improves every 215 levels by **one ** by level 5,200 the Bonus Construct EXP could very well be superior to Player Construct XP.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1451492113165586563",
+        "filename": "image.png",
+        "size": 261334,
+        "url": "https://cdn.discordapp.com/attachments/1451492112741826571/1451492113165586563/image.png?ex=6a0f6b9f&is=6a0e1a1f&hm=1ca6f0bd85d14ef6a68b92ce39815cb8de83e8c84d770d526404ce9f6dbf3c51&",
+        "proxy_url": "https://media.discordapp.net/attachments/1451492112741826571/1451492113165586563/image.png?ex=6a0f6b9f&is=6a0e1a1f&hm=1ca6f0bd85d14ef6a68b92ce39815cb8de83e8c84d770d526404ce9f6dbf3c51&",
+        "width": 772,
+        "height": 844,
+        "content_type": "image/webp",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "rQcSDgCImJiHd3eHeHl4f0d4eI9Zj5Y=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2025-12-19T08:31:27.097000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1451492112741826571",
+    "channel_id": "1451492112741826571",
+    "author": {
+      "id": "258524947922681856",
+      "username": "bradlikesfeet",
+      "avatar": "2f5153799cb7f10fb7a3489d7eede18a",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "ZAMN",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 14,
+        "count_details": {
+          "burst": 0,
+          "normal": 14
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "Directional Ratio - Odds",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1451498771136516238",
+        "filename": "image.png",
+        "size": 64418,
+        "url": "https://cdn.discordapp.com/attachments/1451492112741826571/1451498771136516238/image.png?ex=6a0ec912&is=6a0d7792&hm=d261a8fc40ed00dd021808ffbe1cff675b4e252202b76b9ef3e8f22dc02575bb&",
+        "proxy_url": "https://media.discordapp.net/attachments/1451492112741826571/1451498771136516238/image.png?ex=6a0ec912&is=6a0d7792&hm=d261a8fc40ed00dd021808ffbe1cff675b4e252202b76b9ef3e8f22dc02575bb&",
+        "width": 695,
+        "height": 760,
+        "content_type": "image/webp",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "+fcJDgL2aNg3p2iYeIV6i2aI2m+i/iY=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2025-12-19T08:57:54.644000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1451498771396689941",
+    "channel_id": "1451492112741826571",
+    "author": {
+      "id": "258524947922681856",
+      "username": "bradlikesfeet",
+      "avatar": "2f5153799cb7f10fb7a3489d7eede18a",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "ZAMN",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0
+  },
+  {
+    "type": 0,
+    "content": "",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1451502267789480007",
+        "filename": "image.png",
+        "size": 581764,
+        "url": "https://cdn.discordapp.com/attachments/1451492112741826571/1451502267789480007/image.png?ex=6a0ecc54&is=6a0d7ad4&hm=d216489f28322ff150c26ec296fb9b162b4ed768e8a200a53fdf34a8b8f05640&",
+        "proxy_url": "https://media.discordapp.net/attachments/1451492112741826571/1451502267789480007/image.png?ex=6a0ecc54&is=6a0d7ad4&hm=d216489f28322ff150c26ec296fb9b162b4ed768e8a200a53fdf34a8b8f05640&",
+        "width": 790,
+        "height": 923,
+        "content_type": "image/png",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "IRgSFgKoqGiHd5h4eH93d5jXeY9h9Ag=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2025-12-19T09:11:48.301000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1451502268007448659",
+    "channel_id": "1451492112741826571",
+    "author": {
+      "id": "258524947922681856",
+      "username": "bradlikesfeet",
+      "avatar": "2f5153799cb7f10fb7a3489d7eede18a",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "ZAMN",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 1
+  },
+  {
+    "type": 0,
+    "content": "Make guide how to get that high percenta on cogs because my is 130~",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-19T21:14:37.477000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1451684171515957433",
+    "channel_id": "1451492112741826571",
+    "author": {
+      "id": "623196058561806336",
+      "username": "lykanite",
+      "avatar": "0f1a01695ae36a2d24fdd5356517787d",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Baxton",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 2,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "🎚️"
+        },
+        "count": 6,
+        "count_details": {
+          "burst": 0,
+          "normal": 6
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 19,
+    "content": "there is no rocket science, cog % highly depends on your highest character construction level, so to get high % cogs u should follow this guide to push construction xp, and if u want decent cog, u would need A LOT of clicking cogs(and whitescreens as a bonus)",
+    "mentions": [
+      {
+        "id": "623196058561806336",
+        "username": "lykanite",
+        "avatar": "0f1a01695ae36a2d24fdd5356517787d",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Baxton",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-20T00:19:04.658000+00:00",
+    "edited_timestamp": "2025-12-20T00:20:34.680000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1451730590637490237",
+    "channel_id": "1451492112741826571",
+    "author": {
+      "id": "522784675425681429",
+      "username": "gkvert",
+      "avatar": null,
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1451492112741826571",
+      "message_id": "1451684171515957433",
+      "guild_id": "437797104786604034"
+    },
+    "position": 3,
+    "referenced_message": {
+      "type": 0,
+      "content": "Make guide how to get that high percenta on cogs because my is 130~",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-12-19T21:14:37.477000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1451684171515957433",
+      "channel_id": "1451492112741826571",
+      "author": {
+        "id": "623196058561806336",
+        "username": "lykanite",
+        "avatar": "0f1a01695ae36a2d24fdd5356517787d",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Baxton",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 2
+    }
+  },
+  {
+    "type": 0,
+    "content": "thanks",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-20T13:38:51.948000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1451931863919886396",
+    "channel_id": "1451492112741826571",
+    "author": {
+      "id": "623196058561806336",
+      "username": "lykanite",
+      "avatar": "0f1a01695ae36a2d24fdd5356517787d",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Baxton",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 4
+  }
+]

@@ -1,0 +1,1809 @@
+[
+  {
+    "type": 0,
+    "content": "vouch for my goat arctis",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-03-25T01:51:07.253000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1353909030367527035",
+    "channel_id": "1353876926397157476",
+    "author": {
+      "id": "255693410575319051",
+      "username": "kamadash",
+      "avatar": "eb0f87383068e2b306cf4b8ea13ffce0",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "kama-",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "812252292597547018",
+          "name": "Hearto"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "Awesome! Thanks for this Arctis",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-03-25T02:21:50.549000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1353916761711448074",
+    "channel_id": "1353876926397157476",
+    "author": {
+      "id": "931048164084035624",
+      "username": "omzydior",
+      "avatar": "55752dbb162f9cec792a91ac3cc78eec",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Өᴍᴢʏツ™",
+      "avatar_decoration_data": {
+        "asset": "a_a44e9335ea869639fdf812f3642a56a6",
+        "sku_id": "1282816431871754281",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614286585866",
+          "asset": "nameplates/nameplates/cityscape/",
+          "label": "COLLECTIBLES_NAMEPLATES_CITYSCAPE_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1369218540191875092",
+        "identity_enabled": true,
+        "tag": "DIOR",
+        "badge": "fb7ebd9358a8c1f1e8d23547333a86f0"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1369218540191875092",
+        "identity_enabled": true,
+        "tag": "DIOR",
+        "badge": "fb7ebd9358a8c1f1e8d23547333a86f0"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 1,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "812252292597547018",
+          "name": "Hearto"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "Current plans:\nmake a more legit w6 skills section\nAdd active farming information section",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-03-25T02:52:25.249000+00:00",
+    "edited_timestamp": "2025-06-11T08:28:51.514000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1353924457000861830",
+    "channel_id": "1353876926397157476",
+    "author": {
+      "id": "535431891239567372",
+      "username": "arctis_the_pooh",
+      "avatar": "27360a973f4b2f5e7574d2a9303bc0bd",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Artic",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 2
+  },
+  {
+    "type": 0,
+    "content": "Changelog:\n-edited PO section\n-added candy farming section in Misc\n-general fixins courtesy of Acecow\n-Div section updated\n-formatting changed, side tabs added\n-3D print section added\n\n----------------------------------------------------------------------------",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-03-25T02:52:47.222000+00:00",
+    "edited_timestamp": "2025-04-02T06:54:38.289000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1353924549162303602",
+    "channel_id": "1353876926397157476",
+    "author": {
+      "id": "535431891239567372",
+      "username": "arctis_the_pooh",
+      "avatar": "27360a973f4b2f5e7574d2a9303bc0bd",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Artic",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 3
+  },
+  {
+    "type": 0,
+    "content": "wait this is peak",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-03-25T05:52:24.820000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1353969753684840448",
+    "channel_id": "1353876926397157476",
+    "author": {
+      "id": "227587997858529280",
+      "username": "peponga.",
+      "avatar": "a_5548bbdbf1754fc2cd3893dd8a876485",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Pepega",
+      "avatar_decoration_data": {
+        "asset": "a_10b9f886b513b77ccdd67c8784f1a496",
+        "sku_id": "1144059132517826601",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": {
+        "font_id": 11,
+        "effect_id": 2,
+        "colors": [
+          7183099,
+          6082490
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 5
+  },
+  {
+    "type": 0,
+    "content": "now thats the goat kind sir big ice blue god lord bear",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-03-25T05:54:39+00:00",
+    "edited_timestamp": "2025-03-25T05:54:47.231000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1353970316476420126",
+    "channel_id": "1353876926397157476",
+    "author": {
+      "id": "246869047294033930",
+      "username": "dadoums",
+      "avatar": "07bcad810fe80932a028741f955acc80",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Dadoums",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 6
+  },
+  {
+    "type": 0,
+    "content": "this is exactly what i wanted when i was pushing, excellent job",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-03-25T11:19:12.039000+00:00",
+    "edited_timestamp": "2025-03-25T11:19:15.699000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1354051992321917080",
+    "channel_id": "1353876926397157476",
+    "author": {
+      "id": "170041487352922112",
+      "username": "artur.wolf",
+      "avatar": "df23097029248bed63163d6ad8730868",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Art'ur",
+      "avatar_decoration_data": {
+        "asset": "a_f8df108e52465c7c7c5e1841fabdda84",
+        "sku_id": "1282820582303334482",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1462116614131548265",
+          "asset": "nameplates/gothica/nevermore/",
+          "label": "COLLECTIBLES_GOTHICA_NEVERMORE_NP_A11Y",
+          "palette": "white"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1297071536041365555",
+        "identity_enabled": true,
+        "tag": "MY-B",
+        "badge": "7f968d34689b032120d7a0f2a3d69b83"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1297071536041365555",
+        "identity_enabled": true,
+        "tag": "MY-B",
+        "badge": "7f968d34689b032120d7a0f2a3d69b83"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 7
+  },
+  {
+    "type": 0,
+    "content": "This Is Peak, But Do You Know What Can Make This Even Better? \n3D Print",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-03-25T11:46:28.832000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1354058857529212979",
+    "channel_id": "1353876926397157476",
+    "author": {
+      "id": "558572110851866625",
+      "username": "luniacenric",
+      "avatar": "ef9b5c5d033360e0563c342768946f31",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Tae Takemi",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": {
+        "font_id": 7,
+        "effect_id": 2,
+        "colors": [
+          16095292,
+          16711680
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "406611885312704512",
+        "identity_enabled": true,
+        "tag": "NGU",
+        "badge": "a3290d71cdc373a5f63598746c8f1476"
+      },
+      "primary_guild": {
+        "identity_guild_id": "406611885312704512",
+        "identity_enabled": true,
+        "tag": "NGU",
+        "badge": "a3290d71cdc373a5f63598746c8f1476"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 8,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "481714069930246147",
+          "name": "YES"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "Div calculator done :D now I can get back to work",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-03-29T03:22:57.068000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1355381691669151777",
+    "channel_id": "1353876926397157476",
+    "author": {
+      "id": "535431891239567372",
+      "username": "arctis_the_pooh",
+      "avatar": "27360a973f4b2f5e7574d2a9303bc0bd",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Artic",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 10,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "1294977207760060446",
+          "name": "4012blackverify",
+          "animated": true
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "U the boss man",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-03-29T06:36:06.140000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1355430299760197754",
+    "channel_id": "1353876926397157476",
+    "author": {
+      "id": "1308093114715734026",
+      "username": "wazman_23",
+      "avatar": "57a3b76445992ba693554d2ac22419c2",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Waziri",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "302094807046684672",
+        "identity_enabled": true,
+        "tag": "MC",
+        "badge": "ec60c5e6d1f14d3bbff586e2e0b9e54e"
+      },
+      "primary_guild": {
+        "identity_guild_id": "302094807046684672",
+        "identity_enabled": true,
+        "tag": "MC",
+        "badge": "ec60c5e6d1f14d3bbff586e2e0b9e54e"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 11
+  },
+  {
+    "type": 19,
+    "content": "Nooo then I have to do alchemy",
+    "mentions": [
+      {
+        "id": "535431891239567372",
+        "username": "arctis_the_pooh",
+        "avatar": "27360a973f4b2f5e7574d2a9303bc0bd",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Artic",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1462574032464642309",
+          "identity_enabled": true,
+          "tag": "HOLO",
+          "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1462574032464642309",
+          "identity_enabled": true,
+          "tag": "HOLO",
+          "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-04-03T22:05:01.527000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1357476010244964544",
+    "channel_id": "1353876926397157476",
+    "author": {
+      "id": "428034902915547137",
+      "username": "k1an",
+      "avatar": null,
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Kian",
+      "avatar_decoration_data": {
+        "asset": "a_d3e51a9751016df2778a47efbb8bb455",
+        "sku_id": "1493391761085567066",
+        "expires_at": 1782864000
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1353876926397157476",
+      "message_id": "1353924962037141604",
+      "guild_id": "437797104786604034"
+    },
+    "position": 12,
+    "referenced_message": null
+  },
+  {
+    "type": 0,
+    "content": "Bro if you dont do alchemy regardless i pray for your account",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-04-04T14:41:15.524000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1357726720559546631",
+    "channel_id": "1353876926397157476",
+    "author": {
+      "id": "345052687366225921",
+      "username": "splatpixel",
+      "avatar": "9426413e3e93d59bc6d7e99dd71e0363",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "CAPTAIN FINANCE",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614198505602",
+          "asset": "nameplates/nameplates/twilight/",
+          "label": "COLLECTIBLES_NAMEPLATES_TWILIGHT_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "181078474394566657",
+        "identity_enabled": true,
+        "tag": "GTNH",
+        "badge": "8e228078dc56d4ad8bdccb696d4e90be"
+      },
+      "primary_guild": {
+        "identity_guild_id": "181078474394566657",
+        "identity_enabled": true,
+        "tag": "GTNH",
+        "badge": "8e228078dc56d4ad8bdccb696d4e90be"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 13,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "life been super busy and I havent had time to work more on the extensions, once this semester is over ill be able to finish up the current to do list, Im still free to make adjustments and stuff and add anything to the to do list if desired\ngood luck and happy studying to those also in the end of semester hell",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-04-20T19:52:57.672000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1363603368903311683",
+    "channel_id": "1353876926397157476",
+    "author": {
+      "id": "535431891239567372",
+      "username": "arctis_the_pooh",
+      "avatar": "27360a973f4b2f5e7574d2a9303bc0bd",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Artic",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 14,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "1234959630048952400",
+          "name": "Pepe_Evil"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1114306970816630876",
+          "name": "Grumblo_Pray"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "thanks you for this \nill definetely use this even though i am at leek spirit lock",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-04-22T10:20:47.643000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1364184154056687620",
+    "channel_id": "1353876926397157476",
+    "author": {
+      "id": "1215285885395009548",
+      "username": "themathematician314_96286",
+      "avatar": "de717a649931ee6d7ef4bc1350e4c8d1",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "buff_warrior1!",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 15
+  },
+  {
+    "type": 0,
+    "content": "how to max bag, idk",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-05-02T07:33:42.145000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1367765982726324316",
+    "channel_id": "1353876926397157476",
+    "author": {
+      "id": "1022280807240450048",
+      "username": "abhowl",
+      "avatar": "5d07179318eeb99e258d2cf73bd54ebc",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "abowl",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "77176186148499456",
+        "identity_enabled": true,
+        "tag": "WFCD",
+        "badge": "b77980ae47597b59f50923edbad59ea9"
+      },
+      "primary_guild": {
+        "identity_guild_id": "77176186148499456",
+        "identity_enabled": true,
+        "tag": "WFCD",
+        "badge": "b77980ae47597b59f50923edbad59ea9"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 16
+  },
+  {
+    "type": 0,
+    "content": "he means on the document",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-05-02T07:33:52.484000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1367766026091102288",
+    "channel_id": "1353876926397157476",
+    "author": {
+      "id": "255693410575319051",
+      "username": "kamadash",
+      "avatar": "eb0f87383068e2b306cf4b8ea13ffce0",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "kama-",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 17
+  },
+  {
+    "type": 0,
+    "content": "",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-05-02T07:34:00.967000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "sticker_items": [
+      {
+        "id": "859886693006704691",
+        "name": "Maestro",
+        "format_type": 1
+      }
+    ],
+    "id": "1367766061671383120",
+    "channel_id": "1353876926397157476",
+    "author": {
+      "id": "1022280807240450048",
+      "username": "abhowl",
+      "avatar": "5d07179318eeb99e258d2cf73bd54ebc",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "abowl",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "77176186148499456",
+        "identity_enabled": true,
+        "tag": "WFCD",
+        "badge": "b77980ae47597b59f50923edbad59ea9"
+      },
+      "primary_guild": {
+        "identity_guild_id": "77176186148499456",
+        "identity_enabled": true,
+        "tag": "WFCD",
+        "badge": "b77980ae47597b59f50923edbad59ea9"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 18
+  },
+  {
+    "type": 0,
+    "content": "mogged",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-05-02T07:34:02.092000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1367766066390110210",
+    "channel_id": "1353876926397157476",
+    "author": {
+      "id": "1022280807240450048",
+      "username": "abhowl",
+      "avatar": "5d07179318eeb99e258d2cf73bd54ebc",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "abowl",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "77176186148499456",
+        "identity_enabled": true,
+        "tag": "WFCD",
+        "badge": "b77980ae47597b59f50923edbad59ea9"
+      },
+      "primary_guild": {
+        "identity_guild_id": "77176186148499456",
+        "identity_enabled": true,
+        "tag": "WFCD",
+        "badge": "b77980ae47597b59f50923edbad59ea9"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 19
+  },
+  {
+    "type": 0,
+    "content": "Just read bro",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-05-02T07:36:15.978000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1367766627948564551",
+    "channel_id": "1353876926397157476",
+    "author": {
+      "id": "558572110851866625",
+      "username": "luniacenric",
+      "avatar": "ef9b5c5d033360e0563c342768946f31",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Tae Takemi",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": {
+        "font_id": 7,
+        "effect_id": 2,
+        "colors": [
+          16095292,
+          16711680
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "406611885312704512",
+        "identity_enabled": true,
+        "tag": "NGU",
+        "badge": "a3290d71cdc373a5f63598746c8f1476"
+      },
+      "primary_guild": {
+        "identity_guild_id": "406611885312704512",
+        "identity_enabled": true,
+        "tag": "NGU",
+        "badge": "a3290d71cdc373a5f63598746c8f1476"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 20
+  },
+  {
+    "type": 0,
+    "content": "yall dont need an alch guide, scoli review does everything I was gonna do, I thought about it a good bit and I aint gonna make a sheet or info section for it unless someone tells me a reason why they need it and then ill reconsider. \nfor now ill just work on getting it updated and adding some more sections",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-06-11T08:28:18.610000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1382275239840579755",
+    "channel_id": "1353876926397157476",
+    "author": {
+      "id": "535431891239567372",
+      "username": "arctis_the_pooh",
+      "avatar": "27360a973f4b2f5e7574d2a9303bc0bd",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Artic",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 22
+  },
+  {
+    "type": 0,
+    "content": "looking for early gamers to give any feedback on farming section, I have a preliminary thing done but some player experience would be needed to flesh it out more, feel free to leave your comments on the sheet or in my dms",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-06-11T09:45:36.797000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1382294693806608434",
+    "channel_id": "1353876926397157476",
+    "author": {
+      "id": "535431891239567372",
+      "username": "arctis_the_pooh",
+      "avatar": "27360a973f4b2f5e7574d2a9303bc0bd",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Artic",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 23
+  },
+  {
+    "type": 0,
+    "content": "how is this early game",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-10T20:53:56.121000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1415440178331258900",
+    "channel_id": "1353876926397157476",
+    "author": {
+      "id": "1354543138001260696",
+      "username": "tranquil_rabbit_43872",
+      "avatar": "754fe4d448a3b541c7456e4281b0438f",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "basaltballer100real",
+      "avatar_decoration_data": {
+        "asset": "a_9544ed8a1991f07c4ba4e72a291727b2",
+        "sku_id": "1476651931094224957",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 24
+  },
+  {
+    "type": 0,
+    "content": "wth",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-10T20:53:57.555000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1415440184346152971",
+    "channel_id": "1353876926397157476",
+    "author": {
+      "id": "1354543138001260696",
+      "username": "tranquil_rabbit_43872",
+      "avatar": "754fe4d448a3b541c7456e4281b0438f",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "basaltballer100real",
+      "avatar_decoration_data": {
+        "asset": "a_9544ed8a1991f07c4ba4e72a291727b2",
+        "sku_id": "1476651931094224957",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 25
+  },
+  {
+    "type": 19,
+    "content": "Because it is?\n\nThis is the basics of setting up your account before you start on the big mid game goals like DR, statues, big alchemy, etc",
+    "mentions": [
+      {
+        "id": "1354543138001260696",
+        "username": "tranquil_rabbit_43872",
+        "avatar": "754fe4d448a3b541c7456e4281b0438f",
+        "discriminator": "0",
+        "public_flags": 256,
+        "flags": 256,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "basaltballer100real",
+        "avatar_decoration_data": {
+          "asset": "a_9544ed8a1991f07c4ba4e72a291727b2",
+          "sku_id": "1476651931094224957",
+          "expires_at": null
+        },
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-15T17:41:28.757000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1417203684504371200",
+    "channel_id": "1353876926397157476",
+    "author": {
+      "id": "535431891239567372",
+      "username": "arctis_the_pooh",
+      "avatar": "27360a973f4b2f5e7574d2a9303bc0bd",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Artic",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1353876926397157476",
+      "message_id": "1415440178331258900",
+      "guild_id": "437797104786604034"
+    },
+    "position": 26,
+    "referenced_message": {
+      "type": 0,
+      "content": "how is this early game",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-09-10T20:53:56.121000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1415440178331258900",
+      "channel_id": "1353876926397157476",
+      "author": {
+        "id": "1354543138001260696",
+        "username": "tranquil_rabbit_43872",
+        "avatar": "754fe4d448a3b541c7456e4281b0438f",
+        "discriminator": "0",
+        "public_flags": 256,
+        "flags": 256,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "basaltballer100real",
+        "avatar_decoration_data": {
+          "asset": "a_9544ed8a1991f07c4ba4e72a291727b2",
+          "sku_id": "1476651931094224957",
+          "expires_at": null
+        },
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 24
+    }
+  },
+  {
+    "type": 0,
+    "content": "w6 is not early game?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-16T19:47:42.409000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1417597838568722482",
+    "channel_id": "1353876926397157476",
+    "author": {
+      "id": "1354543138001260696",
+      "username": "tranquil_rabbit_43872",
+      "avatar": "754fe4d448a3b541c7456e4281b0438f",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "basaltballer100real",
+      "avatar_decoration_data": {
+        "asset": "a_9544ed8a1991f07c4ba4e72a291727b2",
+        "sku_id": "1476651931094224957",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 27
+  },
+  {
+    "type": 19,
+    "content": "getting into world6 you could consider the tutorial because you just learn about all the skills and can now start actually progressing them. that is how i view it at least",
+    "mentions": [
+      {
+        "id": "1354543138001260696",
+        "username": "tranquil_rabbit_43872",
+        "avatar": "754fe4d448a3b541c7456e4281b0438f",
+        "discriminator": "0",
+        "public_flags": 256,
+        "flags": 256,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "basaltballer100real",
+        "avatar_decoration_data": {
+          "asset": "a_9544ed8a1991f07c4ba4e72a291727b2",
+          "sku_id": "1476651931094224957",
+          "expires_at": null
+        },
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-16T21:08:58.840000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1417618291802767381",
+    "channel_id": "1353876926397157476",
+    "author": {
+      "id": "286664231477182474",
+      "username": "lolbliv",
+      "avatar": "625e3e940f357d4ea30c8f683c378253",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "lolbliv",
+      "avatar_decoration_data": {
+        "asset": "a_3513b3b45624e47a4855f6951eea484d",
+        "sku_id": "1366494385537028208",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1353876926397157476",
+      "message_id": "1417597838568722482",
+      "guild_id": "437797104786604034"
+    },
+    "position": 28,
+    "referenced_message": {
+      "type": 0,
+      "content": "w6 is not early game?",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-09-16T19:47:42.409000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1417597838568722482",
+      "channel_id": "1353876926397157476",
+      "author": {
+        "id": "1354543138001260696",
+        "username": "tranquil_rabbit_43872",
+        "avatar": "754fe4d448a3b541c7456e4281b0438f",
+        "discriminator": "0",
+        "public_flags": 256,
+        "flags": 256,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "basaltballer100real",
+        "avatar_decoration_data": {
+          "asset": "a_9544ed8a1991f07c4ba4e72a291727b2",
+          "sku_id": "1476651931094224957",
+          "expires_at": null
+        },
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 27
+    }
+  },
+  {
+    "type": 19,
+    "content": "Early game begins shortly after reaching w6 for most people.\n\nMy guide is directed at those who are fresh into w6, to build their account foundations, not really an early game guide, though there is much overlapping",
+    "mentions": [
+      {
+        "id": "1354543138001260696",
+        "username": "tranquil_rabbit_43872",
+        "avatar": "754fe4d448a3b541c7456e4281b0438f",
+        "discriminator": "0",
+        "public_flags": 256,
+        "flags": 256,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "basaltballer100real",
+        "avatar_decoration_data": {
+          "asset": "a_9544ed8a1991f07c4ba4e72a291727b2",
+          "sku_id": "1476651931094224957",
+          "expires_at": null
+        },
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-16T23:08:34.944000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1417648390564479077",
+    "channel_id": "1353876926397157476",
+    "author": {
+      "id": "535431891239567372",
+      "username": "arctis_the_pooh",
+      "avatar": "27360a973f4b2f5e7574d2a9303bc0bd",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Artic",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1353876926397157476",
+      "message_id": "1417597838568722482",
+      "guild_id": "437797104786604034"
+    },
+    "position": 29,
+    "referenced_message": {
+      "type": 0,
+      "content": "w6 is not early game?",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-09-16T19:47:42.409000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1417597838568722482",
+      "channel_id": "1353876926397157476",
+      "author": {
+        "id": "1354543138001260696",
+        "username": "tranquil_rabbit_43872",
+        "avatar": "754fe4d448a3b541c7456e4281b0438f",
+        "discriminator": "0",
+        "public_flags": 256,
+        "flags": 256,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "basaltballer100real",
+        "avatar_decoration_data": {
+          "asset": "a_9544ed8a1991f07c4ba4e72a291727b2",
+          "sku_id": "1476651931094224957",
+          "expires_at": null
+        },
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 27
+    }
+  },
+  {
+    "type": 0,
+    "content": "where the guide",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-30T12:37:11.398000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1455540221344092200",
+    "channel_id": "1353876926397157476",
+    "author": {
+      "id": "754501467620245659",
+      "username": "denjayz",
+      "avatar": "5796866948ef733d247966926ca6fa1c",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": {
+        "asset": "a_3012fad396abbf24e325431800b51510",
+        "sku_id": "1306330663015809024",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 31,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "481714069930246147",
+          "name": "YES"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "https://docs.google.com/document/d/1iDBOV_2L6bD4JgIgc8-zYTlZ3b06ZvnswpnjUO5uqds/edit?usp=drivesdk",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "link",
+        "url": "https://docs.google.com/document/d/1iDBOV_2L6bD4JgIgc8-zYTlZ3b06ZvnswpnjUO5uqds/edit?usp=drivesdk",
+        "title": "Early W6 Guide",
+        "description": "Discontinued Guide (not up to date with w7)  Note: Feel free to leave comments on points of confusion, content you would like more info on, or anything else\u000b Backlink to update your copy: Early W6 Guide —------------------------------------------------------------------------------ Yellow Highlig...",
+        "provider": {
+          "name": "Google Docs"
+        },
+        "thumbnail": {
+          "url": "https://lh7-us.googleusercontent.com/docs/AHkbwyKpRyg8iFBR904iEzOZ1FafwC8iBQTtI-TfO6ocjuJLPW9HN21xErKbohX8ZXwzsm6REntBAK8YSGSFEWex-I1kn4lcI4JQV8Zo149zlUpgDypNvzte=w1200-h630-p",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/rw2OfFT3XpWdfXsWswFjFib7vKYci7QoeRd7OI1DZQg/https/lh7-us.googleusercontent.com/docs/AHkbwyKpRyg8iFBR904iEzOZ1FafwC8iBQTtI-TfO6ocjuJLPW9HN21xErKbohX8ZXwzsm6REntBAK8YSGSFEWex-I1kn4lcI4JQV8Zo149zlUpgDypNvzte%3Dw1200-h630-p",
+          "width": 1200,
+          "height": 630,
+          "flags": 0
+        },
+        "content_scan_version": 4
+      }
+    ],
+    "timestamp": "2025-12-31T18:55:53.876000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1455997914189922506",
+    "channel_id": "1353876926397157476",
+    "author": {
+      "id": "535431891239567372",
+      "username": "arctis_the_pooh",
+      "avatar": "27360a973f4b2f5e7574d2a9303bc0bd",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Artic",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 32
+  }
+]

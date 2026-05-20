@@ -1,0 +1,4294 @@
+[
+  {
+    "type": 0,
+    "content": "Hello! I aim to create high quality sheets on a wide variety of topics. This thread is for news about and discussion to improve any of these sheets. I'm always open to feedback, questions or suggestions but I will only do things I feel like doing in my spare time. I'm steadily improving and my standards are getting higher. That means some older sheets might not quite be up to par with the newer ones.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1303887857500557353",
+        "filename": "background-254-0.png",
+        "size": 116954,
+        "url": "https://cdn.discordapp.com/attachments/1303887857324265514/1303887857500557353/background-254-0.png?ex=6a0f02f2&is=6a0db172&hm=1c213b5620804d43f23fc005125b0162a080ee2c2d5b91b79bf9989911cefcb0&",
+        "proxy_url": "https://media.discordapp.net/attachments/1303887857324265514/1303887857500557353/background-254-0.png?ex=6a0f02f2&is=6a0db172&hm=1c213b5620804d43f23fc005125b0162a080ee2c2d5b91b79bf9989911cefcb0&",
+        "width": 1200,
+        "height": 800,
+        "content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "jScGDYRod2dziHeBiHh4cIeHjweH",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2024-11-07T01:04:50.251000+00:00",
+    "edited_timestamp": "2024-11-07T01:05:28.913000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1303887857324265514",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "325665012012285954",
+      "username": "trialpears",
+      "avatar": "1584139996b312dbe6e61361cd0a5938",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trialpears",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": true,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "🎉"
+        },
+        "count": 40,
+        "count_details": {
+          "burst": 0,
+          "normal": 40
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍"
+        },
+        "count": 8,
+        "count_details": {
+          "burst": 0,
+          "normal": 8
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1118103424991498300",
+          "name": "VeryBased",
+          "animated": true
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "**List of Sheets in reverse chronological order:**",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-11-07T01:04:55.727000+00:00",
+    "edited_timestamp": "2024-11-07T01:05:37.707000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1303887880292270213",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "325665012012285954",
+      "username": "trialpears",
+      "avatar": "1584139996b312dbe6e61361cd0a5938",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trialpears",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0
+  },
+  {
+    "type": 0,
+    "content": "**Trialpears' BJP Sheet**\nhttps://docs.google.com/spreadsheets/d/1ft3UxxBTiYBiBRmmLCuSpCznTFJQGRMLvf30r_qHo2w/edit?gid=0#gid=0\nInstead of the traditional HP math which doesn't account for crits, talents, attack speed and personal time preference I use a reference boss with an optimal amount of pickles to determine how many you should use for the others. In my experience this gives much better results. I use Dr Defecause as my reference since you can respawn him with fewer pickles by leaving and reentering. Start high and work your way down to a good amount.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "link",
+        "url": "https://docs.google.com/spreadsheets/d/1ft3UxxBTiYBiBRmmLCuSpCznTFJQGRMLvf30r_qHo2w/edit?gid=0",
+        "title": "Trialpears' BJP Sheet",
+        "provider": {
+          "name": "Google Docs"
+        },
+        "thumbnail": {
+          "url": "https://lh7-us.googleusercontent.com/docs/AHkbwyKsdfdXdAB3mYGciO82dmRMX6a2K4kpWzETmGMjPVIxNEVssZ8kIOshLanWOisS7rEk8Sd-eHeXVOCEUZCvLncam6sXzN5z8y2S57AOqd0IoOooK3Q=w1200-h630-p",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/u1ypUMRZe9AMgNAJEeTEXm_skUF0Ja8hT1Zz9_0rNl4/https/lh7-us.googleusercontent.com/docs/AHkbwyKsdfdXdAB3mYGciO82dmRMX6a2K4kpWzETmGMjPVIxNEVssZ8kIOshLanWOisS7rEk8Sd-eHeXVOCEUZCvLncam6sXzN5z8y2S57AOqd0IoOooK3Q%3Dw1200-h630-p",
+          "width": 1200,
+          "height": 630,
+          "content_type": "image/png",
+          "placeholder": "MTkKFIL5x+p1iIh4h5kDnEmwmQ==",
+          "placeholder_version": 1,
+          "flags": 0
+        },
+        "content_scan_version": 4
+      }
+    ],
+    "timestamp": "2024-11-07T01:04:57.024000+00:00",
+    "edited_timestamp": "2024-11-07T01:11:33.947000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1303887885732151416",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "325665012012285954",
+      "username": "trialpears",
+      "avatar": "1584139996b312dbe6e61361cd0a5938",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trialpears",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 2
+  },
+  {
+    "type": 0,
+    "content": "**Trialpears' Land Rank Optimizer Sheet**\nhttps://docs.google.com/spreadsheets/d/1_Z0-mJKRMxjFb0CSmg9MlfxDgdtwNyeVDd-7Bb1wXzs/edit?gid=0#gid=0\nThe goal of this sheet is to easily maximize the land rank allocation with the least effort possible. Only the values in the input section needs to be changed for full Land Rank recommendations to be generated. The Goal Ratios can be changed if you disagree with my recommendations and the sheet will do its best to adapt.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "link",
+        "url": "https://docs.google.com/spreadsheets/d/1_Z0-mJKRMxjFb0CSmg9MlfxDgdtwNyeVDd-7Bb1wXzs/edit?gid=0",
+        "title": "Trialpears' Land Rank Optimizer Sheet",
+        "provider": {
+          "name": "Google Docs"
+        },
+        "thumbnail": {
+          "url": "https://lh7-us.googleusercontent.com/docs/AHkbwyKfbK00QQgIGyz-dL4Rg-g98dZf8l4N9RTcW27AIBHCV8CiVzQu2xdiBltEu79_rmlbcUn-jwbW25Clf0r8RXqYtCVsnxJX7dN6ONv173Gecmx6idJU=w1200-h630-p",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/hqWWBrzR9daO_vyN9qt26dNekh_qlo9oTBrHAlUKrMY/https/lh7-us.googleusercontent.com/docs/AHkbwyKfbK00QQgIGyz-dL4Rg-g98dZf8l4N9RTcW27AIBHCV8CiVzQu2xdiBltEu79_rmlbcUn-jwbW25Clf0r8RXqYtCVsnxJX7dN6ONv173Gecmx6idJU%3Dw1200-h630-p",
+          "width": 1200,
+          "height": 630,
+          "content_type": "image/png",
+          "placeholder": "b0kKFIT2+NiYeHaJd2kHhniAZg==",
+          "placeholder_version": 1,
+          "flags": 0
+        },
+        "content_scan_version": 4
+      }
+    ],
+    "timestamp": "2024-11-07T01:04:57.355000+00:00",
+    "edited_timestamp": "2024-11-07T01:11:24.062000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1303887887120601138",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "325665012012285954",
+      "username": "trialpears",
+      "avatar": "1584139996b312dbe6e61361cd0a5938",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trialpears",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 3
+  },
+  {
+    "type": 0,
+    "content": "**Trialpears' Building Sheet**\nhttps://docs.google.com/spreadsheets/d/1h5is0oaPAqd9YggBV9a7VDQxbGun6Aa_x-wl-8RWenk/edit?gid=0#gid=0\nCalculate the amount of time and materials it will take to reach a certain building level",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "link",
+        "url": "https://docs.google.com/spreadsheets/d/1h5is0oaPAqd9YggBV9a7VDQxbGun6Aa_x-wl-8RWenk/edit?gid=0",
+        "title": "Trialpears' Building Sheet",
+        "provider": {
+          "name": "Google Docs"
+        },
+        "thumbnail": {
+          "url": "https://lh7-us.googleusercontent.com/docs/AHkbwyKkSq3ZB-gG-9oq0sKOnipY0kM9MF493dUEMNEcPouSX4rCbSx6ePbe19g4EuxKmPi68A8qC7QEw88mnMU9sRhyPAyeNLjzipjRaXA1sHyuN3bY8hQ=w1200-h630-p",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/80F-4Y3rLVGPCSTqECRohjZJO2Te8y1KuyKIpr3XmFo/https/lh7-us.googleusercontent.com/docs/AHkbwyKkSq3ZB-gG-9oq0sKOnipY0kM9MF493dUEMNEcPouSX4rCbSx6ePbe19g4EuxKmPi68A8qC7QEw88mnMU9sRhyPAyeNLjzipjRaXA1sHyuN3bY8hQ%3Dw1200-h630-p",
+          "width": 1200,
+          "height": 630,
+          "content_type": "image/png",
+          "placeholder": "thgGDIL+99Rjepd3eIoGc1EwGA==",
+          "placeholder_version": 1,
+          "flags": 0
+        },
+        "content_scan_version": 4
+      }
+    ],
+    "timestamp": "2024-11-07T01:04:57.824000+00:00",
+    "edited_timestamp": "2024-11-07T01:12:57.461000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1303887889087729715",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "325665012012285954",
+      "username": "trialpears",
+      "avatar": "1584139996b312dbe6e61361cd0a5938",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trialpears",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 4
+  },
+  {
+    "type": 0,
+    "content": "**Trialpears' Stamp Sheet**\nhttps://docs.google.com/spreadsheets/d/1qAsIRqYKhPTzFgtCy62KxgSDb_Nm1AfpwXyyIDNj9fo/edit?gid=95416029#gid=95416029\nVisualize which stamps you can upgrade with this sheet by importing your stamp levels and calculating your carrying capacities. There is also a list of roughly the max reachable levels for each stamp.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "link",
+        "url": "https://docs.google.com/spreadsheets/d/1qAsIRqYKhPTzFgtCy62KxgSDb_Nm1AfpwXyyIDNj9fo/edit?gid=95416029",
+        "title": "Trialpears' Stamp Sheet (w/ Carry Cap)",
+        "provider": {
+          "name": "Google Docs"
+        },
+        "thumbnail": {
+          "url": "https://lh7-us.googleusercontent.com/docs/AHkbwyLDj9NMNbrHecYLVsGUzJA2Wm0ZOHCZsrdzcVpjufgLVpfgxu1fOaPnnDnwsquEr6dpzHAkcu41SYEOKghQj1mmKnG7so3hfDvLtL3AP-_kfhBA3yU=w1200-h630-p",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/vG1Lf8GYT7JpNHg-30vQiteeAhnAlRagdaYi3JBz0vA/https/lh7-us.googleusercontent.com/docs/AHkbwyLDj9NMNbrHecYLVsGUzJA2Wm0ZOHCZsrdzcVpjufgLVpfgxu1fOaPnnDnwsquEr6dpzHAkcu41SYEOKghQj1mmKnG7so3hfDvLtL3AP-_kfhBA3yU%3Dw1200-h630-p",
+          "width": 1200,
+          "height": 630,
+          "content_type": "image/png",
+          "placeholder": "uBgKHIS3qaiHd3h/dngpeJCDBw==",
+          "placeholder_version": 1,
+          "flags": 0
+        },
+        "content_scan_version": 4
+      }
+    ],
+    "timestamp": "2024-11-07T01:04:58.272000+00:00",
+    "edited_timestamp": "2024-11-07T01:17:39.806000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1303887890966642698",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "325665012012285954",
+      "username": "trialpears",
+      "avatar": "1584139996b312dbe6e61361cd0a5938",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trialpears",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 5
+  },
+  {
+    "type": 0,
+    "content": "**Trialpears' Forge Sheet**\nhttps://docs.google.com/spreadsheets/d/1Eze9PMKApb3gfZpbZ07VF3e89Zxa5yL6nKAZnWGoKSs/edit?gid=346873799#gid=346873799\nHow many ores, oils and archer claims are required to produce a given amount of bars? This sheet has the answer!",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "link",
+        "url": "https://docs.google.com/spreadsheets/d/1Eze9PMKApb3gfZpbZ07VF3e89Zxa5yL6nKAZnWGoKSs/edit?gid=346873799",
+        "title": "Trialpears' Forge Sheet",
+        "provider": {
+          "name": "Google Docs"
+        },
+        "thumbnail": {
+          "url": "https://lh7-us.googleusercontent.com/docs/AHkbwyIcuEtW1N3JNa45YzVByXwFwgOL1U3uFxO6Q7uI5Ria94-roA_UaxjSmQPsmUGjHi9T_8WQOA7ERBxQNAV0R4sOAahXX56yDnAuorBO3Foj7jp4OdaF=w1200-h630-p",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/Sh1Wesff5y0a5HpTZEUb9YFn4E_fuhwhGYNiDuqtY70/https/lh7-us.googleusercontent.com/docs/AHkbwyIcuEtW1N3JNa45YzVByXwFwgOL1U3uFxO6Q7uI5Ria94-roA_UaxjSmQPsmUGjHi9T_8WQOA7ERBxQNAV0R4sOAahXX56yDnAuorBO3Foj7jp4OdaF%3Dw1200-h630-p",
+          "width": 1200,
+          "height": 630,
+          "content_type": "image/png",
+          "placeholder": "OggGDICJ1/eTeWhfiG+fa/G5Jg==",
+          "placeholder_version": 1,
+          "flags": 0
+        },
+        "content_scan_version": 4
+      }
+    ],
+    "timestamp": "2024-11-07T01:04:58.701000+00:00",
+    "edited_timestamp": "2024-11-07T01:19:26.398000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1303887892766261359",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "325665012012285954",
+      "username": "trialpears",
+      "avatar": "1584139996b312dbe6e61361cd0a5938",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trialpears",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 6
+  },
+  {
+    "type": 0,
+    "content": "**Trialpears' XP sheet**\nhttps://docs.google.com/spreadsheets/d/1yR3WkBYExpNf-focMDKQ3yIpUbLVW32DFr3SGQ1byW4/edit?gid=203174796#gid=203174796\nAnswers the question \"when will I reach my next goal level in trapping or divinity?\", several expansions are planned as of writing but are put on hold due to the imminent release of the hole update",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "link",
+        "url": "https://docs.google.com/spreadsheets/d/1yR3WkBYExpNf-focMDKQ3yIpUbLVW32DFr3SGQ1byW4/edit?gid=203174796",
+        "title": "Trialpears' XP sheet",
+        "provider": {
+          "name": "Google Docs"
+        },
+        "thumbnail": {
+          "url": "https://lh7-us.googleusercontent.com/docs/AHkbwyK-sBNPoyeGKnYJRn-Hqo_SgwzGDlplSxhwC6XPuEqU2H9PMQDKmGzTXB4BCN8Aw3r_PPZrdNGwrwsM2KlH85NvF3pj_YGqAfO_sr_wl4ijDwTw7tG2=w1200-h630-p",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/m-NxFT5vvQp---KDB1dYCVN_TZiLdetpkUAG7BlIIPU/https/lh7-us.googleusercontent.com/docs/AHkbwyK-sBNPoyeGKnYJRn-Hqo_SgwzGDlplSxhwC6XPuEqU2H9PMQDKmGzTXB4BCN8Aw3r_PPZrdNGwrwsM2KlH85NvF3pj_YGqAfO_sr_wl4ijDwTw7tG2%3Dw1200-h630-p",
+          "width": 1200,
+          "height": 630,
+          "content_type": "image/png",
+          "placeholder": "uhgGDIKH97p7h3Zth6V6kKIHGQ==",
+          "placeholder_version": 1,
+          "flags": 0
+        },
+        "content_scan_version": 4
+      }
+    ],
+    "timestamp": "2024-11-07T01:04:59.286000+00:00",
+    "edited_timestamp": "2024-11-07T01:21:57.883000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1303887895219671081",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "325665012012285954",
+      "username": "trialpears",
+      "avatar": "1584139996b312dbe6e61361cd0a5938",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trialpears",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 7,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "⬅️"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "**Trialpears' Sample Setup**\nhttps://docs.google.com/spreadsheets/d/1aW_lVDeIMZjIc5u5yy8Np1z7ixmNV-Hy49aCWYGv210/edit?gid=0#gid=0\nWhat I decided to print and why during my June resample after consulting various players. My priorities have changed slightly and there will be a major update next time I resample.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "link",
+        "url": "https://docs.google.com/spreadsheets/d/1aW_lVDeIMZjIc5u5yy8Np1z7ixmNV-Hy49aCWYGv210/edit?gid=0",
+        "title": "Trialpears' Sample Setup",
+        "provider": {
+          "name": "Google Docs"
+        },
+        "thumbnail": {
+          "url": "https://lh7-us.googleusercontent.com/docs/AHkbwyJxVBjVNnLxUEFvDwc189KtVchDUHmpCnIu71rjECXcVLeeS0Rt8AiPSAwGyo-SRZH1B6frgcYs9-B5ajT7GtWcPB0NDCSY2m8pctdD90hM1kZHOBU=w1200-h630-p",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/FbL-AbziaOLjP8RhtkkwYK3-cBuphpbUP5XzKB6M5-c/https/lh7-us.googleusercontent.com/docs/AHkbwyJxVBjVNnLxUEFvDwc189KtVchDUHmpCnIu71rjECXcVLeeS0Rt8AiPSAwGyo-SRZH1B6frgcYs9-B5ajT7GtWcPB0NDCSY2m8pctdD90hM1kZHOBU%3Dw1200-h630-p",
+          "width": 1200,
+          "height": 630,
+          "content_type": "image/png",
+          "placeholder": "9AgGFIL56rWGd3h3iHhghgt4uA==",
+          "placeholder_version": 1,
+          "flags": 0
+        },
+        "content_scan_version": 4
+      }
+    ],
+    "timestamp": "2024-11-07T01:04:59.640000+00:00",
+    "edited_timestamp": "2024-11-07T01:26:39.389000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1303887896704716830",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "325665012012285954",
+      "username": "trialpears",
+      "avatar": "1584139996b312dbe6e61361cd0a5938",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trialpears",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 8
+  },
+  {
+    "type": 0,
+    "content": "**Trialpears' New Spice Gathering Sheet**\nhttps://docs.google.com/spreadsheets/d/1dRFrReLJZvwOJLmal7Kak72LlUODQhWSdKHhFIm5vxs/edit?gid=551930001#gid=551930001\nTeam recommendations for gathering the first spice after unlocking a new spice territory as quickly as possible. Build 5: Fastidous often ends up being optimal.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "link",
+        "url": "https://docs.google.com/spreadsheets/d/1dRFrReLJZvwOJLmal7Kak72LlUODQhWSdKHhFIm5vxs/edit?gid=551930001",
+        "title": "Trialpears' New Spice Gathering Sheet",
+        "provider": {
+          "name": "Google Docs"
+        },
+        "thumbnail": {
+          "url": "https://lh7-us.googleusercontent.com/docs/AHkbwyL8PKrDosWZGQdc5e86vgRM-TFQUH3wnaUOwqxm9GITs1fIxtcPsMlMeksdtnuZh6fTRAIHfqWLTyx0H8cvWpc7U4OqehVvrC-D3mHA-pbhcKMKMGNs=w1200-h630-p",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/6YTe4Tx3EhR60h2Ggz1SPn3_Qh6WUj83FiqWG88OOok/https/lh7-us.googleusercontent.com/docs/AHkbwyL8PKrDosWZGQdc5e86vgRM-TFQUH3wnaUOwqxm9GITs1fIxtcPsMlMeksdtnuZh6fTRAIHfqWLTyx0H8cvWpc7U4OqehVvrC-D3mHA-pbhcKMKMGNs%3Dw1200-h630-p",
+          "width": 1200,
+          "height": 630,
+          "content_type": "image/png",
+          "placeholder": "uQgGFILHuZh6d4ePdYc2hmBjCA==",
+          "placeholder_version": 1,
+          "flags": 0
+        },
+        "content_scan_version": 4
+      }
+    ],
+    "timestamp": "2024-11-07T01:05:00.174000+00:00",
+    "edited_timestamp": "2024-11-07T01:28:48.465000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1303887898944471091",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "325665012012285954",
+      "username": "trialpears",
+      "avatar": "1584139996b312dbe6e61361cd0a5938",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trialpears",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 9
+  },
+  {
+    "type": 0,
+    "content": "**Trialpears' Crappy Tome Sheet**\nhttps://docs.google.com/spreadsheets/d/10C_iicokjNTcmj4Jjzy1jAO7Pqxg4lkslVWx-VooeVs/edit?gid=1981643157#gid=1981643157\nTome calculator including max points. WIP as of December 30",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-11-07T01:05:00.612000+00:00",
+    "edited_timestamp": "2024-12-30T16:08:28.179000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1303887900781318186",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "325665012012285954",
+      "username": "trialpears",
+      "avatar": "1584139996b312dbe6e61361cd0a5938",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trialpears",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 10
+  },
+  {
+    "type": 0,
+    "content": ".",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-11-07T01:05:01.004000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1303887902425485323",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "325665012012285954",
+      "username": "trialpears",
+      "avatar": "1584139996b312dbe6e61361cd0a5938",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trialpears",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 11
+  },
+  {
+    "type": 0,
+    "content": ".",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-11-07T01:05:01.480000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1303887904421970041",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "325665012012285954",
+      "username": "trialpears",
+      "avatar": "1584139996b312dbe6e61361cd0a5938",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trialpears",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 12
+  },
+  {
+    "type": 0,
+    "content": ".",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-11-07T01:05:01.986000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1303887906544549969",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "325665012012285954",
+      "username": "trialpears",
+      "avatar": "1584139996b312dbe6e61361cd0a5938",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trialpears",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 13
+  },
+  {
+    "type": 0,
+    "content": ".",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-11-07T01:05:02.440000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1303887908448505856",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "325665012012285954",
+      "username": "trialpears",
+      "avatar": "1584139996b312dbe6e61361cd0a5938",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trialpears",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 14
+  },
+  {
+    "type": 0,
+    "content": ".",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-11-07T01:05:02.866000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1303887910235410475",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "325665012012285954",
+      "username": "trialpears",
+      "avatar": "1584139996b312dbe6e61361cd0a5938",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trialpears",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 15
+  },
+  {
+    "type": 0,
+    "content": ".",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-11-07T01:05:03.331000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1303887912185893005",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "325665012012285954",
+      "username": "trialpears",
+      "avatar": "1584139996b312dbe6e61361cd0a5938",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trialpears",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 16
+  },
+  {
+    "type": 0,
+    "content": ".",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-11-07T01:05:03.753000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1303887913955758121",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "325665012012285954",
+      "username": "trialpears",
+      "avatar": "1584139996b312dbe6e61361cd0a5938",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trialpears",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 17
+  },
+  {
+    "type": 0,
+    "content": ".",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-11-07T01:05:04.223000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1303887915926949949",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "325665012012285954",
+      "username": "trialpears",
+      "avatar": "1584139996b312dbe6e61361cd0a5938",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trialpears",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 18
+  },
+  {
+    "type": 0,
+    "content": ".",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-11-07T01:05:04.843000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1303887918527418378",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "325665012012285954",
+      "username": "trialpears",
+      "avatar": "1584139996b312dbe6e61361cd0a5938",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trialpears",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 19
+  },
+  {
+    "type": 0,
+    "content": ".",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-11-07T01:05:05.282000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1303887920368848986",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "325665012012285954",
+      "username": "trialpears",
+      "avatar": "1584139996b312dbe6e61361cd0a5938",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trialpears",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 20
+  },
+  {
+    "type": 0,
+    "content": ".",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-11-07T01:05:05.827000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1303887922654744700",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "325665012012285954",
+      "username": "trialpears",
+      "avatar": "1584139996b312dbe6e61361cd0a5938",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trialpears",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 21
+  },
+  {
+    "type": 0,
+    "content": ".",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-11-07T01:05:06.253000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1303887924441518153",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "325665012012285954",
+      "username": "trialpears",
+      "avatar": "1584139996b312dbe6e61361cd0a5938",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trialpears",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 22
+  },
+  {
+    "type": 0,
+    "content": ".",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-11-07T01:05:06.761000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1303887926572224572",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "325665012012285954",
+      "username": "trialpears",
+      "avatar": "1584139996b312dbe6e61361cd0a5938",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trialpears",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 23
+  },
+  {
+    "type": 0,
+    "content": ".",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-11-07T01:05:07.388000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1303887929202180186",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "325665012012285954",
+      "username": "trialpears",
+      "avatar": "1584139996b312dbe6e61361cd0a5938",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trialpears",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 24
+  },
+  {
+    "type": 0,
+    "content": ".",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-11-07T01:05:08.106000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1303887932213432320",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "325665012012285954",
+      "username": "trialpears",
+      "avatar": "1584139996b312dbe6e61361cd0a5938",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trialpears",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 25
+  },
+  {
+    "type": 0,
+    "content": ".",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-11-07T01:05:08.734000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1303887934847586396",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "325665012012285954",
+      "username": "trialpears",
+      "avatar": "1584139996b312dbe6e61361cd0a5938",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trialpears",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 26
+  },
+  {
+    "type": 0,
+    "content": ".",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-11-07T01:05:09.340000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1303887937389330493",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "325665012012285954",
+      "username": "trialpears",
+      "avatar": "1584139996b312dbe6e61361cd0a5938",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trialpears",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 27
+  },
+  {
+    "type": 0,
+    "content": ".",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-11-07T01:05:09.850000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1303887939528556615",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "325665012012285954",
+      "username": "trialpears",
+      "avatar": "1584139996b312dbe6e61361cd0a5938",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trialpears",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 28
+  },
+  {
+    "type": 0,
+    "content": ".",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-11-07T01:05:10.461000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1303887942091018393",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "325665012012285954",
+      "username": "trialpears",
+      "avatar": "1584139996b312dbe6e61361cd0a5938",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trialpears",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 29
+  },
+  {
+    "type": 0,
+    "content": ".",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-11-07T01:05:15.095000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1303887961527550053",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "325665012012285954",
+      "username": "trialpears",
+      "avatar": "1584139996b312dbe6e61361cd0a5938",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trialpears",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 30
+  },
+  {
+    "type": 0,
+    "content": ".",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-11-07T01:05:15.459000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1303887963054276649",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "325665012012285954",
+      "username": "trialpears",
+      "avatar": "1584139996b312dbe6e61361cd0a5938",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trialpears",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 31
+  },
+  {
+    "type": 0,
+    "content": ".",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-11-07T01:05:15.888000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1303887964853764117",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "325665012012285954",
+      "username": "trialpears",
+      "avatar": "1584139996b312dbe6e61361cd0a5938",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trialpears",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 32
+  },
+  {
+    "type": 0,
+    "content": ".",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-11-07T01:05:16.602000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1303887967848501349",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "325665012012285954",
+      "username": "trialpears",
+      "avatar": "1584139996b312dbe6e61361cd0a5938",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trialpears",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 33
+  },
+  {
+    "type": 0,
+    "content": ".",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-11-07T01:05:17.504000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1303887971631632415",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "325665012012285954",
+      "username": "trialpears",
+      "avatar": "1584139996b312dbe6e61361cd0a5938",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trialpears",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 34
+  },
+  {
+    "type": 0,
+    "content": "trialpears sheet guide list <:Grumblo_xplode:1102342435637559377> \n\nive been waiting for ages for this to happen",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-11-07T01:44:41.449000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1303897886735728671",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "168846888076836864",
+      "username": "makusinmeringue",
+      "avatar": "1bf0dd5fd781c55687e7b17e49b0e210",
+      "discriminator": "0",
+      "public_flags": 768,
+      "flags": 768,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "MakusinMeringue",
+      "avatar_decoration_data": {
+        "asset": "a_bbafeadabbb7b5405717caa794f371d1",
+        "sku_id": "1458472704306053202",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1417311919576055949",
+          "asset": "nameplates/nameplate_bonanza/bloomling/",
+          "label": "COLLECTIBLES_NAMEPLATE_BONANZA_BLOOMLING_NP_A11Y",
+          "palette": "bubble_gum"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "536782181591285770",
+        "identity_enabled": true,
+        "tag": "YIIK",
+        "badge": "7f968d34689b032120d7a0f2a3d69b83"
+      },
+      "primary_guild": {
+        "identity_guild_id": "536782181591285770",
+        "identity_enabled": true,
+        "tag": "YIIK",
+        "badge": "7f968d34689b032120d7a0f2a3d69b83"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 36,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "1208199310777393153",
+          "name": "happytroll"
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "I was just thinking, with the new forge cap multiple in the hole, it's pretty impractical to do 2 minute claims.. I was thinking, maybe you should add in another column or 2 for KPH for 1 hour and possibly 2 hr.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-11-09T07:18:27.044000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1304706655900143646",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "255969912823087104",
+      "username": "napolean77",
+      "avatar": "889a2a61ad542f812f7a90a0452af66a",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "EternalWr4TH (Doge)",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 37
+  },
+  {
+    "type": 0,
+    "content": "<@325665012012285954>",
+    "mentions": [
+      {
+        "id": "325665012012285954",
+        "username": "trialpears",
+        "avatar": "1584139996b312dbe6e61361cd0a5938",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Trialpears",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-11-09T07:22:15.515000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1304707614176972852",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "255969912823087104",
+      "username": "napolean77",
+      "avatar": "889a2a61ad542f812f7a90a0452af66a",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "EternalWr4TH (Doge)",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 38
+  },
+  {
+    "type": 0,
+    "content": "like 12.7m forge cap so far.. It'll go up another 3x to 38m for me.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1304708696965906492",
+        "filename": "image.png",
+        "size": 5984,
+        "url": "https://cdn.discordapp.com/attachments/1303887857324265514/1304708696965906492/image.png?ex=6a0f5c69&is=6a0e0ae9&hm=b11dce800b45e1d335e2f4bb89287f3213b9c3e503f1605bf29846e02ef17966&",
+        "proxy_url": "https://media.discordapp.net/attachments/1303887857324265514/1304708696965906492/image.png?ex=6a0f5c69&is=6a0e0ae9&hm=b11dce800b45e1d335e2f4bb89287f3213b9c3e503f1605bf29846e02ef17966&",
+        "width": 121,
+        "height": 245,
+        "content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "NwgGCwJbUwiGZmNph39+6Pg=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2024-11-09T07:26:33.718000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1304708697158586388",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "255969912823087104",
+      "username": "napolean77",
+      "avatar": "889a2a61ad542f812f7a90a0452af66a",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "EternalWr4TH (Doge)",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 39
+  },
+  {
+    "type": 0,
+    "content": "well I guess your calculator covers it kinda..  I have the old sheet lol",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-11-09T07:29:26.804000+00:00",
+    "edited_timestamp": "2024-11-09T07:33:05.082000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1304709423134146571",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "255969912823087104",
+      "username": "napolean77",
+      "avatar": "889a2a61ad542f812f7a90a0452af66a",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "EternalWr4TH (Doge)",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 40
+  },
+  {
+    "type": 0,
+    "content": "ilysm trialpears",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-11-26T00:02:41.108000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1310757585611128885",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "227951545977667584",
+      "username": "chadlol",
+      "avatar": "7d487c9084a291341068c4a3dae4ff20",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Chad",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "842477040867606569",
+        "identity_enabled": true,
+        "tag": "DAWN",
+        "badge": "5f4566927ad0133a398f5c044f8b2b6a"
+      },
+      "primary_guild": {
+        "identity_guild_id": "842477040867606569",
+        "identity_enabled": true,
+        "tag": "DAWN",
+        "badge": "5f4566927ad0133a398f5c044f8b2b6a"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 43,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "1208199310777393153",
+          "name": "happytroll"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 19,
+    "content": "Sorry for not replying to this weeks ago. Was contemplating how best to deal with it and then kinda forgot. I'm thinking that Kph for 1 hr candy and a new field where you can enter your kph with the calculator showing how much time is required per claim. Will have a look at it tonight",
+    "mentions": [
+      {
+        "id": "255969912823087104",
+        "username": "napolean77",
+        "avatar": "889a2a61ad542f812f7a90a0452af66a",
+        "discriminator": "0",
+        "public_flags": 64,
+        "flags": 64,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "EternalWr4TH (Doge)",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1462574032464642309",
+          "identity_enabled": true,
+          "tag": "HOLO",
+          "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1462574032464642309",
+          "identity_enabled": true,
+          "tag": "HOLO",
+          "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-11-26T14:18:22.887000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1310972928640159764",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "325665012012285954",
+      "username": "trialpears",
+      "avatar": "1584139996b312dbe6e61361cd0a5938",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trialpears",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1303887857324265514",
+      "message_id": "1304706655900143646",
+      "guild_id": "437797104786604034"
+    },
+    "position": 44,
+    "referenced_message": {
+      "type": 0,
+      "content": "I was just thinking, with the new forge cap multiple in the hole, it's pretty impractical to do 2 minute claims.. I was thinking, maybe you should add in another column or 2 for KPH for 1 hour and possibly 2 hr.",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2024-11-09T07:18:27.044000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1304706655900143646",
+      "channel_id": "1303887857324265514",
+      "author": {
+        "id": "255969912823087104",
+        "username": "napolean77",
+        "avatar": "889a2a61ad542f812f7a90a0452af66a",
+        "discriminator": "0",
+        "public_flags": 64,
+        "flags": 64,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "EternalWr4TH (Doge)",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1462574032464642309",
+          "identity_enabled": true,
+          "tag": "HOLO",
+          "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1462574032464642309",
+          "identity_enabled": true,
+          "tag": "HOLO",
+          "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 37
+    }
+  },
+  {
+    "type": 19,
+    "content": "Depending on how bad some people's speed may be/ how bad their kph is, might need 2 hr candies in some limited cases. If they care about emptying forge of course. \n\nLike there's my copper > marble with 1 hours.  \n\nI decided to finally make more gold bars for my crystal shrine that's been sitting at 195 for forever lol, and was wondering why my forge wasn't emptying. I totally forgot to check how much kph I needed to do that.",
+    "mentions": [
+      {
+        "id": "325665012012285954",
+        "username": "trialpears",
+        "avatar": "1584139996b312dbe6e61361cd0a5938",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Trialpears",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1310975635413532723",
+        "filename": "image.png",
+        "size": 5842,
+        "url": "https://cdn.discordapp.com/attachments/1303887857324265514/1310975635413532723/image.png?ex=6a0f16b4&is=6a0dc534&hm=f9a045f9ad0681b83f6e510fe50f6529481a8b796c0f23ec600761499417af93&",
+        "proxy_url": "https://media.discordapp.net/attachments/1303887857324265514/1310975635413532723/image.png?ex=6a0f16b4&is=6a0dc534&hm=f9a045f9ad0681b83f6e510fe50f6529481a8b796c0f23ec600761499417af93&",
+        "width": 106,
+        "height": 217,
+        "content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "7bcFAwDPeKh3eXp4DD4o8Kc=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2024-11-26T14:29:08.296000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1310975635681710131",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "255969912823087104",
+      "username": "napolean77",
+      "avatar": "889a2a61ad542f812f7a90a0452af66a",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "EternalWr4TH (Doge)",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1303887857324265514",
+      "message_id": "1310972928640159764",
+      "guild_id": "437797104786604034"
+    },
+    "position": 45,
+    "referenced_message": {
+      "type": 19,
+      "content": "Sorry for not replying to this weeks ago. Was contemplating how best to deal with it and then kinda forgot. I'm thinking that Kph for 1 hr candy and a new field where you can enter your kph with the calculator showing how much time is required per claim. Will have a look at it tonight",
+      "mentions": [
+        {
+          "id": "255969912823087104",
+          "username": "napolean77",
+          "avatar": "889a2a61ad542f812f7a90a0452af66a",
+          "discriminator": "0",
+          "public_flags": 64,
+          "flags": 64,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "EternalWr4TH (Doge)",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": {
+            "identity_guild_id": "1462574032464642309",
+            "identity_enabled": true,
+            "tag": "HOLO",
+            "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+          },
+          "primary_guild": {
+            "identity_guild_id": "1462574032464642309",
+            "identity_enabled": true,
+            "tag": "HOLO",
+            "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+          }
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2024-11-26T14:18:22.887000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1310972928640159764",
+      "channel_id": "1303887857324265514",
+      "author": {
+        "id": "325665012012285954",
+        "username": "trialpears",
+        "avatar": "1584139996b312dbe6e61361cd0a5938",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Trialpears",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1303887857324265514",
+        "message_id": "1304706655900143646",
+        "guild_id": "437797104786604034"
+      },
+      "position": 44
+    }
+  },
+  {
+    "type": 0,
+    "content": "I suppose you are right, think I will do a drop down for which candy you want to use then. People can get the forge buffs quite early if they want to, especially if they take a prolonged break after reaching the hole",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-11-26T14:34:06.429000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1310976886142402684",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "325665012012285954",
+      "username": "trialpears",
+      "avatar": "1584139996b312dbe6e61361cd0a5938",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trialpears",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 46
+  },
+  {
+    "type": 0,
+    "content": "Could you please put these Sheets in a folder, then share the folder under view only? It would allow for a one-click solution to finding the specific sheet you need",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-12-01T14:35:19.627000+00:00",
+    "edited_timestamp": "2024-12-01T14:35:42.399000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1312789132484808774",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "168846888076836864",
+      "username": "makusinmeringue",
+      "avatar": "1bf0dd5fd781c55687e7b17e49b0e210",
+      "discriminator": "0",
+      "public_flags": 768,
+      "flags": 768,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "MakusinMeringue",
+      "avatar_decoration_data": {
+        "asset": "a_bbafeadabbb7b5405717caa794f371d1",
+        "sku_id": "1458472704306053202",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1417311919576055949",
+          "asset": "nameplates/nameplate_bonanza/bloomling/",
+          "label": "COLLECTIBLES_NAMEPLATE_BONANZA_BLOOMLING_NP_A11Y",
+          "palette": "bubble_gum"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "536782181591285770",
+        "identity_enabled": true,
+        "tag": "YIIK",
+        "badge": "7f968d34689b032120d7a0f2a3d69b83"
+      },
+      "primary_guild": {
+        "identity_guild_id": "536782181591285770",
+        "identity_enabled": true,
+        "tag": "YIIK",
+        "badge": "7f968d34689b032120d7a0f2a3d69b83"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 47,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍"
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "od",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-12-26T20:54:32.072000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1321944259795877899",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "185101308867510272",
+      "username": "criticalerrorxx",
+      "avatar": "de28a581d0c72c8c984188e073d9cd7f",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Cryt",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 50
+  },
+  {
+    "type": 0,
+    "content": "owl",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-12-27T17:35:08.876000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1322256470380777512",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "1210371764375527489",
+      "username": "_marimcm",
+      "avatar": "3e7f36ab1d6bb2549e4343ad8ce17217",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "마리",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 51
+  },
+  {
+    "type": 0,
+    "content": "I'm gonna try to make one sheet update a day again, haven't really done much recently. Today the stamp sheet received some bug fixes and got the prices right for the stamps changed a few updates ago",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-12-30T16:06:55.047000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1323321430049427605",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "325665012012285954",
+      "username": "trialpears",
+      "avatar": "1584139996b312dbe6e61361cd0a5938",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trialpears",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 52
+  },
+  {
+    "type": 0,
+    "content": "Also gonna share this new sheet I tossed together yesterday. https://docs.google.com/spreadsheets/d/10C_iicokjNTcmj4Jjzy1jAO7Pqxg4lkslVWx-VooeVs/edit?gid=1981643157#gid=1981643157",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "link",
+        "url": "https://docs.google.com/spreadsheets/d/10C_iicokjNTcmj4Jjzy1jAO7Pqxg4lkslVWx-VooeVs/edit?gid=1981643157",
+        "title": "Trialpears' Crappy Tome Sheet",
+        "provider": {
+          "name": "Google Docs"
+        },
+        "thumbnail": {
+          "url": "https://lh7-us.googleusercontent.com/docs/AHkbwyJQIEZyioLq0_b4MP3UFuqTfDvUfYnUmVQBrHt68yr3egTqWFrAXi6EUpimFEV8VCvOIFt7DbTay3XJs4_hDPqy8rdWlYYun-9kqSXplQlfB4dt41sl=w1200-h630-p",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/aZlsflWSQntZFo4gtx7O4R4kRNEfMdoLKWeEWduYiOM/https/lh7-us.googleusercontent.com/docs/AHkbwyJQIEZyioLq0_b4MP3UFuqTfDvUfYnUmVQBrHt68yr3egTqWFrAXi6EUpimFEV8VCvOIFt7DbTay3XJs4_hDPqy8rdWlYYun-9kqSXplQlfB4dt41sl%3Dw1200-h630-p",
+          "width": 1200,
+          "height": 630,
+          "content_type": "image/png",
+          "placeholder": "+BgGFILH+bl4iIeIeHgHeIeQdw==",
+          "placeholder_version": 1,
+          "flags": 0
+        },
+        "content_scan_version": 4
+      }
+    ],
+    "timestamp": "2024-12-30T16:07:36.392000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1323321603462926436",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "325665012012285954",
+      "username": "trialpears",
+      "avatar": "1584139996b312dbe6e61361cd0a5938",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trialpears",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 53
+  },
+  {
+    "type": 19,
+    "content": "https://drive.google.com/drive/folders/1L2DPdAaFdSiFOZST9eovtYZhlPvra1k9?usp=sharing",
+    "mentions": [
+      {
+        "id": "168846888076836864",
+        "username": "makusinmeringue",
+        "avatar": "1bf0dd5fd781c55687e7b17e49b0e210",
+        "discriminator": "0",
+        "public_flags": 768,
+        "flags": 768,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "MakusinMeringue",
+        "avatar_decoration_data": {
+          "asset": "a_bbafeadabbb7b5405717caa794f371d1",
+          "sku_id": "1458472704306053202",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1417311919576055949",
+            "asset": "nameplates/nameplate_bonanza/bloomling/",
+            "label": "COLLECTIBLES_NAMEPLATE_BONANZA_BLOOMLING_NP_A11Y",
+            "palette": "bubble_gum"
+          }
+        },
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "536782181591285770",
+          "identity_enabled": true,
+          "tag": "YIIK",
+          "badge": "7f968d34689b032120d7a0f2a3d69b83"
+        },
+        "primary_guild": {
+          "identity_guild_id": "536782181591285770",
+          "identity_enabled": true,
+          "tag": "YIIK",
+          "badge": "7f968d34689b032120d7a0f2a3d69b83"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "link",
+        "url": "https://drive.google.com/drive/folders/1L2DPdAaFdSiFOZST9eovtYZhlPvra1k9?usp=sharing",
+        "reference_id": "1323324692089536624",
+        "provider": {
+          "name": "Google Drive"
+        },
+        "content_scan_version": 4
+      }
+    ],
+    "timestamp": "2024-12-30T16:19:52.778000+00:00",
+    "edited_timestamp": "2024-12-30T16:21:09.345000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1323324692089536624",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "325665012012285954",
+      "username": "trialpears",
+      "avatar": "1584139996b312dbe6e61361cd0a5938",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trialpears",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1303887857324265514",
+      "message_id": "1312789132484808774",
+      "guild_id": "437797104786604034"
+    },
+    "position": 54,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "1114306970816630876",
+          "name": "Grumblo_Pray"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ],
+    "referenced_message": {
+      "type": 0,
+      "content": "Could you please put these Sheets in a folder, then share the folder under view only? It would allow for a one-click solution to finding the specific sheet you need",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2024-12-01T14:35:19.627000+00:00",
+      "edited_timestamp": "2024-12-01T14:35:42.399000+00:00",
+      "flags": 0,
+      "components": [],
+      "id": "1312789132484808774",
+      "channel_id": "1303887857324265514",
+      "author": {
+        "id": "168846888076836864",
+        "username": "makusinmeringue",
+        "avatar": "1bf0dd5fd781c55687e7b17e49b0e210",
+        "discriminator": "0",
+        "public_flags": 768,
+        "flags": 768,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "MakusinMeringue",
+        "avatar_decoration_data": {
+          "asset": "a_bbafeadabbb7b5405717caa794f371d1",
+          "sku_id": "1458472704306053202",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1417311919576055949",
+            "asset": "nameplates/nameplate_bonanza/bloomling/",
+            "label": "COLLECTIBLES_NAMEPLATE_BONANZA_BLOOMLING_NP_A11Y",
+            "palette": "bubble_gum"
+          }
+        },
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "536782181591285770",
+          "identity_enabled": true,
+          "tag": "YIIK",
+          "badge": "7f968d34689b032120d7a0f2a3d69b83"
+        },
+        "primary_guild": {
+          "identity_guild_id": "536782181591285770",
+          "identity_enabled": true,
+          "tag": "YIIK",
+          "badge": "7f968d34689b032120d7a0f2a3d69b83"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 47
+    }
+  },
+  {
+    "type": 0,
+    "content": "I think this is what you wanted? Haven't used this feature before",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-12-30T16:20:19.765000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1323324805281480744",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "325665012012285954",
+      "username": "trialpears",
+      "avatar": "1584139996b312dbe6e61361cd0a5938",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trialpears",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 55
+  },
+  {
+    "type": 0,
+    "content": "Woohoo.  Thanks mate!",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-12-30T20:40:56.322000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1323390389754925128",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "168846888076836864",
+      "username": "makusinmeringue",
+      "avatar": "1bf0dd5fd781c55687e7b17e49b0e210",
+      "discriminator": "0",
+      "public_flags": 768,
+      "flags": 768,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "MakusinMeringue",
+      "avatar_decoration_data": {
+        "asset": "a_bbafeadabbb7b5405717caa794f371d1",
+        "sku_id": "1458472704306053202",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1417311919576055949",
+          "asset": "nameplates/nameplate_bonanza/bloomling/",
+          "label": "COLLECTIBLES_NAMEPLATE_BONANZA_BLOOMLING_NP_A11Y",
+          "palette": "bubble_gum"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "536782181591285770",
+        "identity_enabled": true,
+        "tag": "YIIK",
+        "badge": "7f968d34689b032120d7a0f2a3d69b83"
+      },
+      "primary_guild": {
+        "identity_guild_id": "536782181591285770",
+        "identity_enabled": true,
+        "tag": "YIIK",
+        "badge": "7f968d34689b032120d7a0f2a3d69b83"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 56
+  },
+  {
+    "type": 0,
+    "content": "bump for good sheets <:Grumblo_Pray:1114306970816630876>",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-01-26T21:01:48.040000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1333180112212066486",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "104738671747448832",
+      "username": "milkshank",
+      "avatar": "a_93c168859d1fef8c7a7aa777a3f6b5f0",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Milkshank",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 57
+  },
+  {
+    "type": 19,
+    "content": "Would anyone be willing to provide more detailed instructions on using this sheet? I am confused on how to use\n\nedit:  I think I made this more complicated as I thought I was supposed to update all of columns A:G.   For anyone else slow on the uptake....\n\n1. Made a copy of the sheet so you can edit it: \n2. Update Cells D3:D7 with your information \n3. The remaining magenta cells should update on their own.  \n4. For me, I found easiest to use the table in B10:F22 to decide where to put my land rank points",
+    "mentions": [
+      {
+        "id": "325665012012285954",
+        "username": "trialpears",
+        "avatar": "1584139996b312dbe6e61361cd0a5938",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Trialpears",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-01-27T18:25:16.944000+00:00",
+    "edited_timestamp": "2025-01-29T18:17:48.664000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1333503110966018048",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "241048702511218691",
+      "username": "byrd.byrd",
+      "avatar": "ce668fea70087e8124080a8c78046e49",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "byrd",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1303887857324265514",
+      "message_id": "1303887887120601138",
+      "guild_id": "437797104786604034"
+    },
+    "position": 59,
+    "referenced_message": {
+      "type": 0,
+      "content": "**Trialpears' Land Rank Optimizer Sheet**\nhttps://docs.google.com/spreadsheets/d/1_Z0-mJKRMxjFb0CSmg9MlfxDgdtwNyeVDd-7Bb1wXzs/edit?gid=0#gid=0\nThe goal of this sheet is to easily maximize the land rank allocation with the least effort possible. Only the values in the input section needs to be changed for full Land Rank recommendations to be generated. The Goal Ratios can be changed if you disagree with my recommendations and the sheet will do its best to adapt.",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [
+        {
+          "type": "link",
+          "url": "https://docs.google.com/spreadsheets/d/1_Z0-mJKRMxjFb0CSmg9MlfxDgdtwNyeVDd-7Bb1wXzs/edit?gid=0",
+          "title": "Trialpears' Land Rank Optimizer Sheet",
+          "provider": {
+            "name": "Google Docs"
+          },
+          "thumbnail": {
+            "url": "https://lh7-us.googleusercontent.com/docs/AHkbwyKfbK00QQgIGyz-dL4Rg-g98dZf8l4N9RTcW27AIBHCV8CiVzQu2xdiBltEu79_rmlbcUn-jwbW25Clf0r8RXqYtCVsnxJX7dN6ONv173Gecmx6idJU=w1200-h630-p",
+            "proxy_url": "https://images-ext-1.discordapp.net/external/hqWWBrzR9daO_vyN9qt26dNekh_qlo9oTBrHAlUKrMY/https/lh7-us.googleusercontent.com/docs/AHkbwyKfbK00QQgIGyz-dL4Rg-g98dZf8l4N9RTcW27AIBHCV8CiVzQu2xdiBltEu79_rmlbcUn-jwbW25Clf0r8RXqYtCVsnxJX7dN6ONv173Gecmx6idJU%3Dw1200-h630-p",
+            "width": 1200,
+            "height": 630,
+            "content_type": "image/png",
+            "placeholder": "b0kKFIT2+NiYeHaJd2kHhniAZg==",
+            "placeholder_version": 1,
+            "flags": 0
+          },
+          "content_scan_version": 4
+        }
+      ],
+      "timestamp": "2024-11-07T01:04:57.355000+00:00",
+      "edited_timestamp": "2024-11-07T01:11:24.062000+00:00",
+      "flags": 0,
+      "components": [],
+      "id": "1303887887120601138",
+      "channel_id": "1303887857324265514",
+      "author": {
+        "id": "325665012012285954",
+        "username": "trialpears",
+        "avatar": "1584139996b312dbe6e61361cd0a5938",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Trialpears",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 3
+    }
+  },
+  {
+    "type": 0,
+    "content": "Why would the sheet not use all the points? I have 3510 points, but it only tells me to use 3339.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1337479565651611790",
+        "filename": "image.png",
+        "size": 85376,
+        "url": "https://cdn.discordapp.com/attachments/1303887857324265514/1337479565651611790/image.png?ex=6a0f44e9&is=6a0df369&hm=207aadfc072b188d7b70d4df8abf1db2e0b6d8d4dedd848123b14df6a326cfe3&",
+        "proxy_url": "https://media.discordapp.net/attachments/1303887857324265514/1337479565651611790/image.png?ex=6a0f44e9&is=6a0df369&hm=207aadfc072b188d7b70d4df8abf1db2e0b6d8d4dedd848123b14df6a326cfe3&",
+        "width": 292,
+        "height": 613,
+        "content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "qFkGCwQQb2d2gpH5+LeIC5k=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2025-02-07T17:46:17.675000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1337479565882429501",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "636555493120278528",
+      "username": "misinformeddna",
+      "avatar": "276995db02054aa1d0652fe072b63ae1",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "MisinformedDNA",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 60
+  },
+  {
+    "type": 0,
+    "content": "Mine also seems weird, using more points than I have? Unless I'm misunderstanding something?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1345538565399904256",
+        "filename": "27A02F42-4B61-4D87-A7A7-3AC028EA7164.png",
+        "size": 174101,
+        "url": "https://cdn.discordapp.com/attachments/1303887857324265514/1345538565399904256/27A02F42-4B61-4D87-A7A7-3AC028EA7164.png?ex=6a0eecb0&is=6a0d9b30&hm=fa1e70cefcbc1b4966881fbb008275475edca9adccbd27fc920c9fc25b4b2f3c&",
+        "proxy_url": "https://media.discordapp.net/attachments/1303887857324265514/1345538565399904256/27A02F42-4B61-4D87-A7A7-3AC028EA7164.png?ex=6a0eecb0&is=6a0d9b30&hm=fa1e70cefcbc1b4966881fbb008275475edca9adccbd27fc920c9fc25b4b2f3c&",
+        "width": 507,
+        "height": 1022,
+        "content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "akkGCwSMb6d3iYjOMqBSBXk=",
+        "placeholder_version": 1,
+        "title": "{27A02F42-4B61-4D87-A7A7-3AC028EA7164}"
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2025-03-01T23:29:52.939000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1345538565609750568",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "141328541051518987",
+      "username": "rietty",
+      "avatar": "a_7771710a85fa0b4b2f1ab16e65dbb2c0",
+      "discriminator": "0",
+      "public_flags": 576,
+      "flags": 576,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Juliette",
+      "avatar_decoration_data": {
+        "asset": "a_13913a00bd9990ab4102a3bf069f0f3f",
+        "sku_id": "1271174640026255380",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": {
+        "font_id": 11,
+        "effect_id": 2,
+        "colors": [
+          15709354,
+          14970082
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "322032557233537024",
+        "identity_enabled": true,
+        "tag": "사랑",
+        "badge": "b6f6582eb0301ce069e00b2a99323975"
+      },
+      "primary_guild": {
+        "identity_guild_id": "322032557233537024",
+        "identity_enabled": true,
+        "tag": "사랑",
+        "badge": "b6f6582eb0301ce069e00b2a99323975"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 61
+  },
+  {
+    "type": 0,
+    "content": "It's broken. Trialpears doesn't intend to fix it.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-03-09T18:39:24.948000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1348364570242318388",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "636555493120278528",
+      "username": "misinformeddna",
+      "avatar": "276995db02054aa1d0652fe072b63ae1",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "MisinformedDNA",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 62
+  },
+  {
+    "type": 19,
+    "content": "Thank you for the response.",
+    "mentions": [
+      {
+        "id": "636555493120278528",
+        "username": "misinformeddna",
+        "avatar": "276995db02054aa1d0652fe072b63ae1",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "MisinformedDNA",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-03-09T21:18:38.408000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1348404640357552280",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "141328541051518987",
+      "username": "rietty",
+      "avatar": "a_7771710a85fa0b4b2f1ab16e65dbb2c0",
+      "discriminator": "0",
+      "public_flags": 576,
+      "flags": 576,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Juliette",
+      "avatar_decoration_data": {
+        "asset": "a_13913a00bd9990ab4102a3bf069f0f3f",
+        "sku_id": "1271174640026255380",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": {
+        "font_id": 11,
+        "effect_id": 2,
+        "colors": [
+          15709354,
+          14970082
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "322032557233537024",
+        "identity_enabled": true,
+        "tag": "사랑",
+        "badge": "b6f6582eb0301ce069e00b2a99323975"
+      },
+      "primary_guild": {
+        "identity_guild_id": "322032557233537024",
+        "identity_enabled": true,
+        "tag": "사랑",
+        "badge": "b6f6582eb0301ce069e00b2a99323975"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1303887857324265514",
+      "message_id": "1348364570242318388",
+      "guild_id": "437797104786604034"
+    },
+    "position": 63,
+    "referenced_message": {
+      "type": 0,
+      "content": "It's broken. Trialpears doesn't intend to fix it.",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-03-09T18:39:24.948000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1348364570242318388",
+      "channel_id": "1303887857324265514",
+      "author": {
+        "id": "636555493120278528",
+        "username": "misinformeddna",
+        "avatar": "276995db02054aa1d0652fe072b63ae1",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "MisinformedDNA",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 62
+    }
+  },
+  {
+    "type": 0,
+    "content": "got stuck at 190 crop",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-03-11T00:46:46.387000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1348819406603685889",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "210861052072689664",
+      "username": ".zetaxwolf",
+      "avatar": "0cca2373eb0664fbc5e9ccf8f0df541b",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Yve",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 64
+  },
+  {
+    "type": 0,
+    "content": "farm",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-03-11T06:20:55.277000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1348903497742942229",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "1095825890560192633",
+      "username": "bushfarmer",
+      "avatar": "3a65d6c85205c17d3f8bf9beba148b14",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Thor",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 65
+  },
+  {
+    "type": 0,
+    "content": "<@325665012012285954> do you happen to have a sheet with the exp requirements per level of villagers in the hole?",
+    "mentions": [
+      {
+        "id": "325665012012285954",
+        "username": "trialpears",
+        "avatar": "1584139996b312dbe6e61361cd0a5938",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Trialpears",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-03-26T10:24:18.419000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1354400565743980614",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "411641045378531339",
+      "username": "harieiv",
+      "avatar": "e05f155ed3d0e6707289029298b644fb",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "guava",
+      "avatar_decoration_data": {
+        "asset": "a_22db6b911f5ad54f3939d665fe2a88cc",
+        "sku_id": "1420045363049398282",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1417311919399895081",
+          "asset": "nameplates/nameplate_bonanza/twilight_fuchsia/",
+          "label": "COLLECTIBLES_NAMEPLATE_BONANZA_TWILIGHT_FUCHSIA_NP_A11Y",
+          "palette": "bubble_gum"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "480052312375820291",
+        "identity_enabled": true,
+        "tag": "FISH",
+        "badge": "a1cc0d6062c9f09c29d3bccded1a8929"
+      },
+      "primary_guild": {
+        "identity_guild_id": "480052312375820291",
+        "identity_enabled": true,
+        "tag": "FISH",
+        "badge": "a1cc0d6062c9f09c29d3bccded1a8929"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 66
+  },
+  {
+    "type": 0,
+    "content": "found the sheet I was looking for at https://discord.com/channels/437797104786604034/898635756854206485/1354403364997169162",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-03-26T10:39:11.147000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1354404310116466778",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "411641045378531339",
+      "username": "harieiv",
+      "avatar": "e05f155ed3d0e6707289029298b644fb",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "guava",
+      "avatar_decoration_data": {
+        "asset": "a_22db6b911f5ad54f3939d665fe2a88cc",
+        "sku_id": "1420045363049398282",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1417311919399895081",
+          "asset": "nameplates/nameplate_bonanza/twilight_fuchsia/",
+          "label": "COLLECTIBLES_NAMEPLATE_BONANZA_TWILIGHT_FUCHSIA_NP_A11Y",
+          "palette": "bubble_gum"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "480052312375820291",
+        "identity_enabled": true,
+        "tag": "FISH",
+        "badge": "a1cc0d6062c9f09c29d3bccded1a8929"
+      },
+      "primary_guild": {
+        "identity_guild_id": "480052312375820291",
+        "identity_enabled": true,
+        "tag": "FISH",
+        "badge": "a1cc0d6062c9f09c29d3bccded1a8929"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 67,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "1114306970816630876",
+          "name": "Grumblo_Pray"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 19,
+    "content": "Technically I have one but that one is so much better",
+    "mentions": [
+      {
+        "id": "411641045378531339",
+        "username": "harieiv",
+        "avatar": "e05f155ed3d0e6707289029298b644fb",
+        "discriminator": "0",
+        "public_flags": 64,
+        "flags": 64,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "guava",
+        "avatar_decoration_data": {
+          "asset": "a_22db6b911f5ad54f3939d665fe2a88cc",
+          "sku_id": "1420045363049398282",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1417311919399895081",
+            "asset": "nameplates/nameplate_bonanza/twilight_fuchsia/",
+            "label": "COLLECTIBLES_NAMEPLATE_BONANZA_TWILIGHT_FUCHSIA_NP_A11Y",
+            "palette": "bubble_gum"
+          }
+        },
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "480052312375820291",
+          "identity_enabled": true,
+          "tag": "FISH",
+          "badge": "a1cc0d6062c9f09c29d3bccded1a8929"
+        },
+        "primary_guild": {
+          "identity_guild_id": "480052312375820291",
+          "identity_enabled": true,
+          "tag": "FISH",
+          "badge": "a1cc0d6062c9f09c29d3bccded1a8929"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-03-26T10:50:11.779000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1354407081008038050",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "325665012012285954",
+      "username": "trialpears",
+      "avatar": "1584139996b312dbe6e61361cd0a5938",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trialpears",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1303887857324265514",
+      "message_id": "1354404310116466778",
+      "guild_id": "437797104786604034"
+    },
+    "position": 68,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "859584397539278859",
+          "name": "GuyMontag"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "😏"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ],
+    "referenced_message": {
+      "type": 0,
+      "content": "found the sheet I was looking for at https://discord.com/channels/437797104786604034/898635756854206485/1354403364997169162",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-03-26T10:39:11.147000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1354404310116466778",
+      "channel_id": "1303887857324265514",
+      "author": {
+        "id": "411641045378531339",
+        "username": "harieiv",
+        "avatar": "e05f155ed3d0e6707289029298b644fb",
+        "discriminator": "0",
+        "public_flags": 64,
+        "flags": 64,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "guava",
+        "avatar_decoration_data": {
+          "asset": "a_22db6b911f5ad54f3939d665fe2a88cc",
+          "sku_id": "1420045363049398282",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1417311919399895081",
+            "asset": "nameplates/nameplate_bonanza/twilight_fuchsia/",
+            "label": "COLLECTIBLES_NAMEPLATE_BONANZA_TWILIGHT_FUCHSIA_NP_A11Y",
+            "palette": "bubble_gum"
+          }
+        },
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "480052312375820291",
+          "identity_enabled": true,
+          "tag": "FISH",
+          "badge": "a1cc0d6062c9f09c29d3bccded1a8929"
+        },
+        "primary_guild": {
+          "identity_guild_id": "480052312375820291",
+          "identity_enabled": true,
+          "tag": "FISH",
+          "badge": "a1cc0d6062c9f09c29d3bccded1a8929"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 67
+    }
+  },
+  {
+    "type": 0,
+    "content": "<@325665012012285954> If you are still updating stamp sheet, Gigafrog companion is missing.",
+    "mentions": [
+      {
+        "id": "325665012012285954",
+        "username": "trialpears",
+        "avatar": "1584139996b312dbe6e61361cd0a5938",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Trialpears",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-04-03T21:26:25.455000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1357466295934652658",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "636555493120278528",
+      "username": "misinformeddna",
+      "avatar": "276995db02054aa1d0652fe072b63ae1",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "MisinformedDNA",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 69
+  },
+  {
+    "type": 0,
+    "content": "Trial has quit",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-06-08T17:09:52.568000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1381319332616736981",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "185568053126365184",
+      "username": "ilovecunnilingus",
+      "avatar": "b00d4a9c17cbd126cdb35e6b5fc875dc",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "ILoveCunnilingus",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1495807265175900180",
+          "asset": "nameplates/pitter_patter/1495807265175900180/",
+          "label": "Drizzling rain pattering over a small pond",
+          "palette": "forest"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 70,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "😭"
+        },
+        "count": 9,
+        "count_details": {
+          "burst": 0,
+          "normal": 9
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "859584397539278859",
+          "name": "GuyMontag"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "Rip",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-06-21T10:21:18.002000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1385927553327300670",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "1384017345193836554",
+      "username": "kaftre",
+      "avatar": "8e93be50203ddbff28d1d2d3bb24a62e",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Kafvan",
+      "avatar_decoration_data": {
+        "asset": "a_d3e51a9751016df2778a47efbb8bb455",
+        "sku_id": "1493391761085567066",
+        "expires_at": 1782259200
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1382845914225442886",
+          "asset": "nameplates/nameplates_v3/bonsai/",
+          "label": "COLLECTIBLES_NAMEPLATES_VOL_3_BONSAI_A11Y",
+          "palette": "bubble_gum"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 71
+  },
+  {
+    "type": 0,
+    "content": "",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1385927619639378010",
+        "filename": "Screenshot_2025-06-21-17-20-27-27.jpg",
+        "size": 37080,
+        "url": "https://cdn.discordapp.com/attachments/1303887857324265514/1385927619639378010/Screenshot_2025-06-21-17-20-27-27.jpg?ex=6a0edcad&is=6a0d8b2d&hm=d927ca49971e4a8b35c1dc9f170dcb1c272328ef0bc3f0449bdb41484f683185&",
+        "proxy_url": "https://media.discordapp.net/attachments/1303887857324265514/1385927619639378010/Screenshot_2025-06-21-17-20-27-27.jpg?ex=6a0edcad&is=6a0d8b2d&hm=d927ca49971e4a8b35c1dc9f170dcb1c272328ef0bc3f0449bdb41484f683185&",
+        "width": 720,
+        "height": 1328,
+        "content_type": "image/jpeg",
+        "content_scan_version": 4,
+        "placeholder": "NPgRBAJ3CIgoiIRYaIirr64JCg==",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2025-06-21T10:21:33.895000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1385927619987378196",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "1384017345193836554",
+      "username": "kaftre",
+      "avatar": "8e93be50203ddbff28d1d2d3bb24a62e",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Kafvan",
+      "avatar_decoration_data": {
+        "asset": "a_d3e51a9751016df2778a47efbb8bb455",
+        "sku_id": "1493391761085567066",
+        "expires_at": 1782259200
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1382845914225442886",
+          "asset": "nameplates/nameplates_v3/bonsai/",
+          "label": "COLLECTIBLES_NAMEPLATES_VOL_3_BONSAI_A11Y",
+          "palette": "bubble_gum"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 72
+  },
+  {
+    "type": 0,
+    "content": "<:Grumblo_Pray:1114306970816630876>",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-06-21T10:21:39.075000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1385927641713868880",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "1384017345193836554",
+      "username": "kaftre",
+      "avatar": "8e93be50203ddbff28d1d2d3bb24a62e",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Kafvan",
+      "avatar_decoration_data": {
+        "asset": "a_d3e51a9751016df2778a47efbb8bb455",
+        "sku_id": "1493391761085567066",
+        "expires_at": 1782259200
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1382845914225442886",
+          "asset": "nameplates/nameplates_v3/bonsai/",
+          "label": "COLLECTIBLES_NAMEPLATES_VOL_3_BONSAI_A11Y",
+          "palette": "bubble_gum"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 73
+  },
+  {
+    "type": 19,
+    "content": "give the man a break damn it <:Grumblo_Pray:1114306970816630876>",
+    "mentions": [
+      {
+        "id": "636555493120278528",
+        "username": "misinformeddna",
+        "avatar": "276995db02054aa1d0652fe072b63ae1",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "MisinformedDNA",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-06-30T18:45:39.993000+00:00",
+    "edited_timestamp": "2025-06-30T18:45:55.883000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1389315972107731096",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "456226577798135808",
+      "username": "Deleted User",
+      "avatar": null,
+      "discriminator": "0000",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1303887857324265514",
+      "message_id": "1357466295934652658",
+      "guild_id": "437797104786604034"
+    },
+    "position": 74,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "1165309685658820619",
+          "name": "Classic",
+          "animated": true
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ],
+    "referenced_message": {
+      "type": 0,
+      "content": "<@325665012012285954> If you are still updating stamp sheet, Gigafrog companion is missing.",
+      "mentions": [
+        {
+          "id": "325665012012285954",
+          "username": "trialpears",
+          "avatar": "1584139996b312dbe6e61361cd0a5938",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Trialpears",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-04-03T21:26:25.455000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1357466295934652658",
+      "channel_id": "1303887857324265514",
+      "author": {
+        "id": "636555493120278528",
+        "username": "misinformeddna",
+        "avatar": "276995db02054aa1d0652fe072b63ae1",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "MisinformedDNA",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 69
+    }
+  },
+  {
+    "type": 19,
+    "content": "??? My reply was 2 months ago and was not even a request.",
+    "mentions": [
+      {
+        "id": "456226577798135808",
+        "username": "Deleted User",
+        "avatar": null,
+        "discriminator": "0000",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": null,
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-06-30T19:06:51.142000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1389321303692939314",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "636555493120278528",
+      "username": "misinformeddna",
+      "avatar": "276995db02054aa1d0652fe072b63ae1",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "MisinformedDNA",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1303887857324265514",
+      "message_id": "1389315972107731096",
+      "guild_id": "437797104786604034"
+    },
+    "position": 75,
+    "referenced_message": {
+      "type": 19,
+      "content": "give the man a break damn it <:Grumblo_Pray:1114306970816630876>",
+      "mentions": [
+        {
+          "id": "636555493120278528",
+          "username": "misinformeddna",
+          "avatar": "276995db02054aa1d0652fe072b63ae1",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "MisinformedDNA",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": {
+            "identity_guild_id": "437797104786604034",
+            "identity_enabled": true,
+            "tag": "idle",
+            "badge": "613dd0a2876f97a2422d121940ecc992"
+          },
+          "primary_guild": {
+            "identity_guild_id": "437797104786604034",
+            "identity_enabled": true,
+            "tag": "idle",
+            "badge": "613dd0a2876f97a2422d121940ecc992"
+          }
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-06-30T18:45:39.993000+00:00",
+      "edited_timestamp": "2025-06-30T18:45:55.883000+00:00",
+      "flags": 0,
+      "components": [],
+      "id": "1389315972107731096",
+      "channel_id": "1303887857324265514",
+      "author": {
+        "id": "456226577798135808",
+        "username": "Deleted User",
+        "avatar": null,
+        "discriminator": "0000",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": null,
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1303887857324265514",
+        "message_id": "1357466295934652658",
+        "guild_id": "437797104786604034"
+      },
+      "position": 74
+    }
+  },
+  {
+    "type": 19,
+    "content": "am jus saying let the man rest",
+    "mentions": [
+      {
+        "id": "636555493120278528",
+        "username": "misinformeddna",
+        "avatar": "276995db02054aa1d0652fe072b63ae1",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "MisinformedDNA",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-06-30T19:09:00.853000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1389321847740563457",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "456226577798135808",
+      "username": "Deleted User",
+      "avatar": null,
+      "discriminator": "0000",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1303887857324265514",
+      "message_id": "1389321303692939314",
+      "guild_id": "437797104786604034"
+    },
+    "position": 76,
+    "referenced_message": {
+      "type": 19,
+      "content": "??? My reply was 2 months ago and was not even a request.",
+      "mentions": [
+        {
+          "id": "456226577798135808",
+          "username": "Deleted User",
+          "avatar": null,
+          "discriminator": "0000",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": null,
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-06-30T19:06:51.142000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1389321303692939314",
+      "channel_id": "1303887857324265514",
+      "author": {
+        "id": "636555493120278528",
+        "username": "misinformeddna",
+        "avatar": "276995db02054aa1d0652fe072b63ae1",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "MisinformedDNA",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1303887857324265514",
+        "message_id": "1389315972107731096",
+        "guild_id": "437797104786604034"
+      },
+      "position": 75
+    }
+  },
+  {
+    "type": 0,
+    "content": "And I'm just saying I haven't messaged him in 2 months.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-06-30T19:17:30.047000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1389323983454732331",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "636555493120278528",
+      "username": "misinformeddna",
+      "avatar": "276995db02054aa1d0652fe072b63ae1",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "MisinformedDNA",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 77
+  },
+  {
+    "type": 0,
+    "content": "really appreciated my guy",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-07-01T08:34:52.439000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1389524648991133807",
+    "channel_id": "1303887857324265514",
+    "author": {
+      "id": "456226577798135808",
+      "username": "Deleted User",
+      "avatar": null,
+      "discriminator": "0000",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 79
+  }
+]

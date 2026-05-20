@@ -1,0 +1,304 @@
+[
+  {
+    "type": 0,
+    "content": "Snails odds until rank 25\nhttps://docs.google.com/spreadsheets/d/1Yz9rRDFCfBYn4UKOBs9fYBKBjaoapiS-e_HjLjSdDHE/edit?usp=sharing",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1106571204996911175",
+        "filename": "image.png",
+        "size": 33792,
+        "url": "https://cdn.discordapp.com/attachments/1106571204824928396/1106571204996911175/image.png?ex=6a0f063e&is=6a0db4be&hm=f303242ebc8ffec47ba1ec9f8d1aa51af361ce7e9dc34ac956032e34ca85edb7&",
+        "proxy_url": "https://media.discordapp.net/attachments/1106571204824928396/1106571204996911175/image.png?ex=6a0f063e&is=6a0db4be&hm=f303242ebc8ffec47ba1ec9f8d1aa51af361ce7e9dc34ac956032e34ca85edb7&",
+        "width": 399,
+        "height": 571,
+        "content_type": "image/png",
+        "content_scan_version": 4
+      }
+    ],
+    "embeds": [
+      {
+        "type": "link",
+        "url": "https://docs.google.com/spreadsheets/d/1Yz9rRDFCfBYn4UKOBs9fYBKBjaoapiS-e_HjLjSdDHE/edit?usp=sharing",
+        "title": "Snail",
+        "description": "Gaming\n\nGnakor#9980,For current lvl\nReduction bought,0,lvl,Chance to rank up,Reset chance on fail,Total reset chance,Encourage,Chance to rank up,Chance to reset,Total reset chance\nSnail lvl,5,0,100,00%,0,00%,0,00%,0,68,14%,13,36%,4,26%\n1,90,00%,4,97%,0,50%,1,70,76%,12,98%,3,79%\n2,83,53%,7,99%,1,3...",
+        "provider": {
+          "name": "Google Docs"
+        },
+        "thumbnail": {
+          "url": "https://lh3.googleusercontent.com/docs/ADP-6oE8VXMsUeJ4vbtAnBhFkLZ5oBqjYQ791_LIJx-e5wSS9dvA80wgPY0rsQk6YDYJv9oPla03B3jmkhnv9AeIwv6wP7DxzbCCwRjLfFj69he5=w1200-h630-p",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/5Hb8gcIRgRRjcc4Vqi4rs4NXg-8w0ooy0DayAM5-15g/https/lh3.googleusercontent.com/docs/ADP-6oE8VXMsUeJ4vbtAnBhFkLZ5oBqjYQ791_LIJx-e5wSS9dvA80wgPY0rsQk6YDYJv9oPla03B3jmkhnv9AeIwv6wP7DxzbCCwRjLfFj69he5%3Dw1200-h630-p",
+          "width": 1200,
+          "height": 630,
+          "flags": 0
+        },
+        "content_scan_version": 4
+      }
+    ],
+    "timestamp": "2023-05-12T13:18:54.329000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1106571204824928396",
+    "channel_id": "1106571204824928396",
+    "author": {
+      "id": "278832144728719360",
+      "username": "gnakor",
+      "avatar": "b4672079b683cc22742b84720067f2a4",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Gnakor",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 24,
+        "count_details": {
+          "burst": 0,
+          "normal": 24
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🐌"
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "My snail is only at 20,",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-11-20T14:30:24.635000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1176167669867745410",
+    "channel_id": "1106571204824928396",
+    "author": {
+      "id": "1115263430664933378",
+      "username": "chadbrad47",
+      "avatar": "0ba46df2f24365f0eb79208c682a401a",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "making new account",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 13
+  },
+  {
+    "type": 0,
+    "content": "Managed to hit 24, had a tin of mail when i checked,  got lucky, but i have a feeling the last step will put me back to 20",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-11-20T16:06:22.304000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1176191819281858661",
+    "channel_id": "1106571204824928396",
+    "author": {
+      "id": "1115263430664933378",
+      "username": "chadbrad47",
+      "avatar": "0ba46df2f24365f0eb79208c682a401a",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "making new account",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 14
+  },
+  {
+    "type": 0,
+    "content": "what or where can i find the reduction bought, my odds seem to be the same as reduction bought 0?\nNevermind realise it's the encouragement bought already for the rank",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-12-18T23:25:46.202000+00:00",
+    "edited_timestamp": "2023-12-18T23:27:09.473000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1186449257721512008",
+    "channel_id": "1106571204824928396",
+    "author": {
+      "id": "291510066056658956",
+      "username": "stefanthelion",
+      "avatar": null,
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Stefan",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 16
+  },
+  {
+    "type": 0,
+    "content": "was CRAZY i was at 23 and i just spamed my 6 mails and boom two level secured me to 25",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-06-27T05:33:43.428000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1388029509592420414",
+    "channel_id": "1106571204824928396",
+    "author": {
+      "id": "375342393110691840",
+      "username": "4cheekclaperz4",
+      "avatar": "8b17b7febc094836161f84e4a92c3227",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "4Cheekclapperz4",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 17,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "💀"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "Strat for up 45 pls ?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-03-14T03:23:32.492000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1482217593208307824",
+    "channel_id": "1106571204824928396",
+    "author": {
+      "id": "353553304804130817",
+      "username": "t.i.m.ial",
+      "avatar": "f0dbd102646e4ab91d0c860c9e5ed16a",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 18
+  }
+]

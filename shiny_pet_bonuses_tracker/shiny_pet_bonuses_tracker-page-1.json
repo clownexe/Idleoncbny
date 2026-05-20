@@ -1,0 +1,918 @@
+[
+  {
+    "type": 0,
+    "content": "A google spreadsheet for tracking your shiny pet bonuses and calculating time to level them up <:ye:816021854531616809> \nRequires raw JSON data (you can get it from Idleon Efficiency or Idleon Toolbox. There is an instruction how to do that in the sheet)\nhttps://docs.google.com/spreadsheets/d/1Q1Yo3xCw32A9aXulb31EH2inbDfuek5azhOjDaBmoP0/edit?usp=sharing",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1176478385254453258",
+        "filename": "01.png",
+        "size": 261888,
+        "url": "https://cdn.discordapp.com/attachments/1176478384688218234/1176478385254453258/01.png?ex=6a0ee6e0&is=6a0d9560&hm=748e3e879becc19de2aa98658ff1a892b0e5f716726d0df02aacf9fe3989a7e5&",
+        "proxy_url": "https://media.discordapp.net/attachments/1176478384688218234/1176478385254453258/01.png?ex=6a0ee6e0&is=6a0d9560&hm=748e3e879becc19de2aa98658ff1a892b0e5f716726d0df02aacf9fe3989a7e5&",
+        "width": 1754,
+        "height": 711,
+        "content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "YfgFC4QJKCV4jVuWP4ElBpg=",
+        "placeholder_version": 1
+      },
+      {
+        "id": "1176478385539661914",
+        "filename": "02.png",
+        "size": 105625,
+        "url": "https://cdn.discordapp.com/attachments/1176478384688218234/1176478385539661914/02.png?ex=6a0ee6e1&is=6a0d9561&hm=2c2bc1576afb46db47a04f8322b554a55b0e8e44590f406f90ff06faeb13dc4a&",
+        "proxy_url": "https://media.discordapp.net/attachments/1176478384688218234/1176478385539661914/02.png?ex=6a0ee6e1&is=6a0d9561&hm=2c2bc1576afb46db47a04f8322b554a55b0e8e44590f406f90ff06faeb13dc4a&",
+        "width": 1693,
+        "height": 634,
+        "content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "0xgCC4Qq9glpeGeH6jlwSQo=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [
+      {
+        "type": "link",
+        "url": "https://docs.google.com/spreadsheets/d/1Q1Yo3xCw32A9aXulb31EH2inbDfuek5azhOjDaBmoP0/edit?usp=sharing",
+        "title": "Shiny Pet Bonuses",
+        "description": "How To Use\n\nThis sheet helps to track all the the Shiny Pets bonuses and calculate the time needed to reach a certain shiny pet level\nTo be able to edit it press File => Make a copy\nBreeding: \"[[2,2,2,2,1,1,1,2,1,1,1,1,1,1,1,0,0,0,0,0],[17,17,18,16,1,0,0,0],[20,20,5,6,10,7,7,5,7,5,9,4,0],[810236....",
+        "provider": {
+          "name": "Google Docs"
+        },
+        "thumbnail": {
+          "url": "https://lh7-us.googleusercontent.com/docs/AHkbwyKlrzWZQFI13Z333XMeJxXompKxl4cUleiwtGa7BHe3UPT5TeZU0_AKwO1CDmkDvElHEG5BKpC5q8U9qDqHlPxpiAD00IxXNlDQMMo4Y5vSrOg=w1200-h630-p",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/OaL7IRceCgZEGaLz1t6bRj-CeN9os3jS6mMxxYUcesI/https/lh7-us.googleusercontent.com/docs/AHkbwyKlrzWZQFI13Z333XMeJxXompKxl4cUleiwtGa7BHe3UPT5TeZU0_AKwO1CDmkDvElHEG5BKpC5q8U9qDqHlPxpiAD00IxXNlDQMMo4Y5vSrOg%3Dw1200-h630-p",
+          "width": 1200,
+          "height": 630,
+          "flags": 0
+        },
+        "content_scan_version": 4
+      }
+    ],
+    "timestamp": "2023-11-21T11:05:04.821000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1176478384688218234",
+    "channel_id": "1176478384688218234",
+    "author": {
+      "id": "315192370100568076",
+      "username": "diamonddoge",
+      "avatar": "cfa0909da0507dd4cc14aeddd07e6d7e",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "DiamondDoge",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 30,
+        "count_details": {
+          "burst": 0,
+          "normal": 30
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "First <a:wink:802002512877846529>",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-11-21T13:19:54.778000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1176512316427206676",
+    "channel_id": "1176478384688218234",
+    "author": {
+      "id": "236928332430573569",
+      "username": "rashaken",
+      "avatar": "c589bd219a130db4bbcec6d12a4f6a9a",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Rashaken",
+      "avatar_decoration_data": {
+        "asset": "a_c7e1751e8122f1b475cb3006966fb28c",
+        "sku_id": "1154896005045694555",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "368953963267096586",
+        "identity_enabled": true,
+        "tag": "LE",
+        "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+      },
+      "primary_guild": {
+        "identity_guild_id": "368953963267096586",
+        "identity_enabled": true,
+        "tag": "LE",
+        "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "552927506957729802",
+          "name": "ablobwave",
+          "animated": true
+        },
+        "count": 9,
+        "count_details": {
+          "burst": 0,
+          "normal": 9
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "this is way better then the ms paint picture i have been editing to keep track",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-11-21T15:50:22.566000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1176550181714542802",
+    "channel_id": "1176478384688218234",
+    "author": {
+      "id": "348350122402381824",
+      "username": "leedeelee555",
+      "avatar": "2852b852c77ce05b1dd303b433333cda",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "leedeelee555",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 1,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "875738524396187668",
+          "name": "Gotchu"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "Toolbox don't have the same thing ?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-11-29T01:51:58.697000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1179238294920384512",
+    "channel_id": "1176478384688218234",
+    "author": {
+      "id": "315530541153648642",
+      "username": "trazcs",
+      "avatar": "6b9d5c195af1d116bd4eedc56358f603",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "TrazCS",
+      "avatar_decoration_data": {
+        "asset": "a_9532e6bc08133eb1401c654a4f1a800e",
+        "sku_id": "1332505467980873728",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1462116614131548265",
+          "asset": "nameplates/gothica/nevermore/",
+          "label": "COLLECTIBLES_GOTHICA_NEVERMORE_NP_A11Y",
+          "palette": "white"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "747807131536982068",
+        "identity_enabled": true,
+        "tag": "ORV",
+        "badge": "b6f6582eb0301ce069e00b2a99323975"
+      },
+      "primary_guild": {
+        "identity_guild_id": "747807131536982068",
+        "identity_enabled": true,
+        "tag": "ORV",
+        "badge": "b6f6582eb0301ce069e00b2a99323975"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 2
+  },
+  {
+    "type": 0,
+    "content": "<:happy:644766908218081300>  tremendous",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-11-29T03:58:27.126000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1179270123098476654",
+    "channel_id": "1176478384688218234",
+    "author": {
+      "id": "629468873594503179",
+      "username": "skordge",
+      "avatar": "0bd92918f42628316dd673081ef21c00",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "skordge",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 3
+  },
+  {
+    "type": 19,
+    "content": "Yes, of course Toolbox is awesome as it tracks shiny pets progress and shows time to rank up automatically <:happy:644766908218081300> So you might think this sheet is useless. However here pets are sorted by bonus which I like a bit more (you see a bonus and all the pets which provide it) and it allows some manual calculations (how much time it would take to level up a pet till certain level or how fast your pets will level up if you get more levels for +% faster shiny level up pets). Made this sheet for myself first but then thought it would be good to share it with the others in case some people like this sorting as well 😅 Was inspired by SolarFrost's Shiny Pets Effects picture btw <:hearto:899232846475063336>",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-11-30T00:10:33.911000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1179575161343717426",
+    "channel_id": "1176478384688218234",
+    "author": {
+      "id": "315192370100568076",
+      "username": "diamonddoge",
+      "avatar": "cfa0909da0507dd4cc14aeddd07e6d7e",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "DiamondDoge",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1176478384688218234",
+      "message_id": "1179238294920384512",
+      "guild_id": "437797104786604034"
+    },
+    "position": 4,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "812252292597547018",
+          "name": "Hearto"
+        },
+        "count": 6,
+        "count_details": {
+          "burst": 0,
+          "normal": 6
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ],
+    "referenced_message": {
+      "type": 0,
+      "content": "Toolbox don't have the same thing ?",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2023-11-29T01:51:58.697000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1179238294920384512",
+      "channel_id": "1176478384688218234",
+      "author": {
+        "id": "315530541153648642",
+        "username": "trazcs",
+        "avatar": "6b9d5c195af1d116bd4eedc56358f603",
+        "discriminator": "0",
+        "public_flags": 128,
+        "flags": 128,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "TrazCS",
+        "avatar_decoration_data": {
+          "asset": "a_9532e6bc08133eb1401c654a4f1a800e",
+          "sku_id": "1332505467980873728",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1462116614131548265",
+            "asset": "nameplates/gothica/nevermore/",
+            "label": "COLLECTIBLES_GOTHICA_NEVERMORE_NP_A11Y",
+            "palette": "white"
+          }
+        },
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "747807131536982068",
+          "identity_enabled": true,
+          "tag": "ORV",
+          "badge": "b6f6582eb0301ce069e00b2a99323975"
+        },
+        "primary_guild": {
+          "identity_guild_id": "747807131536982068",
+          "identity_enabled": true,
+          "tag": "ORV",
+          "badge": "b6f6582eb0301ce069e00b2a99323975"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 2
+    }
+  },
+  {
+    "type": 19,
+    "content": "This is not useless I just wanted to know",
+    "mentions": [
+      {
+        "id": "315192370100568076",
+        "username": "diamonddoge",
+        "avatar": "cfa0909da0507dd4cc14aeddd07e6d7e",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "DiamondDoge",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-11-30T23:53:59.381000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1179933377848152134",
+    "channel_id": "1176478384688218234",
+    "author": {
+      "id": "315530541153648642",
+      "username": "trazcs",
+      "avatar": "6b9d5c195af1d116bd4eedc56358f603",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "TrazCS",
+      "avatar_decoration_data": {
+        "asset": "a_9532e6bc08133eb1401c654a4f1a800e",
+        "sku_id": "1332505467980873728",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1462116614131548265",
+          "asset": "nameplates/gothica/nevermore/",
+          "label": "COLLECTIBLES_GOTHICA_NEVERMORE_NP_A11Y",
+          "palette": "white"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "747807131536982068",
+        "identity_enabled": true,
+        "tag": "ORV",
+        "badge": "b6f6582eb0301ce069e00b2a99323975"
+      },
+      "primary_guild": {
+        "identity_guild_id": "747807131536982068",
+        "identity_enabled": true,
+        "tag": "ORV",
+        "badge": "b6f6582eb0301ce069e00b2a99323975"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1176478384688218234",
+      "message_id": "1179575161343717426",
+      "guild_id": "437797104786604034"
+    },
+    "position": 5,
+    "referenced_message": {
+      "type": 19,
+      "content": "Yes, of course Toolbox is awesome as it tracks shiny pets progress and shows time to rank up automatically <:happy:644766908218081300> So you might think this sheet is useless. However here pets are sorted by bonus which I like a bit more (you see a bonus and all the pets which provide it) and it allows some manual calculations (how much time it would take to level up a pet till certain level or how fast your pets will level up if you get more levels for +% faster shiny level up pets). Made this sheet for myself first but then thought it would be good to share it with the others in case some people like this sorting as well 😅 Was inspired by SolarFrost's Shiny Pets Effects picture btw <:hearto:899232846475063336>",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2023-11-30T00:10:33.911000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1179575161343717426",
+      "channel_id": "1176478384688218234",
+      "author": {
+        "id": "315192370100568076",
+        "username": "diamonddoge",
+        "avatar": "cfa0909da0507dd4cc14aeddd07e6d7e",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "DiamondDoge",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1176478384688218234",
+        "message_id": "1179238294920384512",
+        "guild_id": "437797104786604034"
+      },
+      "position": 4
+    }
+  },
+  {
+    "type": 0,
+    "content": "Solarfrost is the best for sheet so it's good to be inspired by him",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-11-30T23:54:47.700000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1179933580512739378",
+    "channel_id": "1176478384688218234",
+    "author": {
+      "id": "315530541153648642",
+      "username": "trazcs",
+      "avatar": "6b9d5c195af1d116bd4eedc56358f603",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "TrazCS",
+      "avatar_decoration_data": {
+        "asset": "a_9532e6bc08133eb1401c654a4f1a800e",
+        "sku_id": "1332505467980873728",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1462116614131548265",
+          "asset": "nameplates/gothica/nevermore/",
+          "label": "COLLECTIBLES_GOTHICA_NEVERMORE_NP_A11Y",
+          "palette": "white"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "747807131536982068",
+        "identity_enabled": true,
+        "tag": "ORV",
+        "badge": "b6f6582eb0301ce069e00b2a99323975"
+      },
+      "primary_guild": {
+        "identity_guild_id": "747807131536982068",
+        "identity_enabled": true,
+        "tag": "ORV",
+        "badge": "b6f6582eb0301ce069e00b2a99323975"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 6,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "1042776503412330587",
+          "name": "pepehappy"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "spiceice",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-02-11T01:22:44.532000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1206047639473496064",
+    "channel_id": "1176478384688218234",
+    "author": {
+      "id": "1104156619903864843",
+      "username": "bennyboy77",
+      "avatar": "337af04ddabd78276d00b862d56ed530",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "bennyboy",
+      "avatar_decoration_data": {
+        "asset": "a_d3e51a9751016df2778a47efbb8bb455",
+        "sku_id": "1493391761085567066",
+        "expires_at": 1782259200
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 9
+  },
+  {
+    "type": 19,
+    "content": "You're a cool person and I appreciate your work.",
+    "mentions": [
+      {
+        "id": "315192370100568076",
+        "username": "diamonddoge",
+        "avatar": "cfa0909da0507dd4cc14aeddd07e6d7e",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "DiamondDoge",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-02-21T18:56:39.279000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1209936743881506937",
+    "channel_id": "1176478384688218234",
+    "author": {
+      "id": "108352632359239680",
+      "username": "kthonic",
+      "avatar": "1e27dd1b56e3912a25f1a90afe3285f7",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Kthonic",
+      "avatar_decoration_data": {
+        "asset": "a_c46ea0826e16fb1abf09ce0b56669d69",
+        "sku_id": "1481685548509954162",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "177388074999873536",
+        "identity_enabled": true,
+        "tag": "RCLU",
+        "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+      },
+      "primary_guild": {
+        "identity_guild_id": "177388074999873536",
+        "identity_enabled": true,
+        "tag": "RCLU",
+        "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1176478384688218234",
+      "message_id": "1179575161343717426",
+      "guild_id": "437797104786604034"
+    },
+    "position": 10,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "1070334068861976626",
+          "name": "grumblowo"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ],
+    "referenced_message": {
+      "type": 19,
+      "content": "Yes, of course Toolbox is awesome as it tracks shiny pets progress and shows time to rank up automatically <:happy:644766908218081300> So you might think this sheet is useless. However here pets are sorted by bonus which I like a bit more (you see a bonus and all the pets which provide it) and it allows some manual calculations (how much time it would take to level up a pet till certain level or how fast your pets will level up if you get more levels for +% faster shiny level up pets). Made this sheet for myself first but then thought it would be good to share it with the others in case some people like this sorting as well 😅 Was inspired by SolarFrost's Shiny Pets Effects picture btw <:hearto:899232846475063336>",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2023-11-30T00:10:33.911000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1179575161343717426",
+      "channel_id": "1176478384688218234",
+      "author": {
+        "id": "315192370100568076",
+        "username": "diamonddoge",
+        "avatar": "cfa0909da0507dd4cc14aeddd07e6d7e",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "DiamondDoge",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1176478384688218234",
+        "message_id": "1179238294920384512",
+        "guild_id": "437797104786604034"
+      },
+      "position": 4
+    }
+  },
+  {
+    "type": 0,
+    "content": "chemy",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-01-13T03:18:41.244000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1328201528745529467",
+    "channel_id": "1176478384688218234",
+    "author": {
+      "id": "539137150524981268",
+      "username": "johnsteedo",
+      "avatar": "859d21193939d618ab317831c96493ac",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "The Council",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 13
+  },
+  {
+    "type": 0,
+    "content": "d",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-06-11T06:15:28.659000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1382241811442958386",
+    "channel_id": "1176478384688218234",
+    "author": {
+      "id": "200447277905477632",
+      "username": "plaqueminier",
+      "avatar": "b4c42ba579fe29d92419f526ffe70477",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 16
+  },
+  {
+    "type": 0,
+    "content": "d",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-06-16T07:20:50.301000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1384070199329685624",
+    "channel_id": "1176478384688218234",
+    "author": {
+      "id": "120484316412248064",
+      "username": "klayvan",
+      "avatar": "603e2964f070bd213f311da7f5d39dc1",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Klayvan",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 17
+  }
+]

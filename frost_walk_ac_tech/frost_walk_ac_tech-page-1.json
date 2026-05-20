@@ -1,0 +1,1854 @@
+[
+  {
+    "type": 0,
+    "content": "Not really AC tech",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-08-02T12:16:55.028000+00:00",
+    "edited_timestamp": "2025-08-02T15:53:42.022000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1401176939678400622",
+    "channel_id": "1401110741154664499",
+    "author": {
+      "id": "773192392043790367",
+      "username": "mega_yairzzz",
+      "avatar": "4a99a3239e6149beeed7c6b945618708",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Mega",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "337985280969801728",
+        "identity_enabled": true,
+        "tag": "IL",
+        "badge": "ead40c6aa63f3427a25947f36b63bc0c"
+      },
+      "primary_guild": {
+        "identity_guild_id": "337985280969801728",
+        "identity_enabled": true,
+        "tag": "IL",
+        "badge": "ead40c6aa63f3427a25947f36b63bc0c"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 1
+  },
+  {
+    "type": 0,
+    "content": "It's more used to skip skilling wait time, especially fishing",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-08-02T12:17:16.791000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1401177030959038564",
+    "channel_id": "1401110741154664499",
+    "author": {
+      "id": "773192392043790367",
+      "username": "mega_yairzzz",
+      "avatar": "4a99a3239e6149beeed7c6b945618708",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Mega",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "337985280969801728",
+        "identity_enabled": true,
+        "tag": "IL",
+        "badge": "ead40c6aa63f3427a25947f36b63bc0c"
+      },
+      "primary_guild": {
+        "identity_guild_id": "337985280969801728",
+        "identity_enabled": true,
+        "tag": "IL",
+        "badge": "ead40c6aa63f3427a25947f36b63bc0c"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 2
+  },
+  {
+    "type": 0,
+    "content": "<@99742137230319616> is this post ok to share with public?",
+    "mentions": [
+      {
+        "id": "99742137230319616",
+        "username": "hotair",
+        "avatar": "a_cc08294b2a80e575d0b817495d7da200",
+        "discriminator": "0",
+        "public_flags": 256,
+        "flags": 256,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Hotair - 4 days",
+        "avatar_decoration_data": null,
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1377377712162738196",
+            "asset": "nameplates/nameplates_v2/sword_of_legend/",
+            "label": "COLLECTIBLES_NAMEPLATES_V2_SWORD_OF_LEGEND_A11Y",
+            "palette": "cobalt"
+          }
+        },
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-08-02T15:44:19.672000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1401229136298774721",
+    "channel_id": "1401110741154664499",
+    "author": {
+      "id": "352573702459752460",
+      "username": "abagaa",
+      "avatar": "c03d9bb684b35722afa3067f16ab835b",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "abaga",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 3
+  },
+  {
+    "type": 19,
+    "content": "iirc someone asked lava about this about fishing and he said its fine",
+    "mentions": [
+      {
+        "id": "352573702459752460",
+        "username": "abagaa",
+        "avatar": "c03d9bb684b35722afa3067f16ab835b",
+        "discriminator": "0",
+        "public_flags": 64,
+        "flags": 64,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "abaga",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-08-02T15:50:07.208000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1401230593970409482",
+    "channel_id": "1401110741154664499",
+    "author": {
+      "id": "773192392043790367",
+      "username": "mega_yairzzz",
+      "avatar": "4a99a3239e6149beeed7c6b945618708",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Mega",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "337985280969801728",
+        "identity_enabled": true,
+        "tag": "IL",
+        "badge": "ead40c6aa63f3427a25947f36b63bc0c"
+      },
+      "primary_guild": {
+        "identity_guild_id": "337985280969801728",
+        "identity_enabled": true,
+        "tag": "IL",
+        "badge": "ead40c6aa63f3427a25947f36b63bc0c"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1401110741154664499",
+      "message_id": "1401229136298774721",
+      "guild_id": "437797104786604034"
+    },
+    "position": 4,
+    "referenced_message": {
+      "type": 0,
+      "content": "<@99742137230319616> is this post ok to share with public?",
+      "mentions": [
+        {
+          "id": "99742137230319616",
+          "username": "hotair",
+          "avatar": "a_cc08294b2a80e575d0b817495d7da200",
+          "discriminator": "0",
+          "public_flags": 256,
+          "flags": 256,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Hotair - 4 days",
+          "avatar_decoration_data": null,
+          "collectibles": {
+            "nameplate": {
+              "sku_id": "1377377712162738196",
+              "asset": "nameplates/nameplates_v2/sword_of_legend/",
+              "label": "COLLECTIBLES_NAMEPLATES_V2_SWORD_OF_LEGEND_A11Y",
+              "palette": "cobalt"
+            }
+          },
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-08-02T15:44:19.672000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1401229136298774721",
+      "channel_id": "1401110741154664499",
+      "author": {
+        "id": "352573702459752460",
+        "username": "abagaa",
+        "avatar": "c03d9bb684b35722afa3067f16ab835b",
+        "discriminator": "0",
+        "public_flags": 64,
+        "flags": 64,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "abaga",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 3
+    }
+  },
+  {
+    "type": 0,
+    "content": "fishing not combat",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-08-02T15:50:23.336000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1401230661615882282",
+    "channel_id": "1401110741154664499",
+    "author": {
+      "id": "352573702459752460",
+      "username": "abagaa",
+      "avatar": "c03d9bb684b35722afa3067f16ab835b",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "abaga",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 5
+  },
+  {
+    "type": 0,
+    "content": "Skilling is in the patch notes",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-08-02T15:50:31.354000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1401230695246073877",
+    "channel_id": "1401110741154664499",
+    "author": {
+      "id": "99742137230319616",
+      "username": "hotair",
+      "avatar": "a_cc08294b2a80e575d0b817495d7da200",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Hotair - 4 days",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712162738196",
+          "asset": "nameplates/nameplates_v2/sword_of_legend/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SWORD_OF_LEGEND_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 6
+  },
+  {
+    "type": 0,
+    "content": "<:Grumblo:882122800620519475>",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-08-02T15:53:28.870000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1401231439802138717",
+    "channel_id": "1401110741154664499",
+    "author": {
+      "id": "773192392043790367",
+      "username": "mega_yairzzz",
+      "avatar": "4a99a3239e6149beeed7c6b945618708",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Mega",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "337985280969801728",
+        "identity_enabled": true,
+        "tag": "IL",
+        "badge": "ead40c6aa63f3427a25947f36b63bc0c"
+      },
+      "primary_guild": {
+        "identity_guild_id": "337985280969801728",
+        "identity_enabled": true,
+        "tag": "IL",
+        "badge": "ead40c6aa63f3427a25947f36b63bc0c"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 7
+  },
+  {
+    "type": 0,
+    "content": "I was already doing this a few days ago, but what I did was I double-tapped Auto. So, I pressed Auto (OFF) -> A or D key -> Auto (ON)",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-08-02T16:02:58.204000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1401233827761750026",
+    "channel_id": "1401110741154664499",
+    "author": {
+      "id": "374346435388506113",
+      "username": "wallygoozer",
+      "avatar": "59f38e005f3dfd0e542bcf72f643eaa9",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Wallygoozer",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 8
+  },
+  {
+    "type": 0,
+    "content": "That way, I don't have to babysit my attack bar.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-08-02T16:03:06.770000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1401233863690424452",
+    "channel_id": "1401110741154664499",
+    "author": {
+      "id": "374346435388506113",
+      "username": "wallygoozer",
+      "avatar": "59f38e005f3dfd0e542bcf72f643eaa9",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Wallygoozer",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 9
+  },
+  {
+    "type": 0,
+    "content": "i've asked about this very interaction on day one of ac but got no answer at all so i thought its more of an unintended \"not talk\" about it topic - since its good to use if ur very close to clear an area or push for the time skip",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-08-02T16:56:46.877000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1401247369797828658",
+    "channel_id": "1401110741154664499",
+    "author": {
+      "id": "160411284276379648",
+      "username": "slixx4269",
+      "avatar": "1bf7e9d3d033738204b7bcabef29a768",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Slixx",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 10
+  },
+  {
+    "type": 19,
+    "content": "Interesting! I’ll have to try this out.\n\nEdit: After trying out the Auto method, it does seem to work but nowhere near as well as full manual. Though still advantageous to anyone not wanting to deal with all the additional inputs.",
+    "mentions": [
+      {
+        "id": "374346435388506113",
+        "username": "wallygoozer",
+        "avatar": "59f38e005f3dfd0e542bcf72f643eaa9",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Wallygoozer",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-08-02T18:31:08.328000+00:00",
+    "edited_timestamp": "2025-08-02T18:45:59.175000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1401271115644403836",
+    "channel_id": "1401110741154664499",
+    "author": {
+      "id": "1371305791461789806",
+      "username": "fraustee",
+      "avatar": "3f832abf81625fdbfbad00305fc17cea",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Frostee",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1401110741154664499",
+      "message_id": "1401233827761750026",
+      "guild_id": "437797104786604034"
+    },
+    "position": 11,
+    "referenced_message": {
+      "type": 0,
+      "content": "I was already doing this a few days ago, but what I did was I double-tapped Auto. So, I pressed Auto (OFF) -> A or D key -> Auto (ON)",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-08-02T16:02:58.204000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1401233827761750026",
+      "channel_id": "1401110741154664499",
+      "author": {
+        "id": "374346435388506113",
+        "username": "wallygoozer",
+        "avatar": "59f38e005f3dfd0e542bcf72f643eaa9",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Wallygoozer",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 8
+    }
+  },
+  {
+    "type": 19,
+    "content": "Seeing that it’s not a bug or exploit and simply just game mechanic tech, I can’t imagine it’d be off limits.  Though, I’ll happily take down the post if I hear otherwise.",
+    "mentions": [
+      {
+        "id": "160411284276379648",
+        "username": "slixx4269",
+        "avatar": "1bf7e9d3d033738204b7bcabef29a768",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Slixx",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-08-02T18:33:08.016000+00:00",
+    "edited_timestamp": "2025-08-02T18:46:41.840000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1401271617652265161",
+    "channel_id": "1401110741154664499",
+    "author": {
+      "id": "1371305791461789806",
+      "username": "fraustee",
+      "avatar": "3f832abf81625fdbfbad00305fc17cea",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Frostee",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1401110741154664499",
+      "message_id": "1401247369797828658",
+      "guild_id": "437797104786604034"
+    },
+    "position": 12,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "🐳"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ],
+    "referenced_message": {
+      "type": 0,
+      "content": "i've asked about this very interaction on day one of ac but got no answer at all so i thought its more of an unintended \"not talk\" about it topic - since its good to use if ur very close to clear an area or push for the time skip",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-08-02T16:56:46.877000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1401247369797828658",
+      "channel_id": "1401110741154664499",
+      "author": {
+        "id": "160411284276379648",
+        "username": "slixx4269",
+        "avatar": "1bf7e9d3d033738204b7bcabef29a768",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Slixx",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 10
+    }
+  },
+  {
+    "type": 0,
+    "content": "I have enough attack speed that it auto attacks faster than I can do all those inputs lmao",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-13T13:29:04.121000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1416415387565817879",
+    "channel_id": "1401110741154664499",
+    "author": {
+      "id": "871106151952023612",
+      "username": "rsvdark",
+      "avatar": "12d9316295aba302f87eea49354fa677",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Rsvdark",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "301377942062366741",
+        "identity_enabled": true,
+        "tag": "toki",
+        "badge": "c1e4439afa95753a4bab531e3c4c42d1"
+      },
+      "primary_guild": {
+        "identity_guild_id": "301377942062366741",
+        "identity_enabled": true,
+        "tag": "toki",
+        "badge": "c1e4439afa95753a4bab531e3c4c42d1"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 13
+  },
+  {
+    "type": 0,
+    "content": "Naming something that lava showcased in a stream right after adding it... after yourself instead of calling it what it is, is cringe.\nIt's animation canceling.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-14T01:17:06.758000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1416593572660117515",
+    "channel_id": "1401110741154664499",
+    "author": {
+      "id": "172682214469795840",
+      "username": "hiryuukaen",
+      "avatar": "ae2d189fa234dbb97618eee7c8ef0a64",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Hiryuukaen",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 14,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 15,
+        "count_details": {
+          "burst": 0,
+          "normal": 15
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "446103753976971265",
+          "name": "Baggy"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "💩"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "852416161786101771",
+          "name": "ArrowDown"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 19,
+    "content": "Never seen said stream, Crazy how this world works. You can call it whatever you’d like, not everyone knows about it.\n\nOh also, if you read the first paragraph you can clearly see I said “Cancels the animation”.",
+    "mentions": [
+      {
+        "id": "172682214469795840",
+        "username": "hiryuukaen",
+        "avatar": "ae2d189fa234dbb97618eee7c8ef0a64",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Hiryuukaen",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-18T04:45:13.669000+00:00",
+    "edited_timestamp": "2025-09-18T04:46:52.601000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1418095498023407737",
+    "channel_id": "1401110741154664499",
+    "author": {
+      "id": "1371305791461789806",
+      "username": "fraustee",
+      "avatar": "3f832abf81625fdbfbad00305fc17cea",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Frostee",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1401110741154664499",
+      "message_id": "1416593572660117515",
+      "guild_id": "437797104786604034"
+    },
+    "position": 15,
+    "referenced_message": {
+      "type": 0,
+      "content": "Naming something that lava showcased in a stream right after adding it... after yourself instead of calling it what it is, is cringe.\nIt's animation canceling.",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-09-14T01:17:06.758000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1416593572660117515",
+      "channel_id": "1401110741154664499",
+      "author": {
+        "id": "172682214469795840",
+        "username": "hiryuukaen",
+        "avatar": "ae2d189fa234dbb97618eee7c8ef0a64",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Hiryuukaen",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 14
+    }
+  },
+  {
+    "type": 19,
+    "content": "The point was, bro you're cringe af for naming something after yourself.\nHas nothing to do with how you explained it and everything to do with what you titled the guide and introduced the \"tech\" as.",
+    "mentions": [
+      {
+        "id": "1371305791461789806",
+        "username": "fraustee",
+        "avatar": "3f832abf81625fdbfbad00305fc17cea",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Frostee",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-19T00:26:10.853000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1418392694593421423",
+    "channel_id": "1401110741154664499",
+    "author": {
+      "id": "172682214469795840",
+      "username": "hiryuukaen",
+      "avatar": "ae2d189fa234dbb97618eee7c8ef0a64",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Hiryuukaen",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1401110741154664499",
+      "message_id": "1418095498023407737",
+      "guild_id": "437797104786604034"
+    },
+    "position": 16,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "481713993623273481",
+          "name": "NO"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ],
+    "referenced_message": {
+      "type": 19,
+      "content": "Never seen said stream, Crazy how this world works. You can call it whatever you’d like, not everyone knows about it.\n\nOh also, if you read the first paragraph you can clearly see I said “Cancels the animation”.",
+      "mentions": [
+        {
+          "id": "172682214469795840",
+          "username": "hiryuukaen",
+          "avatar": "ae2d189fa234dbb97618eee7c8ef0a64",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Hiryuukaen",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-09-18T04:45:13.669000+00:00",
+      "edited_timestamp": "2025-09-18T04:46:52.601000+00:00",
+      "flags": 0,
+      "components": [],
+      "id": "1418095498023407737",
+      "channel_id": "1401110741154664499",
+      "author": {
+        "id": "1371305791461789806",
+        "username": "fraustee",
+        "avatar": "3f832abf81625fdbfbad00305fc17cea",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Frostee",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1401110741154664499",
+        "message_id": "1416593572660117515",
+        "guild_id": "437797104786604034"
+      },
+      "position": 15
+    }
+  },
+  {
+    "type": 0,
+    "content": "Damn, nice tech",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-20T01:22:58.911000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1418769376890458182",
+    "channel_id": "1401110741154664499",
+    "author": {
+      "id": "737713102727938139",
+      "username": "bigman8315",
+      "avatar": "79cc086800ee8acae7c2778dcb3234fb",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Big man",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "233370210617262080",
+        "identity_enabled": null,
+        "tag": null,
+        "badge": null
+      },
+      "primary_guild": {
+        "identity_guild_id": "233370210617262080",
+        "identity_enabled": null,
+        "tag": null,
+        "badge": null
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 17
+  },
+  {
+    "type": 0,
+    "content": "frostwalking (hit&run) 🤣\nand why \"ac tech\" if its pretty useful for another  events like  hits amount at fairy island?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-23T12:34:39.237000+00:00",
+    "edited_timestamp": "2025-09-23T12:37:45.766000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1420025572305928195",
+    "channel_id": "1401110741154664499",
+    "author": {
+      "id": "479874157547356164",
+      "username": "grimik0306",
+      "avatar": "986b2cbcaa48fe4f0d6fac962f06a762",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "grimik",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 18
+  },
+  {
+    "type": 0,
+    "content": "Yeah it's not really a tech that's specific to AC but rather a game tech that can be used for many things.\nThis thread just highlights *one way* to use it",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-25T18:59:36.531000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1420847225109479545",
+    "channel_id": "1401110741154664499",
+    "author": {
+      "id": "232217513302294528",
+      "username": "calsworth",
+      "avatar": "67d905cceb1b3aac12ff6bfc030213b3",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Calsworth",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1344363482983698593",
+        "identity_enabled": true,
+        "tag": "PSG",
+        "badge": "ec60c5e6d1f14d3bbff586e2e0b9e54e"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1344363482983698593",
+        "identity_enabled": true,
+        "tag": "PSG",
+        "badge": "ec60c5e6d1f14d3bbff586e2e0b9e54e"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 19,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "💯"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 19,
+    "content": "Absolutely! I wrote this guide to highlight the animation manipulation viability with AC and also to showcase this sort of tech for the people who haven’t encountered it before. It may not be for everyone, but certainly some.",
+    "mentions": [
+      {
+        "id": "232217513302294528",
+        "username": "calsworth",
+        "avatar": "67d905cceb1b3aac12ff6bfc030213b3",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Calsworth",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1344363482983698593",
+          "identity_enabled": true,
+          "tag": "PSG",
+          "badge": "ec60c5e6d1f14d3bbff586e2e0b9e54e"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1344363482983698593",
+          "identity_enabled": true,
+          "tag": "PSG",
+          "badge": "ec60c5e6d1f14d3bbff586e2e0b9e54e"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-10-04T00:52:49.023000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1423835215788511282",
+    "channel_id": "1401110741154664499",
+    "author": {
+      "id": "1371305791461789806",
+      "username": "fraustee",
+      "avatar": "3f832abf81625fdbfbad00305fc17cea",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Frostee",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1401110741154664499",
+      "message_id": "1420847225109479545",
+      "guild_id": "437797104786604034"
+    },
+    "position": 20,
+    "referenced_message": {
+      "type": 0,
+      "content": "Yeah it's not really a tech that's specific to AC but rather a game tech that can be used for many things.\nThis thread just highlights *one way* to use it",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-09-25T18:59:36.531000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1420847225109479545",
+      "channel_id": "1401110741154664499",
+      "author": {
+        "id": "232217513302294528",
+        "username": "calsworth",
+        "avatar": "67d905cceb1b3aac12ff6bfc030213b3",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Calsworth",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1344363482983698593",
+          "identity_enabled": true,
+          "tag": "PSG",
+          "badge": "ec60c5e6d1f14d3bbff586e2e0b9e54e"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1344363482983698593",
+          "identity_enabled": true,
+          "tag": "PSG",
+          "badge": "ec60c5e6d1f14d3bbff586e2e0b9e54e"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 19
+    }
+  },
+  {
+    "type": 19,
+    "content": "To answer your question - I never considered animation manip at the dummy before and your comment made me realize it. This guide is meant for the people unaware of this sort of tech, as well as to highlight its AC viability for those who do.\n\n“Frost Walking” was just all in good fun, which I figured people would realize considering the “creative” headers I included 😂",
+    "mentions": [
+      {
+        "id": "479874157547356164",
+        "username": "grimik0306",
+        "avatar": "986b2cbcaa48fe4f0d6fac962f06a762",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "grimik",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-10-04T00:55:48.600000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1423835968989040765",
+    "channel_id": "1401110741154664499",
+    "author": {
+      "id": "1371305791461789806",
+      "username": "fraustee",
+      "avatar": "3f832abf81625fdbfbad00305fc17cea",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Frostee",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1401110741154664499",
+      "message_id": "1420025572305928195",
+      "guild_id": "437797104786604034"
+    },
+    "position": 21,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "⬇️"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ],
+    "referenced_message": {
+      "type": 0,
+      "content": "frostwalking (hit&run) 🤣\nand why \"ac tech\" if its pretty useful for another  events like  hits amount at fairy island?",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-09-23T12:34:39.237000+00:00",
+      "edited_timestamp": "2025-09-23T12:37:45.766000+00:00",
+      "flags": 0,
+      "components": [],
+      "id": "1420025572305928195",
+      "channel_id": "1401110741154664499",
+      "author": {
+        "id": "479874157547356164",
+        "username": "grimik0306",
+        "avatar": "986b2cbcaa48fe4f0d6fac962f06a762",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "grimik",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 18
+    }
+  },
+  {
+    "type": 19,
+    "content": "Chuckle worthy comment if there ever was one! 🤣",
+    "mentions": [
+      {
+        "id": "737713102727938139",
+        "username": "bigman8315",
+        "avatar": "79cc086800ee8acae7c2778dcb3234fb",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Big man",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "233370210617262080",
+          "identity_enabled": null,
+          "tag": null,
+          "badge": null
+        },
+        "primary_guild": {
+          "identity_guild_id": "233370210617262080",
+          "identity_enabled": null,
+          "tag": null,
+          "badge": null
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-10-05T12:40:53.966000+00:00",
+    "edited_timestamp": "2025-10-05T12:40:59.730000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1424375798420471838",
+    "channel_id": "1401110741154664499",
+    "author": {
+      "id": "1371305791461789806",
+      "username": "fraustee",
+      "avatar": "3f832abf81625fdbfbad00305fc17cea",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Frostee",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1401110741154664499",
+      "message_id": "1418769376890458182",
+      "guild_id": "437797104786604034"
+    },
+    "position": 22,
+    "referenced_message": {
+      "type": 0,
+      "content": "Damn, nice tech",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-09-20T01:22:58.911000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1418769376890458182",
+      "channel_id": "1401110741154664499",
+      "author": {
+        "id": "737713102727938139",
+        "username": "bigman8315",
+        "avatar": "79cc086800ee8acae7c2778dcb3234fb",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Big man",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "233370210617262080",
+          "identity_enabled": null,
+          "tag": null,
+          "badge": null
+        },
+        "primary_guild": {
+          "identity_guild_id": "233370210617262080",
+          "identity_enabled": null,
+          "tag": null,
+          "badge": null
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 17
+    }
+  },
+  {
+    "type": 0,
+    "content": "To anyone reading this guide - If a bit of flavorful text enrages you to the point of feeling you have to comment - DO NOT. \nKeep it pushin and maybe  consider being a more proactive member of the community by writing your own guide in whatever way suits you.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-10-05T13:01:28.616000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1424380976917905579",
+    "channel_id": "1401110741154664499",
+    "author": {
+      "id": "1371305791461789806",
+      "username": "fraustee",
+      "avatar": "3f832abf81625fdbfbad00305fc17cea",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Frostee",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 23
+  }
+]

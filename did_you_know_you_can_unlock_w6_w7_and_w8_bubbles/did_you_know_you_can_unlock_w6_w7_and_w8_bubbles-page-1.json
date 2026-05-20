@@ -1,0 +1,1165 @@
+[
+  {
+    "type": 0,
+    "content": "Many thanks to <@832235678133125160> <@342085548728385546> <@596905749054095373>  for their unlock progression in helping compile the table!\n\nUpdated pic for quality!",
+    "mentions": [
+      {
+        "id": "832235678133125160",
+        "username": "deluuk1",
+        "avatar": "4bd0d4b058f3e5a877b584afda2f0dd2",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "deluuk1",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "516367331358801950",
+          "identity_enabled": true,
+          "tag": "D&D",
+          "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+        },
+        "primary_guild": {
+          "identity_guild_id": "516367331358801950",
+          "identity_enabled": true,
+          "tag": "D&D",
+          "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+        }
+      },
+      {
+        "id": "342085548728385546",
+        "username": "tryasyoumight",
+        "avatar": "fdaa0c14772976de57befae65eac73ae",
+        "discriminator": "0",
+        "public_flags": 64,
+        "flags": 64,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Ark",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      {
+        "id": "596905749054095373",
+        "username": "transgardevoir",
+        "avatar": "d9927bfe528da8ae8b4c9d08379eac49",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "TransGardevoir",
+        "avatar_decoration_data": {
+          "asset": "a_c3cffc19e9784f7d0b005eecdf1b566e",
+          "sku_id": "1212569433839636530",
+          "expires_at": null
+        },
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1138827421441851412",
+        "filename": "image.png",
+        "size": 66232,
+        "url": "https://cdn.discordapp.com/attachments/1138827420338757753/1138827421441851412/image.png?ex=6a0f09af&is=6a0db82f&hm=d4a6ff8249ddb0464bd4f28417790efa61bb7c7fb2d532cbfe6c6f0ddbe0ba40&",
+        "proxy_url": "https://media.discordapp.net/attachments/1138827420338757753/1138827421441851412/image.png?ex=6a0f09af&is=6a0db82f&hm=d4a6ff8249ddb0464bd4f28417790efa61bb7c7fb2d532cbfe6c6f0ddbe0ba40&",
+        "width": 470,
+        "height": 990,
+        "content_type": "image/png",
+        "content_scan_version": 4
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2023-08-09T13:33:35.399000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1138827420338757753",
+    "channel_id": "1138827420338757753",
+    "author": {
+      "id": "200047791354019840",
+      "username": "evan.0",
+      "avatar": "4fa5b57b11c7c065df95c9223f353ff5",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Evan",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 53,
+        "count_details": {
+          "burst": 0,
+          "normal": 53
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "If you just want the table image:",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1138842625328300104",
+        "filename": "image.png",
+        "size": 18570,
+        "url": "https://cdn.discordapp.com/attachments/1138827420338757753/1138842625328300104/image.png?ex=6a0f17d8&is=6a0dc658&hm=7bb81b8e9ffd97a0a72ec9b93d9fb08ac8ed46a6508511882894314c79e0f0de&",
+        "proxy_url": "https://media.discordapp.net/attachments/1138827420338757753/1138842625328300104/image.png?ex=6a0f17d8&is=6a0dc658&hm=7bb81b8e9ffd97a0a72ec9b93d9fb08ac8ed46a6508511882894314c79e0f0de&",
+        "width": 341,
+        "height": 502,
+        "content_type": "image/png",
+        "content_scan_version": 4
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2023-08-09T14:34:00.605000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1138842625554784478",
+    "channel_id": "1138827420338757753",
+    "author": {
+      "id": "200047791354019840",
+      "username": "evan.0",
+      "avatar": "4fa5b57b11c7c065df95c9223f353ff5",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Evan",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "❤️"
+        },
+        "count": 15,
+        "count_details": {
+          "burst": 0,
+          "normal": 15
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "802765215065702401",
+          "name": "IdleOn_Meel",
+          "animated": true
+        },
+        "count": 8,
+        "count_details": {
+          "burst": 0,
+          "normal": 8
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "😎"
+        },
+        "count": 6,
+        "count_details": {
+          "burst": 0,
+          "normal": 6
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "Is there a table like this for W1-5 bubbles?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-08-11T02:07:33.612000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1139379551022088192",
+    "channel_id": "1138827420338757753",
+    "author": {
+      "id": "388377808260562944",
+      "username": "mentallysighko",
+      "avatar": "cc029d1cd8bd5aabcc846aa5883b5838",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "MentallySighKO",
+      "avatar_decoration_data": {
+        "asset": "a_f997880d666be69b7782bb377617b4fd",
+        "sku_id": "1462116613632426014",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1462116614077022469",
+          "asset": "nameplates/gothica/dark_roses/",
+          "label": "COLLECTIBLES_GOTHICA_DARK_ROSES_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 1
+  },
+  {
+    "type": 19,
+    "content": "The point of the table is to know what bubble youre on since you cant see the actual bubbbles",
+    "mentions": [
+      {
+        "id": "388377808260562944",
+        "username": "mentallysighko",
+        "avatar": "cc029d1cd8bd5aabcc846aa5883b5838",
+        "discriminator": "0",
+        "public_flags": 64,
+        "flags": 64,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "MentallySighKO",
+        "avatar_decoration_data": {
+          "asset": "a_f997880d666be69b7782bb377617b4fd",
+          "sku_id": "1462116613632426014",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1462116614077022469",
+            "asset": "nameplates/gothica/dark_roses/",
+            "label": "COLLECTIBLES_GOTHICA_DARK_ROSES_NP_A11Y",
+            "palette": "cobalt"
+          }
+        },
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-08-11T06:52:10.556000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1139451176916635649",
+    "channel_id": "1138827420338757753",
+    "author": {
+      "id": "832235678133125160",
+      "username": "deluuk1",
+      "avatar": "4bd0d4b058f3e5a877b584afda2f0dd2",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "deluuk1",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "516367331358801950",
+        "identity_enabled": true,
+        "tag": "D&D",
+        "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+      },
+      "primary_guild": {
+        "identity_guild_id": "516367331358801950",
+        "identity_enabled": true,
+        "tag": "D&D",
+        "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1138827420338757753",
+      "message_id": "1139379551022088192",
+      "guild_id": "437797104786604034"
+    },
+    "position": 2,
+    "referenced_message": {
+      "type": 0,
+      "content": "Is there a table like this for W1-5 bubbles?",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2023-08-11T02:07:33.612000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1139379551022088192",
+      "channel_id": "1138827420338757753",
+      "author": {
+        "id": "388377808260562944",
+        "username": "mentallysighko",
+        "avatar": "cc029d1cd8bd5aabcc846aa5883b5838",
+        "discriminator": "0",
+        "public_flags": 64,
+        "flags": 64,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "MentallySighKO",
+        "avatar_decoration_data": {
+          "asset": "a_f997880d666be69b7782bb377617b4fd",
+          "sku_id": "1462116613632426014",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1462116614077022469",
+            "asset": "nameplates/gothica/dark_roses/",
+            "label": "COLLECTIBLES_GOTHICA_DARK_ROSES_NP_A11Y",
+            "palette": "cobalt"
+          }
+        },
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 1
+    }
+  },
+  {
+    "type": 0,
+    "content": "On w1-5 you dont have that issue",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-08-11T06:52:33.672000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1139451273872154688",
+    "channel_id": "1138827420338757753",
+    "author": {
+      "id": "832235678133125160",
+      "username": "deluuk1",
+      "avatar": "4bd0d4b058f3e5a877b584afda2f0dd2",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "deluuk1",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "516367331358801950",
+        "identity_enabled": true,
+        "tag": "D&D",
+        "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+      },
+      "primary_guild": {
+        "identity_guild_id": "516367331358801950",
+        "identity_enabled": true,
+        "tag": "D&D",
+        "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 3
+  },
+  {
+    "type": 0,
+    "content": "Well yeah, but I was curious if there was a table with the same information so my lower level guild members could see.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-08-11T11:33:50.740000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1139522061425975338",
+    "channel_id": "1138827420338757753",
+    "author": {
+      "id": "388377808260562944",
+      "username": "mentallysighko",
+      "avatar": "cc029d1cd8bd5aabcc846aa5883b5838",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "MentallySighKO",
+      "avatar_decoration_data": {
+        "asset": "a_f997880d666be69b7782bb377617b4fd",
+        "sku_id": "1462116613632426014",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1462116614077022469",
+          "asset": "nameplates/gothica/dark_roses/",
+          "label": "COLLECTIBLES_GOTHICA_DARK_ROSES_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 4
+  },
+  {
+    "type": 0,
+    "content": "Intresting ill save this 😄",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-08-12T12:55:53.461000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1139905096679948338",
+    "channel_id": "1138827420338757753",
+    "author": {
+      "id": "122042808466014208",
+      "username": "xerial",
+      "avatar": "b985661ebffb81d5eca6096e322af0c6",
+      "discriminator": "0",
+      "public_flags": 576,
+      "flags": 576,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Xerial",
+      "avatar_decoration_data": {
+        "asset": "a_d1e5d3aabccb3d38f21b5ac8a33fcf4d",
+        "sku_id": "1409978159255785652",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1409983105577783410",
+          "asset": "nameplates/special_events_2/nitro_rocketfuel_nameplate/",
+          "label": "COLLECTIBLES_SEPTEMBER_2025_MARKETING_NAMEPLATE_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 7,
+        "effect_id": 2,
+        "colors": [
+          14963742,
+          5316999
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "122064814515159040",
+        "identity_enabled": true,
+        "tag": "TACO",
+        "badge": "76e358d951d7bb7d73d4c80ea0b064a5"
+      },
+      "primary_guild": {
+        "identity_guild_id": "122064814515159040",
+        "identity_enabled": true,
+        "tag": "TACO",
+        "badge": "76e358d951d7bb7d73d4c80ea0b064a5"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 5
+  },
+  {
+    "type": 0,
+    "content": "This is a true",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-09-04T21:30:28.897000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1148369518553481237",
+    "channel_id": "1138827420338757753",
+    "author": {
+      "id": "914130909240897536",
+      "username": "link8284",
+      "avatar": "56ed66462440290bf19b2f5298144fbf",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 6
+  },
+  {
+    "type": 0,
+    "content": "I meant          moment",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-09-04T21:30:43.578000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1148369580130041918",
+    "channel_id": "1138827420338757753",
+    "author": {
+      "id": "914130909240897536",
+      "username": "link8284",
+      "avatar": "56ed66462440290bf19b2f5298144fbf",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 7
+  },
+  {
+    "type": 0,
+    "content": "Really cool I hope I had all w5 bubbles",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-11-27T20:55:04.844000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1178801190339870821",
+    "channel_id": "1138827420338757753",
+    "author": {
+      "id": "780782979911778314",
+      "username": "moikeromatsu",
+      "avatar": "dec28d50b531c4bf54936b41d7565400",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Moikeromatsu",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "143852930036924417",
+        "identity_enabled": true,
+        "tag": "WYNN",
+        "badge": "823b295651d111c27ccd2ea23bec6f4f"
+      },
+      "primary_guild": {
+        "identity_guild_id": "143852930036924417",
+        "identity_enabled": true,
+        "tag": "WYNN",
+        "badge": "823b295651d111c27ccd2ea23bec6f4f"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 13
+  },
+  {
+    "type": 0,
+    "content": "So I did unlock them! I spammed upgrade and i kept getting upgrade for the cauldron and I thought all it was doing was I creasing the cap. Cause I have all world 6 bubbles ready to go when they come out 😆",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-11-27T23:45:56.936000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1178844190730371203",
+    "channel_id": "1138827420338757753",
+    "author": {
+      "id": "383449786289750016",
+      "username": "tyrantyran",
+      "avatar": "403bb9dd19f1cd805d41a4185abfcc2e",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Tyran",
+      "avatar_decoration_data": {
+        "asset": "a_3513b3b45624e47a4855f6951eea484d",
+        "sku_id": "1366494385537028208",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1464017397081047081",
+          "asset": "nameplates/special_events/full_heart/",
+          "label": "COLLECTIBLES_VALENTINES_2026_GIFT_PROMOTION_FULL_HEART_A11Y",
+          "palette": "crimson"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 14
+  },
+  {
+    "type": 0,
+    "content": "wait can  i unlock w7 bubles lmao  ?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-02-06T20:03:08.492000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1204517657869815808",
+    "channel_id": "1138827420338757753",
+    "author": {
+      "id": "561306024963735553",
+      "username": "blasphemy0",
+      "avatar": null,
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Blasphemy",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 20,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "481714069930246147",
+          "name": "YES"
+        },
+        "count": 6,
+        "count_details": {
+          "burst": 0,
+          "normal": 6
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 19,
+    "content": "Yes",
+    "mentions": [
+      {
+        "id": "561306024963735553",
+        "username": "blasphemy0",
+        "avatar": null,
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Blasphemy",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-02-12T23:01:56.922000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1206736983360282664",
+    "channel_id": "1138827420338757753",
+    "author": {
+      "id": "383449786289750016",
+      "username": "tyrantyran",
+      "avatar": "403bb9dd19f1cd805d41a4185abfcc2e",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Tyran",
+      "avatar_decoration_data": {
+        "asset": "a_3513b3b45624e47a4855f6951eea484d",
+        "sku_id": "1366494385537028208",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1464017397081047081",
+          "asset": "nameplates/special_events/full_heart/",
+          "label": "COLLECTIBLES_VALENTINES_2026_GIFT_PROMOTION_FULL_HEART_A11Y",
+          "palette": "crimson"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1138827420338757753",
+      "message_id": "1204517657869815808",
+      "guild_id": "437797104786604034"
+    },
+    "position": 21,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ],
+    "referenced_message": {
+      "type": 0,
+      "content": "wait can  i unlock w7 bubles lmao  ?",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2024-02-06T20:03:08.492000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1204517657869815808",
+      "channel_id": "1138827420338757753",
+      "author": {
+        "id": "561306024963735553",
+        "username": "blasphemy0",
+        "avatar": null,
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Blasphemy",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 20
+    }
+  },
+  {
+    "type": 0,
+    "content": "you can also get more than just the w8 bubbles, 1860m is 1st w9 bubble... it aint worth doing tho as only 8 worlds will be added according to lava",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1207130621927755806",
+        "filename": "image.png",
+        "size": 9995,
+        "url": "https://cdn.discordapp.com/attachments/1138827420338757753/1207130621927755806/image.png?ex=6a0f033f&is=6a0db1bf&hm=5e025d41650ebf842e55a499c79955a1a5cd0df49034824c4f9b0acbccce3045&",
+        "proxy_url": "https://media.discordapp.net/attachments/1138827420338757753/1207130621927755806/image.png?ex=6a0f033f&is=6a0db1bf&hm=5e025d41650ebf842e55a499c79955a1a5cd0df49034824c4f9b0acbccce3045&",
+        "width": 342,
+        "height": 211,
+        "content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "XAgGFIDzp5vYc1hreEVon4j1mA==",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2024-02-14T01:06:07.723000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1207130622150049843",
+    "channel_id": "1138827420338757753",
+    "author": {
+      "id": "596905749054095373",
+      "username": "transgardevoir",
+      "avatar": "d9927bfe528da8ae8b4c9d08379eac49",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "TransGardevoir",
+      "avatar_decoration_data": {
+        "asset": "a_c3cffc19e9784f7d0b005eecdf1b566e",
+        "sku_id": "1212569433839636530",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 22
+  },
+  {
+    "type": 0,
+    "content": "W9 will be secret",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-02-14T11:04:32.021000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1207281215690899457",
+    "channel_id": "1138827420338757753",
+    "author": {
+      "id": "176006907297923073",
+      "username": "jyria",
+      "avatar": "1e110662518bb30f3c75e7fe705456c8",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Jyria",
+      "avatar_decoration_data": {
+        "asset": "a_40222dd9e7bb6e2949cd8f4bd857fe8b",
+        "sku_id": "1384247972107386911",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 2,
+        "colors": [
+          14966527,
+          2522592
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "215946029277642752",
+        "identity_enabled": true,
+        "tag": "ASC",
+        "badge": "3d5bb39b0f160fcc9cd4bc5940904a00"
+      },
+      "primary_guild": {
+        "identity_guild_id": "215946029277642752",
+        "identity_enabled": true,
+        "tag": "ASC",
+        "badge": "3d5bb39b0f160fcc9cd4bc5940904a00"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 23
+  },
+  {
+    "type": 0,
+    "content": "W9 is just Idleon 2 W1",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-02-14T11:04:48.237000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1207281283705610280",
+    "channel_id": "1138827420338757753",
+    "author": {
+      "id": "176006907297923073",
+      "username": "jyria",
+      "avatar": "1e110662518bb30f3c75e7fe705456c8",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Jyria",
+      "avatar_decoration_data": {
+        "asset": "a_40222dd9e7bb6e2949cd8f4bd857fe8b",
+        "sku_id": "1384247972107386911",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 2,
+        "colors": [
+          14966527,
+          2522592
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "215946029277642752",
+        "identity_enabled": true,
+        "tag": "ASC",
+        "badge": "3d5bb39b0f160fcc9cd4bc5940904a00"
+      },
+      "primary_guild": {
+        "identity_guild_id": "215946029277642752",
+        "identity_enabled": true,
+        "tag": "ASC",
+        "badge": "3d5bb39b0f160fcc9cd4bc5940904a00"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 24
+  }
+]

@@ -1,0 +1,824 @@
+[
+  {
+    "type": 0,
+    "content": "Farming Efaunt is a bit tedious so this is just a way to farm him in the most efficient way possible. \n\nOn the platform of his middle right arm, by throwing a Boomerang when the character sets foot anywhere within this dark spot and before it does a basic attack, we can break all 6 arms and have the shockwave from the basic attack be inside Efaunt head's hitbox. Now since the shockwave has a ~80% chance to proc, you may need to use shockwave slash or/and statue in case it fails.\n\n(The minimum required max talent of Mega Mongorang is lvl ~320)",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1429160090996445235",
+        "filename": "Farming_Efaunt.gif",
+        "size": 7885169,
+        "url": "https://cdn.discordapp.com/attachments/1429160090568753302/1429160090996445235/Farming_Efaunt.gif?ex=6a0f418e&is=6a0df00e&hm=fb7b3ea1bb6ef0211c30880eb20190d1323349db98d7ae0394a5ff0689fada98&",
+        "proxy_url": "https://media.discordapp.net/attachments/1429160090568753302/1429160090996445235/Farming_Efaunt.gif?ex=6a0f418e&is=6a0df00e&hm=fb7b3ea1bb6ef0211c30880eb20190d1323349db98d7ae0394a5ff0689fada98&",
+        "width": 426,
+        "height": 240,
+        "content_type": "image/gif",
+        "original_content_type": "image/gif",
+        "flags": 32,
+        "content_scan_version": 4,
+        "placeholder": "AvgBBICxsNaJh4d4h3ewiLdgdw==",
+        "placeholder_version": 1,
+        "title": "Farming Efaunt"
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2025-10-18T17:31:58.102000+00:00",
+    "edited_timestamp": "2025-10-23T14:24:24.861000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1429160090568753302",
+    "channel_id": "1429160090568753302",
+    "author": {
+      "id": "878005890182156379",
+      "username": "bakanobu9979",
+      "avatar": "776caa9a984f2a8afab105aa4dbe8651",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "BakaNobu",
+      "avatar_decoration_data": {
+        "asset": "a_17e170cd07a325877152cc0ae31c3219",
+        "sku_id": "1432550258256121966",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1432550258357043320",
+          "asset": "nameplates/cosmos/cosmic_twilight_flow_amethyst/",
+          "label": "COLLECTIBLES_COSMOS_COSMIC_TWILIGHT_FLOW_AMETHYST_NP_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "💖"
+        },
+        "count": 20,
+        "count_details": {
+          "burst": 0,
+          "normal": 20
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1429160126090182848",
+        "filename": "Screenshot_55.png",
+        "size": 3062,
+        "url": "https://cdn.discordapp.com/attachments/1429160090568753302/1429160126090182848/Screenshot_55.png?ex=6a0f4196&is=6a0df016&hm=c7fad9e23f6d893605461ca760ed980adec92aaa71267e7310f7f0983b571b5a&",
+        "proxy_url": "https://media.discordapp.net/attachments/1429160090568753302/1429160126090182848/Screenshot_55.png?ex=6a0f4196&is=6a0df016&hm=c7fad9e23f6d893605461ca760ed980adec92aaa71267e7310f7f0983b571b5a&",
+        "width": 246,
+        "height": 76,
+        "content_type": "image/webp",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "zzgOKoRnaHd5iAeHaHigZQY=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2025-10-18T17:32:06.591000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1429160126174072898",
+    "channel_id": "1429160090568753302",
+    "author": {
+      "id": "878005890182156379",
+      "username": "bakanobu9979",
+      "avatar": "776caa9a984f2a8afab105aa4dbe8651",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "BakaNobu",
+      "avatar_decoration_data": {
+        "asset": "a_17e170cd07a325877152cc0ae31c3219",
+        "sku_id": "1432550258256121966",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1432550258357043320",
+          "asset": "nameplates/cosmos/cosmic_twilight_flow_amethyst/",
+          "label": "COLLECTIBLES_COSMOS_COSMIC_TWILIGHT_FLOW_AMETHYST_NP_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0
+  },
+  {
+    "type": 0,
+    "content": "quite useful",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-10-18T19:31:15.959000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1429190112796741864",
+    "channel_id": "1429160090568753302",
+    "author": {
+      "id": "781645214317412374",
+      "username": "2headphones",
+      "avatar": "7dcc3ae8e5573af9204159b2b0ca6879",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "2headphones",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 1,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "859584397539278859",
+          "name": "GuyMontag"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "wow that was really cool <:grumblo_thumbsup:1101692875248521366>",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-10-18T19:32:58.500000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1429190542885130400",
+    "channel_id": "1429160090568753302",
+    "author": {
+      "id": "739898727526957067",
+      "username": ".afatsom",
+      "avatar": "2bf316de86625b50587feadfe1e2261d",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Afatsom",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 3,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "1414337673178648596",
+          "name": "Grumbloplz"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-10-18T19:33:55.337000+00:00",
+    "edited_timestamp": null,
+    "flags": 16384,
+    "components": [],
+    "id": "1429190781276524615",
+    "channel_id": "1429160090568753302",
+    "author": {
+      "id": "185568053126365184",
+      "username": "ilovecunnilingus",
+      "avatar": "b00d4a9c17cbd126cdb35e6b5fc875dc",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "ILoveCunnilingus",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1495807265175900180",
+          "asset": "nameplates/pitter_patter/1495807265175900180/",
+          "label": "Drizzling rain pattering over a small pond",
+          "palette": "forest"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 1,
+      "channel_id": "738868424813445172",
+      "message_id": "1289778712698683412",
+      "guild_id": "437797104786604034"
+    },
+    "position": 4,
+    "message_snapshots": [
+      {
+        "message": {
+          "type": 0,
+          "content": "Efaunt <a:HES_pepelaugh:1244743749658214430>",
+          "mentions": [],
+          "mention_roles": [],
+          "attachments": [
+            {
+              "id": "1429190780786053130",
+              "filename": "Whale_Strat.gif",
+              "size": 1015777,
+              "url": "https://cdn.discordapp.com/attachments/1429160090568753302/1429190780786053130/Whale_Strat.gif?ex=6a0f5e23&is=6a0e0ca3&hm=2458ae897ea9e54dbd86cce1a2039e1933a64aca0f714b51a067a3a8ee14e807&",
+              "proxy_url": "https://media.discordapp.net/attachments/1429160090568753302/1429190780786053130/Whale_Strat.gif?ex=6a0f5e23&is=6a0e0ca3&hm=2458ae897ea9e54dbd86cce1a2039e1933a64aca0f714b51a067a3a8ee14e807&",
+              "width": 579,
+              "height": 281,
+              "content_type": "image/gif",
+              "content_scan_version": 4,
+              "placeholder": "DQgGC4IX+CWIeGaYdnCABgg=",
+              "placeholder_version": 1,
+              "title": "Whale Strat"
+            }
+          ],
+          "embeds": [],
+          "timestamp": "2024-09-29T02:40:08.037000+00:00",
+          "edited_timestamp": null,
+          "flags": 0,
+          "components": []
+        }
+      }
+    ],
+    "reactions": [
+      {
+        "emoji": {
+          "id": "1102342435637559377",
+          "name": "Grumblo_xplode"
+        },
+        "count": 15,
+        "count_details": {
+          "burst": 0,
+          "normal": 15
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "whats the weapon?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-10-18T20:18:42.112000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1429202050427916392",
+    "channel_id": "1429160090568753302",
+    "author": {
+      "id": "1427000967798456468",
+      "username": "asterisk.onthekeyboard",
+      "avatar": "8d2840a79c83afdff48ca5e75ee6f15e",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "<-| Asterisk |->",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 5
+  },
+  {
+    "type": 0,
+    "content": "guide good <:grumblo_thumbsup:1101692875248521366>",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-10-18T21:28:39.697000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1429219656375337112",
+    "channel_id": "1429160090568753302",
+    "author": {
+      "id": "1188265128869765222",
+      "username": "collin0085",
+      "avatar": "d50a47eab295206fcad4d8e0ec286fbd",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Collin",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 6
+  },
+  {
+    "type": 0,
+    "content": "how to do fast with ac",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-10-20T14:08:59.849000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1429833787004420187",
+    "channel_id": "1429160090568753302",
+    "author": {
+      "id": "1362095298935001118",
+      "username": ".sclythe",
+      "avatar": "17794d52c1b47d634237e0b2275dbc06",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "˚ʚ Ashy ɞ˚",
+      "avatar_decoration_data": {
+        "asset": "a_57807030ab60f7ac0c4a1998aa091bbf",
+        "sku_id": "1436367668897775757",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1436367669031993384",
+          "asset": "nameplates/straw/fluttering_static/",
+          "label": "COLLECTIBLES_STRAW_FLUTTERING_STATIC_NP_A11Y",
+          "palette": "crimson"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 4,
+        "colors": [
+          14287177
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1369716002085928983",
+        "identity_enabled": true,
+        "tag": "ԝlԝ",
+        "badge": "e701df75ce906698f0d02ce19bf7c8c6"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1369716002085928983",
+        "identity_enabled": true,
+        "tag": "ԝlԝ",
+        "badge": "e701df75ce906698f0d02ce19bf7c8c6"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 7,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "1114615474299343001",
+          "name": "grumblo_preg2"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "cry about it <:Grumblo_Pray:1114306970816630876>",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-10-20T14:37:32.034000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1429840968428818452",
+    "channel_id": "1429160090568753302",
+    "author": {
+      "id": "878005890182156379",
+      "username": "bakanobu9979",
+      "avatar": "776caa9a984f2a8afab105aa4dbe8651",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "BakaNobu",
+      "avatar_decoration_data": {
+        "asset": "a_17e170cd07a325877152cc0ae31c3219",
+        "sku_id": "1432550258256121966",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1432550258357043320",
+          "asset": "nameplates/cosmos/cosmic_twilight_flow_amethyst/",
+          "label": "COLLECTIBLES_COSMOS_COSMIC_TWILIGHT_FLOW_AMETHYST_NP_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 8,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "🔥"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "i just do es and the ricochet one",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-10-20T18:28:52.047000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1429899185422864497",
+    "channel_id": "1429160090568753302",
+    "author": {
+      "id": "1425489438355488890",
+      "username": "kingofcats0411_73470",
+      "avatar": "5a63edd0f9b4fb45159de0378bd7de6f",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "king of cats",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 9
+  },
+  {
+    "type": 19,
+    "content": "You can just farm with void radius lol",
+    "mentions": [
+      {
+        "id": "781645214317412374",
+        "username": "2headphones",
+        "avatar": "7dcc3ae8e5573af9204159b2b0ca6879",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "2headphones",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-10-20T21:19:21.757000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1429942091936436255",
+    "channel_id": "1429160090568753302",
+    "author": {
+      "id": "682382958702755894",
+      "username": "rediceberg",
+      "avatar": "ab63f3db491eaae119950c12dcaf66e2",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Awes",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1429160090568753302",
+      "message_id": "1429190112796741864",
+      "guild_id": "437797104786604034"
+    },
+    "position": 10,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ],
+    "referenced_message": {
+      "type": 0,
+      "content": "quite useful",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-10-18T19:31:15.959000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1429190112796741864",
+      "channel_id": "1429160090568753302",
+      "author": {
+        "id": "781645214317412374",
+        "username": "2headphones",
+        "avatar": "7dcc3ae8e5573af9204159b2b0ca6879",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "2headphones",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 1
+    }
+  }
+]

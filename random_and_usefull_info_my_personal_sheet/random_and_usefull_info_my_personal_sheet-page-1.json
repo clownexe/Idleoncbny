@@ -1,0 +1,547 @@
+[
+  {
+    "type": 0,
+    "content": "I am sharing my IdleonSheet, it contains some info about the game. I waste too much time looking for stuff so i decided to have it all in a google doc. This was meant for me, but i am sharing because it might help other people too. It's not made to be perfect and 100% accurate. \n\nhttps://docs.google.com/spreadsheets/d/1MSV5QMcu7qWSnQQgEgm0vKcKcS9lsn6ASixKcesyKAw/edit?usp=sharing",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "link",
+        "url": "https://docs.google.com/spreadsheets/d/1MSV5QMcu7qWSnQQgEgm0vKcKcS9lsn6ASixKcesyKAw/edit?usp=sharing",
+        "title": "Archaner's Legends of IdleOn Stuff",
+        "provider": {
+          "name": "Google Docs"
+        },
+        "thumbnail": {
+          "url": "https://lh7-us.googleusercontent.com/docs/AHkbwyLdwSphsCklCiqnda5T2gCTl3cYNyqCTrysKszEmdHdPhcKvAe4BWj3JCqBtfvUpfYSWjU5AaLMNQokb7xbHXOkbRdM1KZykkvr3GB3Dnplm-Ee4Fl4=w1200-h630-p",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/566ejBOxag4V8urzswirFPR1oXPZh0Q7WYYFl04gd7s/https/lh7-us.googleusercontent.com/docs/AHkbwyLdwSphsCklCiqnda5T2gCTl3cYNyqCTrysKszEmdHdPhcKvAe4BWj3JCqBtfvUpfYSWjU5AaLMNQokb7xbHXOkbRdM1KZykkvr3GB3Dnplm-Ee4Fl4%3Dw1200-h630-p",
+          "width": 1200,
+          "height": 630,
+          "flags": 0
+        },
+        "content_scan_version": 4
+      }
+    ],
+    "timestamp": "2025-12-28T12:03:34.008000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1454806984065945681",
+    "channel_id": "1454806984065945681",
+    "author": {
+      "id": "332942869083979776",
+      "username": "equinox6656",
+      "avatar": "91745034bb44332066fbfe901cf66fac",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "FabioKastro",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 11,
+        "count_details": {
+          "burst": 0,
+          "normal": 11
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🗿"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "481714069930246147",
+          "name": "YES"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1114306970816630876",
+          "name": "Grumblo_Pray"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "❤️"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇹"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇭"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇽"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "What's the last thingy for spelunking mean? I was thinking it was the last of each thing rather than the same each time.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-28T16:08:49.590000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1454868705690517646",
+    "channel_id": "1454806984065945681",
+    "author": {
+      "id": "253003992924160000",
+      "username": "here4thebeer11",
+      "avatar": "54974fcb0c71b95ccbb44fb3fb2cb3db",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Here4TheBeer",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0
+  },
+  {
+    "type": 0,
+    "content": "And thank you!",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-28T16:08:54.248000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1454868725227454604",
+    "channel_id": "1454806984065945681",
+    "author": {
+      "id": "253003992924160000",
+      "username": "here4thebeer11",
+      "avatar": "54974fcb0c71b95ccbb44fb3fb2cb3db",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Here4TheBeer",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 1
+  },
+  {
+    "type": 0,
+    "content": "PebbleCove for example, this is the last object type, and this is what you farm for Grand Discoveries",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-28T16:12:44.493000+00:00",
+    "edited_timestamp": "2025-12-28T16:13:03.726000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1454869690945114174",
+    "channel_id": "1454806984065945681",
+    "author": {
+      "id": "332942869083979776",
+      "username": "equinox6656",
+      "avatar": "91745034bb44332066fbfe901cf66fac",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "FabioKastro",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 3
+  },
+  {
+    "type": 0,
+    "content": "",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1454869701007114366",
+        "filename": "image.png",
+        "size": 31704,
+        "url": "https://cdn.discordapp.com/attachments/1454806984065945681/1454869701007114366/image.png?ex=6a0f2efe&is=6a0ddd7e&hm=8da3085c91d431b44196454db015f912057038301ac00e8386a1afb8130b1f92&",
+        "proxy_url": "https://media.discordapp.net/attachments/1454806984065945681/1454869701007114366/image.png?ex=6a0f2efe&is=6a0ddd7e&hm=8da3085c91d431b44196454db015f912057038301ac00e8386a1afb8130b1f92&",
+        "width": 868,
+        "height": 440,
+        "content_type": "image/png",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "jAcGBICMeWd3d3iFeIDJZf9ZIw==",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2025-12-28T16:12:46.991000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1454869701422354443",
+    "channel_id": "1454806984065945681",
+    "author": {
+      "id": "332942869083979776",
+      "username": "equinox6656",
+      "avatar": "91745034bb44332066fbfe901cf66fac",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "FabioKastro",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 4
+  },
+  {
+    "type": 0,
+    "content": "Grand Discoveries do not come from the last object at each depth, unless you get really lucky and it's the last object type of the tunnel",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-28T16:16:35.694000+00:00",
+    "edited_timestamp": "2025-12-28T16:17:11.844000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1454870660672262246",
+    "channel_id": "1454806984065945681",
+    "author": {
+      "id": "332942869083979776",
+      "username": "equinox6656",
+      "avatar": "91745034bb44332066fbfe901cf66fac",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "FabioKastro",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 5
+  },
+  {
+    "type": 0,
+    "content": "Oh wow so I've been doing this completely wrong lol... Thank you so much! Just to make sure I got it right, in that tunnel, the last stonespire will always be the one to possibly from the grand discovery? I always thought it was the last of each thing (smol pebble, smooth rocks, etc) until you get that specific one.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-28T16:34:07.404000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1454875071863717958",
+    "channel_id": "1454806984065945681",
+    "author": {
+      "id": "253003992924160000",
+      "username": "here4thebeer11",
+      "avatar": "54974fcb0c71b95ccbb44fb3fb2cb3db",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Here4TheBeer",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 6
+  },
+  {
+    "type": 0,
+    "content": "Discoveries have nothing to do with the last object you break on a certain depth. Discoveries are found by breaking the final object that can appear in a given tunnel. In pebblecove only stonespires will give you a Grand Discovery, does not matter if it is the first or last, as long as you break them you have a chance of finding it.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-28T18:35:38.201000+00:00",
+    "edited_timestamp": "2025-12-28T18:39:01.072000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1454905651682873408",
+    "channel_id": "1454806984065945681",
+    "author": {
+      "id": "332942869083979776",
+      "username": "equinox6656",
+      "avatar": "91745034bb44332066fbfe901cf66fac",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "FabioKastro",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 7
+  },
+  {
+    "type": 0,
+    "content": "",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1454906434297925886",
+        "filename": "image.png",
+        "size": 20530,
+        "url": "https://cdn.discordapp.com/attachments/1454806984065945681/1454906434297925886/image.png?ex=6a0f5134&is=6a0dffb4&hm=2d84fac8b9129f1c8eff08916b1f6f32914fd6c16378ee0055c5c6649d44a5d5&",
+        "proxy_url": "https://media.discordapp.net/attachments/1454806984065945681/1454906434297925886/image.png?ex=6a0f5134&is=6a0dffb4&hm=2d84fac8b9129f1c8eff08916b1f6f32914fd6c16378ee0055c5c6649d44a5d5&",
+        "width": 747,
+        "height": 113,
+        "content_type": "image/webp",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "TBgGAYAIdThwiCtXZ49sv3g=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2025-12-28T18:38:44.803000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1454906434348388476",
+    "channel_id": "1454806984065945681",
+    "author": {
+      "id": "332942869083979776",
+      "username": "equinox6656",
+      "avatar": "91745034bb44332066fbfe901cf66fac",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "FabioKastro",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 8
+  },
+  {
+    "type": 0,
+    "content": "Wow so I've been doing that all wrong haha. Thank you so much for the clarification and the extremely helpful sheet!!!",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-28T19:49:09.687000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1454924154796249128",
+    "channel_id": "1454806984065945681",
+    "author": {
+      "id": "253003992924160000",
+      "username": "here4thebeer11",
+      "avatar": "54974fcb0c71b95ccbb44fb3fb2cb3db",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Here4TheBeer",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 9,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  }
+]

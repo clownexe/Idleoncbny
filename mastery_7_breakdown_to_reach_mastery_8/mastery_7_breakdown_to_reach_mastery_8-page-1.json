@@ -1,0 +1,494 @@
+[
+  {
+    "type": 0,
+    "content": "You can switch around the golden charms in different slots if needed.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1500119614905126922",
+        "filename": "image.png",
+        "size": 1311730,
+        "url": "https://cdn.discordapp.com/attachments/1500119614577967147/1500119614905126922/image.png?ex=6a0f01c3&is=6a0db043&hm=6641cfed4647b9e34eaf61e8729b2b21ceba7522e7f9ccba6c93e3a0d3b8af51&",
+        "proxy_url": "https://media.discordapp.net/attachments/1500119614577967147/1500119614905126922/image.png?ex=6a0f01c3&is=6a0db043&hm=6641cfed4647b9e34eaf61e8729b2b21ceba7522e7f9ccba6c93e3a0d3b8af51&",
+        "width": 1215,
+        "height": 619,
+        "content_type": "image/png",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "lCgCBIJapeXIFPmGylUpcPsppQ==",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2026-05-02T12:59:46.990000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1500119614577967147",
+    "channel_id": "1500119614577967147",
+    "author": {
+      "id": "709420042537926657",
+      "username": "thelegend278254",
+      "avatar": "7adf5c57de0198dba28372621326a751",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Blitzworker",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "basalt",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-05-02T15:58:04.435000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1500164482914320434",
+    "channel_id": "1500119614577967147",
+    "author": {
+      "id": "781645214317412374",
+      "username": "2headphones",
+      "avatar": "7dcc3ae8e5573af9204159b2b0ca6879",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "2headphones",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "❤️"
+        },
+        "count": 6,
+        "count_details": {
+          "burst": 0,
+          "normal": 6
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "539023586518630402",
+          "name": "hahaha"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇧"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇦"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇸"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🅰️"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇱"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇹"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "Are 2 Yellow Belts better than 1 Yellow Belt and 1 Taunting Mark?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-05-03T06:05:09.465000+00:00",
+    "edited_timestamp": "2026-05-03T06:05:25.483000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1500377658540822568",
+    "channel_id": "1500119614577967147",
+    "author": {
+      "id": "695911851040702495",
+      "username": "fatherofgdor",
+      "avatar": "954e643f8d7eabbb869d70dffc5b31f9",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Father of Gdor",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 1
+  },
+  {
+    "type": 19,
+    "content": "For faster more Roses yes",
+    "mentions": [
+      {
+        "id": "695911851040702495",
+        "username": "fatherofgdor",
+        "avatar": "954e643f8d7eabbb869d70dffc5b31f9",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Father of Gdor",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-05-03T07:33:31.633000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1500399897445404701",
+    "channel_id": "1500119614577967147",
+    "author": {
+      "id": "222382127142928384",
+      "username": "cubicosta",
+      "avatar": "a_368d0a293fc43f5270b73c149fa757b3",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "𝕮𝖚𝖇𝖎𝕮𝖔𝖘𝖙𝖆",
+      "avatar_decoration_data": {
+        "asset": "a_a1035747f9a437cf875dc7b2088e397d",
+        "sku_id": "1474489440771641599",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1420225379284553810",
+          "asset": "nameplates/its_showtime/encore_orange/",
+          "label": "COLLECTIBLES_ITS_SHOWTIME_ENCORE_ORANGE_NP_A11Y",
+          "palette": "lemon"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 4,
+        "effect_id": 4,
+        "colors": [
+          16711684
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1345150399857819822",
+        "identity_enabled": true,
+        "tag": "hää",
+        "badge": "6b9a772c87ac340f32861187e7218259"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1345150399857819822",
+        "identity_enabled": true,
+        "tag": "hää",
+        "badge": "6b9a772c87ac340f32861187e7218259"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1500119614577967147",
+      "message_id": "1500377658540822568",
+      "guild_id": "437797104786604034"
+    },
+    "position": 2,
+    "referenced_message": {
+      "type": 0,
+      "content": "Are 2 Yellow Belts better than 1 Yellow Belt and 1 Taunting Mark?",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2026-05-03T06:05:09.465000+00:00",
+      "edited_timestamp": "2026-05-03T06:05:25.483000+00:00",
+      "flags": 0,
+      "components": [],
+      "id": "1500377658540822568",
+      "channel_id": "1500119614577967147",
+      "author": {
+        "id": "695911851040702495",
+        "username": "fatherofgdor",
+        "avatar": "954e643f8d7eabbb869d70dffc5b31f9",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Father of Gdor",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 1
+    }
+  },
+  {
+    "type": 0,
+    "content": "prob a dumb question but im on mastery 2, should i just copy this format and upgrade the things as i go?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-05-06T01:34:03.592000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1501396598121435248",
+    "channel_id": "1500119614577967147",
+    "author": {
+      "id": "340619985787289601",
+      "username": "savage_tomato_",
+      "avatar": "cfadc77e70f63c6c6234ef36a41b21d3",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Savage_Tomato_",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 3,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "✅"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,1195 @@
+[
+  {
+    "type": 0,
+    "content": "Accidently had the purple arrow point to the wrong location, it should be correct now.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1391528301427949731",
+        "filename": "Essence_Stone_Locations.png",
+        "size": 2682727,
+        "url": "https://cdn.discordapp.com/attachments/1391528300593021089/1391528301427949731/Essence_Stone_Locations.png?ex=6a0ecd78&is=6a0d7bf8&hm=9054e5764c7b75acb480989f426d25b222b1d3c6f946243bc8ebb7ff68f7984f&",
+        "proxy_url": "https://media.discordapp.net/attachments/1391528300593021089/1391528301427949731/Essence_Stone_Locations.png?ex=6a0ecd78&is=6a0d7bf8&hm=9054e5764c7b75acb480989f426d25b222b1d3c6f946243bc8ebb7ff68f7984f&",
+        "width": 1920,
+        "height": 1032,
+        "content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "HfgNFIQMaFWHWJiHlpd7TTBfqQ==",
+        "placeholder_version": 1,
+        "title": "Essence Stone Locations"
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2025-07-06T21:16:40.207000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1391528300593021089",
+    "channel_id": "1391528300593021089",
+    "author": {
+      "id": "408742308729716758",
+      "username": "redxlaser15",
+      "avatar": "2c361f3856e253e2bb8719f651469725",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "🫡"
+        },
+        "count": 57,
+        "count_details": {
+          "burst": 0,
+          "normal": 57
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🙏"
+        },
+        "count": 6,
+        "count_details": {
+          "burst": 0,
+          "normal": 6
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🔥"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🎉"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "White - World 6 - Bamboo Spirits \nGreen - World 6 - Lanterns \nYellow - World 6 - Royal Eggyolks \nBlue - World 3 - Equinox Valley \nRed - World 5 - Crawlers \nPurple - World 4 - Gelatinous Cuboids \nCyan - World 6 - Samurais\n(Lazingfury)",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-07-06T21:18:29.036000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1391528757054931115",
+    "channel_id": "1391528300593021089",
+    "author": {
+      "id": "408742308729716758",
+      "username": "redxlaser15",
+      "avatar": "2c361f3856e253e2bb8719f651469725",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "🔥"
+        },
+        "count": 12,
+        "count_details": {
+          "burst": 0,
+          "normal": 12
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "Legend",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-07-06T22:00:21.414000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1391539294732157108",
+    "channel_id": "1391528300593021089",
+    "author": {
+      "id": "289978935914004480",
+      "username": "skiitahoe",
+      "avatar": "507e2510170a402c128395cca49bed0f",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "SkiiTahoe",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 1
+  },
+  {
+    "type": 0,
+    "content": "I wonder what happens if you try to use them before entering w6",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-07-07T07:29:45.050000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1391682587407286313",
+    "channel_id": "1391528300593021089",
+    "author": {
+      "id": "810372480438239233",
+      "username": "elfinartist1906",
+      "avatar": "9ad9cdff92771f48501602ff4fe3b759",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "elfinartist1906",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 2
+  },
+  {
+    "type": 19,
+    "content": "It tells you that you need to visit the quest giver in w6",
+    "mentions": [
+      {
+        "id": "810372480438239233",
+        "username": "elfinartist1906",
+        "avatar": "9ad9cdff92771f48501602ff4fe3b759",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "elfinartist1906",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-07-07T07:54:07.728000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1391688722323341414",
+    "channel_id": "1391528300593021089",
+    "author": {
+      "id": "707672835430285442",
+      "username": "realteez",
+      "avatar": "954b5bda2e04a110e0ef14fc3a9e0c06",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "[TEEZ]",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614257225760",
+          "asset": "nameplates/nameplates/vengeance/",
+          "label": "COLLECTIBLES_NAMEPLATES_VENGEANCE_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1391528300593021089",
+      "message_id": "1391682587407286313",
+      "guild_id": "437797104786604034"
+    },
+    "position": 3,
+    "referenced_message": {
+      "type": 0,
+      "content": "I wonder what happens if you try to use them before entering w6",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-07-07T07:29:45.050000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1391682587407286313",
+      "channel_id": "1391528300593021089",
+      "author": {
+        "id": "810372480438239233",
+        "username": "elfinartist1906",
+        "avatar": "9ad9cdff92771f48501602ff4fe3b759",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "elfinartist1906",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 2
+    }
+  },
+  {
+    "type": 0,
+    "content": "I think this is a of a w6 pin than a tip n trick",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-07-07T09:09:23.873000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1391707664408383509",
+    "channel_id": "1391528300593021089",
+    "author": {
+      "id": "1172970672956387469",
+      "username": "bob140.",
+      "avatar": "adc73e45b992b341b72a99467a616a24",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "bob3344",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1364317477827248148",
+        "identity_enabled": true,
+        "tag": "OAK",
+        "badge": "eda770f3d7806c5809adda0215c166b3"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1364317477827248148",
+        "identity_enabled": true,
+        "tag": "OAK",
+        "badge": "eda770f3d7806c5809adda0215c166b3"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 4
+  },
+  {
+    "type": 0,
+    "content": "Where the quest giver at tho?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-07-07T11:43:03.312000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1391746333538258964",
+    "channel_id": "1391528300593021089",
+    "author": {
+      "id": "1373490823928479794",
+      "username": "hazzanaj",
+      "avatar": "3a570b19ed4ebd42cdf5ffa2b56b07fb",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "the REAL no.1 Tomboy Lover",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1377908827717898303",
+        "identity_enabled": true,
+        "tag": "HELL",
+        "badge": "dc2256610c4008acce82d39a9298f1ba"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1377908827717898303",
+        "identity_enabled": true,
+        "tag": "HELL",
+        "badge": "dc2256610c4008acce82d39a9298f1ba"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 5
+  },
+  {
+    "type": 19,
+    "content": "Prob the game goes kaboom cuz its damn well coded",
+    "mentions": [
+      {
+        "id": "810372480438239233",
+        "username": "elfinartist1906",
+        "avatar": "9ad9cdff92771f48501602ff4fe3b759",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "elfinartist1906",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-07-07T12:00:04.997000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1391750618795868271",
+    "channel_id": "1391528300593021089",
+    "author": {
+      "id": "468541015800807424",
+      "username": "ca8721",
+      "avatar": "18619e514cc774094979f6c0bd502123",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "N/A",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1391528300593021089",
+      "message_id": "1391682587407286313",
+      "guild_id": "437797104786604034"
+    },
+    "position": 6,
+    "referenced_message": {
+      "type": 0,
+      "content": "I wonder what happens if you try to use them before entering w6",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-07-07T07:29:45.050000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1391682587407286313",
+      "channel_id": "1391528300593021089",
+      "author": {
+        "id": "810372480438239233",
+        "username": "elfinartist1906",
+        "avatar": "9ad9cdff92771f48501602ff4fe3b759",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "elfinartist1906",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 2
+    }
+  },
+  {
+    "type": 19,
+    "content": "W6 white stone map (baby troll I think)",
+    "mentions": [
+      {
+        "id": "1373490823928479794",
+        "username": "hazzanaj",
+        "avatar": "3a570b19ed4ebd42cdf5ffa2b56b07fb",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "the REAL no.1 Tomboy Lover",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1377908827717898303",
+          "identity_enabled": true,
+          "tag": "HELL",
+          "badge": "dc2256610c4008acce82d39a9298f1ba"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1377908827717898303",
+          "identity_enabled": true,
+          "tag": "HELL",
+          "badge": "dc2256610c4008acce82d39a9298f1ba"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-07-07T12:50:03.371000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1391763194887798865",
+    "channel_id": "1391528300593021089",
+    "author": {
+      "id": "1215285885395009548",
+      "username": "themathematician314_96286",
+      "avatar": "de717a649931ee6d7ef4bc1350e4c8d1",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "buff_warrior1!",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1391528300593021089",
+      "message_id": "1391746333538258964",
+      "guild_id": "437797104786604034"
+    },
+    "position": 7,
+    "referenced_message": {
+      "type": 0,
+      "content": "Where the quest giver at tho?",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-07-07T11:43:03.312000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1391746333538258964",
+      "channel_id": "1391528300593021089",
+      "author": {
+        "id": "1373490823928479794",
+        "username": "hazzanaj",
+        "avatar": "3a570b19ed4ebd42cdf5ffa2b56b07fb",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "the REAL no.1 Tomboy Lover",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1377908827717898303",
+          "identity_enabled": true,
+          "tag": "HELL",
+          "badge": "dc2256610c4008acce82d39a9298f1ba"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1377908827717898303",
+          "identity_enabled": true,
+          "tag": "HELL",
+          "badge": "dc2256610c4008acce82d39a9298f1ba"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 5
+    }
+  },
+  {
+    "type": 0,
+    "content": "Is there any way to see how far we are in all of them at once, or do we need to visit each one separately?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-07-07T16:36:42.734000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1391820234750427188",
+    "channel_id": "1391528300593021089",
+    "author": {
+      "id": "253003992924160000",
+      "username": "here4thebeer11",
+      "avatar": "54974fcb0c71b95ccbb44fb3fb2cb3db",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Here4TheBeer",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 8
+  },
+  {
+    "type": 19,
+    "content": "It's the Bamboo Spirits map",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-07-07T17:37:38.468000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1391835568010432554",
+    "channel_id": "1391528300593021089",
+    "author": {
+      "id": "871106151952023612",
+      "username": "rsvdark",
+      "avatar": "12d9316295aba302f87eea49354fa677",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Rsvdark",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "301377942062366741",
+        "identity_enabled": true,
+        "tag": "toki",
+        "badge": "c1e4439afa95753a4bab531e3c4c42d1"
+      },
+      "primary_guild": {
+        "identity_guild_id": "301377942062366741",
+        "identity_enabled": true,
+        "tag": "toki",
+        "badge": "c1e4439afa95753a4bab531e3c4c42d1"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1391528300593021089",
+      "message_id": "1391763194887798865",
+      "guild_id": "437797104786604034"
+    },
+    "position": 9,
+    "referenced_message": {
+      "type": 19,
+      "content": "W6 white stone map (baby troll I think)",
+      "mentions": [
+        {
+          "id": "1373490823928479794",
+          "username": "hazzanaj",
+          "avatar": "3a570b19ed4ebd42cdf5ffa2b56b07fb",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "the REAL no.1 Tomboy Lover",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": {
+            "identity_guild_id": "1377908827717898303",
+            "identity_enabled": true,
+            "tag": "HELL",
+            "badge": "dc2256610c4008acce82d39a9298f1ba"
+          },
+          "primary_guild": {
+            "identity_guild_id": "1377908827717898303",
+            "identity_enabled": true,
+            "tag": "HELL",
+            "badge": "dc2256610c4008acce82d39a9298f1ba"
+          }
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-07-07T12:50:03.371000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1391763194887798865",
+      "channel_id": "1391528300593021089",
+      "author": {
+        "id": "1215285885395009548",
+        "username": "themathematician314_96286",
+        "avatar": "de717a649931ee6d7ef4bc1350e4c8d1",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "buff_warrior1!",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1391528300593021089",
+        "message_id": "1391746333538258964",
+        "guild_id": "437797104786604034"
+      },
+      "position": 7
+    }
+  },
+  {
+    "type": 0,
+    "content": "orship",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-07-07T20:21:44.866000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1391876866796818594",
+    "channel_id": "1391528300593021089",
+    "author": {
+      "id": "344956152297160735",
+      "username": "flavour9",
+      "avatar": "d01f0117909af9c82549f430a22fd31f",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "B :)",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1290307629046042648",
+        "identity_enabled": true,
+        "tag": "MNDM",
+        "badge": "7a9830842eb638a2d43d42b76e9913a3"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1290307629046042648",
+        "identity_enabled": true,
+        "tag": "MNDM",
+        "badge": "7a9830842eb638a2d43d42b76e9913a3"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 10
+  },
+  {
+    "type": 19,
+    "content": "As far as I'm aware, you need to manually look at each one. Very annoying.",
+    "mentions": [
+      {
+        "id": "253003992924160000",
+        "username": "here4thebeer11",
+        "avatar": "54974fcb0c71b95ccbb44fb3fb2cb3db",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Here4TheBeer",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-07-15T20:23:28.215000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1394776403198742757",
+    "channel_id": "1391528300593021089",
+    "author": {
+      "id": "408742308729716758",
+      "username": "redxlaser15",
+      "avatar": "2c361f3856e253e2bb8719f651469725",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1391528300593021089",
+      "message_id": "1391820234750427188",
+      "guild_id": "437797104786604034"
+    },
+    "position": 11,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "♥️"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ],
+    "referenced_message": {
+      "type": 0,
+      "content": "Is there any way to see how far we are in all of them at once, or do we need to visit each one separately?",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-07-07T16:36:42.734000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1391820234750427188",
+      "channel_id": "1391528300593021089",
+      "author": {
+        "id": "253003992924160000",
+        "username": "here4thebeer11",
+        "avatar": "54974fcb0c71b95ccbb44fb3fb2cb3db",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Here4TheBeer",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 8
+    }
+  },
+  {
+    "type": 0,
+    "content": "db",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-07-22T10:57:03.124000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1397170574454685757",
+    "channel_id": "1391528300593021089",
+    "author": {
+      "id": "1018030052270686249",
+      "username": "kirbycatter",
+      "avatar": "39b9cf9edaa1972c228b09a1bc266284",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Atomic",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "85342800492634112",
+        "identity_enabled": true,
+        "tag": "NAUT",
+        "badge": "3dca23721997211faa9efa6e61893eef"
+      },
+      "primary_guild": {
+        "identity_guild_id": "85342800492634112",
+        "identity_enabled": true,
+        "tag": "NAUT",
+        "badge": "3dca23721997211faa9efa6e61893eef"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 13
+  },
+  {
+    "type": 0,
+    "content": "would be cool if someone collect the data and list them here on which level their hp is, so we dont have to manually check everytime",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-10-09T07:52:27.206000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1425752760070049913",
+    "channel_id": "1391528300593021089",
+    "author": {
+      "id": "322777223469858817",
+      "username": "d0nkey3771",
+      "avatar": "46f41745f10bb2deb1ff6576e01e3611",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "D0nk3eh",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 15
+  },
+  {
+    "type": 19,
+    "content": "I know this is ten million years later but just in case another person stumbles upon the thread- the auto review tool has all of the progress and HP of every summoning boss!",
+    "mentions": [
+      {
+        "id": "253003992924160000",
+        "username": "here4thebeer11",
+        "avatar": "54974fcb0c71b95ccbb44fb3fb2cb3db",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Here4TheBeer",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-01-18T23:24:55.248000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1462588597592129701",
+    "channel_id": "1391528300593021089",
+    "author": {
+      "id": "830645099862949968",
+      "username": "goddessmere",
+      "avatar": "36ada2a9fe349a437f0e6e4c878978b4",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "!Mere",
+      "avatar_decoration_data": {
+        "asset": "a_b20e3f13d48c5db0073f3629a170d49d",
+        "sku_id": "1474488681862529035",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614143979540",
+          "asset": "nameplates/nameplates/cat_beans/",
+          "label": "COLLECTIBLES_NAMEPLATES_CAT_BEANS_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1391528300593021089",
+      "message_id": "1391820234750427188",
+      "guild_id": "437797104786604034"
+    },
+    "position": 17,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "❤️"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ],
+    "referenced_message": {
+      "type": 0,
+      "content": "Is there any way to see how far we are in all of them at once, or do we need to visit each one separately?",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-07-07T16:36:42.734000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1391820234750427188",
+      "channel_id": "1391528300593021089",
+      "author": {
+        "id": "253003992924160000",
+        "username": "here4thebeer11",
+        "avatar": "54974fcb0c71b95ccbb44fb3fb2cb3db",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Here4TheBeer",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 8
+    }
+  }
+]

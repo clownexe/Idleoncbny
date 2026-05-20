@@ -1,0 +1,5298 @@
+[
+  {
+    "type": 0,
+    "content": "This thread is for posting locations only, not for asking where it is or general chitchat.\n\nFAQ:\n> Dig isn't working.\nMake sure your game is updated and you're on the Pizza 1 server.\n> Still isn't working...\nCloudsave your game, you may be stuck on the previous day.\n> Is there a new dig yet?\nYou can check for yourself. Cloudsave and try typing dig. If it says to come back tomorrow, that means no.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1494748735929061537",
+        "filename": "image.png",
+        "size": 1048,
+        "url": "https://cdn.discordapp.com/attachments/1494748735480266893/1494748735929061537/image.png?ex=6a0f3e3d&is=6a0decbd&hm=d070391482ee74029ed9820b409b5612bd42f38ab37c0a1ddf1ddb37bbc04c78&",
+        "proxy_url": "https://media.discordapp.net/attachments/1494748735480266893/1494748735929061537/image.png?ex=6a0f3e3d&is=6a0decbd&hm=d070391482ee74029ed9820b409b5612bd42f38ab37c0a1ddf1ddb37bbc04c78&",
+        "width": 81,
+        "height": 138,
+        "content_type": "image/png",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "FomGAwImYIFYxzQFlEkClhc00GuIunc=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2026-04-17T17:17:49.627000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1494748735480266893",
+    "channel_id": "1494748735480266893",
+    "author": {
+      "id": "99742137230319616",
+      "username": "hotair",
+      "avatar": "a_cc08294b2a80e575d0b817495d7da200",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Hotair - 4 days",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712162738196",
+          "asset": "nameplates/nameplates_v2/sword_of_legend/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SWORD_OF_LEGEND_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "⛏️"
+        },
+        "count": 109,
+        "count_details": {
+          "burst": 19,
+          "normal": 90
+        },
+        "burst_colors": [
+          "#4c704f",
+          "#f08d0e",
+          "#5a6770",
+          "#686f70",
+          "#d08626",
+          "#a07845",
+          "#907450",
+          "#b07b36",
+          "#c0812f",
+          "#907859"
+        ],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 19
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍"
+        },
+        "count": 24,
+        "count_details": {
+          "burst": 0,
+          "normal": 24
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1015005291374456872",
+          "name": "mmmbunk",
+          "animated": true
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "This thread is for posting locations only, not for asking where it is or general chitchat.\n\nFAQ:\n> Dig isn't working.\nMake sure your game is updated and you're on the Pizza 1 server.\n> Still isn't working...\nCloudsave your game, you may be stuck on the previous day.\n> Is there a new dig yet?\nYou can check for yourself. Cloudsave and try typing dig. If it says to come back tomorrow, that means no.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-04-17T17:18:28.177000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1494748897170690209",
+    "channel_id": "1494748735480266893",
+    "author": {
+      "id": "99742137230319616",
+      "username": "hotair",
+      "avatar": "a_cc08294b2a80e575d0b817495d7da200",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Hotair - 4 days",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712162738196",
+          "asset": "nameplates/nameplates_v2/sword_of_legend/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SWORD_OF_LEGEND_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": true,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 1
+  },
+  {
+    "type": 6,
+    "content": "",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-04-17T17:18:29.755000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1494748903789170758",
+    "channel_id": "1494748735480266893",
+    "author": {
+      "id": "99742137230319616",
+      "username": "hotair",
+      "avatar": "a_cc08294b2a80e575d0b817495d7da200",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Hotair - 4 days",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712162738196",
+          "asset": "nameplates/nameplates_v2/sword_of_legend/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SWORD_OF_LEGEND_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1494748735480266893",
+      "message_id": "1494748897170690209"
+    },
+    "position": 2
+  },
+  {
+    "type": 0,
+    "content": "***Dig 1***: ||50 event boxes||",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1494748940388663426",
+        "filename": "image.png",
+        "size": 120956,
+        "url": "https://cdn.discordapp.com/attachments/1494748735480266893/1494748940388663426/image.png?ex=6a0f3e6e&is=6a0decee&hm=59a0ffa47b9070e3d9f4fd141d7bedd1f53017d49a78026cb0515fe8a5d5615b&",
+        "proxy_url": "https://media.discordapp.net/attachments/1494748735480266893/1494748940388663426/image.png?ex=6a0f3e6e&is=6a0decee&hm=59a0ffa47b9070e3d9f4fd141d7bedd1f53017d49a78026cb0515fe8a5d5615b&",
+        "width": 820,
+        "height": 405,
+        "content_type": "image/webp",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "HdgFG4KzZ1afjHeNeqCs0o8=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2026-04-17T17:18:38.552000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1494748940686463176",
+    "channel_id": "1494748735480266893",
+    "author": {
+      "id": "99742137230319616",
+      "username": "hotair",
+      "avatar": "a_cc08294b2a80e575d0b817495d7da200",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Hotair - 4 days",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712162738196",
+          "asset": "nameplates/nameplates_v2/sword_of_legend/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SWORD_OF_LEGEND_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 3,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 190,
+        "count_details": {
+          "burst": 0,
+          "normal": 190
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "✅"
+        },
+        "count": 65,
+        "count_details": {
+          "burst": 0,
+          "normal": 65
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "777119230050828300",
+          "name": "gemmo"
+        },
+        "count": 38,
+        "count_details": {
+          "burst": 0,
+          "normal": 38
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "❤️"
+        },
+        "count": 36,
+        "count_details": {
+          "burst": 0,
+          "normal": 36
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1337998903508734012",
+          "name": "Glunko",
+          "animated": true
+        },
+        "count": 21,
+        "count_details": {
+          "burst": 0,
+          "normal": 21
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "👌"
+        },
+        "count": 17,
+        "count_details": {
+          "burst": 0,
+          "normal": 17
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍"
+        },
+        "count": 23,
+        "count_details": {
+          "burst": 0,
+          "normal": 23
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🩵"
+        },
+        "count": 12,
+        "count_details": {
+          "burst": 0,
+          "normal": 12
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🐴"
+        },
+        "count": 11,
+        "count_details": {
+          "burst": 0,
+          "normal": 11
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1488654053570515105",
+          "name": "Happi"
+        },
+        "count": 10,
+        "count_details": {
+          "burst": 0,
+          "normal": 10
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1101692875248521366",
+          "name": "grumblo_thumbsup"
+        },
+        "count": 8,
+        "count_details": {
+          "burst": 0,
+          "normal": 8
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🥴"
+        },
+        "count": 8,
+        "count_details": {
+          "burst": 0,
+          "normal": 8
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1133056574982725733",
+          "name": "wave",
+          "animated": true
+        },
+        "count": 8,
+        "count_details": {
+          "burst": 0,
+          "normal": 8
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1003813904679444560",
+          "name": "f_nerdcdl",
+          "animated": true
+        },
+        "count": 7,
+        "count_details": {
+          "burst": 7,
+          "normal": 0
+        },
+        "burst_colors": [
+          "#302923",
+          "#503f0e",
+          "#60430b",
+          "#906411",
+          "#c08617",
+          "#40330b",
+          "#a07013",
+          "#f0bf2c",
+          "#704e0d",
+          "#d09119"
+        ],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 7
+      },
+      {
+        "emoji": {
+          "id": "802765215065702401",
+          "name": "IdleOn_Meel",
+          "animated": true
+        },
+        "count": 11,
+        "count_details": {
+          "burst": 0,
+          "normal": 11
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇩"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇮"
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇬"
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "😭"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🥀"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "dig 2 if it's okay for me to post here ||60 boxes||",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1495285146193235988",
+        "filename": "vP8w0AAAAGSURBVAMA70vYk2RW1cgAAAAASUVORK5CYII.png",
+        "size": 139610,
+        "url": "https://cdn.discordapp.com/attachments/1494748735480266893/1495285146193235988/vP8w0AAAAGSURBVAMA70vYk2RW1cgAAAAASUVORK5CYII.png?ex=6a0f378f&is=6a0de60f&hm=0e30d35e07d353c82443546c7a8019dc944458598334f5de624351d9e6cc533b&",
+        "proxy_url": "https://media.discordapp.net/attachments/1494748735480266893/1495285146193235988/vP8w0AAAAGSURBVAMA70vYk2RW1cgAAAAASUVORK5CYII.png?ex=6a0f378f&is=6a0de60f&hm=0e30d35e07d353c82443546c7a8019dc944458598334f5de624351d9e6cc533b&",
+        "width": 960,
+        "height": 540,
+        "content_type": "image/webp",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "U/gFDIJFiXh0d5eMeoD6m9FnLw==",
+        "placeholder_version": 1,
+        "title": "vP8w0AAAAGSURBVAMA70vYk2RW1cgAAAAASUVORK5CYII="
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2026-04-19T04:49:19.960000+00:00",
+    "edited_timestamp": "2026-04-19T04:50:36.370000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1495285146415530057",
+    "channel_id": "1494748735480266893",
+    "author": {
+      "id": "1107868713140629605",
+      "username": "james_jenkins",
+      "avatar": "6c5362b506afa9d87e44a964818d6bc9",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "James Jenkins",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 19,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍"
+        },
+        "count": 137,
+        "count_details": {
+          "burst": 0,
+          "normal": 137
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 59,
+        "count_details": {
+          "burst": 0,
+          "normal": 59
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "960959924777672784",
+          "name": "froge"
+        },
+        "count": 18,
+        "count_details": {
+          "burst": 0,
+          "normal": 18
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "481714069930246147",
+          "name": "YES"
+        },
+        "count": 40,
+        "count_details": {
+          "burst": 5,
+          "normal": 35
+        },
+        "burst_colors": [
+          "#000000",
+          "#238017",
+          "#094007",
+          "#063005",
+          "#000000",
+          "#0b5009",
+          "#136011",
+          "#031001",
+          "#1f7014",
+          "#042003"
+        ],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 5
+      },
+      {
+        "emoji": {
+          "id": "802765215065702401",
+          "name": "IdleOn_Meel",
+          "animated": true
+        },
+        "count": 20,
+        "count_details": {
+          "burst": 0,
+          "normal": 20
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1447711812588933281",
+          "name": "Bubba",
+          "animated": true
+        },
+        "count": 15,
+        "count_details": {
+          "burst": 0,
+          "normal": 15
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "894303903888310322",
+          "name": "EmojiSuperSad"
+        },
+        "count": 14,
+        "count_details": {
+          "burst": 0,
+          "normal": 14
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1114306970816630876",
+          "name": "Grumblo_Pray"
+        },
+        "count": 13,
+        "count_details": {
+          "burst": 0,
+          "normal": 13
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "❤️"
+        },
+        "count": 22,
+        "count_details": {
+          "burst": 0,
+          "normal": 22
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "785620361118875729",
+          "name": "AlexHeart"
+        },
+        "count": 7,
+        "count_details": {
+          "burst": 0,
+          "normal": 7
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🐴"
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🫡"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🐸"
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1133056574982725733",
+          "name": "wave",
+          "animated": true
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🍄"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "677142270658609183",
+          "name": "y1",
+          "animated": true
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "Dig day 3:  ||200 gems||\n-# where i say its right there",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1495529455655846163",
+        "filename": "image.png",
+        "size": 346810,
+        "url": "https://cdn.discordapp.com/attachments/1494748735480266893/1495529455655846163/image.png?ex=6a0ec997&is=6a0d7817&hm=5e9bf47cf020f2ed2c8e7bdb725bd3f54f823c4ec09c0ed77c192984c9af3328&",
+        "proxy_url": "https://media.discordapp.net/attachments/1494748735480266893/1495529455655846163/image.png?ex=6a0ec997&is=6a0d7817&hm=5e9bf47cf020f2ed2c8e7bdb725bd3f54f823c4ec09c0ed77c192984c9af3328&",
+        "width": 960,
+        "height": 572,
+        "content_type": "image/webp",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "3+cFJIhIl2efZ4mGh6R3cHMGdg==",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2026-04-19T21:00:07.816000+00:00",
+    "edited_timestamp": "2026-04-19T21:01:06.631000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1495529455630815254",
+    "channel_id": "1494748735480266893",
+    "author": {
+      "id": "741360171376312461",
+      "username": "gat089",
+      "avatar": "15d5c53b4ebeb616ad421e152dcea12c",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Gat0",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 41,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "1361060786985766912",
+          "name": "gif_Button_Heart",
+          "animated": true
+        },
+        "count": 74,
+        "count_details": {
+          "burst": 0,
+          "normal": 74
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "481714069930246147",
+          "name": "YES"
+        },
+        "count": 65,
+        "count_details": {
+          "burst": 0,
+          "normal": 65
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 27,
+        "count_details": {
+          "burst": 0,
+          "normal": 27
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "777119230050828300",
+          "name": "gemmo"
+        },
+        "count": 40,
+        "count_details": {
+          "burst": 0,
+          "normal": 40
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "👌"
+        },
+        "count": 11,
+        "count_details": {
+          "burst": 0,
+          "normal": 11
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "450454151638417460",
+          "name": "IQ200"
+        },
+        "count": 6,
+        "count_details": {
+          "burst": 0,
+          "normal": 6
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍"
+        },
+        "count": 16,
+        "count_details": {
+          "burst": 0,
+          "normal": 16
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1114306970816630876",
+          "name": "Grumblo_Pray"
+        },
+        "count": 7,
+        "count_details": {
+          "burst": 0,
+          "normal": 7
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1397222735742107779",
+          "name": "mad"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1208199310777393153",
+          "name": "happytroll"
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1074896471079526431",
+          "name": "Frog_Gentlemen"
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🦁"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🔥"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "😭"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1133056574982725733",
+          "name": "wave",
+          "animated": true
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "534908034732916746",
+          "name": "crabrave",
+          "animated": true
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🐴"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "3️⃣"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "💯"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "677142270658609183",
+          "name": "y1",
+          "animated": true
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "**Dig day 4**",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1495920058621493248",
+        "filename": "image.png",
+        "size": 807556,
+        "url": "https://cdn.discordapp.com/attachments/1494748735480266893/1495920058621493248/image.png?ex=6a0ee3de&is=6a0d925e&hm=d1e0222d36f4959981928a5587390778675c7d78d478e1a900690e8e9dc7aac7&",
+        "proxy_url": "https://media.discordapp.net/attachments/1494748735480266893/1495920058621493248/image.png?ex=6a0ee3de&is=6a0d925e&hm=d1e0222d36f4959981928a5587390778675c7d78d478e1a900690e8e9dc7aac7&",
+        "width": 1416,
+        "height": 845,
+        "content_type": "image/png",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "TRgGDIJIPj1M+JV0fISdsPcTZw==",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2026-04-20T22:52:14.886000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1495920058873024552",
+    "channel_id": "1494748735480266893",
+    "author": {
+      "id": "809539153514463302",
+      "username": "kaskusio",
+      "avatar": "2bb7edd33004832feaac7f7007564614",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "kaskusio",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 58,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "450454151638417460",
+          "name": "IQ200"
+        },
+        "count": 21,
+        "count_details": {
+          "burst": 0,
+          "normal": 21
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1114306970816630876",
+          "name": "Grumblo_Pray"
+        },
+        "count": 25,
+        "count_details": {
+          "burst": 0,
+          "normal": 25
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍"
+        },
+        "count": 38,
+        "count_details": {
+          "burst": 0,
+          "normal": 38
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🐴"
+        },
+        "count": 6,
+        "count_details": {
+          "burst": 0,
+          "normal": 6
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "❤️"
+        },
+        "count": 17,
+        "count_details": {
+          "burst": 0,
+          "normal": 17
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "481714069930246147",
+          "name": "YES"
+        },
+        "count": 30,
+        "count_details": {
+          "burst": 0,
+          "normal": 30
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1208199310777393153",
+          "name": "happytroll"
+        },
+        "count": 9,
+        "count_details": {
+          "burst": 0,
+          "normal": 9
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🩵"
+        },
+        "count": 7,
+        "count_details": {
+          "burst": 0,
+          "normal": 7
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "859584124657074186",
+          "name": "Dogge"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "852413823704498196",
+          "name": "Soulface"
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🔥"
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "456707411395346447",
+          "name": "pointer2"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "677142270658609183",
+          "name": "y1",
+          "animated": true
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 19,
+    "content": "reward is 2 extra event plays",
+    "mentions": [
+      {
+        "id": "809539153514463302",
+        "username": "kaskusio",
+        "avatar": "2bb7edd33004832feaac7f7007564614",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "kaskusio",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-04-20T23:05:09.592000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1495923308225368296",
+    "channel_id": "1494748735480266893",
+    "author": {
+      "id": "1069927834597998605",
+      "username": "transfemdoofus",
+      "avatar": "a75e0df33c727efefa22205dbee5770c",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "loaded dice",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1494748735480266893",
+      "message_id": "1495920058873024552",
+      "guild_id": "437797104786604034"
+    },
+    "position": 60,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "🫂"
+        },
+        "count": 52,
+        "count_details": {
+          "burst": 0,
+          "normal": 52
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🍅"
+        },
+        "count": 14,
+        "count_details": {
+          "burst": 0,
+          "normal": 14
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "625383226738999356",
+          "name": "HatYay",
+          "animated": true
+        },
+        "count": 10,
+        "count_details": {
+          "burst": 0,
+          "normal": 10
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "737906473253994576",
+          "name": "check"
+        },
+        "count": 15,
+        "count_details": {
+          "burst": 0,
+          "normal": 15
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "❤️"
+        },
+        "count": 8,
+        "count_details": {
+          "burst": 0,
+          "normal": 8
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍"
+        },
+        "count": 15,
+        "count_details": {
+          "burst": 0,
+          "normal": 15
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🩵"
+        },
+        "count": 8,
+        "count_details": {
+          "burst": 0,
+          "normal": 8
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1449380814260404326",
+          "name": "Deadge"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "852667250568724490",
+          "name": "CI10"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1114306970816630876",
+          "name": "Grumblo_Pray"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🤪"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "859584124657074186",
+          "name": "Dogge"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ],
+    "referenced_message": {
+      "type": 0,
+      "content": "**Dig day 4**",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [
+        {
+          "id": "1495920058621493248",
+          "filename": "image.png",
+          "size": 807556,
+          "url": "https://cdn.discordapp.com/attachments/1494748735480266893/1495920058621493248/image.png?ex=6a0ee3de&is=6a0d925e&hm=d1e0222d36f4959981928a5587390778675c7d78d478e1a900690e8e9dc7aac7&",
+          "proxy_url": "https://media.discordapp.net/attachments/1494748735480266893/1495920058621493248/image.png?ex=6a0ee3de&is=6a0d925e&hm=d1e0222d36f4959981928a5587390778675c7d78d478e1a900690e8e9dc7aac7&",
+          "width": 1416,
+          "height": 845,
+          "content_type": "image/png",
+          "original_content_type": "image/png",
+          "content_scan_version": 4,
+          "placeholder": "TRgGDIJIPj1M+JV0fISdsPcTZw==",
+          "placeholder_version": 1
+        }
+      ],
+      "embeds": [],
+      "timestamp": "2026-04-20T22:52:14.886000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1495920058873024552",
+      "channel_id": "1494748735480266893",
+      "author": {
+        "id": "809539153514463302",
+        "username": "kaskusio",
+        "avatar": "2bb7edd33004832feaac7f7007564614",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "kaskusio",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 58
+    }
+  },
+  {
+    "type": 0,
+    "content": "**DIG DAY 5**",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1496380021072465930",
+        "filename": "image.png",
+        "size": 121498,
+        "url": "https://cdn.discordapp.com/attachments/1494748735480266893/1496380021072465930/image.png?ex=6a0f3ebe&is=6a0ded3e&hm=9e18fbfbde919ef16455dd38f38cc143cb0d33c7c6c9bc7ba0a0e0268e410b7c&",
+        "proxy_url": "https://media.discordapp.net/attachments/1494748735480266893/1496380021072465930/image.png?ex=6a0f3ebe&is=6a0ded3e&hm=9e18fbfbde919ef16455dd38f38cc143cb0d33c7c6c9bc7ba0a0e0268e410b7c&",
+        "width": 969,
+        "height": 585,
+        "content_type": "image/webp",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "UxgKDIIHSGeFd4d6eoYJepGQRg==",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2026-04-22T05:19:58.479000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1496380021319925832",
+    "channel_id": "1494748735480266893",
+    "author": {
+      "id": "289373607698890753",
+      "username": "xaravan",
+      "avatar": "5cba31e9c1c1b323cbd1e792f809a8e4",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "SPACEMAN",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712078848180",
+          "asset": "nameplates/nameplates_v2/glitch/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_GLITCH_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 78,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍"
+        },
+        "count": 51,
+        "count_details": {
+          "burst": 0,
+          "normal": 51
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "852667250568724490",
+          "name": "CI10"
+        },
+        "count": 10,
+        "count_details": {
+          "burst": 0,
+          "normal": 10
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🍞"
+        },
+        "count": 7,
+        "count_details": {
+          "burst": 0,
+          "normal": 7
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "481714069930246147",
+          "name": "YES"
+        },
+        "count": 13,
+        "count_details": {
+          "burst": 0,
+          "normal": 13
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🤔"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "Reward is 80 anniversary box",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-04-22T05:21:11.613000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1496380328066023565",
+    "channel_id": "1494748735480266893",
+    "author": {
+      "id": "289373607698890753",
+      "username": "xaravan",
+      "avatar": "5cba31e9c1c1b323cbd1e792f809a8e4",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "SPACEMAN",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712078848180",
+          "asset": "nameplates/nameplates_v2/glitch/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_GLITCH_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 79,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "666624496093888512",
+          "name": "eh"
+        },
+        "count": 41,
+        "count_details": {
+          "burst": 0,
+          "normal": 41
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🩵"
+        },
+        "count": 14,
+        "count_details": {
+          "burst": 0,
+          "normal": 14
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🔥"
+        },
+        "count": 33,
+        "count_details": {
+          "burst": 0,
+          "normal": 33
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "❤️"
+        },
+        "count": 31,
+        "count_details": {
+          "burst": 0,
+          "normal": 31
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 21,
+        "count_details": {
+          "burst": 0,
+          "normal": 21
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🫡"
+        },
+        "count": 18,
+        "count_details": {
+          "burst": 0,
+          "normal": 18
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "💜"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍"
+        },
+        "count": 11,
+        "count_details": {
+          "burst": 0,
+          "normal": 11
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "😱"
+        },
+        "count": 12,
+        "count_details": {
+          "burst": 0,
+          "normal": 12
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "481714069930246147",
+          "name": "YES"
+        },
+        "count": 11,
+        "count_details": {
+          "burst": 0,
+          "normal": 11
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1133056574982725733",
+          "name": "wave",
+          "animated": true
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🤔"
+        },
+        "count": 6,
+        "count_details": {
+          "burst": 0,
+          "normal": 6
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "677142270658609183",
+          "name": "y1",
+          "animated": true
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "**DIG DAY 6 **\nREWARD 2 PRISMA BUBBLE",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1496666024345342144",
+        "filename": "image.png",
+        "size": 1492206,
+        "url": "https://cdn.discordapp.com/attachments/1494748735480266893/1496666024345342144/image.png?ex=6a0ef79a&is=6a0da61a&hm=1a797d4ee62ba281d2dfd0e9975b1c30771ef810dad0dd900e6cb1a0f06b6f18&",
+        "proxy_url": "https://media.discordapp.net/attachments/1494748735480266893/1496666024345342144/image.png?ex=6a0ef79a&is=6a0da61a&hm=1a797d4ee62ba281d2dfd0e9975b1c30771ef810dad0dd900e6cb1a0f06b6f18&",
+        "width": 1907,
+        "height": 1033,
+        "content_type": "image/png",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "XxcGTIoENxl+hYhjh3GYgJUIaA==",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2026-04-23T00:16:26.985000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1496666024643133440",
+    "channel_id": "1494748735480266893",
+    "author": {
+      "id": "272726686150295553",
+      "username": "peludinho",
+      "avatar": "6fd602f84693c1087b8b0f24f191b6ae",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Pelu",
+      "avatar_decoration_data": {
+        "asset": "a_96f65d0aacc4a94b50ef7fb656d5826d",
+        "sku_id": "1309668861645426729",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614257225760",
+          "asset": "nameplates/nameplates/vengeance/",
+          "label": "COLLECTIBLES_NAMEPLATES_VENGEANCE_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 11,
+        "effect_id": 2,
+        "colors": [
+          2535780,
+          9497343
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 83,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "🔥"
+        },
+        "count": 106,
+        "count_details": {
+          "burst": 0,
+          "normal": 106
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "481714069930246147",
+          "name": "YES"
+        },
+        "count": 36,
+        "count_details": {
+          "burst": 0,
+          "normal": 36
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "482784949489893376",
+          "name": "ALMOST"
+        },
+        "count": 14,
+        "count_details": {
+          "burst": 0,
+          "normal": 14
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍"
+        },
+        "count": 18,
+        "count_details": {
+          "burst": 0,
+          "normal": 18
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "593003467065262080",
+          "name": "s_"
+        },
+        "count": 6,
+        "count_details": {
+          "burst": 0,
+          "normal": 6
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🩵"
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "926969001010139206",
+          "name": "twoo2"
+        },
+        "count": 7,
+        "count_details": {
+          "burst": 0,
+          "normal": 7
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "894303903888310322",
+          "name": "EmojiSuperSad"
+        },
+        "count": 16,
+        "count_details": {
+          "burst": 0,
+          "normal": 16
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🥵"
+        },
+        "count": 9,
+        "count_details": {
+          "burst": 0,
+          "normal": 9
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1229860805156274186",
+          "name": "umbrinde",
+          "animated": true
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 2,
+          "normal": 0
+        },
+        "burst_colors": [
+          "#030a10",
+          "#040c10",
+          "#c07777",
+          "#905050",
+          "#071b20",
+          "#051520",
+          "#a05959",
+          "#703e42",
+          "#603535",
+          "#142830"
+        ],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 2
+      },
+      {
+        "emoji": {
+          "id": "786628053022801930",
+          "name": "catkiss",
+          "animated": true
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 2,
+          "normal": 0
+        },
+        "burst_colors": [
+          "#906b75",
+          "#d0c2c6",
+          "#e0d1d5",
+          "#c0a7ab",
+          "#b08e8e",
+          "#d0c2c5",
+          "#906b6b",
+          "#e0d1d1",
+          "#403339",
+          "#b0999d"
+        ],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 2
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "👑"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "❤️"
+        },
+        "count": 11,
+        "count_details": {
+          "burst": 0,
+          "normal": 11
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "❓"
+        },
+        "count": 22,
+        "count_details": {
+          "burst": 0,
+          "normal": 22
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1114306970816630876",
+          "name": "Grumblo_Pray"
+        },
+        "count": 8,
+        "count_details": {
+          "burst": 0,
+          "normal": 8
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1133056574982725733",
+          "name": "wave",
+          "animated": true
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "677142270658609183",
+          "name": "y1",
+          "animated": true
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "813876254331109386",
+          "name": "BobJourneyPickle"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🐴"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "DIG DAY 7\nREWARD 70 Boxes",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1497036393434714302",
+        "filename": "image.png",
+        "size": 834792,
+        "url": "https://cdn.discordapp.com/attachments/1494748735480266893/1497036393434714302/image.png?ex=6a0eff09&is=6a0dad89&hm=c4a02d0d0800cd345041e69ad6900b4103ef84809fb046ea7df21ac393afad11&",
+        "proxy_url": "https://media.discordapp.net/attachments/1494748735480266893/1497036393434714302/image.png?ex=6a0eff09&is=6a0dad89&hm=c4a02d0d0800cd345041e69ad6900b4103ef84809fb046ea7df21ac393afad11&",
+        "width": 1763,
+        "height": 875,
+        "content_type": "image/png",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "arcFI4Z5iml/tliUlXxQ2Ag=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2026-04-24T00:48:09.884000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1497036393845751818",
+    "channel_id": "1494748735480266893",
+    "author": {
+      "id": "511863648831143947",
+      "username": "ryonaya",
+      "avatar": "5b37860fba9189fa5cbc35b219b8442d",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "ryonaya",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 97,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍"
+        },
+        "count": 88,
+        "count_details": {
+          "burst": 0,
+          "normal": 88
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1101690217913663649",
+          "name": "Pregnant_Male_Grumblo"
+        },
+        "count": 12,
+        "count_details": {
+          "burst": 0,
+          "normal": 12
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "481714069930246147",
+          "name": "YES"
+        },
+        "count": 26,
+        "count_details": {
+          "burst": 0,
+          "normal": 26
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🐴"
+        },
+        "count": 10,
+        "count_details": {
+          "burst": 0,
+          "normal": 10
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🐟"
+        },
+        "count": 11,
+        "count_details": {
+          "burst": 0,
+          "normal": 11
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🎣"
+        },
+        "count": 8,
+        "count_details": {
+          "burst": 0,
+          "normal": 8
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🏄‍♂️"
+        },
+        "count": 10,
+        "count_details": {
+          "burst": 0,
+          "normal": 10
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🐡"
+        },
+        "count": 6,
+        "count_details": {
+          "burst": 0,
+          "normal": 6
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1102342435637559377",
+          "name": "Grumblo_xplode"
+        },
+        "count": 11,
+        "count_details": {
+          "burst": 0,
+          "normal": 11
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "❤️"
+        },
+        "count": 15,
+        "count_details": {
+          "burst": 0,
+          "normal": 15
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "💀"
+        },
+        "count": 11,
+        "count_details": {
+          "burst": 0,
+          "normal": 11
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🩵"
+        },
+        "count": 6,
+        "count_details": {
+          "burst": 0,
+          "normal": 6
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "677142270658609183",
+          "name": "y1",
+          "animated": true
+        },
+        "count": 12,
+        "count_details": {
+          "burst": 0,
+          "normal": 12
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1101692875248521366",
+          "name": "grumblo_thumbsup"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1133056574982725733",
+          "name": "wave",
+          "animated": true
+        },
+        "count": 7,
+        "count_details": {
+          "burst": 0,
+          "normal": 7
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🧠"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🐦‍⬛"
+        },
+        "count": 6,
+        "count_details": {
+          "burst": 0,
+          "normal": 6
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "6️⃣"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "⛏️"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 3,
+          "normal": 0
+        },
+        "burst_colors": [
+          "#4c704f",
+          "#f08d0e",
+          "#5a6770",
+          "#686f70",
+          "#d08626",
+          "#a07845",
+          "#907450",
+          "#b07b36",
+          "#c0812f",
+          "#907859"
+        ],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 3
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "Dig day 8\nReward 50 boxes",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1497844774571606177",
+        "filename": "image.png",
+        "size": 986037,
+        "url": "https://cdn.discordapp.com/attachments/1494748735480266893/1497844774571606177/image.png?ex=6a0f4ce6&is=6a0dfb66&hm=f7c1ef49af767a83daf36514c011a0815283dfe6b71fe8b1b41f3f34740aae39&",
+        "proxy_url": "https://media.discordapp.net/attachments/1494748735480266893/1497844774571606177/image.png?ex=6a0f4ce6&is=6a0dfb66&hm=f7c1ef49af767a83daf36514c011a0815283dfe6b71fe8b1b41f3f34740aae39&",
+        "width": 1793,
+        "height": 1004,
+        "content_type": "image/png",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "z+cFBIJohomAd4h8mHEge4WA5Q==",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2026-04-26T06:20:22.964000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1497844774974128188",
+    "channel_id": "1494748735480266893",
+    "author": {
+      "id": "321062097188421632",
+      "username": "rabanete",
+      "avatar": "0bb11b2b8d951d1f423aaf5fa920ef92",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Rabanete",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 134,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "❤️"
+        },
+        "count": 64,
+        "count_details": {
+          "burst": 0,
+          "normal": 64
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍"
+        },
+        "count": 40,
+        "count_details": {
+          "burst": 0,
+          "normal": 40
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "481714069930246147",
+          "name": "YES"
+        },
+        "count": 34,
+        "count_details": {
+          "burst": 0,
+          "normal": 34
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🫡"
+        },
+        "count": 18,
+        "count_details": {
+          "burst": 0,
+          "normal": 18
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🤌"
+        },
+        "count": 9,
+        "count_details": {
+          "burst": 0,
+          "normal": 9
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "💩"
+        },
+        "count": 12,
+        "count_details": {
+          "burst": 0,
+          "normal": 12
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "⛏️"
+        },
+        "count": 8,
+        "count_details": {
+          "burst": 0,
+          "normal": 8
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 5,
+          "normal": 0
+        },
+        "burst_colors": [
+          "#000000",
+          "#7af077",
+          "#078032",
+          "#e1f0e0",
+          "#29e047",
+          "#465045",
+          "#285027",
+          "#37e043",
+          "#13a037",
+          "#0b4014"
+        ],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 5
+      },
+      {
+        "emoji": {
+          "id": "677142270658609183",
+          "name": "y1",
+          "animated": true
+        },
+        "count": 6,
+        "count_details": {
+          "burst": 0,
+          "normal": 6
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "563297696388087828",
+          "name": "2_"
+        },
+        "count": 6,
+        "count_details": {
+          "burst": 0,
+          "normal": 6
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "✅"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1355714391231954994",
+          "name": "happy",
+          "animated": true
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🩵"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1133056574982725733",
+          "name": "wave",
+          "animated": true
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "654368344723685397",
+          "name": "crydeath"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "Dig Day 9\nReward free event spins",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1498133580206051440",
+        "filename": "image.png",
+        "size": 1836586,
+        "url": "https://cdn.discordapp.com/attachments/1494748735480266893/1498133580206051440/image.png?ex=6a0f085f&is=6a0db6df&hm=4841163ca71c89b80b2b10b2fb5793165484a300f0e36347acdd2ceb835e7bab&",
+        "proxy_url": "https://media.discordapp.net/attachments/1494748735480266893/1498133580206051440/image.png?ex=6a0f085f&is=6a0db6df&hm=4841163ca71c89b80b2b10b2fb5793165484a300f0e36347acdd2ceb835e7bab&",
+        "width": 1920,
+        "height": 1080,
+        "content_type": "image/png",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "3McFHIRyaWhvmYh2iJBboOeg+w==",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2026-04-27T01:27:59.555000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1498133580449316894",
+    "channel_id": "1494748735480266893",
+    "author": {
+      "id": "252749107519684608",
+      "username": "deathlyzer0",
+      "avatar": "439f4294c4ba0815240a9f8621aa828d",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "DeathlyZer0",
+      "avatar_decoration_data": {
+        "asset": "a_4d60f7270b12d3939b108859982af4cd",
+        "sku_id": "1440063059740852315",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1409898407920668782",
+          "asset": "nameplates/lunar_eclipse/moonlit_charm/",
+          "label": "COLLECTIBLES_LUNAR_ECLIPSE_MOONLIT_CHARM_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 3,
+        "colors": [
+          1589673
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 141,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "🔥"
+        },
+        "count": 33,
+        "count_details": {
+          "burst": 0,
+          "normal": 33
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "859584124657074186",
+          "name": "Dogge"
+        },
+        "count": 12,
+        "count_details": {
+          "burst": 0,
+          "normal": 12
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "481714069930246147",
+          "name": "YES"
+        },
+        "count": 36,
+        "count_details": {
+          "burst": 0,
+          "normal": 36
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🐴"
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "1️⃣"
+        },
+        "count": 6,
+        "count_details": {
+          "burst": 0,
+          "normal": 6
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍"
+        },
+        "count": 11,
+        "count_details": {
+          "burst": 0,
+          "normal": 11
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "❤️"
+        },
+        "count": 6,
+        "count_details": {
+          "burst": 0,
+          "normal": 6
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇷"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇪"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇦"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇩"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "👎"
+        },
+        "count": 12,
+        "count_details": {
+          "burst": 0,
+          "normal": 12
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🐸"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "677142270658609183",
+          "name": "y1",
+          "animated": true
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🫂"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "730470184611086397",
+          "name": "S_letter"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1133056574982725733",
+          "name": "wave",
+          "animated": true
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1114306970816630876",
+          "name": "Grumblo_Pray"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "In case it makes things more clear",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1498329444409151518",
+        "filename": "image.png",
+        "size": 56986,
+        "url": "https://cdn.discordapp.com/attachments/1494748735480266893/1498329444409151518/image.png?ex=6a0f1609&is=6a0dc489&hm=13e4563ab7a033f6da488b4ac4ba85615ffef8345477cd6bc170e8b994ce1049&",
+        "proxy_url": "https://media.discordapp.net/attachments/1494748735480266893/1498329444409151518/image.png?ex=6a0f1609&is=6a0dc489&hm=13e4563ab7a033f6da488b4ac4ba85615ffef8345477cd6bc170e8b994ce1049&",
+        "width": 370,
+        "height": 443,
+        "content_type": "image/webp",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "4NcJJgK3efiYeYh4d4R2dqeYS4CasIw=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2026-04-27T14:26:17.275000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1498329444882976818",
+    "channel_id": "1494748735480266893",
+    "author": {
+      "id": "99742137230319616",
+      "username": "hotair",
+      "avatar": "a_cc08294b2a80e575d0b817495d7da200",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Hotair - 4 days",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712162738196",
+          "asset": "nameplates/nameplates_v2/sword_of_legend/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SWORD_OF_LEGEND_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 145,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 85,
+        "count_details": {
+          "burst": 0,
+          "normal": 85
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1101692875248521366",
+          "name": "grumblo_thumbsup"
+        },
+        "count": 22,
+        "count_details": {
+          "burst": 0,
+          "normal": 22
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "893568709799587841",
+          "name": "bobdanceslow",
+          "animated": true
+        },
+        "count": 21,
+        "count_details": {
+          "burst": 0,
+          "normal": 21
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "903820975194374164",
+          "name": "bobdance",
+          "animated": true
+        },
+        "count": 17,
+        "count_details": {
+          "burst": 0,
+          "normal": 17
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🛐"
+        },
+        "count": 11,
+        "count_details": {
+          "burst": 0,
+          "normal": 11
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1187182789293002802",
+          "name": "skellydance",
+          "animated": true
+        },
+        "count": 16,
+        "count_details": {
+          "burst": 0,
+          "normal": 16
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "802765215065702401",
+          "name": "IdleOn_Meel",
+          "animated": true
+        },
+        "count": 11,
+        "count_details": {
+          "burst": 0,
+          "normal": 11
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1098050666028597320",
+          "name": "grumblo_steal"
+        },
+        "count": 6,
+        "count_details": {
+          "burst": 0,
+          "normal": 6
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🐴"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1102342435637559377",
+          "name": "Grumblo_xplode"
+        },
+        "count": 8,
+        "count_details": {
+          "burst": 0,
+          "normal": 8
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1133056574982725733",
+          "name": "wave",
+          "animated": true
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1322159156932907100",
+          "name": "Text_100"
+        },
+        "count": 6,
+        "count_details": {
+          "burst": 0,
+          "normal": 6
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "832358191471001602",
+          "name": "keqinglove"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "✅"
+        },
+        "count": 8,
+        "count_details": {
+          "burst": 0,
+          "normal": 8
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇨"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇱"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇪"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "586137159074054144",
+          "name": "HEART",
+          "animated": true
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "❓"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "DIG DAY 10\nReward 30 boxes",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1498781805502009384",
+        "filename": "image.png",
+        "size": 681256,
+        "url": "https://cdn.discordapp.com/attachments/1494748735480266893/1498781805502009384/image.png?ex=6a0f69d4&is=6a0e1854&hm=12a291ef05d6dc56dfa08962ca33475c62bda70eae89b0c74cb540a8a9bc9633&",
+        "proxy_url": "https://media.discordapp.net/attachments/1494748735480266893/1498781805502009384/image.png?ex=6a0f69d4&is=6a0e1854&hm=12a291ef05d6dc56dfa08962ca33475c62bda70eae89b0c74cb540a8a9bc9633&",
+        "width": 1190,
+        "height": 593,
+        "content_type": "image/png",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "2cYFE4R3mYhQmWiVf6nj+Jo=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2026-04-28T20:23:48.439000+00:00",
+    "edited_timestamp": "2026-04-28T21:21:05.455000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1498781805451411728",
+    "channel_id": "1494748735480266893",
+    "author": {
+      "id": "596905749054095373",
+      "username": "transgardevoir",
+      "avatar": "d9927bfe528da8ae8b4c9d08379eac49",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "TransGardevoir",
+      "avatar_decoration_data": {
+        "asset": "a_c3cffc19e9784f7d0b005eecdf1b566e",
+        "sku_id": "1212569433839636530",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 150,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "💀"
+        },
+        "count": 92,
+        "count_details": {
+          "burst": 0,
+          "normal": 92
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 47,
+        "count_details": {
+          "burst": 0,
+          "normal": 47
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🔟"
+        },
+        "count": 11,
+        "count_details": {
+          "burst": 0,
+          "normal": 11
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1133056574982725733",
+          "name": "wave",
+          "animated": true
+        },
+        "count": 6,
+        "count_details": {
+          "burst": 0,
+          "normal": 6
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1102341004981436489",
+          "name": "Grumblo_disappointed"
+        },
+        "count": 14,
+        "count_details": {
+          "burst": 0,
+          "normal": 14
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "❤️"
+        },
+        "count": 10,
+        "count_details": {
+          "burst": 0,
+          "normal": 10
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "530924815113125898",
+          "name": "lavapls"
+        },
+        "count": 20,
+        "count_details": {
+          "burst": 0,
+          "normal": 20
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "593003467065262080",
+          "name": "s_"
+        },
+        "count": 15,
+        "count_details": {
+          "burst": 0,
+          "normal": 15
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🅰️"
+        },
+        "count": 15,
+        "count_details": {
+          "burst": 0,
+          "normal": 15
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇩"
+        },
+        "count": 15,
+        "count_details": {
+          "burst": 0,
+          "normal": 15
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "732610212888051713",
+          "name": "fennekin_heart"
+        },
+        "count": 8,
+        "count_details": {
+          "burst": 0,
+          "normal": 8
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🐴"
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍"
+        },
+        "count": 14,
+        "count_details": {
+          "burst": 0,
+          "normal": 14
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "734531771319713853",
+          "name": "quirrelmonocle"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "986009265665888317",
+          "name": "Coin"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "894303903888310322",
+          "name": "EmojiSuperSad"
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "481714069930246147",
+          "name": "YES"
+        },
+        "count": 11,
+        "count_details": {
+          "burst": 0,
+          "normal": 11
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1114306970816630876",
+          "name": "Grumblo_Pray"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🩵"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "DIG DAY 11 \nReward 40 boxes",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1499199196803366942",
+        "filename": "image.png",
+        "size": 58266,
+        "url": "https://cdn.discordapp.com/attachments/1494748735480266893/1499199196803366942/image.png?ex=6a0ef44e&is=6a0da2ce&hm=de29d1b2a7ddef3c47c670740e4cc2a296a9e876f88e3b0fa30dccd1254d66dd&",
+        "proxy_url": "https://media.discordapp.net/attachments/1494748735480266893/1499199196803366942/image.png?ex=6a0ef44e&is=6a0da2ce&hm=de29d1b2a7ddef3c47c670740e4cc2a296a9e876f88e3b0fa30dccd1254d66dd&",
+        "width": 603,
+        "height": 456,
+        "content_type": "image/webp",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "aMcNFYJ3Z3h/d3eHeIiHdliMcHMI",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2026-04-30T00:02:22.412000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1499199197306687621",
+    "channel_id": "1494748735480266893",
+    "author": {
+      "id": "783798819342123039",
+      "username": "bluhuskrin5",
+      "avatar": "2dfdfe41ce6923daac07ac9f686fd65b",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "canamancanman",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 155,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "481714069930246147",
+          "name": "YES"
+        },
+        "count": 49,
+        "count_details": {
+          "burst": 0,
+          "normal": 49
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1097570274230145125",
+          "name": "grumblo_shh"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "😭"
+        },
+        "count": 155,
+        "count_details": {
+          "burst": 0,
+          "normal": 155
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "824192287873040384",
+          "name": "UpDownEmote1"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "👎"
+        },
+        "count": 52,
+        "count_details": {
+          "burst": 0,
+          "normal": 52
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🐢"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "894303903888310322",
+          "name": "EmojiSuperSad"
+        },
+        "count": 35,
+        "count_details": {
+          "burst": 0,
+          "normal": 35
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "859584397539278859",
+          "name": "GuyMontag"
+        },
+        "count": 8,
+        "count_details": {
+          "burst": 0,
+          "normal": 8
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇼"
+        },
+        "count": 60,
+        "count_details": {
+          "burst": 0,
+          "normal": 60
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇹"
+        },
+        "count": 56,
+        "count_details": {
+          "burst": 0,
+          "normal": 56
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇫"
+        },
+        "count": 57,
+        "count_details": {
+          "burst": 0,
+          "normal": 57
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "859584124657074186",
+          "name": "Dogge"
+        },
+        "count": 10,
+        "count_details": {
+          "burst": 0,
+          "normal": 10
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🐴"
+        },
+        "count": 6,
+        "count_details": {
+          "burst": 0,
+          "normal": 6
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "474784990521983008",
+          "name": "hanging"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "382048134013911041",
+          "name": "TastyGun"
+        },
+        "count": 14,
+        "count_details": {
+          "burst": 0,
+          "normal": 14
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "812252292597547018",
+          "name": "Hearto"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "😢"
+        },
+        "count": 35,
+        "count_details": {
+          "burst": 0,
+          "normal": 35
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1102342435637559377",
+          "name": "Grumblo_xplode"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "dig day 12\nreward 40 boxes",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1499456169499037869",
+        "filename": "image.png",
+        "size": 328100,
+        "url": "https://cdn.discordapp.com/attachments/1494748735480266893/1499456169499037869/image.png?ex=6a0f3ae1&is=6a0de961&hm=b087059af88ce5e4b731cca4ea44ac7cdf677f4fbc719bd92e9eeb9fd6114cb5&",
+        "proxy_url": "https://media.discordapp.net/attachments/1494748735480266893/1499456169499037869/image.png?ex=6a0f3ae1&is=6a0de961&hm=b087059af88ce5e4b731cca4ea44ac7cdf677f4fbc719bd92e9eeb9fd6114cb5&",
+        "width": 1197,
+        "height": 676,
+        "content_type": "image/webp",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "GccFBIBLd0awZ4h8mWlQVQErYA==",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2026-04-30T17:03:29.376000+00:00",
+    "edited_timestamp": "2026-04-30T17:03:35.624000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1499456169578860617",
+    "channel_id": "1494748735480266893",
+    "author": {
+      "id": "596905749054095373",
+      "username": "transgardevoir",
+      "avatar": "d9927bfe528da8ae8b4c9d08379eac49",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "TransGardevoir",
+      "avatar_decoration_data": {
+        "asset": "a_c3cffc19e9784f7d0b005eecdf1b566e",
+        "sku_id": "1212569433839636530",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 157,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "1114306970816630876",
+          "name": "Grumblo_Pray"
+        },
+        "count": 62,
+        "count_details": {
+          "burst": 0,
+          "normal": 62
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍"
+        },
+        "count": 58,
+        "count_details": {
+          "burst": 0,
+          "normal": 58
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "❤️"
+        },
+        "count": 17,
+        "count_details": {
+          "burst": 0,
+          "normal": 17
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1093851276489539694",
+          "name": "vergilemote"
+        },
+        "count": 6,
+        "count_details": {
+          "burst": 6,
+          "normal": 0
+        },
+        "burst_colors": [
+          "#0a0910",
+          "#0b0a10",
+          "#141320",
+          "#0e1c30",
+          "#121120",
+          "#111320",
+          "#0e3050",
+          "#a8c8d0",
+          "#a8cbd0",
+          "#151620"
+        ],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 6
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🎀"
+        },
+        "count": 9,
+        "count_details": {
+          "burst": 0,
+          "normal": 9
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🐴"
+        },
+        "count": 8,
+        "count_details": {
+          "burst": 0,
+          "normal": 8
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "481714069930246147",
+          "name": "YES"
+        },
+        "count": 32,
+        "count_details": {
+          "burst": 0,
+          "normal": 32
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🐈"
+        },
+        "count": 8,
+        "count_details": {
+          "burst": 0,
+          "normal": 8
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "859584124657074186",
+          "name": "Dogge"
+        },
+        "count": 9,
+        "count_details": {
+          "burst": 0,
+          "normal": 9
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1098086015396225065",
+          "name": "Grumblo_Pensive"
+        },
+        "count": 7,
+        "count_details": {
+          "burst": 0,
+          "normal": 7
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "677142270658609183",
+          "name": "y1",
+          "animated": true
+        },
+        "count": 16,
+        "count_details": {
+          "burst": 0,
+          "normal": 16
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍🏾"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "👎"
+        },
+        "count": 16,
+        "count_details": {
+          "burst": 0,
+          "normal": 16
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "813876254331109386",
+          "name": "BobJourneyPickle"
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🩵"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1133056574982725733",
+          "name": "wave",
+          "animated": true
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1357508546404679870",
+          "name": "timmy"
+        },
+        "count": 8,
+        "count_details": {
+          "burst": 0,
+          "normal": 8
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "908436313835966544",
+          "name": "travolta",
+          "animated": true
+        },
+        "count": 10,
+        "count_details": {
+          "burst": 0,
+          "normal": 10
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  }
+]

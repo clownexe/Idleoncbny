@@ -1,0 +1,6793 @@
+[
+  {
+    "type": 0,
+    "content": "This Guide sheet will cover everything related to the release of world 7, including all the changes from world 1 to 6.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1435867889499508826",
+        "filename": "World_7_Guide_Sheet.png",
+        "size": 2535750,
+        "url": "https://cdn.discordapp.com/attachments/1435867886877937804/1435867889499508826/World_7_Guide_Sheet.png?ex=6a0f44ed&is=6a0df36d&hm=8b4802fa0fce0182bc72855652ef884f9e4bf43e7d772f28f5688078d6d2ea2b&",
+        "proxy_url": "https://media.discordapp.net/attachments/1435867886877937804/1435867889499508826/World_7_Guide_Sheet.png?ex=6a0f44ed&is=6a0df36d&hm=8b4802fa0fce0182bc72855652ef884f9e4bf43e7d772f28f5688078d6d2ea2b&",
+        "width": 1536,
+        "height": 1024,
+        "content_type": "image/png",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "IXYJJZBYd3h/iHeIh5iHhphwiwm3",
+        "placeholder_version": 1,
+        "title": "World 7 Guide Sheet"
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2025-11-06T05:46:21.367000+00:00",
+    "edited_timestamp": "2025-11-06T05:49:19.867000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1435867886877937804",
+    "channel_id": "1435867886877937804",
+    "author": {
+      "id": "242777199248277504",
+      "username": "trickzbunny",
+      "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trickzbunny",
+      "avatar_decoration_data": {
+        "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+        "sku_id": "1256321669467865088",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1437881614159056979",
+          "asset": "nameplates/peanut/light_wall_blue/",
+          "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 6,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 152,
+        "count_details": {
+          "burst": 0,
+          "normal": 152
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1302490515744358461",
+          "name": "BunnyDrool"
+        },
+        "count": 12,
+        "count_details": {
+          "burst": 0,
+          "normal": 12
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1357391837228302407",
+          "name": "bunnymaracas",
+          "animated": true
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1357388717223973015",
+          "name": "bunnyhappy",
+          "animated": true
+        },
+        "count": 7,
+        "count_details": {
+          "burst": 0,
+          "normal": 7
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "988409135605379163",
+          "name": "doggiedance",
+          "animated": true
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1143236747338203268",
+          "name": "dogdance",
+          "animated": true
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1315970234934497310",
+          "name": "raccdance",
+          "animated": true
+        },
+        "count": 6,
+        "count_details": {
+          "burst": 0,
+          "normal": 6
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "675101718551330849",
+          "name": "WoweeDance2",
+          "animated": true
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1208199310777393153",
+          "name": "happytroll"
+        },
+        "count": 8,
+        "count_details": {
+          "burst": 0,
+          "normal": 8
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "802573243298086984",
+          "name": "Check_Pins"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1085272542866067506",
+          "name": "Pins",
+          "animated": true
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🦧"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1364715678363287562",
+          "name": "DevilCatHands",
+          "animated": true
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1114306970816630876",
+          "name": "Grumblo_Pray"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1430971792394158212",
+          "name": "Fiiiii"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1176186264895111289",
+          "name": "stillerfuchs"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1101690217913663649",
+          "name": "Pregnant_Male_Grumblo"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "852416161786101771",
+          "name": "ArrowDown"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "Unlike previous guide, it will all be within a google spreadsheet.\n\nI will not be present at update time (few hours late).\n\nLink to sheet:\nhttps://docs.google.com/spreadsheets/d/19GM0RDazB4k7z4nHrKOeiKRw41w1nB4y7K7C5tlPVDs/edit?usp=sharing\n\nDo NOT write anything in this thread, please use <#1203779146937933844>  and ping <@242777199248277504>  ty.",
+    "mentions": [
+      {
+        "id": "242777199248277504",
+        "username": "trickzbunny",
+        "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Trickzbunny",
+        "avatar_decoration_data": {
+          "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+          "sku_id": "1256321669467865088",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1437881614159056979",
+            "asset": "nameplates/peanut/light_wall_blue/",
+            "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+            "palette": "cobalt"
+          }
+        },
+        "display_name_styles": {
+          "font_id": 6,
+          "effect_id": 3,
+          "colors": [
+            1874155
+          ]
+        },
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "link",
+        "url": "https://docs.google.com/spreadsheets/d/19GM0RDazB4k7z4nHrKOeiKRw41w1nB4y7K7C5tlPVDs/edit?usp=sharing",
+        "title": "[IdleOn] W7 Guide Sheet",
+        "provider": {
+          "name": "Google Docs"
+        },
+        "thumbnail": {
+          "url": "https://lh7-us.googleusercontent.com/docs/AHkbwyJ7AjYcDY7tjNCBH74gOq_aSb2Us-YlNtEKAHNcGQFzFJp5HaWWP-pT0a1tg7X1aLDbNSoDJne-Shkx2exxhNuuz3UFFaWCc_TXPjFVv3pT3UiLg-mp=w1200-h630-p",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/LItVoFVtYLFKNKbBV-ORG6jfKgFwO-gMSJYzuYM7MPk/https/lh7-us.googleusercontent.com/docs/AHkbwyJ7AjYcDY7tjNCBH74gOq_aSb2Us-YlNtEKAHNcGQFzFJp5HaWWP-pT0a1tg7X1aLDbNSoDJne-Shkx2exxhNuuz3UFFaWCc_TXPjFVv3pT3UiLg-mp%3Dw1200-h630-p",
+          "width": 1200,
+          "height": 630,
+          "flags": 0
+        },
+        "content_scan_version": 4
+      }
+    ],
+    "timestamp": "2025-11-06T05:46:32.256000+00:00",
+    "edited_timestamp": "2025-11-09T06:07:11.450000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1435867932549840902",
+    "channel_id": "1435867886877937804",
+    "author": {
+      "id": "242777199248277504",
+      "username": "trickzbunny",
+      "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trickzbunny",
+      "avatar_decoration_data": {
+        "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+        "sku_id": "1256321669467865088",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1437881614159056979",
+          "asset": "nameplates/peanut/light_wall_blue/",
+          "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 6,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇧🇷"
+        },
+        "count": 26,
+        "count_details": {
+          "burst": 0,
+          "normal": 26
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇷🇺"
+        },
+        "count": 6,
+        "count_details": {
+          "burst": 0,
+          "normal": 6
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "⏳"
+        },
+        "count": 8,
+        "count_details": {
+          "burst": 0,
+          "normal": 8
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇷🇴"
+        },
+        "count": 9,
+        "count_details": {
+          "burst": 0,
+          "normal": 9
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇩🇪"
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇲🇩"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇫🇷"
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1098050666028597320",
+          "name": "grumblo_steal"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 1,
+          "normal": 0
+        },
+        "burst_colors": [
+          "#000000",
+          "#b07857",
+          "#804c37",
+          "#d09867",
+          "#f0f0f0",
+          "#0a0d10",
+          "#f0cc86",
+          "#603423",
+          "#401c13",
+          "#b0b0b0"
+        ],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 1
+      },
+      {
+        "emoji": {
+          "id": "1429127462985666652",
+          "name": "amHeart"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "👌"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "❤️"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": ".",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-06T05:46:32.608000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1435867934026108979",
+    "channel_id": "1435867886877937804",
+    "author": {
+      "id": "242777199248277504",
+      "username": "trickzbunny",
+      "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trickzbunny",
+      "avatar_decoration_data": {
+        "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+        "sku_id": "1256321669467865088",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1437881614159056979",
+          "asset": "nameplates/peanut/light_wall_blue/",
+          "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 6,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 1,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇧🇷"
+        },
+        "count": 15,
+        "count_details": {
+          "burst": 0,
+          "normal": 15
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "Sheet Updates: *(will add newest parts to the top)*\n\nNov 8, Evening\n- Tab world 7 still \n- Tab Spelunking started external content sources, spelunking overview, needs tips and strategies, filling in suggested pow/sta \n- Tab \"World 1-6 Change\" has w1-3, still needs screenshots, and needs w4-6\n\nPre Release\n- Layout created",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-06T05:46:32.899000+00:00",
+    "edited_timestamp": "2025-11-09T05:33:00.636000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1435867935246913586",
+    "channel_id": "1435867886877937804",
+    "author": {
+      "id": "242777199248277504",
+      "username": "trickzbunny",
+      "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trickzbunny",
+      "avatar_decoration_data": {
+        "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+        "sku_id": "1256321669467865088",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1437881614159056979",
+          "asset": "nameplates/peanut/light_wall_blue/",
+          "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 6,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 2,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇧🇷"
+        },
+        "count": 18,
+        "count_details": {
+          "burst": 0,
+          "normal": 18
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": ".",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-06T05:46:33.751000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1435867938820329493",
+    "channel_id": "1435867886877937804",
+    "author": {
+      "id": "242777199248277504",
+      "username": "trickzbunny",
+      "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trickzbunny",
+      "avatar_decoration_data": {
+        "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+        "sku_id": "1256321669467865088",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1437881614159056979",
+          "asset": "nameplates/peanut/light_wall_blue/",
+          "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 6,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 3,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "949466630856015912",
+          "name": "W4emoji1"
+        },
+        "count": 61,
+        "count_details": {
+          "burst": 0,
+          "normal": 61
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1052745546030403596",
+          "name": "W5b"
+        },
+        "count": 9,
+        "count_details": {
+          "burst": 0,
+          "normal": 9
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1191507343163273327",
+          "name": "W6c"
+        },
+        "count": 8,
+        "count_details": {
+          "burst": 0,
+          "normal": 8
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "809274836328775690",
+          "name": "negativeseven"
+        },
+        "count": 7,
+        "count_details": {
+          "burst": 0,
+          "normal": 7
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇧🇷"
+        },
+        "count": 12,
+        "count_details": {
+          "burst": 0,
+          "normal": 12
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1101690217913663649",
+          "name": "Pregnant_Male_Grumblo"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": ".",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-06T05:46:34.077000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1435867940187537479",
+    "channel_id": "1435867886877937804",
+    "author": {
+      "id": "242777199248277504",
+      "username": "trickzbunny",
+      "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trickzbunny",
+      "avatar_decoration_data": {
+        "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+        "sku_id": "1256321669467865088",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1437881614159056979",
+          "asset": "nameplates/peanut/light_wall_blue/",
+          "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 6,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 4,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "1052745546030403596",
+          "name": "W5b"
+        },
+        "count": 50,
+        "count_details": {
+          "burst": 0,
+          "normal": 50
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇧🇷"
+        },
+        "count": 12,
+        "count_details": {
+          "burst": 0,
+          "normal": 12
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1050943286862422096",
+          "name": "holdthis"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": ".",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-06T05:46:34.357000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1435867941361942564",
+    "channel_id": "1435867886877937804",
+    "author": {
+      "id": "242777199248277504",
+      "username": "trickzbunny",
+      "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trickzbunny",
+      "avatar_decoration_data": {
+        "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+        "sku_id": "1256321669467865088",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1437881614159056979",
+          "asset": "nameplates/peanut/light_wall_blue/",
+          "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 6,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 5,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "1191507343163273327",
+          "name": "W6c"
+        },
+        "count": 49,
+        "count_details": {
+          "burst": 0,
+          "normal": 49
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇧🇷"
+        },
+        "count": 11,
+        "count_details": {
+          "burst": 0,
+          "normal": 11
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": ".",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-06T05:46:34.727000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1435867942914097233",
+    "channel_id": "1435867886877937804",
+    "author": {
+      "id": "242777199248277504",
+      "username": "trickzbunny",
+      "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trickzbunny",
+      "avatar_decoration_data": {
+        "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+        "sku_id": "1256321669467865088",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1437881614159056979",
+          "asset": "nameplates/peanut/light_wall_blue/",
+          "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 6,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 6,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "809274836328775690",
+          "name": "negativeseven"
+        },
+        "count": 62,
+        "count_details": {
+          "burst": 0,
+          "normal": 62
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1191507354601144471",
+          "name": "W6d"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇧🇷"
+        },
+        "count": 10,
+        "count_details": {
+          "burst": 0,
+          "normal": 10
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": ".",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-06T05:46:34.949000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1435867943845105685",
+    "channel_id": "1435867886877937804",
+    "author": {
+      "id": "242777199248277504",
+      "username": "trickzbunny",
+      "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trickzbunny",
+      "avatar_decoration_data": {
+        "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+        "sku_id": "1256321669467865088",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1437881614159056979",
+          "asset": "nameplates/peanut/light_wall_blue/",
+          "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 6,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 7,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "👌🏽"
+        },
+        "count": 9,
+        "count_details": {
+          "burst": 0,
+          "normal": 9
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇧🇷"
+        },
+        "count": 10,
+        "count_details": {
+          "burst": 0,
+          "normal": 10
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": ".",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-06T05:46:35.622000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1435867946667868292",
+    "channel_id": "1435867886877937804",
+    "author": {
+      "id": "242777199248277504",
+      "username": "trickzbunny",
+      "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trickzbunny",
+      "avatar_decoration_data": {
+        "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+        "sku_id": "1256321669467865088",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1437881614159056979",
+          "asset": "nameplates/peanut/light_wall_blue/",
+          "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 6,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 8,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇧🇷"
+        },
+        "count": 17,
+        "count_details": {
+          "burst": 0,
+          "normal": 17
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇰🇿"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": ".",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-06T05:46:35.973000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1435867948140204043",
+    "channel_id": "1435867886877937804",
+    "author": {
+      "id": "242777199248277504",
+      "username": "trickzbunny",
+      "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trickzbunny",
+      "avatar_decoration_data": {
+        "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+        "sku_id": "1256321669467865088",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1437881614159056979",
+          "asset": "nameplates/peanut/light_wall_blue/",
+          "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 6,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 9,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇧🇷"
+        },
+        "count": 14,
+        "count_details": {
+          "burst": 0,
+          "normal": 14
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": ".",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-06T05:46:36.148000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1435867948873945148",
+    "channel_id": "1435867886877937804",
+    "author": {
+      "id": "242777199248277504",
+      "username": "trickzbunny",
+      "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trickzbunny",
+      "avatar_decoration_data": {
+        "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+        "sku_id": "1256321669467865088",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1437881614159056979",
+          "asset": "nameplates/peanut/light_wall_blue/",
+          "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 6,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 10,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇧🇷"
+        },
+        "count": 16,
+        "count_details": {
+          "burst": 0,
+          "normal": 16
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "❤️"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": ".",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-06T05:46:36.318000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1435867949587108011",
+    "channel_id": "1435867886877937804",
+    "author": {
+      "id": "242777199248277504",
+      "username": "trickzbunny",
+      "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trickzbunny",
+      "avatar_decoration_data": {
+        "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+        "sku_id": "1256321669467865088",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1437881614159056979",
+          "asset": "nameplates/peanut/light_wall_blue/",
+          "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 6,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 11,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇧🇷"
+        },
+        "count": 17,
+        "count_details": {
+          "burst": 0,
+          "normal": 17
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🫃"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": ".",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-06T05:46:36.690000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1435867951147520083",
+    "channel_id": "1435867886877937804",
+    "author": {
+      "id": "242777199248277504",
+      "username": "trickzbunny",
+      "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trickzbunny",
+      "avatar_decoration_data": {
+        "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+        "sku_id": "1256321669467865088",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1437881614159056979",
+          "asset": "nameplates/peanut/light_wall_blue/",
+          "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 6,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 12,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇧🇷"
+        },
+        "count": 14,
+        "count_details": {
+          "burst": 0,
+          "normal": 14
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇷🇴"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": ".",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-06T05:46:37.120000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1435867952951066656",
+    "channel_id": "1435867886877937804",
+    "author": {
+      "id": "242777199248277504",
+      "username": "trickzbunny",
+      "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trickzbunny",
+      "avatar_decoration_data": {
+        "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+        "sku_id": "1256321669467865088",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1437881614159056979",
+          "asset": "nameplates/peanut/light_wall_blue/",
+          "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 6,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 13,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇧🇷"
+        },
+        "count": 15,
+        "count_details": {
+          "burst": 0,
+          "normal": 15
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": ".",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-06T05:46:38.001000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1435867956645986414",
+    "channel_id": "1435867886877937804",
+    "author": {
+      "id": "242777199248277504",
+      "username": "trickzbunny",
+      "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trickzbunny",
+      "avatar_decoration_data": {
+        "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+        "sku_id": "1256321669467865088",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1437881614159056979",
+          "asset": "nameplates/peanut/light_wall_blue/",
+          "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 6,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 14,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇧🇷"
+        },
+        "count": 16,
+        "count_details": {
+          "burst": 0,
+          "normal": 16
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": ".",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-06T05:46:38.826000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1435867960106422385",
+    "channel_id": "1435867886877937804",
+    "author": {
+      "id": "242777199248277504",
+      "username": "trickzbunny",
+      "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trickzbunny",
+      "avatar_decoration_data": {
+        "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+        "sku_id": "1256321669467865088",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1437881614159056979",
+          "asset": "nameplates/peanut/light_wall_blue/",
+          "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 6,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 15,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇧🇷"
+        },
+        "count": 15,
+        "count_details": {
+          "burst": 0,
+          "normal": 15
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇹🇷"
+        },
+        "count": 8,
+        "count_details": {
+          "burst": 0,
+          "normal": 8
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "949466630856015912",
+          "name": "W4emoji1"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1052745546030403596",
+          "name": "W5b"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1191507343163273327",
+          "name": "W6c"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "7️⃣"
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "809274836328775690",
+          "name": "negativeseven"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "👆"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "**I will not be present at update time (few hours late).**\nDo NOT write anything in this thread, please use <#1338949053538373673> and ping <@242777199248277504>  ty.",
+    "mentions": [
+      {
+        "id": "242777199248277504",
+        "username": "trickzbunny",
+        "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Trickzbunny",
+        "avatar_decoration_data": {
+          "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+          "sku_id": "1256321669467865088",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1437881614159056979",
+            "asset": "nameplates/peanut/light_wall_blue/",
+            "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+            "palette": "cobalt"
+          }
+        },
+        "display_name_styles": {
+          "font_id": 6,
+          "effect_id": 3,
+          "colors": [
+            1874155
+          ]
+        },
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-06T05:47:00.239000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1435868049919049749",
+    "channel_id": "1435867886877937804",
+    "author": {
+      "id": "242777199248277504",
+      "username": "trickzbunny",
+      "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trickzbunny",
+      "avatar_decoration_data": {
+        "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+        "sku_id": "1256321669467865088",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1437881614159056979",
+          "asset": "nameplates/peanut/light_wall_blue/",
+          "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 6,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 16,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "🫶"
+        },
+        "count": 22,
+        "count_details": {
+          "burst": 0,
+          "normal": 22
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇧🇷"
+        },
+        "count": 8,
+        "count_details": {
+          "burst": 0,
+          "normal": 8
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇩🇪"
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "😘"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "859584397539278859",
+          "name": "GuyMontag"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "699402677506801684",
+          "name": "LL"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "Where is the sheet",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-07T20:03:39.253000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1436446020874666126",
+    "channel_id": "1435867886877937804",
+    "author": {
+      "id": "1309314949847449601",
+      "username": "warmtoaster7",
+      "avatar": "ef7ee9656d8c83aa078fbd3332bd89c1",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Hallow",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 19,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "1179614091711623178",
+          "name": "KEKL"
+        },
+        "count": 21,
+        "count_details": {
+          "burst": 0,
+          "normal": 21
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "⁉️"
+        },
+        "count": 22,
+        "count_details": {
+          "burst": 0,
+          "normal": 22
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1208199310777393153",
+          "name": "happytroll"
+        },
+        "count": 8,
+        "count_details": {
+          "burst": 0,
+          "normal": 8
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 8,
+        "count_details": {
+          "burst": 0,
+          "normal": 8
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🤡"
+        },
+        "count": 47,
+        "count_details": {
+          "burst": 0,
+          "normal": 47
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇧"
+        },
+        "count": 44,
+        "count_details": {
+          "burst": 0,
+          "normal": 44
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇦"
+        },
+        "count": 44,
+        "count_details": {
+          "burst": 0,
+          "normal": 44
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇳"
+        },
+        "count": 44,
+        "count_details": {
+          "burst": 0,
+          "normal": 44
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🤦‍♂️"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇧🇷"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 19,
+    "content": "Even if it’s a real work in progress, it’s surely better than nothing. Even if it’s filled with speculation, so many are looking for guidance. (PLO?)",
+    "mentions": [
+      {
+        "id": "1309314949847449601",
+        "username": "warmtoaster7",
+        "avatar": "ef7ee9656d8c83aa078fbd3332bd89c1",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Hallow",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-07T20:34:42.791000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1436453837119422564",
+    "channel_id": "1435867886877937804",
+    "author": {
+      "id": "767818830134247444",
+      "username": "amutantcow",
+      "avatar": "dcc2752b0aab960d472ee4978282b690",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "amutantcow",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "669128285527080961",
+        "identity_enabled": true,
+        "tag": "WoWs",
+        "badge": "7b571a46a1266491cfabe2e362aad176"
+      },
+      "primary_guild": {
+        "identity_guild_id": "669128285527080961",
+        "identity_enabled": true,
+        "tag": "WoWs",
+        "badge": "7b571a46a1266491cfabe2e362aad176"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1435867886877937804",
+      "message_id": "1436446020874666126",
+      "guild_id": "437797104786604034"
+    },
+    "position": 20,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "🤡"
+        },
+        "count": 60,
+        "count_details": {
+          "burst": 0,
+          "normal": 60
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇧"
+        },
+        "count": 47,
+        "count_details": {
+          "burst": 0,
+          "normal": 47
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇦"
+        },
+        "count": 45,
+        "count_details": {
+          "burst": 0,
+          "normal": 45
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇳"
+        },
+        "count": 47,
+        "count_details": {
+          "burst": 0,
+          "normal": 47
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🤦‍♂️"
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ],
+    "referenced_message": {
+      "type": 0,
+      "content": "Where is the sheet",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-11-07T20:03:39.253000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1436446020874666126",
+      "channel_id": "1435867886877937804",
+      "author": {
+        "id": "1309314949847449601",
+        "username": "warmtoaster7",
+        "avatar": "ef7ee9656d8c83aa078fbd3332bd89c1",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Hallow",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 19
+    }
+  },
+  {
+    "type": 0,
+    "content": "I'd be happy with just an explanation of what is available, without the actual \"guide\" portion",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-07T22:05:20.045000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1436476642615754783",
+    "channel_id": "1435867886877937804",
+    "author": {
+      "id": "185261879290101760",
+      "username": "red7silence",
+      "avatar": "7542e4ab5454c2fbb83246e4fc24d238",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Redsilence",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 21,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "🤡"
+        },
+        "count": 53,
+        "count_details": {
+          "burst": 0,
+          "normal": 53
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇧"
+        },
+        "count": 47,
+        "count_details": {
+          "burst": 0,
+          "normal": 47
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇦"
+        },
+        "count": 44,
+        "count_details": {
+          "burst": 0,
+          "normal": 44
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇳"
+        },
+        "count": 45,
+        "count_details": {
+          "burst": 0,
+          "normal": 45
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "💀"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🫃"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "884185804551901244",
+          "name": "pepeclown",
+          "animated": true
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🤦‍♂️"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "Really?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-08T12:28:01.142000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1436693744392081452",
+    "channel_id": "1435867886877937804",
+    "author": {
+      "id": "636555493120278528",
+      "username": "misinformeddna",
+      "avatar": "276995db02054aa1d0652fe072b63ae1",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "MisinformedDNA",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 24,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "❓"
+        },
+        "count": 8,
+        "count_details": {
+          "burst": 0,
+          "normal": 8
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🤦‍♂️"
+        },
+        "count": 8,
+        "count_details": {
+          "burst": 0,
+          "normal": 8
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇧"
+        },
+        "count": 33,
+        "count_details": {
+          "burst": 0,
+          "normal": 33
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇦"
+        },
+        "count": 33,
+        "count_details": {
+          "burst": 0,
+          "normal": 33
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇳"
+        },
+        "count": 31,
+        "count_details": {
+          "burst": 0,
+          "normal": 31
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🤡"
+        },
+        "count": 35,
+        "count_details": {
+          "burst": 0,
+          "normal": 35
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "✅"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 19,
+    "content": "ong",
+    "mentions": [
+      {
+        "id": "773192392043790367",
+        "username": "mega_yairzzz",
+        "avatar": "4a99a3239e6149beeed7c6b945618708",
+        "discriminator": "0",
+        "public_flags": 256,
+        "flags": 256,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Mega",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "337985280969801728",
+          "identity_enabled": true,
+          "tag": "IL",
+          "badge": "ead40c6aa63f3427a25947f36b63bc0c"
+        },
+        "primary_guild": {
+          "identity_guild_id": "337985280969801728",
+          "identity_enabled": true,
+          "tag": "IL",
+          "badge": "ead40c6aa63f3427a25947f36b63bc0c"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-08T20:54:55.903000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1436821313145667745",
+    "channel_id": "1435867886877937804",
+    "author": {
+      "id": "801001975981408307",
+      "username": "lipos7",
+      "avatar": "f75493690624d21802ad1810f6c94126",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Lipos",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1435867886877937804",
+      "message_id": "1436820599400829112",
+      "guild_id": "437797104786604034"
+    },
+    "position": 27,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇧"
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇦"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇳"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ],
+    "referenced_message": null
+  },
+  {
+    "type": 0,
+    "content": "",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1436839651057995898",
+        "filename": "image.png",
+        "size": 3348,
+        "url": "https://cdn.discordapp.com/attachments/1435867886877937804/1436839651057995898/image.png?ex=6a0ed974&is=6a0d87f4&hm=c0e595d78bf5b376cda6108f4b3f630d4aa159945da3c9721a6ef7509dfb822b&",
+        "proxy_url": "https://media.discordapp.net/attachments/1435867886877937804/1436839651057995898/image.png?ex=6a0ed974&is=6a0d87f4&hm=c0e595d78bf5b376cda6108f4b3f630d4aa159945da3c9721a6ef7509dfb822b&",
+        "width": 421,
+        "height": 29,
+        "content_type": "image/webp",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "l/cJCYB2hneBiAeIH0r5sqQ=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2025-11-08T22:07:48.088000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1436839651418701888",
+    "channel_id": "1435867886877937804",
+    "author": {
+      "id": "289104113050976257",
+      "username": "og_voidum",
+      "avatar": "b2da2617ae7f7b9ec1c4a00fefac9a46",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Voidum",
+      "avatar_decoration_data": {
+        "asset": "a_6357695ea5c6a07227ec4ac36477f36c",
+        "sku_id": "1394404301211828324",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1394404301396377710",
+          "asset": "nameplates/petal/spirit_blossom_springs/",
+          "label": "COLLECTIBLES_PETAL_SPIRIT_BLOSSOM_SPRINGS_NP_A11Y",
+          "palette": "teal"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "831190792911323156",
+        "identity_enabled": true,
+        "tag": "ASH",
+        "badge": "ba8a90eede32aca30ce7305dfb77b4cd"
+      },
+      "primary_guild": {
+        "identity_guild_id": "831190792911323156",
+        "identity_enabled": true,
+        "tag": "ASH",
+        "badge": "ba8a90eede32aca30ce7305dfb77b4cd"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 28,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇳"
+        },
+        "count": 7,
+        "count_details": {
+          "burst": 0,
+          "normal": 7
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇴"
+        },
+        "count": 6,
+        "count_details": {
+          "burst": 0,
+          "normal": 6
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇮"
+        },
+        "count": 6,
+        "count_details": {
+          "burst": 0,
+          "normal": 6
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇲"
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇦"
+        },
+        "count": 6,
+        "count_details": {
+          "burst": 0,
+          "normal": 6
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇬"
+        },
+        "count": 6,
+        "count_details": {
+          "burst": 0,
+          "normal": 6
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇪"
+        },
+        "count": 6,
+        "count_details": {
+          "burst": 0,
+          "normal": 6
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇸"
+        },
+        "count": 6,
+        "count_details": {
+          "burst": 0,
+          "normal": 6
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "644766872213913600",
+          "name": "mad"
+        },
+        "count": 6,
+        "count_details": {
+          "burst": 0,
+          "normal": 6
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1156636164078448740",
+          "name": "yee"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇧"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "# How to get AFK Arcane Cultist:\r\nStep 1) Go on your Arcane Cultist and turn on Arcanist Form.\r\nStep 2) Kill things for a while. The faster your kills, the quicker you'll get it done, but go do murder.\r\nStep 3) After collecting 1000 fragments, hold click on them. Boom! You've unlocked afk tachyons!\r\nStep 4+) When you afk on your AC, you'll receive 1 Arcane Rock for every hour your afk session is. Afk for 2h40m? That's 2 Arcane Rocks.\r\n\r\nNotes:\r\n- If you have 2 AC's, you only need to do this once.\r\n- To get Arcane Rocks, you must be afk'ing combat. It doesn't matter whether you're in Arcanist Form or not. And no, no candy.\r\n- When using Arcane Rocks, they are based off your current AFK Info display. Kill some mobs for a bit first, then consume the item just as you would a candy.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-09T07:52:25.089000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1436986775024435281",
+    "channel_id": "1435867886877937804",
+    "author": {
+      "id": "828161279256297525",
+      "username": "Lava Lad",
+      "avatar": "34545fc87583fedfbcb5ecf8900fcc1d",
+      "discriminator": "4583",
+      "public_flags": 0,
+      "flags": 0,
+      "bot": true,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 31,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "❤️"
+        },
+        "count": 42,
+        "count_details": {
+          "burst": 0,
+          "normal": 42
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "ac",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-10T00:04:53.818000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1437231507331747860",
+    "channel_id": "1435867886877937804",
+    "author": {
+      "id": "180649351469727744",
+      "username": "joe07877",
+      "avatar": null,
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Malie",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "257785731072786435",
+        "identity_enabled": true,
+        "tag": "MUSH",
+        "badge": "8084d59ab2c97476363c0eb9c88c8486"
+      },
+      "primary_guild": {
+        "identity_guild_id": "257785731072786435",
+        "identity_enabled": true,
+        "tag": "MUSH",
+        "badge": "8084d59ab2c97476363c0eb9c88c8486"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 33,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇧"
+        },
+        "count": 23,
+        "count_details": {
+          "burst": 0,
+          "normal": 23
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇦"
+        },
+        "count": 23,
+        "count_details": {
+          "burst": 0,
+          "normal": 23
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇳"
+        },
+        "count": 22,
+        "count_details": {
+          "burst": 0,
+          "normal": 22
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇩"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇴"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🅾️"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇲"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "❤️"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇱"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1102342435637559377",
+          "name": "Grumblo_xplode"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "Well.... Where's the guide? <:eh:666624496093888512>",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-12T14:03:13.333000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1438167254520037478",
+    "channel_id": "1435867886877937804",
+    "author": {
+      "id": "1146676439740063784",
+      "username": "lilafricanspacedragon_68972",
+      "avatar": "05bc68b29e3f71a850eceb044d22c60d",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 39,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇧"
+        },
+        "count": 35,
+        "count_details": {
+          "burst": 0,
+          "normal": 35
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🅰️"
+        },
+        "count": 34,
+        "count_details": {
+          "burst": 0,
+          "normal": 34
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇳"
+        },
+        "count": 34,
+        "count_details": {
+          "burst": 0,
+          "normal": 34
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🔨"
+        },
+        "count": 16,
+        "count_details": {
+          "burst": 0,
+          "normal": 16
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇪"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🙄"
+        },
+        "count": 7,
+        "count_details": {
+          "burst": 0,
+          "normal": 7
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "💩"
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "859584124657074186",
+          "name": "Dogge"
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "666624745118236674",
+          "name": "IdleHMMMM"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1098087266930409492",
+          "name": "Grumblo_scared"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1098265789825560637",
+          "name": "Grumblo_angry"
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🤿"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "813876254331109386",
+          "name": "BobJourneyPickle"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🔥"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1018603122274349066",
+          "name": "PandaBlindfold"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1428640372472418408",
+          "name": "PepegaBlind"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🫂"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "spelunking",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-19T04:13:30.256000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1440555562197585930",
+    "channel_id": "1435867886877937804",
+    "author": {
+      "id": "978276673856340028",
+      "username": "khazuchi1922",
+      "avatar": "e9ad4126d44f24ffad8d9924d327069a",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Khazuchi",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1409983105577783410",
+          "asset": "nameplates/special_events_2/nitro_rocketfuel_nameplate/",
+          "label": "COLLECTIBLES_SEPTEMBER_2025_MARKETING_NAMEPLATE_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 41,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "813876254331109386",
+          "name": "BobJourneyPickle"
+        },
+        "count": 7,
+        "count_details": {
+          "burst": 0,
+          "normal": 7
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇧🇷"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🅱️"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "859584124657074186",
+          "name": "Dogge"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1018944433292574771",
+          "name": "AppleStore"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1073705262378123264",
+          "name": "LavaMouse"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "799037335147905024",
+          "name": "PogPig"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇳"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "852413823704498196",
+          "name": "Soulface"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "Can we get a vote to go back to the old guide style",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-20T18:09:47.794000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1441128409911525559",
+    "channel_id": "1435867886877937804",
+    "author": {
+      "id": "202238534558547969",
+      "username": "kbeeee",
+      "avatar": "0a8d71a42da7b460802661418fa185f1",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "KB",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 42,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "✅"
+        },
+        "count": 75,
+        "count_details": {
+          "burst": 0,
+          "normal": 75
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "❌"
+        },
+        "count": 47,
+        "count_details": {
+          "burst": 0,
+          "normal": 47
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "859584124657074186",
+          "name": "Dogge"
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 19,
+    "content": "Make a guide yourself in the old format, you'll understand how difficult and thankless it is",
+    "mentions": [
+      {
+        "id": "202238534558547969",
+        "username": "kbeeee",
+        "avatar": "0a8d71a42da7b460802661418fa185f1",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "KB",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-20T21:08:17.713000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1441173330567893262",
+    "channel_id": "1435867886877937804",
+    "author": {
+      "id": "340778319161196544",
+      "username": "realdan.",
+      "avatar": "ae917e08c659b3a1163f0bdee54ba730",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "RealDan",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1385035256058482798",
+          "asset": "nameplates/chance/red_dragon/",
+          "label": "COLLECTIBLES_CHANCE_RED_DRAGON_NP_A11Y",
+          "palette": "crimson"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1320546674849874050",
+        "identity_enabled": true,
+        "tag": "FATE",
+        "badge": "8f311f0413ab74d6fba9ecd8b9bd4db2"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1320546674849874050",
+        "identity_enabled": true,
+        "tag": "FATE",
+        "badge": "8f311f0413ab74d6fba9ecd8b9bd4db2"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1435867886877937804",
+      "message_id": "1441128409911525559",
+      "guild_id": "437797104786604034"
+    },
+    "position": 43,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "✅"
+        },
+        "count": 37,
+        "count_details": {
+          "burst": 0,
+          "normal": 37
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "439697153741291520",
+          "name": "bcaYaya6",
+          "animated": true
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "481713993623273481",
+          "name": "NO"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ],
+    "referenced_message": {
+      "type": 0,
+      "content": "Can we get a vote to go back to the old guide style",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-11-20T18:09:47.794000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1441128409911525559",
+      "channel_id": "1435867886877937804",
+      "author": {
+        "id": "202238534558547969",
+        "username": "kbeeee",
+        "avatar": "0a8d71a42da7b460802661418fa185f1",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "KB",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 42
+    }
+  },
+  {
+    "type": 0,
+    "content": "<:LavaMouse:1073705262378123264> <:Dogge:859584124657074186> <:grumblo_ugh:1097571520068460614>",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-21T05:20:57.132000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1441297311757107220",
+    "channel_id": "1435867886877937804",
+    "author": {
+      "id": "978276673856340028",
+      "username": "khazuchi1922",
+      "avatar": "e9ad4126d44f24ffad8d9924d327069a",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Khazuchi",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1409983105577783410",
+          "asset": "nameplates/special_events_2/nitro_rocketfuel_nameplate/",
+          "label": "COLLECTIBLES_SEPTEMBER_2025_MARKETING_NAMEPLATE_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 45,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "1073705262378123264",
+          "name": "LavaMouse"
+        },
+        "count": 27,
+        "count_details": {
+          "burst": 0,
+          "normal": 27
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "859584124657074186",
+          "name": "Dogge"
+        },
+        "count": 27,
+        "count_details": {
+          "burst": 0,
+          "normal": 27
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1097571520068460614",
+          "name": "grumblo_ugh"
+        },
+        "count": 27,
+        "count_details": {
+          "burst": 0,
+          "normal": 27
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "😍"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "Am I missing something? Wheres the guide on spelunking, this is just a info list.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-26T00:50:17.139000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1443041135617380463",
+    "channel_id": "1435867886877937804",
+    "author": {
+      "id": "150361465868517377",
+      "username": "nefeks",
+      "avatar": "564417dcac24df24603558e301d99300",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nefex",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 47,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "🤡"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 19,
+    "content": "Well, that's a lot of work, you should be more patient while others doing it.",
+    "mentions": [
+      {
+        "id": "150361465868517377",
+        "username": "nefeks",
+        "avatar": "564417dcac24df24603558e301d99300",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Nefex",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-26T10:34:03.473000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1443188046710444052",
+    "channel_id": "1435867886877937804",
+    "author": {
+      "id": "279213319615938563",
+      "username": "elfirov",
+      "avatar": "162b9b34205589cdfbe1a329b8b48253",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "ElFirov",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1435867886877937804",
+      "message_id": "1443041135617380463",
+      "guild_id": "437797104786604034"
+    },
+    "position": 48,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "1098050666028597320",
+          "name": "grumblo_steal"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 1,
+          "normal": 0
+        },
+        "burst_colors": [
+          "#000000",
+          "#b07857",
+          "#804c37",
+          "#d09867",
+          "#f0f0f0",
+          "#0a0d10",
+          "#f0cc86",
+          "#603423",
+          "#401c13",
+          "#b0b0b0"
+        ],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 1
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🤡"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ],
+    "referenced_message": {
+      "type": 0,
+      "content": "Am I missing something? Wheres the guide on spelunking, this is just a info list.",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-11-26T00:50:17.139000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1443041135617380463",
+      "channel_id": "1435867886877937804",
+      "author": {
+        "id": "150361465868517377",
+        "username": "nefeks",
+        "avatar": "564417dcac24df24603558e301d99300",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Nefex",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 47
+    }
+  },
+  {
+    "type": 19,
+    "content": "https://tenor.com/view/cant-read-gif-22252869",
+    "mentions": [
+      {
+        "id": "242777199248277504",
+        "username": "trickzbunny",
+        "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Trickzbunny",
+        "avatar_decoration_data": {
+          "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+          "sku_id": "1256321669467865088",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1437881614159056979",
+            "asset": "nameplates/peanut/light_wall_blue/",
+            "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+            "palette": "cobalt"
+          }
+        },
+        "display_name_styles": {
+          "font_id": 6,
+          "effect_id": 3,
+          "colors": [
+            1874155
+          ]
+        },
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "gifv",
+        "url": "https://tenor.com/view/cant-read-gif-22252869",
+        "reference_id": "1443262596189913120",
+        "provider": {
+          "name": "Tenor",
+          "url": "https://tenor.co"
+        },
+        "thumbnail": {
+          "url": "https://media.tenor.com/ElNqjBQe2o0AAAAe/cant-read.png",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/j-QhNx173pDRiDBTx30ZIRGe2m1SUYGBlCcJaoEgiTY/https/media.tenor.com/ElNqjBQe2o0AAAAe/cant-read.png",
+          "width": 640,
+          "height": 498,
+          "placeholder": "VzkGFYi2enZ3RoiARZh3dglsmwBY",
+          "placeholder_version": 1,
+          "flags": 0
+        },
+        "video": {
+          "url": "https://media.tenor.com/ElNqjBQe2o0AAAPo/cant-read.mp4",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/wXgyB_N59pbjkgL0O--ebMECo8M3a1wCXnKO47al_xo/https/media.tenor.com/ElNqjBQe2o0AAAPo/cant-read.mp4",
+          "width": 640,
+          "height": 498,
+          "placeholder": "VzkGFYi2enZ3RoiARZh3dglsmwBY",
+          "placeholder_version": 1,
+          "flags": 0
+        },
+        "content_scan_version": 4
+      }
+    ],
+    "timestamp": "2025-11-26T15:30:17.454000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1443262596189913120",
+    "channel_id": "1435867886877937804",
+    "author": {
+      "id": "224374676871315456",
+      "username": "nebulant",
+      "avatar": "7ef1135fcb9e5ace4b615ece7b02dc9b",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nebulant",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1435867886877937804",
+      "message_id": "1435868049919049749",
+      "guild_id": "437797104786604034"
+    },
+    "position": 49,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "725796300573900924",
+          "name": "lol"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "✅"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ],
+    "referenced_message": {
+      "type": 0,
+      "content": "**I will not be present at update time (few hours late).**\nDo NOT write anything in this thread, please use <#1338949053538373673> and ping <@242777199248277504>  ty.",
+      "mentions": [
+        {
+          "id": "242777199248277504",
+          "username": "trickzbunny",
+          "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Trickzbunny",
+          "avatar_decoration_data": {
+            "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+            "sku_id": "1256321669467865088",
+            "expires_at": null
+          },
+          "collectibles": {
+            "nameplate": {
+              "sku_id": "1437881614159056979",
+              "asset": "nameplates/peanut/light_wall_blue/",
+              "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+              "palette": "cobalt"
+            }
+          },
+          "display_name_styles": {
+            "font_id": 6,
+            "effect_id": 3,
+            "colors": [
+              1874155
+            ]
+          },
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-11-06T05:47:00.239000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1435868049919049749",
+      "channel_id": "1435867886877937804",
+      "author": {
+        "id": "242777199248277504",
+        "username": "trickzbunny",
+        "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Trickzbunny",
+        "avatar_decoration_data": {
+          "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+          "sku_id": "1256321669467865088",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1437881614159056979",
+            "asset": "nameplates/peanut/light_wall_blue/",
+            "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+            "palette": "cobalt"
+          }
+        },
+        "display_name_styles": {
+          "font_id": 6,
+          "effect_id": 3,
+          "colors": [
+            1874155
+          ]
+        },
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 16
+    }
+  },
+  {
+    "type": 0,
+    "content": "https://tenor.com/view/where-where-at-sponge-bob-gif-6060104",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "gifv",
+        "url": "https://tenor.com/view/where-where-at-sponge-bob-gif-6060104",
+        "provider": {
+          "name": "Tenor",
+          "url": "https://tenor.co"
+        },
+        "thumbnail": {
+          "url": "https://media.tenor.com/WnUuGXpAqqwAAAAe/where-where-at.png",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/qanu1wOSr_dXChHUCh2XQYbQ6N-3zDUtbyzAdH22Ca8/https/media.tenor.com/WnUuGXpAqqwAAAAe/where-where-at.png",
+          "width": 498,
+          "height": 280,
+          "placeholder": "JngNPI5nh3iNeIh/iIZYgIkGxw==",
+          "placeholder_version": 1,
+          "flags": 0
+        },
+        "video": {
+          "url": "https://media.tenor.com/WnUuGXpAqqwAAAPo/where-where-at.mp4",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/ECT_jZ8jew81kQpmhdaqKTsu-TWOgANbF7x5xto0ezQ/https/media.tenor.com/WnUuGXpAqqwAAAPo/where-where-at.mp4",
+          "width": 540,
+          "height": 304,
+          "placeholder": "JngNPI5nh3iNeIh/iIZYgIkGxw==",
+          "placeholder_version": 1,
+          "flags": 0
+        },
+        "content_scan_version": 4
+      }
+    ],
+    "timestamp": "2025-11-26T17:41:30.598000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1443295618549157989",
+    "channel_id": "1435867886877937804",
+    "author": {
+      "id": "1087217440527745097",
+      "username": "ritesh7ur",
+      "avatar": "26991255f1d657cc0771596a1eedff0e",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Ritesh7ur",
+      "avatar_decoration_data": {
+        "asset": "a_c1087bb5f09d675720ab4f7409e6be0e",
+        "sku_id": "1483177615866073230",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1461062060279464048",
+          "asset": "nameplates/tarot/towers_strike/",
+          "label": "COLLECTIBLES_TAROT_TOWERS_STRIKE_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 3,
+        "colors": [
+          12790527
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 50
+  },
+  {
+    "type": 0,
+    "content": "https://tenor.com/view/baby-gif-26024048",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "gifv",
+        "url": "https://tenor.com/view/baby-gif-26024048",
+        "provider": {
+          "name": "Tenor",
+          "url": "https://tenor.co"
+        },
+        "thumbnail": {
+          "url": "https://media.tenor.com/bttn3vSsztIAAAAe/baby.png",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/wOkuMZ2ldopu6WK2N17TQ7d030r6To9y8BRvniW11mY/https/media.tenor.com/bttn3vSsztIAAAAe/baby.png",
+          "width": 640,
+          "height": 418,
+          "placeholder": "GwgKDYIVGWjcd4ZAeUiFiAYuM6A0",
+          "placeholder_version": 1,
+          "flags": 0
+        },
+        "video": {
+          "url": "https://media.tenor.com/bttn3vSsztIAAAPo/baby.mp4",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/LYalwD62CsbGU69ZtHNaulgMp1cfcNH46W-GWI3ix20/https/media.tenor.com/bttn3vSsztIAAAPo/baby.mp4",
+          "width": 640,
+          "height": 418,
+          "placeholder": "GwgKDYIVGWjcd4ZAeUiFiAYuM6A0",
+          "placeholder_version": 1,
+          "flags": 0
+        },
+        "content_scan_version": 4
+      }
+    ],
+    "timestamp": "2025-11-26T19:55:49.476000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1443329419933515887",
+    "channel_id": "1435867886877937804",
+    "author": {
+      "id": "242777199248277504",
+      "username": "trickzbunny",
+      "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trickzbunny",
+      "avatar_decoration_data": {
+        "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+        "sku_id": "1256321669467865088",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1437881614159056979",
+          "asset": "nameplates/peanut/light_wall_blue/",
+          "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 6,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 51
+  },
+  {
+    "type": 0,
+    "content": "^ my life most of the time atm",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-26T19:56:00.239000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1443329465076678867",
+    "channel_id": "1435867886877937804",
+    "author": {
+      "id": "242777199248277504",
+      "username": "trickzbunny",
+      "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trickzbunny",
+      "avatar_decoration_data": {
+        "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+        "sku_id": "1256321669467865088",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1437881614159056979",
+          "asset": "nameplates/peanut/light_wall_blue/",
+          "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 6,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 52,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "😂"
+        },
+        "count": 10,
+        "count_details": {
+          "burst": 0,
+          "normal": 10
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🤡"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 19,
+    "content": "You and me both lol.",
+    "mentions": [
+      {
+        "id": "242777199248277504",
+        "username": "trickzbunny",
+        "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Trickzbunny",
+        "avatar_decoration_data": {
+          "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+          "sku_id": "1256321669467865088",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1437881614159056979",
+            "asset": "nameplates/peanut/light_wall_blue/",
+            "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+            "palette": "cobalt"
+          }
+        },
+        "display_name_styles": {
+          "font_id": 6,
+          "effect_id": 3,
+          "colors": [
+            1874155
+          ]
+        },
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-26T20:20:09.639000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1443335544301158481",
+    "channel_id": "1435867886877937804",
+    "author": {
+      "id": "206107049824747520",
+      "username": "eagalian",
+      "avatar": "35f319b8ab1f173fb9c254b4ca8dbbe5",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Eagalian",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 3,
+        "colors": [
+          747943
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1435867886877937804",
+      "message_id": "1443329465076678867",
+      "guild_id": "437797104786604034"
+    },
+    "position": 53,
+    "referenced_message": {
+      "type": 0,
+      "content": "^ my life most of the time atm",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-11-26T19:56:00.239000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1443329465076678867",
+      "channel_id": "1435867886877937804",
+      "author": {
+        "id": "242777199248277504",
+        "username": "trickzbunny",
+        "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Trickzbunny",
+        "avatar_decoration_data": {
+          "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+          "sku_id": "1256321669467865088",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1437881614159056979",
+            "asset": "nameplates/peanut/light_wall_blue/",
+            "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+            "palette": "cobalt"
+          }
+        },
+        "display_name_styles": {
+          "font_id": 6,
+          "effect_id": 3,
+          "colors": [
+            1874155
+          ]
+        },
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 52
+    }
+  },
+  {
+    "type": 19,
+    "content": "That giant friend of yours makes you look like a baby!!!",
+    "mentions": [
+      {
+        "id": "242777199248277504",
+        "username": "trickzbunny",
+        "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Trickzbunny",
+        "avatar_decoration_data": {
+          "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+          "sku_id": "1256321669467865088",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1437881614159056979",
+            "asset": "nameplates/peanut/light_wall_blue/",
+            "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+            "palette": "cobalt"
+          }
+        },
+        "display_name_styles": {
+          "font_id": 6,
+          "effect_id": 3,
+          "colors": [
+            1874155
+          ]
+        },
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-27T12:02:38.675000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1443572728148787334",
+    "channel_id": "1435867886877937804",
+    "author": {
+      "id": "210601242882211840",
+      "username": "watch_tower",
+      "avatar": "fd0f3e40d0fb1d2bb3baf9197f98e3d6",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Watch Tower (Luke Roberts)",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1435867886877937804",
+      "message_id": "1443329465076678867",
+      "guild_id": "437797104786604034"
+    },
+    "position": 54,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "🤣"
+        },
+        "count": 7,
+        "count_details": {
+          "burst": 0,
+          "normal": 7
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ],
+    "referenced_message": {
+      "type": 0,
+      "content": "^ my life most of the time atm",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-11-26T19:56:00.239000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1443329465076678867",
+      "channel_id": "1435867886877937804",
+      "author": {
+        "id": "242777199248277504",
+        "username": "trickzbunny",
+        "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Trickzbunny",
+        "avatar_decoration_data": {
+          "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+          "sku_id": "1256321669467865088",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1437881614159056979",
+            "asset": "nameplates/peanut/light_wall_blue/",
+            "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+            "palette": "cobalt"
+          }
+        },
+        "display_name_styles": {
+          "font_id": 6,
+          "effect_id": 3,
+          "colors": [
+            1874155
+          ]
+        },
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 52
+    }
+  },
+  {
+    "type": 19,
+    "content": "https://tenor.com/view/no-i-don%27t-think-i-will-cap-avengers-marvel-gif-6420739801263939210",
+    "mentions": [
+      {
+        "id": "279213319615938563",
+        "username": "elfirov",
+        "avatar": "162b9b34205589cdfbe1a329b8b48253",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "ElFirov",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "gifv",
+        "url": "https://tenor.com/view/no-i-don%27t-think-i-will-cap-avengers-marvel-gif-6420739801263939210",
+        "reference_id": "1443799015467647080",
+        "provider": {
+          "name": "Tenor",
+          "url": "https://tenor.co"
+        },
+        "thumbnail": {
+          "url": "https://media.tenor.com/WRsM1KmMnooAAAAe/no-i-don%27t-think-i-will.png",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/ed7IN_gN_9zqsEfmEn6egYnzx2Jv2-gJ2lXHvbo5Vhc/https/media.tenor.com/WRsM1KmMnooAAAAe/no-i-don%2527t-think-i-will.png",
+          "width": 498,
+          "height": 349,
+          "placeholder": "EwgGDYJMZZavhGeZZ4Z3d3+YdpBY",
+          "placeholder_version": 1,
+          "flags": 0
+        },
+        "video": {
+          "url": "https://media.tenor.com/WRsM1KmMnooAAAPo/no-i-don%27t-think-i-will.mp4",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/bLWNiEfPZzOD_y7RFmASDFsc-kNOjSM9iL38whB4NeQ/https/media.tenor.com/WRsM1KmMnooAAAPo/no-i-don%2527t-think-i-will.mp4",
+          "width": 498,
+          "height": 350,
+          "placeholder": "EwgGDYJMZZavhGeZZ4Z3d3+YdpBY",
+          "placeholder_version": 1,
+          "flags": 0
+        },
+        "content_scan_version": 4
+      }
+    ],
+    "timestamp": "2025-11-28T03:01:49.776000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1443799015467647080",
+    "channel_id": "1435867886877937804",
+    "author": {
+      "id": "231427269669814274",
+      "username": "arobe",
+      "avatar": "e14c788ab613eb9115d1ddffc7c5978d",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Arobe",
+      "avatar_decoration_data": {
+        "asset": "a_13913a00bd9990ab4102a3bf069f0f3f",
+        "sku_id": "1271174640026255380",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712028516443",
+          "asset": "nameplates/nameplates_v2/spirit_moon/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SPIRIT_MOON_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "875400284665438290",
+        "identity_enabled": true,
+        "tag": "EPIC",
+        "badge": "6473797948e6d36a991e425c8b7c353c"
+      },
+      "primary_guild": {
+        "identity_guild_id": "875400284665438290",
+        "identity_enabled": true,
+        "tag": "EPIC",
+        "badge": "6473797948e6d36a991e425c8b7c353c"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1435867886877937804",
+      "message_id": "1443188046710444052",
+      "guild_id": "437797104786604034"
+    },
+    "position": 55,
+    "referenced_message": {
+      "type": 19,
+      "content": "Well, that's a lot of work, you should be more patient while others doing it.",
+      "mentions": [
+        {
+          "id": "150361465868517377",
+          "username": "nefeks",
+          "avatar": "564417dcac24df24603558e301d99300",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Nefex",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-11-26T10:34:03.473000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1443188046710444052",
+      "channel_id": "1435867886877937804",
+      "author": {
+        "id": "279213319615938563",
+        "username": "elfirov",
+        "avatar": "162b9b34205589cdfbe1a329b8b48253",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "ElFirov",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1435867886877937804",
+        "message_id": "1443041135617380463",
+        "guild_id": "437797104786604034"
+      },
+      "position": 48
+    }
+  },
+  {
+    "type": 0,
+    "content": "https://tenor.com/view/pablo-escobar-pablo-stan-twt-standing-grandpa-gif-15901735077073339091",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "gifv",
+        "url": "https://tenor.com/view/pablo-escobar-pablo-stan-twt-standing-grandpa-gif-15901735077073339091",
+        "provider": {
+          "name": "Tenor",
+          "url": "https://tenor.co"
+        },
+        "thumbnail": {
+          "url": "https://media.tenor.com/3K5PzTVTQtMAAAAe/pablo-escobar-pablo.png",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/M29OxvcRrYLKPtDJZbnZ22NfyUOcp2Nke_5A0EBhxXQ/https/media.tenor.com/3K5PzTVTQtMAAAAe/pablo-escobar-pablo.png",
+          "width": 498,
+          "height": 491,
+          "placeholder": "KPgRD4JphmiQmXdxd1eIZ3d3uX31qYAM",
+          "placeholder_version": 1,
+          "flags": 0
+        },
+        "video": {
+          "url": "https://media.tenor.com/3K5PzTVTQtMAAAPo/pablo-escobar-pablo.mp4",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/WKwPjcaUue6Ow9FWrnv-mw5_u8j3bhBHayRSs0HOcPQ/https/media.tenor.com/3K5PzTVTQtMAAAPo/pablo-escobar-pablo.mp4",
+          "width": 498,
+          "height": 492,
+          "placeholder": "KPgRD4JphmiQmXdxd1eIZ3d3uX31qYAM",
+          "placeholder_version": 1,
+          "flags": 0
+        },
+        "content_scan_version": 4
+      }
+    ],
+    "timestamp": "2025-11-30T10:20:02.995000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1444634072952344576",
+    "channel_id": "1435867886877937804",
+    "author": {
+      "id": "978276673856340028",
+      "username": "khazuchi1922",
+      "avatar": "e9ad4126d44f24ffad8d9924d327069a",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Khazuchi",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1409983105577783410",
+          "asset": "nameplates/special_events_2/nitro_rocketfuel_nameplate/",
+          "label": "COLLECTIBLES_SEPTEMBER_2025_MARKETING_NAMEPLATE_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 56
+  },
+  {
+    "type": 0,
+    "content": "I just downloaded it on steam through VMWare, and I still do not have any percentage there so it must not have worked.  I clicked a few chests and they did not give it to me.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1444941271482499235",
+        "filename": "Screenshot_2025-11-30_at_10.38.31_PM.png",
+        "size": 609997,
+        "url": "https://cdn.discordapp.com/attachments/1435867886877937804/1444941271482499235/Screenshot_2025-11-30_at_10.38.31_PM.png?ex=6a0f51ac&is=6a0e002c&hm=a852852089090bc2fb6ebbc3b20cea8d0031017371e2d407016a4b818d0c3de4&",
+        "proxy_url": "https://media.discordapp.net/attachments/1435867886877937804/1444941271482499235/Screenshot_2025-11-30_at_10.38.31_PM.png?ex=6a0f51ac&is=6a0e002c&hm=a852852089090bc2fb6ebbc3b20cea8d0031017371e2d407016a4b818d0c3de4&",
+        "width": 1288,
+        "height": 944,
+        "content_type": "image/png",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "kCgGDYKbq42sl3l/eIhnflWQUycG",
+        "placeholder_version": 1,
+        "title": "Screenshot 2025-11-30 at 10.38.31 PM"
+      },
+      {
+        "id": "1444941271847141567",
+        "filename": "Screenshot_2025-11-30_at_10.36.21_PM.png",
+        "size": 460281,
+        "url": "https://cdn.discordapp.com/attachments/1435867886877937804/1444941271847141567/Screenshot_2025-11-30_at_10.36.21_PM.png?ex=6a0f51ac&is=6a0e002c&hm=89b6a3ca456f0f00762740826c10b4efbcd7cc08bcd8435f72fbcb85121a2161&",
+        "proxy_url": "https://media.discordapp.net/attachments/1435867886877937804/1444941271847141567/Screenshot_2025-11-30_at_10.36.21_PM.png?ex=6a0f51ac&is=6a0e002c&hm=89b6a3ca456f0f00762740826c10b4efbcd7cc08bcd8435f72fbcb85121a2161&",
+        "width": 920,
+        "height": 454,
+        "content_type": "image/png",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "V0kGG4KTudefhshpn4cn93U=",
+        "placeholder_version": 1,
+        "title": "Screenshot 2025-11-30 at 10.36.21 PM"
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2025-12-01T06:40:44.969000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1444941272056860723",
+    "channel_id": "1435867886877937804",
+    "author": {
+      "id": "387346765894123521",
+      "username": "pubert0272",
+      "avatar": "d9c54685a1fee942bba1a9846dc3a4d1",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Pubert",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 57,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇾"
+        },
+        "count": 7,
+        "count_details": {
+          "burst": 0,
+          "normal": 7
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇷"
+        },
+        "count": 7,
+        "count_details": {
+          "burst": 0,
+          "normal": 7
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇺"
+        },
+        "count": 8,
+        "count_details": {
+          "burst": 0,
+          "normal": 8
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "✍️"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "📖"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1072956173285855262",
+          "name": "Clown"
+        },
+        "count": 9,
+        "count_details": {
+          "burst": 0,
+          "normal": 9
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1327822502323294309",
+          "name": "ban",
+          "animated": true
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "https://tenor.com/view/dexter-whisper-gif-13860416494852912540",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "gifv",
+        "url": "https://tenor.com/view/dexter-whisper-gif-13860416494852912540",
+        "provider": {
+          "name": "Tenor",
+          "url": "https://tenor.co"
+        },
+        "thumbnail": {
+          "url": "https://media.tenor.com/wFoXXc6sNZwAAAAe/dexter-whisper.png",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/krQJFxR_x1_ZCTiiQusxIaEfo2yy-ReAv_FlmGnHvH4/https/media.tenor.com/wFoXXc6sNZwAAAAe/dexter-whisper.png",
+          "width": 498,
+          "height": 372,
+          "placeholder": "qDgGHYT+tGcVtWtzhYeaauBjBx5Y",
+          "placeholder_version": 1,
+          "flags": 0
+        },
+        "video": {
+          "url": "https://media.tenor.com/wFoXXc6sNZwAAAPo/dexter-whisper.mp4",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/DYSJILAqXKn3dHX0w65dKxTEQIvBz3Ft1A4QkQN4lnc/https/media.tenor.com/wFoXXc6sNZwAAAPo/dexter-whisper.mp4",
+          "width": 498,
+          "height": 372,
+          "placeholder": "qDgGHYT+tGcVtWtzhYeaauBjBx5Y",
+          "placeholder_version": 1,
+          "flags": 0
+        },
+        "content_scan_version": 4
+      }
+    ],
+    "timestamp": "2025-12-08T15:51:38.801000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1447616624936095745",
+    "channel_id": "1435867886877937804",
+    "author": {
+      "id": "198236628467187712",
+      "username": "magnarmalok",
+      "avatar": "60578ff3eba688834ef01dd0d21d09e6",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Magnarmalok",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 59
+  },
+  {
+    "type": 0,
+    "content": "olo",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-15T20:16:07.814000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1450219899459735723",
+    "channel_id": "1435867886877937804",
+    "author": {
+      "id": "380447490480144390",
+      "username": "lifeofcapybara",
+      "avatar": "ffb52f703cb599c66b8912c9e677225b",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Capy",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 60
+  },
+  {
+    "type": 0,
+    "content": "Where is the dig bro",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-23T00:56:12.706000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1452827099344928858",
+    "channel_id": "1435867886877937804",
+    "author": {
+      "id": "1309314949847449601",
+      "username": "warmtoaster7",
+      "avatar": "ef7ee9656d8c83aa078fbd3332bd89c1",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Hallow",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 62,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "💀"
+        },
+        "count": 11,
+        "count_details": {
+          "burst": 0,
+          "normal": 11
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "799773200808149032",
+          "name": "Peanut"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "https://tenor.com/view/nowhere-matt-jon-hamm-black-mirror-lol-gif-25384502",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "gifv",
+        "url": "https://tenor.com/view/nowhere-matt-jon-hamm-black-mirror-lol-gif-25384502",
+        "provider": {
+          "name": "Tenor",
+          "url": "https://tenor.co"
+        },
+        "thumbnail": {
+          "url": "https://media.tenor.com/iqgYW1eCiTsAAAAe/nowhere-matt.png",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/M0Kp7o-MsNbef00K718LjujAMlcR3mkclrLT1X92xj0/https/media.tenor.com/iqgYW1eCiTsAAAAe/nowhere-matt.png",
+          "width": 640,
+          "height": 358,
+          "placeholder": "5gcODILVToafiWhjd4cnv6LAKg==",
+          "placeholder_version": 1,
+          "flags": 0
+        },
+        "video": {
+          "url": "https://media.tenor.com/iqgYW1eCiTsAAAPo/nowhere-matt.mp4",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/SiTLxXRyWuuXEZm5LKpcz7uiYMLXdU4spfE3NtJQGgE/https/media.tenor.com/iqgYW1eCiTsAAAPo/nowhere-matt.mp4",
+          "width": 640,
+          "height": 358,
+          "placeholder": "5gcODILVToafiWhjd4cnv6LAKg==",
+          "placeholder_version": 1,
+          "flags": 0
+        },
+        "content_scan_version": 4
+      }
+    ],
+    "timestamp": "2025-12-26T18:11:49.158000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1454174882110902274",
+    "channel_id": "1435867886877937804",
+    "author": {
+      "id": "767818830134247444",
+      "username": "amutantcow",
+      "avatar": "dcc2752b0aab960d472ee4978282b690",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "amutantcow",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "669128285527080961",
+        "identity_enabled": true,
+        "tag": "WoWs",
+        "badge": "7b571a46a1266491cfabe2e362aad176"
+      },
+      "primary_guild": {
+        "identity_guild_id": "669128285527080961",
+        "identity_enabled": true,
+        "tag": "WoWs",
+        "badge": "7b571a46a1266491cfabe2e362aad176"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 64
+  },
+  {
+    "type": 0,
+    "content": "https://tenor.com/view/nothing-doing-done-mugatu-zoolander-gif-20105335",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "gifv",
+        "url": "https://tenor.com/view/nothing-doing-done-mugatu-zoolander-gif-20105335",
+        "provider": {
+          "name": "Tenor",
+          "url": "https://tenor.co"
+        },
+        "thumbnail": {
+          "url": "https://media.tenor.com/TSQ8ocqrVXMAAAAe/nothing-doing.png",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/HfgpkBknp9RNBUV-CGJ_0hfHhdrHR0caLuUwQClR-lA/https/media.tenor.com/TSQ8ocqrVXMAAAAe/nothing-doing.png",
+          "width": 640,
+          "height": 452,
+          "placeholder": "1vgJDYQMlkmbZnh6d3eaePZnkoCZ",
+          "placeholder_version": 1,
+          "flags": 0
+        },
+        "video": {
+          "url": "https://media.tenor.com/TSQ8ocqrVXMAAAPo/nothing-doing.mp4",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/bDXXduDthRfvIQKxvsL1yfCW-BgU-sMDtt3mTEamLdg/https/media.tenor.com/TSQ8ocqrVXMAAAPo/nothing-doing.mp4",
+          "width": 640,
+          "height": 452,
+          "placeholder": "1vgJDYQMlkmbZnh6d3eaePZnkoCZ",
+          "placeholder_version": 1,
+          "flags": 0
+        },
+        "content_scan_version": 4
+      }
+    ],
+    "timestamp": "2026-01-12T23:56:34.008000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1460422234375192740",
+    "channel_id": "1435867886877937804",
+    "author": {
+      "id": "978276673856340028",
+      "username": "khazuchi1922",
+      "avatar": "e9ad4126d44f24ffad8d9924d327069a",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Khazuchi",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1409983105577783410",
+          "asset": "nameplates/special_events_2/nitro_rocketfuel_nameplate/",
+          "label": "COLLECTIBLES_SEPTEMBER_2025_MARKETING_NAMEPLATE_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 65,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "🌽"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "https://tenor.com/view/sozai-jojo-dio-gif-2769001534139373822",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "gifv",
+        "url": "https://tenor.com/view/sozai-jojo-dio-gif-2769001534139373822",
+        "provider": {
+          "name": "Tenor",
+          "url": "https://tenor.co"
+        },
+        "thumbnail": {
+          "url": "https://media.tenor.com/Jm14OXjjmP4AAAAe/sozai-jojo.png",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/UXe7Cr9jvM0BgFrB296W4dVKTztDTqZ9KhOvX-xh4yA/https/media.tenor.com/Jm14OXjjmP4AAAAe/sozai-jojo.png",
+          "width": 498,
+          "height": 310,
+          "placeholder": "7RgOJILol5iPeIV+hnQ2dGBTBw==",
+          "placeholder_version": 1,
+          "flags": 0
+        },
+        "video": {
+          "url": "https://media.tenor.com/Jm14OXjjmP4AAAPo/sozai-jojo.mp4",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/vhaDMVlQ4jggsahQpDRGalcJYqHKyO5sgVSL95AVtzI/https/media.tenor.com/Jm14OXjjmP4AAAPo/sozai-jojo.mp4",
+          "width": 498,
+          "height": 310,
+          "placeholder": "7RgOJILol5iPeIV+hnQ2dGBTBw==",
+          "placeholder_version": 1,
+          "flags": 0
+        },
+        "content_scan_version": 4
+      }
+    ],
+    "timestamp": "2026-01-13T04:40:22.150000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1460493655579037726",
+    "channel_id": "1435867886877937804",
+    "author": {
+      "id": "1087217440527745097",
+      "username": "ritesh7ur",
+      "avatar": "26991255f1d657cc0771596a1eedff0e",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Ritesh7ur",
+      "avatar_decoration_data": {
+        "asset": "a_c1087bb5f09d675720ab4f7409e6be0e",
+        "sku_id": "1483177615866073230",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1461062060279464048",
+          "asset": "nameplates/tarot/towers_strike/",
+          "label": "COLLECTIBLES_TAROT_TOWERS_STRIKE_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 3,
+        "colors": [
+          12790527
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 66,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 7,
+        "count_details": {
+          "burst": 0,
+          "normal": 7
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "💀"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇫"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "https://tenor.com/view/h2di-cat-dead-cat-depressed-cat-laying-gif-11402833644907079653",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "gifv",
+        "url": "https://tenor.com/view/h2di-cat-dead-cat-depressed-cat-laying-gif-11402833644907079653",
+        "provider": {
+          "name": "Tenor",
+          "url": "https://tenor.co"
+        },
+        "thumbnail": {
+          "url": "https://media.tenor.com/nj8AyQWPJ-UAAAAe/h2di-cat-dead.png",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/ZLOxYV0XVj5Gx7XUfyMNyXEITvKeyICLoQrP7K2Tey0/https/media.tenor.com/nj8AyQWPJ-UAAAAe/h2di-cat-dead.png",
+          "width": 399,
+          "height": 498,
+          "placeholder": "3xgKHgSpdvh4eJhmeIZ4iHiHVnBnBXc=",
+          "placeholder_version": 1,
+          "flags": 0
+        },
+        "video": {
+          "url": "https://media.tenor.com/nj8AyQWPJ-UAAAPo/h2di-cat-dead.mp4",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/uZxqYpJjdwG7S_eZArkmkWAVqVEruDooh3pRekGRXLI/https/media.tenor.com/nj8AyQWPJ-UAAAPo/h2di-cat-dead.mp4",
+          "width": 400,
+          "height": 498,
+          "placeholder": "3xgKHgSpdvh4eJhmeIZ4iHiHVnBnBXc=",
+          "placeholder_version": 1,
+          "flags": 0
+        },
+        "content_scan_version": 4
+      }
+    ],
+    "timestamp": "2026-02-02T21:09:09.136000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1467990248305856624",
+    "channel_id": "1435867886877937804",
+    "author": {
+      "id": "978276673856340028",
+      "username": "khazuchi1922",
+      "avatar": "e9ad4126d44f24ffad8d9924d327069a",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Khazuchi",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1409983105577783410",
+          "asset": "nameplates/special_events_2/nitro_rocketfuel_nameplate/",
+          "label": "COLLECTIBLES_SEPTEMBER_2025_MARKETING_NAMEPLATE_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 68
+  },
+  {
+    "type": 0,
+    "content": "🇫",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-24T19:00:04.888000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1475930299618689198",
+    "channel_id": "1435867886877937804",
+    "author": {
+      "id": "322777223469858817",
+      "username": "d0nkey3771",
+      "avatar": "46f41745f10bb2deb1ff6576e01e3611",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "D0nk3eh",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 70
+  },
+  {
+    "type": 0,
+    "content": "balz <:yw_yummers:1345151159735812228>",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-26T05:14:16.660000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1476447255018864661",
+    "channel_id": "1435867886877937804",
+    "author": {
+      "id": "1412906361691570199",
+      "username": "rooyyy72",
+      "avatar": "b0e0abfb60ea9e6892ccc32aec69c71e",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Blood Berserker",
+      "avatar_decoration_data": {
+        "asset": "a_d3e51a9751016df2778a47efbb8bb455",
+        "sku_id": "1493391761085567066",
+        "expires_at": 1782864000
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 71
+  },
+  {
+    "type": 0,
+    "content": "https://tenor.com/view/megan-soo-dog-meme-funny-dog-meme-gif-14413441628212659223",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "gifv",
+        "url": "https://tenor.com/view/megan-soo-dog-meme-funny-dog-meme-gif-14413441628212659223",
+        "provider": {
+          "name": "Tenor",
+          "url": "https://tenor.co"
+        },
+        "thumbnail": {
+          "url": "https://media.tenor.com/yAbUy5BxhBcAAAAe/megan-soo-dog-meme.png",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/a49g7jxAi4i_RgeHQcdy9ef539qacuNA-YntpNXAmRg/https/media.tenor.com/yAbUy5BxhBcAAAAe/megan-soo-dog-meme.png",
+          "width": 128,
+          "height": 110,
+          "placeholder": "lhgGDoIIb6odkZavwmV6tZhmP131pEY=",
+          "placeholder_version": 1,
+          "flags": 0
+        },
+        "video": {
+          "url": "https://media.tenor.com/yAbUy5BxhBcAAAPo/megan-soo-dog-meme.mp4",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/hW3RoAUwtmwf2J6-jz5h5AfdmoCJE3adJSQIcmdfxxI/https/media.tenor.com/yAbUy5BxhBcAAAPo/megan-soo-dog-meme.mp4",
+          "width": 128,
+          "height": 110,
+          "placeholder": "lhgGDoIIb6odkZavwmV6tZhmP131pEY=",
+          "placeholder_version": 1,
+          "flags": 0
+        },
+        "content_scan_version": 4
+      }
+    ],
+    "timestamp": "2026-02-27T02:21:38.803000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1476766198883549326",
+    "channel_id": "1435867886877937804",
+    "author": {
+      "id": "1087217440527745097",
+      "username": "ritesh7ur",
+      "avatar": "26991255f1d657cc0771596a1eedff0e",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Ritesh7ur",
+      "avatar_decoration_data": {
+        "asset": "a_c1087bb5f09d675720ab4f7409e6be0e",
+        "sku_id": "1483177615866073230",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1461062060279464048",
+          "asset": "nameplates/tarot/towers_strike/",
+          "label": "COLLECTIBLES_TAROT_TOWERS_STRIKE_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 3,
+        "colors": [
+          12790527
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 74
+  },
+  {
+    "type": 0,
+    "content": "https://discord.com/channels/437797104786604034/1476420553173635253 here you guys go",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-27T22:30:03.039000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1477070303690621040",
+    "channel_id": "1435867886877937804",
+    "author": {
+      "id": "148507835272003585",
+      "username": "jeradooka",
+      "avatar": "146d1ac49ab1426b8ac5d9dc21a9892c",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Jeradooka",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 75,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "477174871286087690",
+          "name": "AstolfoWink"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "spel",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-05-02T20:28:33.369000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1500232551997116588",
+    "channel_id": "1435867886877937804",
+    "author": {
+      "id": "1498756742581063720",
+      "username": "leemon040",
+      "avatar": "4d0eb0d3e7ec5af3c964563f3069a4cd",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Leemon",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 76
+  }
+]

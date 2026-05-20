@@ -1,0 +1,170 @@
+[
+  {
+    "type": 0,
+    "content": "There's this really good guide by 13jrohrer about food use while AFK, and I wanted to write it out to show how powerful food is, it's often overlooked.\n\nThe video: https://www.youtube.com/watch?v=oKmLrY4-yX4\n\nA few rules:\nHealing Food boosts your survivability depending on how much it heals, even if that HP healed would exceed your max HP. Meaning, if you have 300 max HP, the item that gives you 10000 HP heal will give you more survivability than an item that heals for 300. You can see this in the thumbnail, where I have 300 HP, 121 def, on a map that instantly kills me since I'm more than 2500 def down, and I still can AFK no problem.\nPotions with conditions like \"15% chance to consume on walking 100 meters\" are changed to \"15% chance to consume on kill\".\nFood is only consumed one-slot-at-a-time.\nAll items are consumed in order of: Fastest to clear entire stack. If tied, highest slot(top left is slot 1, right is slot 2, under slot 1 is slot 3, etc.)\n\nThis also means you can use \"blocker\" items to protect your more expensive items. For example, you can fill nomwiches in slot 1, and yeti ham in slot 2, they are both consumed at the same rate since they both have a 30s CD, but Nomwiches are slot 1, they eat the whole stack first, then move on to Ham. Or, you can use Bullet(15% chance to consume), Small Exp Potion(10% chance to consume), Average Exp Potion(8% chance), Decent Exp Potion(6% Chance), fill them all to equal stack size, and then the bullets will be all consumed before any of the others is affected because it has the highest consume rate.\n\nThis is also why the gear guide you get when you type in \"!gear\" says that you can always skip a world with enough food, if you have enough food only accuracy and damage matter.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=oKmLrY4-yX4",
+        "title": "How Food Works Afk",
+        "description": "This video only applies for afk as when you are active food works differently. Also I got a little rambling towards the end but hopefully some useful tidbits in there.",
+        "color": 16711680,
+        "author": {
+          "name": "13jrohrer",
+          "url": "https://www.youtube.com/channel/UC6uVs4nwunZ2i5tP8Xbpk4g"
+        },
+        "provider": {
+          "name": "YouTube",
+          "url": "https://www.youtube.com"
+        },
+        "thumbnail": {
+          "url": "https://i.ytimg.com/vi/oKmLrY4-yX4/hqdefault.jpg",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/UWC-JVEJU5zdclcil5SbV85AXhr67OA1N_vZVa-lSPk/https/i.ytimg.com/vi/oKmLrY4-yX4/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "flags": 0
+        },
+        "video": {
+          "url": "https://www.youtube.com/embed/oKmLrY4-yX4",
+          "width": 1280,
+          "height": 720,
+          "flags": 0
+        },
+        "content_scan_version": 4
+      }
+    ],
+    "timestamp": "2023-07-22T17:52:03.754000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1132369485513371758",
+    "channel_id": "1132369485513371758",
+    "author": {
+      "id": "81761289499582464",
+      "username": "mido9",
+      "avatar": "975576e930cf82387337f1dd26e85d73",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "mido9",
+      "avatar_decoration_data": {
+        "asset": "a_89cd445201a0c6c64d46876503d0e90e",
+        "sku_id": "1226939756617793606",
+        "expires_at": 1790812800
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 40,
+        "count_details": {
+          "burst": 0,
+          "normal": 40
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🔥"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🚀"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1163295581314232390",
+        "filename": "Screenshot_20231015_171240_YouTube.jpg",
+        "size": 111482,
+        "url": "https://cdn.discordapp.com/attachments/1132369485513371758/1163295581314232390/Screenshot_20231015_171240_YouTube.jpg?ex=6a0f102f&is=6a0dbeaf&hm=87d2711fec3f9726813661777e6cceda62072aa8106c3d4043212e31515a5183&",
+        "proxy_url": "https://media.discordapp.net/attachments/1132369485513371758/1163295581314232390/Screenshot_20231015_171240_YouTube.jpg?ex=6a0f102f&is=6a0dbeaf&hm=87d2711fec3f9726813661777e6cceda62072aa8106c3d4043212e31515a5183&",
+        "width": 2400,
+        "height": 1080,
+        "content_type": "image/jpeg",
+        "content_scan_version": 4,
+        "placeholder": "k9cNG4QIN1eJdniIqHB1Dpc=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2023-10-16T02:01:19.643000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1163295581612036156",
+    "channel_id": "1132369485513371758",
+    "author": {
+      "id": "223674381157531648",
+      "username": "love86",
+      "avatar": "f494ab9288e79ba91a0f86e58455fbee",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Love86",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 1
+  }
+]

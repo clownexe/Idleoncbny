@@ -1,0 +1,1945 @@
+[
+  {
+    "type": 0,
+    "content": "A Guide on Chaining Sushi, with 3 different video examples. Requires 52 Research.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-03-31T15:16:58.197000+00:00",
+    "edited_timestamp": "2026-04-03T14:47:07.001000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1488557727063085108",
+    "channel_id": "1488557727063085108",
+    "author": {
+      "id": "242777199248277504",
+      "username": "trickzbunny",
+      "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trickzbunny",
+      "avatar_decoration_data": {
+        "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+        "sku_id": "1256321669467865088",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1437881614159056979",
+          "asset": "nameplates/peanut/light_wall_blue/",
+          "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 6,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 13,
+        "count_details": {
+          "burst": 0,
+          "normal": 13
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "**3 Videos Pro / Con:**\nVideo 1: 2 (or 4) row chaining\n- Pro: You always drag stuff into the same spot, it's always a clean back and forth ping-pong.\n- Con: Some people dont like moving mouse diagonal?!\nVideo 2:\n- Pro: \nVideo 3:",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-03-31T15:17:00.452000+00:00",
+    "edited_timestamp": "2026-04-03T14:50:39.056000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1488557736521109604",
+    "channel_id": "1488557727063085108",
+    "author": {
+      "id": "242777199248277504",
+      "username": "trickzbunny",
+      "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trickzbunny",
+      "avatar_decoration_data": {
+        "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+        "sku_id": "1256321669467865088",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1437881614159056979",
+          "asset": "nameplates/peanut/light_wall_blue/",
+          "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 6,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0
+  },
+  {
+    "type": 0,
+    "content": "⚠️ Might add some basics here: (consider)\n- Campfire info, red tiles, yellow tiles, blue campfire strategy. Good sushi tiers to stay on for Perfecto",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-03-31T15:17:00.828000+00:00",
+    "edited_timestamp": "2026-04-03T14:47:25.551000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1488557738098167850",
+    "channel_id": "1488557727063085108",
+    "author": {
+      "id": "242777199248277504",
+      "username": "trickzbunny",
+      "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trickzbunny",
+      "avatar_decoration_data": {
+        "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+        "sku_id": "1256321669467865088",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1437881614159056979",
+          "asset": "nameplates/peanut/light_wall_blue/",
+          "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 6,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 1
+  },
+  {
+    "type": 0,
+    "content": ".",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-03-31T15:17:01.074000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1488557739130224662",
+    "channel_id": "1488557727063085108",
+    "author": {
+      "id": "242777199248277504",
+      "username": "trickzbunny",
+      "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trickzbunny",
+      "avatar_decoration_data": {
+        "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+        "sku_id": "1256321669467865088",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1437881614159056979",
+          "asset": "nameplates/peanut/light_wall_blue/",
+          "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 6,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 2
+  },
+  {
+    "type": 0,
+    "content": ".",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-03-31T15:17:01.495000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1488557740895895774",
+    "channel_id": "1488557727063085108",
+    "author": {
+      "id": "242777199248277504",
+      "username": "trickzbunny",
+      "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trickzbunny",
+      "avatar_decoration_data": {
+        "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+        "sku_id": "1256321669467865088",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1437881614159056979",
+          "asset": "nameplates/peanut/light_wall_blue/",
+          "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 6,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 3
+  },
+  {
+    "type": 0,
+    "content": ".",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-03-31T15:17:01.703000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1488557741768445952",
+    "channel_id": "1488557727063085108",
+    "author": {
+      "id": "242777199248277504",
+      "username": "trickzbunny",
+      "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trickzbunny",
+      "avatar_decoration_data": {
+        "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+        "sku_id": "1256321669467865088",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1437881614159056979",
+          "asset": "nameplates/peanut/light_wall_blue/",
+          "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 6,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 4
+  },
+  {
+    "type": 0,
+    "content": ".",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-03-31T15:17:02.029000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1488557743135785162",
+    "channel_id": "1488557727063085108",
+    "author": {
+      "id": "242777199248277504",
+      "username": "trickzbunny",
+      "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trickzbunny",
+      "avatar_decoration_data": {
+        "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+        "sku_id": "1256321669467865088",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1437881614159056979",
+          "asset": "nameplates/peanut/light_wall_blue/",
+          "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 6,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 5
+  },
+  {
+    "type": 0,
+    "content": ".",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-03-31T15:17:02.255000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1488557744083697824",
+    "channel_id": "1488557727063085108",
+    "author": {
+      "id": "242777199248277504",
+      "username": "trickzbunny",
+      "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trickzbunny",
+      "avatar_decoration_data": {
+        "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+        "sku_id": "1256321669467865088",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1437881614159056979",
+          "asset": "nameplates/peanut/light_wall_blue/",
+          "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 6,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 6
+  },
+  {
+    "type": 0,
+    "content": ".",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-03-31T15:17:02.837000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1488557746524651723",
+    "channel_id": "1488557727063085108",
+    "author": {
+      "id": "242777199248277504",
+      "username": "trickzbunny",
+      "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trickzbunny",
+      "avatar_decoration_data": {
+        "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+        "sku_id": "1256321669467865088",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1437881614159056979",
+          "asset": "nameplates/peanut/light_wall_blue/",
+          "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 6,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 7
+  },
+  {
+    "type": 0,
+    "content": "# Sushi Station long chaining made simple (VIDEO GUIDE)\n**METHOD Requires Research Lvl 52** \"Heat of the East Wind\" Upgrade in Sushi Table.\n- This works either with 2 rows or 4 rows, depending on your progress.\n- If you are still low/early game, you'll have 2 rows, 1 row is the chain, the other is the setup. If you are high its 4 rows, 2 as the chain as they lap around to the next row, the other 2 rows the setup.\n- Make sure to use whatever tier sushi you can maintain your fuel with.\n**VERY IMPORTANT:**\n- <a:siren:1468847288280551515>  **Do NOT cancel your chain animation** or else you get tier gaps. e.g. t1, 2, 4, 5 (missing 3). **You cancel your chain by CLICKING on the next sushi before the chain animation ended**, so you must** make sure the chain got all the way to the end before clicking the next sushi.**\n- Only use Blue Campfire if/when you merge your highest tier leftovers. **Do NOT use blue campfire during chaining!**\n\n**Video Explained:**\n- Row 1 and 2 (setup) is my filler, it is based on the lowest tier in my chain, which is based on what i can sustain for fuel. In this case it's T22, so the FIRST TWO Sushi in the setup need to be T22 sushi (Rest is irrelevant and does NOT need to be organized)\n- Row 3 to 4 (my chain) is T38 down to T22, t22 is my spawned sushi (setup) and my lowest one in my chain.\n- I then move my T22 from row 4 (my chain) to row 1, then move T23 to the first slot in row 1, then T24 to the first slot in row 1 until my whole chain is moved up.\n- Now my chain is in Row 1 + 2 and my Setup will be Row 3 + 4. I am left with 2x of my highest sushi of my chain, i can either move one away to save it for later or merge it, USE Blue campfire for tier skips. Blue Campfire (59+ Research) = Chance to skip a tier, ideal for high merges.\n- At 1min 15 seconds, I now fill my station with my setup sushi (T22's) all in row 3 + 4 (setup), **MAKE SURE the first two sushi's are your setup level, like t22 here, not a t23**\n- Now repeat the whole process in reverse. (1min 28s) I move T22 from Row 2 (end of my chain) to Row 3 (setup)\n\n\nNOTE:\n\n-# Big Thanks to <@566458831446474752> for guiding a better path, no organization, and mouse/chain is always in the same spot.",
+    "mentions": [
+      {
+        "id": "566458831446474752",
+        "username": "untoldmysteries",
+        "avatar": "3467adc9ed7461b57093a56bda70fd36",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "UntoldMysteries",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1462574032464642309",
+          "identity_enabled": true,
+          "tag": "HOLO",
+          "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1462574032464642309",
+          "identity_enabled": true,
+          "tag": "HOLO",
+          "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-03-31T15:17:25.727000+00:00",
+    "edited_timestamp": "2026-04-03T15:01:52.836000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1488557842532274176",
+    "channel_id": "1488557727063085108",
+    "author": {
+      "id": "242777199248277504",
+      "username": "trickzbunny",
+      "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trickzbunny",
+      "avatar_decoration_data": {
+        "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+        "sku_id": "1256321669467865088",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1437881614159056979",
+          "asset": "nameplates/peanut/light_wall_blue/",
+          "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 6,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 8,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "481714069930246147",
+          "name": "YES"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1488557883582058669",
+        "filename": "LegendsOfIdleon_QQ0WM46O1d.mp4",
+        "size": 51890883,
+        "url": "https://cdn.discordapp.com/attachments/1488557727063085108/1488557883582058669/LegendsOfIdleon_QQ0WM46O1d.mp4?ex=6a0f220f&is=6a0dd08f&hm=e6bf5a03e49a48e101ae37fb177b6e48d23aacc17ede0be92670580b47007efc&",
+        "proxy_url": "https://media.discordapp.net/attachments/1488557727063085108/1488557883582058669/LegendsOfIdleon_QQ0WM46O1d.mp4?ex=6a0f220f&is=6a0dd08f&hm=e6bf5a03e49a48e101ae37fb177b6e48d23aacc17ede0be92670580b47007efc&",
+        "width": 738,
+        "height": 434,
+        "content_type": "video/mp4",
+        "original_content_type": "video/mp4",
+        "content_scan_version": 4,
+        "placeholder": "FOgFDIQ4ZZt2iHd1mHALdqhgNw==",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2026-03-31T15:17:35.955000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1488557885431746662",
+    "channel_id": "1488557727063085108",
+    "author": {
+      "id": "242777199248277504",
+      "username": "trickzbunny",
+      "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trickzbunny",
+      "avatar_decoration_data": {
+        "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+        "sku_id": "1256321669467865088",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1437881614159056979",
+          "asset": "nameplates/peanut/light_wall_blue/",
+          "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 6,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 9,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "🔥"
+        },
+        "count": 10,
+        "count_details": {
+          "burst": 0,
+          "normal": 10
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "==============================================",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-03-31T15:17:42.349000+00:00",
+    "edited_timestamp": "2026-03-31T15:20:32.687000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1488557912250122351",
+    "channel_id": "1488557727063085108",
+    "author": {
+      "id": "242777199248277504",
+      "username": "trickzbunny",
+      "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trickzbunny",
+      "avatar_decoration_data": {
+        "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+        "sku_id": "1256321669467865088",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1437881614159056979",
+          "asset": "nameplates/peanut/light_wall_blue/",
+          "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 6,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 10
+  },
+  {
+    "type": 0,
+    "content": ".",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-03-31T15:17:42.664000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1488557913571197098",
+    "channel_id": "1488557727063085108",
+    "author": {
+      "id": "242777199248277504",
+      "username": "trickzbunny",
+      "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trickzbunny",
+      "avatar_decoration_data": {
+        "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+        "sku_id": "1256321669467865088",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1437881614159056979",
+          "asset": "nameplates/peanut/light_wall_blue/",
+          "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 6,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 11
+  },
+  {
+    "type": 0,
+    "content": ".",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-03-31T15:17:42.973000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1488557914867106024",
+    "channel_id": "1488557727063085108",
+    "author": {
+      "id": "242777199248277504",
+      "username": "trickzbunny",
+      "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trickzbunny",
+      "avatar_decoration_data": {
+        "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+        "sku_id": "1256321669467865088",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1437881614159056979",
+          "asset": "nameplates/peanut/light_wall_blue/",
+          "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 6,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 12
+  },
+  {
+    "type": 0,
+    "content": ".",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-03-31T15:17:43.321000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1488557916326858853",
+    "channel_id": "1488557727063085108",
+    "author": {
+      "id": "242777199248277504",
+      "username": "trickzbunny",
+      "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trickzbunny",
+      "avatar_decoration_data": {
+        "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+        "sku_id": "1256321669467865088",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1437881614159056979",
+          "asset": "nameplates/peanut/light_wall_blue/",
+          "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 6,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 13
+  },
+  {
+    "type": 0,
+    "content": "Alternative Method by <@101316163438415872> \n\nNotes:\n- During the final merge for those higher tiers you would **CHANGE TO BLUE CAMPFIRE**. SpoonGobby did not have the research level for it yet when making the video.",
+    "mentions": [
+      {
+        "id": "101316163438415872",
+        "username": "spoongobby",
+        "avatar": "61caecb6d8cb0af5797964854a78ff50",
+        "discriminator": "0",
+        "public_flags": 128,
+        "flags": 128,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "SpoonGobby",
+        "avatar_decoration_data": {
+          "asset": "a_40a4fe6585a6751fab66e6a903cdd100",
+          "sku_id": "1432550258201858118",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1458472704524156959",
+            "asset": "nameplates/slumber_party/moon_bloom/",
+            "label": "COLLECTIBLES_SLUMBER_PARTY_MOON_BLOOM_NP_A11Y",
+            "palette": "berry"
+          }
+        },
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "304554707983138818",
+          "identity_enabled": true,
+          "tag": "FLTR",
+          "badge": "dea4f5f8e9aaa736c9b599506226508e"
+        },
+        "primary_guild": {
+          "identity_guild_id": "304554707983138818",
+          "identity_enabled": true,
+          "tag": "FLTR",
+          "badge": "dea4f5f8e9aaa736c9b599506226508e"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-03-31T15:17:43.514000+00:00",
+    "edited_timestamp": "2026-04-03T14:58:58.647000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1488557917136228362",
+    "channel_id": "1488557727063085108",
+    "author": {
+      "id": "242777199248277504",
+      "username": "trickzbunny",
+      "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trickzbunny",
+      "avatar_decoration_data": {
+        "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+        "sku_id": "1256321669467865088",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1437881614159056979",
+          "asset": "nameplates/peanut/light_wall_blue/",
+          "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 6,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 14
+  },
+  {
+    "type": 0,
+    "content": "",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1488557952167055412",
+        "filename": "Moments-Desktop-clip-from-Mar-30-2026.mp4",
+        "size": 7472823,
+        "url": "https://cdn.discordapp.com/attachments/1488557727063085108/1488557952167055412/Moments-Desktop-clip-from-Mar-30-2026.mp4?ex=6a0f221f&is=6a0dd09f&hm=f9c6063d6caaf39a337fcd05facb1c2226560f50fdf7a0703a2f441ad86f93e6&",
+        "proxy_url": "https://media.discordapp.net/attachments/1488557727063085108/1488557952167055412/Moments-Desktop-clip-from-Mar-30-2026.mp4?ex=6a0f221f&is=6a0dd09f&hm=f9c6063d6caaf39a337fcd05facb1c2226560f50fdf7a0703a2f441ad86f93e6&",
+        "width": 1920,
+        "height": 1080,
+        "content_type": "video/mp4",
+        "original_content_type": "video/mp4",
+        "content_scan_version": 4,
+        "placeholder": "GQgGDIKQYyeFiYithpd/qvgwdw==",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2026-03-31T15:17:51.942000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1488557952485953766",
+    "channel_id": "1488557727063085108",
+    "author": {
+      "id": "242777199248277504",
+      "username": "trickzbunny",
+      "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trickzbunny",
+      "avatar_decoration_data": {
+        "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+        "sku_id": "1256321669467865088",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1437881614159056979",
+          "asset": "nameplates/peanut/light_wall_blue/",
+          "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 6,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 15,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "❤️"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": ".",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-03-31T15:19:45.693000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1488558429592096891",
+    "channel_id": "1488557727063085108",
+    "author": {
+      "id": "242777199248277504",
+      "username": "trickzbunny",
+      "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trickzbunny",
+      "avatar_decoration_data": {
+        "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+        "sku_id": "1256321669467865088",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1437881614159056979",
+          "asset": "nameplates/peanut/light_wall_blue/",
+          "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 6,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 16
+  },
+  {
+    "type": 0,
+    "content": ".",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-03-31T15:19:45.948000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1488558430661775422",
+    "channel_id": "1488557727063085108",
+    "author": {
+      "id": "242777199248277504",
+      "username": "trickzbunny",
+      "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trickzbunny",
+      "avatar_decoration_data": {
+        "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+        "sku_id": "1256321669467865088",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1437881614159056979",
+          "asset": "nameplates/peanut/light_wall_blue/",
+          "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 6,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 17,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "481714069930246147",
+          "name": "YES"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": ".",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-03-31T15:19:46.503000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1488558432989741156",
+    "channel_id": "1488557727063085108",
+    "author": {
+      "id": "242777199248277504",
+      "username": "trickzbunny",
+      "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trickzbunny",
+      "avatar_decoration_data": {
+        "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+        "sku_id": "1256321669467865088",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1437881614159056979",
+          "asset": "nameplates/peanut/light_wall_blue/",
+          "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 6,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 18
+  },
+  {
+    "type": 0,
+    "content": ".",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-03-31T15:19:47.250000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1488558436122759169",
+    "channel_id": "1488557727063085108",
+    "author": {
+      "id": "242777199248277504",
+      "username": "trickzbunny",
+      "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trickzbunny",
+      "avatar_decoration_data": {
+        "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+        "sku_id": "1256321669467865088",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1437881614159056979",
+          "asset": "nameplates/peanut/light_wall_blue/",
+          "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 6,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 19
+  },
+  {
+    "type": 0,
+    "content": "==============================================",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-03-31T15:19:49.670000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1488558446273106133",
+    "channel_id": "1488557727063085108",
+    "author": {
+      "id": "242777199248277504",
+      "username": "trickzbunny",
+      "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trickzbunny",
+      "avatar_decoration_data": {
+        "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+        "sku_id": "1256321669467865088",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1437881614159056979",
+          "asset": "nameplates/peanut/light_wall_blue/",
+          "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 6,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 20
+  },
+  {
+    "type": 0,
+    "content": "# Double Blue Campfire Method (Req. 59+ Research)",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-04-03T14:44:05.537000+00:00",
+    "edited_timestamp": "2026-04-03T15:00:28.208000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1489636616724021259",
+    "channel_id": "1488557727063085108",
+    "author": {
+      "id": "242777199248277504",
+      "username": "trickzbunny",
+      "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trickzbunny",
+      "avatar_decoration_data": {
+        "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+        "sku_id": "1256321669467865088",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1437881614159056979",
+          "asset": "nameplates/peanut/light_wall_blue/",
+          "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 6,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 21
+  },
+  {
+    "type": 0,
+    "content": "If you are scared of forgetting your blue campfires (Requires 59+ Research, chance to skip a tier on merge) while doing high merges, or have low space like this, there's a method with 2x Blue campfires that works\n\nVideo:\n- Row 1 is the setup, Row 2 is the chain. Here we are moving Row 2 into row 1. Campfire skips tiers at times but it's very easy to fix.\n- Fix: Either you have to swap the spot depending on which campfire proc'd, or you have to move your setup sushi to one lower tier.\n-# Credit to <@566458831446474752> for the video",
+    "mentions": [
+      {
+        "id": "566458831446474752",
+        "username": "untoldmysteries",
+        "avatar": "3467adc9ed7461b57093a56bda70fd36",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "UntoldMysteries",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1462574032464642309",
+          "identity_enabled": true,
+          "tag": "HOLO",
+          "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1462574032464642309",
+          "identity_enabled": true,
+          "tag": "HOLO",
+          "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-04-03T14:44:05.709000+00:00",
+    "edited_timestamp": "2026-04-03T15:00:44.559000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1489636617445572841",
+    "channel_id": "1488557727063085108",
+    "author": {
+      "id": "242777199248277504",
+      "username": "trickzbunny",
+      "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trickzbunny",
+      "avatar_decoration_data": {
+        "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+        "sku_id": "1256321669467865088",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1437881614159056979",
+          "asset": "nameplates/peanut/light_wall_blue/",
+          "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 6,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 22
+  },
+  {
+    "type": 0,
+    "content": ".",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-04-03T14:44:06.258000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1489636619748114534",
+    "channel_id": "1488557727063085108",
+    "author": {
+      "id": "242777199248277504",
+      "username": "trickzbunny",
+      "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trickzbunny",
+      "avatar_decoration_data": {
+        "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+        "sku_id": "1256321669467865088",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1437881614159056979",
+          "asset": "nameplates/peanut/light_wall_blue/",
+          "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 6,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 23
+  },
+  {
+    "type": 0,
+    "content": "",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1489636631169470657",
+        "filename": "Discord_tPh5q6CzMj.mp4",
+        "size": 7737879,
+        "url": "https://cdn.discordapp.com/attachments/1488557727063085108/1489636631169470657/Discord_tPh5q6CzMj.mp4?ex=6a0f1a38&is=6a0dc8b8&hm=21513687999777297efd63940075b8f6e815e33dd159162c5bb9306598b41b2d&",
+        "proxy_url": "https://media.discordapp.net/attachments/1488557727063085108/1489636631169470657/Discord_tPh5q6CzMj.mp4?ex=6a0f1a38&is=6a0dc8b8&hm=21513687999777297efd63940075b8f6e815e33dd159162c5bb9306598b41b2d&",
+        "width": 964,
+        "height": 580,
+        "content_type": "video/mp4",
+        "original_content_type": "video/mp4",
+        "content_scan_version": 4,
+        "placeholder": "1BgGFIZkd3l9d4aPiHdhjwmlaQ==",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2026-04-03T14:44:09.144000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1489636631853006990",
+    "channel_id": "1488557727063085108",
+    "author": {
+      "id": "242777199248277504",
+      "username": "trickzbunny",
+      "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trickzbunny",
+      "avatar_decoration_data": {
+        "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+        "sku_id": "1256321669467865088",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1437881614159056979",
+          "asset": "nameplates/peanut/light_wall_blue/",
+          "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 6,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 24,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "1102342435637559377",
+          "name": "Grumblo_xplode"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": ".",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-04-03T14:48:19.265000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1489637680936648815",
+    "channel_id": "1488557727063085108",
+    "author": {
+      "id": "242777199248277504",
+      "username": "trickzbunny",
+      "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trickzbunny",
+      "avatar_decoration_data": {
+        "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+        "sku_id": "1256321669467865088",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1437881614159056979",
+          "asset": "nameplates/peanut/light_wall_blue/",
+          "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 6,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 25
+  },
+  {
+    "type": 0,
+    "content": "## **How to fix a tier skip,** \nExample: Your chain has t37+ but your setup line (or future chain) does NOT have a t37 anymore and only shows a t36 and t38+",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-04-03T14:48:20.141000+00:00",
+    "edited_timestamp": "2026-04-03T14:49:14.176000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1489637684610732134",
+    "channel_id": "1488557727063085108",
+    "author": {
+      "id": "242777199248277504",
+      "username": "trickzbunny",
+      "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trickzbunny",
+      "avatar_decoration_data": {
+        "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+        "sku_id": "1256321669467865088",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1437881614159056979",
+          "asset": "nameplates/peanut/light_wall_blue/",
+          "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 6,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 26
+  },
+  {
+    "type": 0,
+    "content": "",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1489637700414734506",
+        "filename": "Discord_KF4TlQ22al.mp4",
+        "size": 7455944,
+        "url": "https://cdn.discordapp.com/attachments/1488557727063085108/1489637700414734506/Discord_KF4TlQ22al.mp4?ex=6a0f1b37&is=6a0dc9b7&hm=93f1c61ef8566f2054dfd3ec4867c9ca4a2f214c31d53030fc908a5863103ba4&",
+        "proxy_url": "https://media.discordapp.net/attachments/1488557727063085108/1489637700414734506/Discord_KF4TlQ22al.mp4?ex=6a0f1b37&is=6a0dc9b7&hm=93f1c61ef8566f2054dfd3ec4867c9ca4a2f214c31d53030fc908a5863103ba4&",
+        "width": 968,
+        "height": 582,
+        "content_type": "video/mp4",
+        "original_content_type": "video/mp4",
+        "content_scan_version": 4,
+        "placeholder": "1AgGFIZ1iHqNh4efiIZAjgeFWA==",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2026-04-03T14:48:23.962000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1489637700637036647",
+    "channel_id": "1488557727063085108",
+    "author": {
+      "id": "242777199248277504",
+      "username": "trickzbunny",
+      "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trickzbunny",
+      "avatar_decoration_data": {
+        "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+        "sku_id": "1256321669467865088",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1437881614159056979",
+          "asset": "nameplates/peanut/light_wall_blue/",
+          "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 6,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 27
+  },
+  {
+    "type": 0,
+    "content": ".",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-04-03T14:49:19.523000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1489637933676892351",
+    "channel_id": "1488557727063085108",
+    "author": {
+      "id": "242777199248277504",
+      "username": "trickzbunny",
+      "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trickzbunny",
+      "avatar_decoration_data": {
+        "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+        "sku_id": "1256321669467865088",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1437881614159056979",
+          "asset": "nameplates/peanut/light_wall_blue/",
+          "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 6,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 28
+  },
+  {
+    "type": 0,
+    "content": ".",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-04-03T14:49:19.926000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1489637935367061636",
+    "channel_id": "1488557727063085108",
+    "author": {
+      "id": "242777199248277504",
+      "username": "trickzbunny",
+      "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trickzbunny",
+      "avatar_decoration_data": {
+        "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+        "sku_id": "1256321669467865088",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1437881614159056979",
+          "asset": "nameplates/peanut/light_wall_blue/",
+          "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 6,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 29
+  },
+  {
+    "type": 0,
+    "content": ".",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-04-03T14:49:20.623000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1489637938290626581",
+    "channel_id": "1488557727063085108",
+    "author": {
+      "id": "242777199248277504",
+      "username": "trickzbunny",
+      "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trickzbunny",
+      "avatar_decoration_data": {
+        "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+        "sku_id": "1256321669467865088",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1437881614159056979",
+          "asset": "nameplates/peanut/light_wall_blue/",
+          "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 6,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 30
+  }
+]

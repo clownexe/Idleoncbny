@@ -1,0 +1,2120 @@
+[
+  {
+    "type": 0,
+    "content": "Hey you, idleon player, got bored of not getting rare drops on your afk claim? <:GuyMontag:859584397539278859> \nDo you know that you can actually guarantee them? <:PogPig:799037335147905024>\n\nUse my spreadsheet to know exactly how much time you should afk to get them <:happy:644766908218081300> \n\nHow to use the spreadsheet:\nOpen the link\n\nCreate a copy of the spreadsheet\n\nFill only the yellow cells (so not that good looking green kills/hr cell that wants you)\n\nIf you don't multikill (or don't even know what is it) put 0 in multikill bonus% and your kills/hr in \"kills with multikill\"\n\n(also, make sure to not count the 2x from lab or the \"kills for deathnote\" boosters like prayer, bubble, barbarian ability)\n\nFor the rare item odds cell, instead of (example) \"1 in 20000\" write only \"20000\"\nhttps://docs.google.com/spreadsheets/d/137yCmkQ7bekqcl_rUgKhStXKZ4RrawNxdJLJ7IyoToY/edit?usp=sharing \nCredits to <@381550582756016138> for this sheet and info.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1085023990315233361",
+        "filename": "Red_Frisbee.png",
+        "size": 690,
+        "url": "https://cdn.discordapp.com/attachments/1085023989769969746/1085023990315233361/Red_Frisbee.png?ex=6a0f1416&is=6a0dc296&hm=faad324d31a79ccc52fda70aff1e3cc316afa7111f4cc05e271561cbaab91536&",
+        "proxy_url": "https://media.discordapp.net/attachments/1085023989769969746/1085023990315233361/Red_Frisbee.png?ex=6a0f1416&is=6a0dc296&hm=faad324d31a79ccc52fda70aff1e3cc316afa7111f4cc05e271561cbaab91536&",
+        "width": 72,
+        "height": 72,
+        "content_type": "image/png",
+        "content_scan_version": 4
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2023-03-14T02:17:57.932000+00:00",
+    "edited_timestamp": null,
+    "flags": 4,
+    "components": [],
+    "id": "1085023989769969746",
+    "channel_id": "1085023989769969746",
+    "author": {
+      "id": "236928332430573569",
+      "username": "rashaken",
+      "avatar": "c589bd219a130db4bbcec6d12a4f6a9a",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Rashaken",
+      "avatar_decoration_data": {
+        "asset": "a_c7e1751e8122f1b475cb3006966fb28c",
+        "sku_id": "1154896005045694555",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "368953963267096586",
+        "identity_enabled": true,
+        "tag": "LE",
+        "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+      },
+      "primary_guild": {
+        "identity_guild_id": "368953963267096586",
+        "identity_enabled": true,
+        "tag": "LE",
+        "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 143,
+        "count_details": {
+          "burst": 0,
+          "normal": 143
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "481714069930246147",
+          "name": "YES"
+        },
+        "count": 7,
+        "count_details": {
+          "burst": 0,
+          "normal": 7
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 19,
+    "content": "I assume this only calculates base drops? not nested \"rare drop\" and \"mega-rare drop\"?  would you need to multiply the drop rate by each nested rare drop level rate?",
+    "mentions": [
+      {
+        "id": "236928332430573569",
+        "username": "rashaken",
+        "avatar": "c589bd219a130db4bbcec6d12a4f6a9a",
+        "discriminator": "0",
+        "public_flags": 64,
+        "flags": 64,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Rashaken",
+        "avatar_decoration_data": {
+          "asset": "a_c7e1751e8122f1b475cb3006966fb28c",
+          "sku_id": "1154896005045694555",
+          "expires_at": null
+        },
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "368953963267096586",
+          "identity_enabled": true,
+          "tag": "LE",
+          "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+        },
+        "primary_guild": {
+          "identity_guild_id": "368953963267096586",
+          "identity_enabled": true,
+          "tag": "LE",
+          "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-04-04T00:38:00.575000+00:00",
+    "edited_timestamp": "2023-04-04T00:38:13.105000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1092608980209127544",
+    "channel_id": "1085023989769969746",
+    "author": {
+      "id": "276795867011350530",
+      "username": "loathesong",
+      "avatar": "1c580dcb6bccb3ed64fb140efc4dc115",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Loathesong",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1085023989769969746",
+      "message_id": "1085023989769969746",
+      "guild_id": "437797104786604034"
+    },
+    "position": 2,
+    "referenced_message": {
+      "type": 0,
+      "content": "Hey you, idleon player, got bored of not getting rare drops on your afk claim? <:GuyMontag:859584397539278859> \nDo you know that you can actually guarantee them? <:PogPig:799037335147905024>\n\nUse my spreadsheet to know exactly how much time you should afk to get them <:happy:644766908218081300> \n\nHow to use the spreadsheet:\nOpen the link\n\nCreate a copy of the spreadsheet\n\nFill only the yellow cells (so not that good looking green kills/hr cell that wants you)\n\nIf you don't multikill (or don't even know what is it) put 0 in multikill bonus% and your kills/hr in \"kills with multikill\"\n\n(also, make sure to not count the 2x from lab or the \"kills for deathnote\" boosters like prayer, bubble, barbarian ability)\n\nFor the rare item odds cell, instead of (example) \"1 in 20000\" write only \"20000\"\nhttps://docs.google.com/spreadsheets/d/137yCmkQ7bekqcl_rUgKhStXKZ4RrawNxdJLJ7IyoToY/edit?usp=sharing \nCredits to <@381550582756016138> for this sheet and info.",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [
+        {
+          "id": "1085023990315233361",
+          "filename": "Red_Frisbee.png",
+          "size": 690,
+          "url": "https://cdn.discordapp.com/attachments/1085023989769969746/1085023990315233361/Red_Frisbee.png?ex=6a0f1416&is=6a0dc296&hm=faad324d31a79ccc52fda70aff1e3cc316afa7111f4cc05e271561cbaab91536&",
+          "proxy_url": "https://media.discordapp.net/attachments/1085023989769969746/1085023990315233361/Red_Frisbee.png?ex=6a0f1416&is=6a0dc296&hm=faad324d31a79ccc52fda70aff1e3cc316afa7111f4cc05e271561cbaab91536&",
+          "width": 72,
+          "height": 72,
+          "content_type": "image/png",
+          "content_scan_version": 4
+        }
+      ],
+      "embeds": [],
+      "timestamp": "2023-03-14T02:17:57.932000+00:00",
+      "edited_timestamp": null,
+      "flags": 4,
+      "components": [],
+      "id": "1085023989769969746",
+      "channel_id": "1085023989769969746",
+      "author": {
+        "id": "236928332430573569",
+        "username": "rashaken",
+        "avatar": "c589bd219a130db4bbcec6d12a4f6a9a",
+        "discriminator": "0",
+        "public_flags": 64,
+        "flags": 64,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Rashaken",
+        "avatar_decoration_data": {
+          "asset": "a_c7e1751e8122f1b475cb3006966fb28c",
+          "sku_id": "1154896005045694555",
+          "expires_at": null
+        },
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "368953963267096586",
+          "identity_enabled": true,
+          "tag": "LE",
+          "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+        },
+        "primary_guild": {
+          "identity_guild_id": "368953963267096586",
+          "identity_enabled": true,
+          "tag": "LE",
+          "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 0
+    }
+  },
+  {
+    "type": 19,
+    "content": "Not my post, its made by someone who is no longer in the server. I dont know how the math works, sorry.",
+    "mentions": [
+      {
+        "id": "276795867011350530",
+        "username": "loathesong",
+        "avatar": "1c580dcb6bccb3ed64fb140efc4dc115",
+        "discriminator": "0",
+        "public_flags": 256,
+        "flags": 256,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Loathesong",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-04-04T00:39:11.899000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1092609279363653722",
+    "channel_id": "1085023989769969746",
+    "author": {
+      "id": "236928332430573569",
+      "username": "rashaken",
+      "avatar": "c589bd219a130db4bbcec6d12a4f6a9a",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Rashaken",
+      "avatar_decoration_data": {
+        "asset": "a_c7e1751e8122f1b475cb3006966fb28c",
+        "sku_id": "1154896005045694555",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "368953963267096586",
+        "identity_enabled": true,
+        "tag": "LE",
+        "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+      },
+      "primary_guild": {
+        "identity_guild_id": "368953963267096586",
+        "identity_enabled": true,
+        "tag": "LE",
+        "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1085023989769969746",
+      "message_id": "1092608980209127544",
+      "guild_id": "437797104786604034"
+    },
+    "position": 3,
+    "referenced_message": {
+      "type": 19,
+      "content": "I assume this only calculates base drops? not nested \"rare drop\" and \"mega-rare drop\"?  would you need to multiply the drop rate by each nested rare drop level rate?",
+      "mentions": [
+        {
+          "id": "236928332430573569",
+          "username": "rashaken",
+          "avatar": "c589bd219a130db4bbcec6d12a4f6a9a",
+          "discriminator": "0",
+          "public_flags": 64,
+          "flags": 64,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Rashaken",
+          "avatar_decoration_data": {
+            "asset": "a_c7e1751e8122f1b475cb3006966fb28c",
+            "sku_id": "1154896005045694555",
+            "expires_at": null
+          },
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": {
+            "identity_guild_id": "368953963267096586",
+            "identity_enabled": true,
+            "tag": "LE",
+            "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+          },
+          "primary_guild": {
+            "identity_guild_id": "368953963267096586",
+            "identity_enabled": true,
+            "tag": "LE",
+            "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+          }
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2023-04-04T00:38:00.575000+00:00",
+      "edited_timestamp": "2023-04-04T00:38:13.105000+00:00",
+      "flags": 0,
+      "components": [],
+      "id": "1092608980209127544",
+      "channel_id": "1085023989769969746",
+      "author": {
+        "id": "276795867011350530",
+        "username": "loathesong",
+        "avatar": "1c580dcb6bccb3ed64fb140efc4dc115",
+        "discriminator": "0",
+        "public_flags": 256,
+        "flags": 256,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Loathesong",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1085023989769969746",
+        "message_id": "1085023989769969746",
+        "guild_id": "437797104786604034"
+      },
+      "position": 2
+    }
+  },
+  {
+    "type": 0,
+    "content": "I just copied it from the other tip channel, which we're trying to migrate away from.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-04-04T00:39:45.607000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1092609420745252894",
+    "channel_id": "1085023989769969746",
+    "author": {
+      "id": "236928332430573569",
+      "username": "rashaken",
+      "avatar": "c589bd219a130db4bbcec6d12a4f6a9a",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Rashaken",
+      "avatar_decoration_data": {
+        "asset": "a_c7e1751e8122f1b475cb3006966fb28c",
+        "sku_id": "1154896005045694555",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "368953963267096586",
+        "identity_enabled": true,
+        "tag": "LE",
+        "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+      },
+      "primary_guild": {
+        "identity_guild_id": "368953963267096586",
+        "identity_enabled": true,
+        "tag": "LE",
+        "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 4
+  },
+  {
+    "type": 0,
+    "content": "ah, ok.  I'll dig into it and see if I can offer a better one with an item lookup table or something.  thank you though",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-04-04T00:43:29.283000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1092610358910390272",
+    "channel_id": "1085023989769969746",
+    "author": {
+      "id": "276795867011350530",
+      "username": "loathesong",
+      "avatar": "1c580dcb6bccb3ed64fb140efc4dc115",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Loathesong",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 5
+  },
+  {
+    "type": 0,
+    "content": "Can't understand what should I insert in `Kill with Multikill`. Can you help me?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-04-15T17:50:57.332000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1096855196090507389",
+    "channel_id": "1085023989769969746",
+    "author": {
+      "id": "273887087235825664",
+      "username": "trancastreet",
+      "avatar": null,
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "TrancaStreet",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "256164085366915072",
+        "identity_enabled": true,
+        "tag": "AoC",
+        "badge": "7f968d34689b032120d7a0f2a3d69b83"
+      },
+      "primary_guild": {
+        "identity_guild_id": "256164085366915072",
+        "identity_enabled": true,
+        "tag": "AoC",
+        "badge": "7f968d34689b032120d7a0f2a3d69b83"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 8
+  },
+  {
+    "type": 19,
+    "content": "Put in your kills/hr from the afk info",
+    "mentions": [
+      {
+        "id": "273887087235825664",
+        "username": "trancastreet",
+        "avatar": null,
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "TrancaStreet",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "256164085366915072",
+          "identity_enabled": true,
+          "tag": "AoC",
+          "badge": "7f968d34689b032120d7a0f2a3d69b83"
+        },
+        "primary_guild": {
+          "identity_guild_id": "256164085366915072",
+          "identity_enabled": true,
+          "tag": "AoC",
+          "badge": "7f968d34689b032120d7a0f2a3d69b83"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-04-18T15:31:24.643000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1097907242084343929",
+    "channel_id": "1085023989769969746",
+    "author": {
+      "id": "327286450976456704",
+      "username": "notthatdianaprince",
+      "avatar": "cf9f3487a049546adc354aec28b72871",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "NotThatDianaPrince",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1085023989769969746",
+      "message_id": "1096855196090507389",
+      "guild_id": "437797104786604034"
+    },
+    "position": 10,
+    "referenced_message": {
+      "type": 0,
+      "content": "Can't understand what should I insert in `Kill with Multikill`. Can you help me?",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2023-04-15T17:50:57.332000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1096855196090507389",
+      "channel_id": "1085023989769969746",
+      "author": {
+        "id": "273887087235825664",
+        "username": "trancastreet",
+        "avatar": null,
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "TrancaStreet",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "256164085366915072",
+          "identity_enabled": true,
+          "tag": "AoC",
+          "badge": "7f968d34689b032120d7a0f2a3d69b83"
+        },
+        "primary_guild": {
+          "identity_guild_id": "256164085366915072",
+          "identity_enabled": true,
+          "tag": "AoC",
+          "badge": "7f968d34689b032120d7a0f2a3d69b83"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 8
+    }
+  },
+  {
+    "type": 19,
+    "content": "u throw in ur kph",
+    "mentions": [
+      {
+        "id": "273887087235825664",
+        "username": "trancastreet",
+        "avatar": null,
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "TrancaStreet",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "256164085366915072",
+          "identity_enabled": true,
+          "tag": "AoC",
+          "badge": "7f968d34689b032120d7a0f2a3d69b83"
+        },
+        "primary_guild": {
+          "identity_guild_id": "256164085366915072",
+          "identity_enabled": true,
+          "tag": "AoC",
+          "badge": "7f968d34689b032120d7a0f2a3d69b83"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-04-22T14:27:09.472000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1099340623787601971",
+    "channel_id": "1085023989769969746",
+    "author": {
+      "id": "783961639053033493",
+      "username": "qwerfghjkmnbvc",
+      "avatar": "19b08245bdc35ced219ef9b548ab3c7b",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": {
+        "asset": "a_f824f7f3d04732ce5e2ff0f3f05d1937",
+        "sku_id": "1427463138634109027",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1427463138646954035",
+          "asset": "nameplates/orb/infinite_swirl/",
+          "label": "COLLECTIBLES_ORB_INFINITE_SWIRL_NP_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1085023989769969746",
+      "message_id": "1096855196090507389",
+      "guild_id": "437797104786604034"
+    },
+    "position": 12,
+    "referenced_message": {
+      "type": 0,
+      "content": "Can't understand what should I insert in `Kill with Multikill`. Can you help me?",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2023-04-15T17:50:57.332000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1096855196090507389",
+      "channel_id": "1085023989769969746",
+      "author": {
+        "id": "273887087235825664",
+        "username": "trancastreet",
+        "avatar": null,
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "TrancaStreet",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "256164085366915072",
+          "identity_enabled": true,
+          "tag": "AoC",
+          "badge": "7f968d34689b032120d7a0f2a3d69b83"
+        },
+        "primary_guild": {
+          "identity_guild_id": "256164085366915072",
+          "identity_enabled": true,
+          "tag": "AoC",
+          "badge": "7f968d34689b032120d7a0f2a3d69b83"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 8
+    }
+  },
+  {
+    "type": 0,
+    "content": "i think",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-04-22T14:27:11.063000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1099340630460743802",
+    "channel_id": "1085023989769969746",
+    "author": {
+      "id": "783961639053033493",
+      "username": "qwerfghjkmnbvc",
+      "avatar": "19b08245bdc35ced219ef9b548ab3c7b",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": {
+        "asset": "a_f824f7f3d04732ce5e2ff0f3f05d1937",
+        "sku_id": "1427463138634109027",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1427463138646954035",
+          "asset": "nameplates/orb/infinite_swirl/",
+          "label": "COLLECTIBLES_ORB_INFINITE_SWIRL_NP_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 13
+  },
+  {
+    "type": 0,
+    "content": "Hi guys, what do I fill in for the \"drop rate\"? Is it the drop rarity of the character? TIA",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-05-14T19:19:46.985000+00:00",
+    "edited_timestamp": "2023-05-14T19:25:49.514000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1107386798377799731",
+    "channel_id": "1085023989769969746",
+    "author": {
+      "id": "463912190525571082",
+      "username": "anori.",
+      "avatar": "0b60ef04e3b347c6c3e9b5309fb75a37",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Anori",
+      "avatar_decoration_data": {
+        "asset": "a_5b1319abfc9f928479b68a73635f591d",
+        "sku_id": "1306330662965477478",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1447654091470802965",
+          "asset": "nameplates/zodiac/aquarius/",
+          "label": "COLLECTIBLES_ZODIAC_AQUARIUS_NP_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 19
+  },
+  {
+    "type": 0,
+    "content": "yes",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-05-14T19:26:14.753000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1107388424794669126",
+    "channel_id": "1085023989769969746",
+    "author": {
+      "id": "273517775811772417",
+      "username": "fouinard",
+      "avatar": "462eee95c6338c9d940ac8f03e9e5606",
+      "discriminator": "0",
+      "public_flags": 768,
+      "flags": 768,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Adel",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 20
+  },
+  {
+    "type": 0,
+    "content": "Thank you!",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-05-14T19:27:47.061000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1107388811962499195",
+    "channel_id": "1085023989769969746",
+    "author": {
+      "id": "463912190525571082",
+      "username": "anori.",
+      "avatar": "0b60ef04e3b347c6c3e9b5309fb75a37",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Anori",
+      "avatar_decoration_data": {
+        "asset": "a_5b1319abfc9f928479b68a73635f591d",
+        "sku_id": "1306330662965477478",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1447654091470802965",
+          "asset": "nameplates/zodiac/aquarius/",
+          "label": "COLLECTIBLES_ZODIAC_AQUARIUS_NP_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 21
+  },
+  {
+    "type": 0,
+    "content": "<:GrumbloGhost1:1098660988598890647> <:GrumbloGhost2:1098661003123765379>",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-05-21T01:30:49.181000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1109654499989131319",
+    "channel_id": "1085023989769969746",
+    "author": {
+      "id": "456226577798135808",
+      "username": "Deleted User",
+      "avatar": null,
+      "discriminator": "0000",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 22
+  },
+  {
+    "type": 0,
+    "content": "sadly for me doesnt work :/",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-05-23T08:54:43.741000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1110490989161873448",
+    "channel_id": "1085023989769969746",
+    "author": {
+      "id": "284364424083668992",
+      "username": "emcix",
+      "avatar": "b08cf4d032f162901e685e1a53450610",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "EmcΧ",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "143852930036924417",
+        "identity_enabled": true,
+        "tag": "WYNN",
+        "badge": "823b295651d111c27ccd2ea23bec6f4f"
+      },
+      "primary_guild": {
+        "identity_guild_id": "143852930036924417",
+        "identity_enabled": true,
+        "tag": "WYNN",
+        "badge": "823b295651d111c27ccd2ea23bec6f4f"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 23
+  },
+  {
+    "type": 0,
+    "content": "How do I find all these different values?  There's 2 I can't find unless they're named something different?\n\n1. Rare item odds - I can't find this \"1 in xxx\" anywhere except for card drops in the AFK window and this is a per hour figure not a numerical figure.\n2. Multikill Bonus% - I'm guessing this is the **Multikill per tier** which shows up in the Card Bonuses And Sets?\n3. Kills with Multikill - already read that this is the **Kills/hr** which shows up in the AFK window.\n4. Drop Rate - already read that this is the **Drop Rarity** which shows up in the Player Info window.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-07-06T15:22:06.661000+00:00",
+    "edited_timestamp": "2023-07-06T15:46:42.867000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1126533543120605244",
+    "channel_id": "1085023989769969746",
+    "author": {
+      "id": "101059512663818240",
+      "username": "laniexi",
+      "avatar": "b01308a4537c37391988ec9864bf5486",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "LanieXI",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 32
+  },
+  {
+    "type": 19,
+    "content": "Rare Item Odds are on the monster's card (if you don't have their card, either get one or check the wiki).\n\nMultikill per tier for each world is found at the Deathnote, but it needs your actual multikill. Your Multikill on a mob is found in AFK Info.\nYou'll also need to unlock Multikill through W3 Construction, if you haven't already.\n\nNote that Multikill only effects the first drop on the card, the other drops are only affected by your actual kills. So Multikill would affect Red Frisbees but not Woodular Circles.\nSo the sheet needs to calculate your kills without Multikill to work.",
+    "mentions": [
+      {
+        "id": "101059512663818240",
+        "username": "laniexi",
+        "avatar": "b01308a4537c37391988ec9864bf5486",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "LanieXI",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1126814303606030377",
+        "filename": "image.png",
+        "size": 24655,
+        "url": "https://cdn.discordapp.com/attachments/1085023989769969746/1126814303606030377/image.png?ex=6a0ed719&is=6a0d8599&hm=586dbc738d12d52b40d995c089f662c98c3b5ab652944bd9b0fd2d615089d627&",
+        "proxy_url": "https://media.discordapp.net/attachments/1085023989769969746/1126814303606030377/image.png?ex=6a0ed719&is=6a0d8599&hm=586dbc738d12d52b40d995c089f662c98c3b5ab652944bd9b0fd2d615089d627&",
+        "width": 351,
+        "height": 105,
+        "content_type": "image/png",
+        "content_scan_version": 4
+      },
+      {
+        "id": "1126814304109350964",
+        "filename": "image.png",
+        "size": 58210,
+        "url": "https://cdn.discordapp.com/attachments/1085023989769969746/1126814304109350964/image.png?ex=6a0ed719&is=6a0d8599&hm=07f972d54ada3e3d38e065bd5432d75c2160c5de59a44b05ce12aa4523f94229&",
+        "proxy_url": "https://media.discordapp.net/attachments/1085023989769969746/1126814304109350964/image.png?ex=6a0ed719&is=6a0d8599&hm=07f972d54ada3e3d38e065bd5432d75c2160c5de59a44b05ce12aa4523f94229&",
+        "width": 560,
+        "height": 271,
+        "content_type": "image/png",
+        "content_scan_version": 4
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2023-07-07T09:57:45.361000+00:00",
+    "edited_timestamp": "2023-07-07T10:12:54.996000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1126814304377778316",
+    "channel_id": "1085023989769969746",
+    "author": {
+      "id": "201332225881538561",
+      "username": "rhimona",
+      "avatar": "5ee0741629fd4cfbfadae4e224fca1d5",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Rinoa",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1085023989769969746",
+      "message_id": "1126533543120605244",
+      "guild_id": "437797104786604034"
+    },
+    "position": 33,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "❤️"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ],
+    "referenced_message": {
+      "type": 0,
+      "content": "How do I find all these different values?  There's 2 I can't find unless they're named something different?\n\n1. Rare item odds - I can't find this \"1 in xxx\" anywhere except for card drops in the AFK window and this is a per hour figure not a numerical figure.\n2. Multikill Bonus% - I'm guessing this is the **Multikill per tier** which shows up in the Card Bonuses And Sets?\n3. Kills with Multikill - already read that this is the **Kills/hr** which shows up in the AFK window.\n4. Drop Rate - already read that this is the **Drop Rarity** which shows up in the Player Info window.",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2023-07-06T15:22:06.661000+00:00",
+      "edited_timestamp": "2023-07-06T15:46:42.867000+00:00",
+      "flags": 0,
+      "components": [],
+      "id": "1126533543120605244",
+      "channel_id": "1085023989769969746",
+      "author": {
+        "id": "101059512663818240",
+        "username": "laniexi",
+        "avatar": "b01308a4537c37391988ec9864bf5486",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "LanieXI",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 32
+    }
+  },
+  {
+    "type": 0,
+    "content": "How in the hecklefreckle are you getting tens of thousands of multikill? I'm at like 200-300% at most and the deathnote only gives 2% per and damage req. almost doubles every tier",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-07-11T01:30:18.650000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1128136153078448218",
+    "channel_id": "1085023989769969746",
+    "author": {
+      "id": "347128920019173376",
+      "username": "foundverdict",
+      "avatar": "2bae56e43cc48b84a997bc2a47f82564",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Boioi (⁰±⁰)",
+      "avatar_decoration_data": {
+        "asset": "a_8d31b6b853913a2811916a2d8678b747",
+        "sku_id": "1420225379246805012",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 35
+  },
+  {
+    "type": 0,
+    "content": "Hello, im an android user and i really wanna see my afk gains without interrupting my character, i opened the link with google sheets but all of the cells are view only, can someone help me pls ?<@236928332430573569>",
+    "mentions": [
+      {
+        "id": "236928332430573569",
+        "username": "rashaken",
+        "avatar": "c589bd219a130db4bbcec6d12a4f6a9a",
+        "discriminator": "0",
+        "public_flags": 64,
+        "flags": 64,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Rashaken",
+        "avatar_decoration_data": {
+          "asset": "a_c7e1751e8122f1b475cb3006966fb28c",
+          "sku_id": "1154896005045694555",
+          "expires_at": null
+        },
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "368953963267096586",
+          "identity_enabled": true,
+          "tag": "LE",
+          "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+        },
+        "primary_guild": {
+          "identity_guild_id": "368953963267096586",
+          "identity_enabled": true,
+          "tag": "LE",
+          "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-07-19T13:30:55.078000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1131216602726158449",
+    "channel_id": "1085023989769969746",
+    "author": {
+      "id": "1013586100616437780",
+      "username": "eggy1389",
+      "avatar": "be9ebf9fc0d21fc48942923750b759f0",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "EggyNotEgg",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 38
+  },
+  {
+    "type": 19,
+    "content": "Make a copy of the sheet, then you can modify it.",
+    "mentions": [
+      {
+        "id": "1013586100616437780",
+        "username": "eggy1389",
+        "avatar": "be9ebf9fc0d21fc48942923750b759f0",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "EggyNotEgg",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-07-19T14:01:31.279000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1131224304311337011",
+    "channel_id": "1085023989769969746",
+    "author": {
+      "id": "236928332430573569",
+      "username": "rashaken",
+      "avatar": "c589bd219a130db4bbcec6d12a4f6a9a",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Rashaken",
+      "avatar_decoration_data": {
+        "asset": "a_c7e1751e8122f1b475cb3006966fb28c",
+        "sku_id": "1154896005045694555",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "368953963267096586",
+        "identity_enabled": true,
+        "tag": "LE",
+        "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+      },
+      "primary_guild": {
+        "identity_guild_id": "368953963267096586",
+        "identity_enabled": true,
+        "tag": "LE",
+        "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1085023989769969746",
+      "message_id": "1131216602726158449",
+      "guild_id": "437797104786604034"
+    },
+    "position": 39,
+    "referenced_message": {
+      "type": 0,
+      "content": "Hello, im an android user and i really wanna see my afk gains without interrupting my character, i opened the link with google sheets but all of the cells are view only, can someone help me pls ?<@236928332430573569>",
+      "mentions": [
+        {
+          "id": "236928332430573569",
+          "username": "rashaken",
+          "avatar": "c589bd219a130db4bbcec6d12a4f6a9a",
+          "discriminator": "0",
+          "public_flags": 64,
+          "flags": 64,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Rashaken",
+          "avatar_decoration_data": {
+            "asset": "a_c7e1751e8122f1b475cb3006966fb28c",
+            "sku_id": "1154896005045694555",
+            "expires_at": null
+          },
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": {
+            "identity_guild_id": "368953963267096586",
+            "identity_enabled": true,
+            "tag": "LE",
+            "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+          },
+          "primary_guild": {
+            "identity_guild_id": "368953963267096586",
+            "identity_enabled": true,
+            "tag": "LE",
+            "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+          }
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2023-07-19T13:30:55.078000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1131216602726158449",
+      "channel_id": "1085023989769969746",
+      "author": {
+        "id": "1013586100616437780",
+        "username": "eggy1389",
+        "avatar": "be9ebf9fc0d21fc48942923750b759f0",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "EggyNotEgg",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 38
+    }
+  },
+  {
+    "type": 19,
+    "content": "How do i copy it, i press on a cell and press copy. Is that what you mean ? (Sorry for the dumb questions i never worked with this and my english sucks 😅) <@236928332430573569>",
+    "mentions": [
+      {
+        "id": "236928332430573569",
+        "username": "rashaken",
+        "avatar": "c589bd219a130db4bbcec6d12a4f6a9a",
+        "discriminator": "0",
+        "public_flags": 64,
+        "flags": 64,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Rashaken",
+        "avatar_decoration_data": {
+          "asset": "a_c7e1751e8122f1b475cb3006966fb28c",
+          "sku_id": "1154896005045694555",
+          "expires_at": null
+        },
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "368953963267096586",
+          "identity_enabled": true,
+          "tag": "LE",
+          "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+        },
+        "primary_guild": {
+          "identity_guild_id": "368953963267096586",
+          "identity_enabled": true,
+          "tag": "LE",
+          "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-07-19T14:07:53.570000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1131225907756007525",
+    "channel_id": "1085023989769969746",
+    "author": {
+      "id": "1013586100616437780",
+      "username": "eggy1389",
+      "avatar": "be9ebf9fc0d21fc48942923750b759f0",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "EggyNotEgg",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1085023989769969746",
+      "message_id": "1131224304311337011",
+      "guild_id": "437797104786604034"
+    },
+    "position": 40,
+    "referenced_message": {
+      "type": 19,
+      "content": "Make a copy of the sheet, then you can modify it.",
+      "mentions": [
+        {
+          "id": "1013586100616437780",
+          "username": "eggy1389",
+          "avatar": "be9ebf9fc0d21fc48942923750b759f0",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "EggyNotEgg",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2023-07-19T14:01:31.279000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1131224304311337011",
+      "channel_id": "1085023989769969746",
+      "author": {
+        "id": "236928332430573569",
+        "username": "rashaken",
+        "avatar": "c589bd219a130db4bbcec6d12a4f6a9a",
+        "discriminator": "0",
+        "public_flags": 64,
+        "flags": 64,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Rashaken",
+        "avatar_decoration_data": {
+          "asset": "a_c7e1751e8122f1b475cb3006966fb28c",
+          "sku_id": "1154896005045694555",
+          "expires_at": null
+        },
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "368953963267096586",
+          "identity_enabled": true,
+          "tag": "LE",
+          "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+        },
+        "primary_guild": {
+          "identity_guild_id": "368953963267096586",
+          "identity_enabled": true,
+          "tag": "LE",
+          "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1085023989769969746",
+        "message_id": "1131216602726158449",
+        "guild_id": "437797104786604034"
+      },
+      "position": 39
+    }
+  },
+  {
+    "type": 0,
+    "content": "In the menu, create a copy of the entire sheet",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-07-19T14:08:29.948000+00:00",
+    "edited_timestamp": "2023-07-19T14:08:36.153000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1131226060336406589",
+    "channel_id": "1085023989769969746",
+    "author": {
+      "id": "236928332430573569",
+      "username": "rashaken",
+      "avatar": "c589bd219a130db4bbcec6d12a4f6a9a",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Rashaken",
+      "avatar_decoration_data": {
+        "asset": "a_c7e1751e8122f1b475cb3006966fb28c",
+        "sku_id": "1154896005045694555",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "368953963267096586",
+        "identity_enabled": true,
+        "tag": "LE",
+        "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+      },
+      "primary_guild": {
+        "identity_guild_id": "368953963267096586",
+        "identity_enabled": true,
+        "tag": "LE",
+        "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 41
+  },
+  {
+    "type": 0,
+    "content": "Got it!",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-07-19T14:10:07.088000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1131226467771088916",
+    "channel_id": "1085023989769969746",
+    "author": {
+      "id": "1013586100616437780",
+      "username": "eggy1389",
+      "avatar": "be9ebf9fc0d21fc48942923750b759f0",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "EggyNotEgg",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 42
+  },
+  {
+    "type": 0,
+    "content": "Ok so do i calculate it based on the sheets or is there an option for it to calculate itself <@236928332430573569>",
+    "mentions": [
+      {
+        "id": "236928332430573569",
+        "username": "rashaken",
+        "avatar": "c589bd219a130db4bbcec6d12a4f6a9a",
+        "discriminator": "0",
+        "public_flags": 64,
+        "flags": 64,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Rashaken",
+        "avatar_decoration_data": {
+          "asset": "a_c7e1751e8122f1b475cb3006966fb28c",
+          "sku_id": "1154896005045694555",
+          "expires_at": null
+        },
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "368953963267096586",
+          "identity_enabled": true,
+          "tag": "LE",
+          "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+        },
+        "primary_guild": {
+          "identity_guild_id": "368953963267096586",
+          "identity_enabled": true,
+          "tag": "LE",
+          "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-07-19T14:13:53.307000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1131227416602345522",
+    "channel_id": "1085023989769969746",
+    "author": {
+      "id": "1013586100616437780",
+      "username": "eggy1389",
+      "avatar": "be9ebf9fc0d21fc48942923750b759f0",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "EggyNotEgg",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 43
+  },
+  {
+    "type": 0,
+    "content": "What do i put in the drop rate and blue cells ( hours for guaranteed drop )",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-07-19T14:18:39.674000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1131228617712615486",
+    "channel_id": "1085023989769969746",
+    "author": {
+      "id": "1013586100616437780",
+      "username": "eggy1389",
+      "avatar": "be9ebf9fc0d21fc48942923750b759f0",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "EggyNotEgg",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 44
+  },
+  {
+    "type": 0,
+    "content": "what am i doing wrong?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1172739138093592636",
+        "filename": "image.png",
+        "size": 167516,
+        "url": "https://cdn.discordapp.com/attachments/1085023989769969746/1172739138093592636/image.png?ex=6a0f242e&is=6a0dd2ae&hm=949cbe1951273e3c2d3ef874ffed5e5758f31da043219bb29fe02a96f2711427&",
+        "proxy_url": "https://media.discordapp.net/attachments/1085023989769969746/1172739138093592636/image.png?ex=6a0f242e&is=6a0dd2ae&hm=949cbe1951273e3c2d3ef874ffed5e5758f31da043219bb29fe02a96f2711427&",
+        "width": 640,
+        "height": 926,
+        "content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "n/cFBQCZsHJ411U7dopmiGDk7PUi",
+        "placeholder_version": 1
+      },
+      {
+        "id": "1172739138659819530",
+        "filename": "image.png",
+        "size": 63085,
+        "url": "https://cdn.discordapp.com/attachments/1085023989769969746/1172739138659819530/image.png?ex=6a0f242f&is=6a0dd2af&hm=bee4b018c267f726480ad8c38cd4b699bc73af0d28d2b7cc70e4b6600a6ee5ef&",
+        "proxy_url": "https://media.discordapp.net/attachments/1085023989769969746/1172739138659819530/image.png?ex=6a0f242f&is=6a0dd2af&hm=bee4b018c267f726480ad8c38cd4b699bc73af0d28d2b7cc70e4b6600a6ee5ef&",
+        "width": 1210,
+        "height": 309,
+        "content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "4PcNEoRbaYefhXd4f0b3lnU=",
+        "placeholder_version": 1
+      },
+      {
+        "id": "1172739139112816721",
+        "filename": "image.png",
+        "size": 337259,
+        "url": "https://cdn.discordapp.com/attachments/1085023989769969746/1172739139112816721/image.png?ex=6a0f242f&is=6a0dd2af&hm=cb659c74983307451c0ebe18a40c08ab4fd21a73253ff3377b8535332886f9ba&",
+        "proxy_url": "https://media.discordapp.net/attachments/1085023989769969746/1172739139112816721/image.png?ex=6a0f242f&is=6a0dd2af&hm=cb659c74983307451c0ebe18a40c08ab4fd21a73253ff3377b8535332886f9ba&",
+        "width": 1190,
+        "height": 948,
+        "content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "2wcCBoCv4skOxnjsRYhUS3mCs8XwJ9I=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2023-11-11T03:26:39.225000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1172739139200888875",
+    "channel_id": "1085023989769969746",
+    "author": {
+      "id": "140199028171210752",
+      "username": "krameolime",
+      "avatar": "a_cff2ed6e7a2048a78e488fbf9a47bcb5",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Krameo Lime",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 3,
+        "colors": [
+          695675
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 65
+  },
+  {
+    "type": 0,
+    "content": "Hmm",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1177704896393392258",
+        "filename": "image0.jpg",
+        "size": 128799,
+        "url": "https://cdn.discordapp.com/attachments/1085023989769969746/1177704896393392258/image0.jpg?ex=6a0f68a7&is=6a0e1727&hm=c2457476acedf64b82a4c5896bae80e8255a1a38fcd7ab73134e1840dceefcf0&",
+        "proxy_url": "https://media.discordapp.net/attachments/1085023989769969746/1177704896393392258/image0.jpg?ex=6a0f68a7&is=6a0e1727&hm=c2457476acedf64b82a4c5896bae80e8255a1a38fcd7ab73134e1840dceefcf0&",
+        "width": 2340,
+        "height": 1080,
+        "content_type": "image/jpeg",
+        "content_scan_version": 4,
+        "placeholder": "yvcJA4BXSVl3eAeYn4X3eug=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2023-11-24T20:18:48.115000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1177704896879923292",
+    "channel_id": "1085023989769969746",
+    "author": {
+      "id": "168749378419425280",
+      "username": "mister_ostroum",
+      "avatar": "8ace937a7a080d84c15c204a4fbdb80b",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Mister_Ostroum",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1320546674849874050",
+        "identity_enabled": true,
+        "tag": "FATE",
+        "badge": "8f311f0413ab74d6fba9ecd8b9bd4db2"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1320546674849874050",
+        "identity_enabled": true,
+        "tag": "FATE",
+        "badge": "8f311f0413ab74d6fba9ecd8b9bd4db2"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 71
+  },
+  {
+    "type": 0,
+    "content": "I'm confused. I would love to know what drops this is talking about. Because, based on the calculation, I should be getting something like 10x lucky lads every 0.43 hours, which obviously is not the case. Or am I misinterpreting this?\nRare item odds: 3334 (Lucky lad) - Multikill bonus %: 13794\nKills with multi kill: 562341 - Drop Rate: 18.21\nHOURS FOR GUARANTEED DROP (2X): 0.09\nHOURS FOR GUARANTEED DROP (10X): 0.43",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-03-12T10:12:21.319000+00:00",
+    "edited_timestamp": "2024-03-12T10:12:43.795000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1217052556946046987",
+    "channel_id": "1085023989769969746",
+    "author": {
+      "id": "719699717986058341",
+      "username": "pandanonymous.",
+      "avatar": "a21408de7bcb43e330cb815fcf7d439b",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Pandanonymous",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 79
+  },
+  {
+    "type": 19,
+    "content": "If u still interested: Lucky lad  have 1 in 3334 odds inside a mega rare droptable which is inside rare table which is inside regular drops so its actually smth like 1 in 150(rare) * 150(mega rare) * 3334 (lucky lad)\ndetails could be a bit different because rare and mega rare odds depends on the mob",
+    "mentions": [
+      {
+        "id": "719699717986058341",
+        "username": "pandanonymous.",
+        "avatar": "a21408de7bcb43e330cb815fcf7d439b",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Pandanonymous",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-04-11T16:16:21.063000+00:00",
+    "edited_timestamp": "2024-04-11T16:18:43.990000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1228015795439796254",
+    "channel_id": "1085023989769969746",
+    "author": {
+      "id": "169902558322753536",
+      "username": "714",
+      "avatar": "342aa17cfcdf62b8ab8f436c9b201316",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "714",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1085023989769969746",
+      "message_id": "1217052556946046987",
+      "guild_id": "437797104786604034"
+    },
+    "position": 81,
+    "referenced_message": {
+      "type": 0,
+      "content": "I'm confused. I would love to know what drops this is talking about. Because, based on the calculation, I should be getting something like 10x lucky lads every 0.43 hours, which obviously is not the case. Or am I misinterpreting this?\nRare item odds: 3334 (Lucky lad) - Multikill bonus %: 13794\nKills with multi kill: 562341 - Drop Rate: 18.21\nHOURS FOR GUARANTEED DROP (2X): 0.09\nHOURS FOR GUARANTEED DROP (10X): 0.43",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2024-03-12T10:12:21.319000+00:00",
+      "edited_timestamp": "2024-03-12T10:12:43.795000+00:00",
+      "flags": 0,
+      "components": [],
+      "id": "1217052556946046987",
+      "channel_id": "1085023989769969746",
+      "author": {
+        "id": "719699717986058341",
+        "username": "pandanonymous.",
+        "avatar": "a21408de7bcb43e330cb815fcf7d439b",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Pandanonymous",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 79
+    }
+  },
+  {
+    "type": 0,
+    "content": "so this works for any drop, even ones inside rarer tables as long as one calculates the odds correctly like 714 posted?  so like  1 in 718,000 stamp in a 1 in 313 rare drop table",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-06-18T22:30:51.217000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1252752416957534342",
+    "channel_id": "1085023989769969746",
+    "author": {
+      "id": "308963648636715011",
+      "username": "ocpik4chu",
+      "avatar": "e16730a3894d83e21535e03c9b4a145b",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "OCPik4chu",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "181078474394566657",
+        "identity_enabled": true,
+        "tag": "GTNH",
+        "badge": "8e228078dc56d4ad8bdccb696d4e90be"
+      },
+      "primary_guild": {
+        "identity_guild_id": "181078474394566657",
+        "identity_enabled": true,
+        "tag": "GTNH",
+        "badge": "8e228078dc56d4ad8bdccb696d4e90be"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 82
+  }
+]

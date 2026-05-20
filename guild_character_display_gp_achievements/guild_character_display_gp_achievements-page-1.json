@@ -1,0 +1,210 @@
+[
+  {
+    "type": 0,
+    "content": "For those that are unaware, you can select which character is displayed in your guild. Log on to the character you wish to be displayed then follow the gif below.\nDoing this also forces the game to recheck GP achievements and will unlock them if you have had issues with them triggering in the past. \nYou might also have to scroll down through the member list to your name.\nThank you to <@363445247323144192> for confirming this.",
+    "mentions": [
+      {
+        "id": "363445247323144192",
+        "username": ".mo.no",
+        "avatar": "668a206bf9441551c96d2060a1edd1fa",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Pjesus",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "552966801558863896",
+          "identity_enabled": true,
+          "tag": "CLEM",
+          "badge": "f4fbbf778962d8c575d7d10d7a8586a4"
+        },
+        "primary_guild": {
+          "identity_guild_id": "552966801558863896",
+          "identity_enabled": true,
+          "tag": "CLEM",
+          "badge": "f4fbbf778962d8c575d7d10d7a8586a4"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1084920079243825212",
+        "filename": "guild_char_select.gif",
+        "size": 6785130,
+        "url": "https://cdn.discordapp.com/attachments/1084920078493040710/1084920079243825212/guild_char_select.gif?ex=6a0f5c0f&is=6a0e0a8f&hm=d2934d94d680419f734e34a4654bfe5029ac64fa54f6c868f50e794ca5a6d228&",
+        "proxy_url": "https://media.discordapp.net/attachments/1084920078493040710/1084920079243825212/guild_char_select.gif?ex=6a0f5c0f&is=6a0e0a8f&hm=d2934d94d680419f734e34a4654bfe5029ac64fa54f6c868f50e794ca5a6d228&",
+        "width": 538,
+        "height": 721,
+        "content_type": "image/gif",
+        "content_scan_version": 4
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2023-03-13T19:25:03.553000+00:00",
+    "edited_timestamp": "2023-03-16T21:02:54.723000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1084920078493040710",
+    "channel_id": "1084920078493040710",
+    "author": {
+      "id": "236928332430573569",
+      "username": "rashaken",
+      "avatar": "c589bd219a130db4bbcec6d12a4f6a9a",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Rashaken",
+      "avatar_decoration_data": {
+        "asset": "a_c7e1751e8122f1b475cb3006966fb28c",
+        "sku_id": "1154896005045694555",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "368953963267096586",
+        "identity_enabled": true,
+        "tag": "LE",
+        "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+      },
+      "primary_guild": {
+        "identity_guild_id": "368953963267096586",
+        "identity_enabled": true,
+        "tag": "LE",
+        "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "🙏"
+        },
+        "count": 42,
+        "count_details": {
+          "burst": 0,
+          "normal": 42
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "💀"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 4,
+          "normal": 0
+        },
+        "burst_colors": [
+          "#c2cad0",
+          "#4c704f",
+          "#262c30",
+          "#454c50",
+          "#c2ccd0",
+          "#686d70",
+          "#b3bbc0",
+          "#292d30",
+          "#373d40",
+          "#595d60"
+        ],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 4
+      },
+      {
+        "emoji": {
+          "id": "891394041961390131",
+          "name": "ily"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "neat!",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-07-26T20:36:40.722000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1398765993735487520",
+    "channel_id": "1084920078493040710",
+    "author": {
+      "id": "339344312418435074",
+      "username": "rikito378",
+      "avatar": "3f54fbe986ec35747cc78be70d9cc8da",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Rikito378",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1447654090661302343",
+          "asset": "nameplates/zodiac/aries/",
+          "label": "COLLECTIBLES_ZODIAC_ARIES_NP_A11Y",
+          "palette": "crimson"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 6,
+        "effect_id": 5,
+        "colors": [
+          15999128
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "695843507230736406",
+        "identity_enabled": true,
+        "tag": "CC",
+        "badge": "5cb0b716cd008fdd37700d65253c9950"
+      },
+      "primary_guild": {
+        "identity_guild_id": "695843507230736406",
+        "identity_enabled": true,
+        "tag": "CC",
+        "badge": "5cb0b716cd008fdd37700d65253c9950"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 22
+  }
+]

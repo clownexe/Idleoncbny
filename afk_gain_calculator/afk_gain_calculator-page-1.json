@@ -1,0 +1,492 @@
+[
+  {
+    "type": 0,
+    "content": "After contacting the creator of the original afk chart and confirming that it won't be updated i was thinking of uploading my afk gain calculator for you guys to use.\n\nIt hasnt been testet too much so if you find any faults or bonuses im missing, don't hesitate to leave a comment so i can change it 😄\n\nhttps://docs.google.com/spreadsheets/d/1HzaFa1SPXtdf7EMKSBp4klFBTs19ajE6jNEtfFNoBcA/copy\n\nHow to use:\n-make a copy of the spreadsheet \n-Fill in your bonuses in the white areas\n-Fill in your multipliers from Bubbles/Starsign below\n-uncheck every node, you cant possibly get to yet or won't achieve for a while (yes im looking at you premium hat) so the result will be more fitting to your current progress\n\nTo do: clarification of bonuses for new players",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1213407768648884265",
+        "filename": "123541.JPG",
+        "size": 309623,
+        "url": "https://cdn.discordapp.com/attachments/1213407768296423434/1213407768648884265/123541.JPG?ex=6a0f6fcc&is=6a0e1e4c&hm=84c66608cc88ede579fb8e1dbdf9f0b6d6deb9e0de7f7e9aa43df666775d3b96&",
+        "proxy_url": "https://media.discordapp.net/attachments/1213407768296423434/1213407768648884265/123541.JPG?ex=6a0f6fcc&is=6a0e1e4c&hm=84c66608cc88ede579fb8e1dbdf9f0b6d6deb9e0de7f7e9aa43df666775d3b96&",
+        "width": 2137,
+        "height": 769,
+        "content_type": "image/jpeg",
+        "content_scan_version": 4,
+        "placeholder": "HAgSAoJvWoZdl4Z3Bo2aAcY=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2024-03-02T08:49:15.988000+00:00",
+    "edited_timestamp": "2024-03-03T20:23:11.896000+00:00",
+    "flags": 4,
+    "components": [],
+    "id": "1213407768296423434",
+    "channel_id": "1213407768296423434",
+    "author": {
+      "id": "231166051759554563",
+      "username": "_ashriel",
+      "avatar": "417723411ce7240eab711fb179ac6caa",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Ashriel",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 21,
+        "count_details": {
+          "burst": 0,
+          "normal": 21
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "Hi, tick tock with equinox now go higher than 5.40 now is something like 6.4",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-03-02T23:25:47.331000+00:00",
+    "edited_timestamp": "2024-03-02T23:25:55.374000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1213628352376610846",
+    "channel_id": "1213407768296423434",
+    "author": {
+      "id": "286310922140647444",
+      "username": "chakox",
+      "avatar": "61a20da875100a4f989e0d52bb87255f",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "chakox",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "481714069930246147",
+          "name": "YES"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "Nice, may I suggest adding the names of each thing ? It would make it more useful for newer players.\nAlso, a column specifying the category of each source (prayer, chip, starsign…) could be helpful",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-03-03T17:43:03.808000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1213904490575433779",
+    "channel_id": "1213407768296423434",
+    "author": {
+      "id": "229600630010937345",
+      "username": "zokonud",
+      "avatar": null,
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "zzzzzzzZ",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 1
+  },
+  {
+    "type": 0,
+    "content": "Will take some time but will do that",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-03-03T18:18:04.252000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1213913300476366879",
+    "channel_id": "1213407768296423434",
+    "author": {
+      "id": "231166051759554563",
+      "username": "_ashriel",
+      "avatar": "417723411ce7240eab711fb179ac6caa",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Ashriel",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 2
+  },
+  {
+    "type": 0,
+    "content": "<@231166051759554563> the visuals on this sheet are...definitely lacking, however, i noticed you have krunk obols listed as max 30%, 6*5%. this isn't correct because you can reroll them for 6% afk each, so the max should be 36%",
+    "mentions": [
+      {
+        "id": "231166051759554563",
+        "username": "_ashriel",
+        "avatar": "417723411ce7240eab711fb179ac6caa",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Ashriel",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-07-12T18:12:16.272000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1261384651336056862",
+    "channel_id": "1213407768296423434",
+    "author": {
+      "id": "194194944355860481",
+      "username": "alloxya",
+      "avatar": "35efc6b070f758ba292f0eccdf650a00",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Dancing Pebble",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "563405492420870155",
+        "identity_enabled": true,
+        "tag": "LOTM",
+        "badge": "b1a70b12c9fc93280fd0f46b4365019c"
+      },
+      "primary_guild": {
+        "identity_guild_id": "563405492420870155",
+        "identity_enabled": true,
+        "tag": "LOTM",
+        "badge": "b1a70b12c9fc93280fd0f46b4365019c"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 5
+  },
+  {
+    "type": 19,
+    "content": "i'm alos going to assomue that since this did not get done, you are also not supporting this anymore? if that's the case i will just make my own",
+    "mentions": [
+      {
+        "id": "231166051759554563",
+        "username": "_ashriel",
+        "avatar": "417723411ce7240eab711fb179ac6caa",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Ashriel",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-07-12T18:22:56.623000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1261387337162817761",
+    "channel_id": "1213407768296423434",
+    "author": {
+      "id": "194194944355860481",
+      "username": "alloxya",
+      "avatar": "35efc6b070f758ba292f0eccdf650a00",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Dancing Pebble",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "563405492420870155",
+        "identity_enabled": true,
+        "tag": "LOTM",
+        "badge": "b1a70b12c9fc93280fd0f46b4365019c"
+      },
+      "primary_guild": {
+        "identity_guild_id": "563405492420870155",
+        "identity_enabled": true,
+        "tag": "LOTM",
+        "badge": "b1a70b12c9fc93280fd0f46b4365019c"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1213407768296423434",
+      "message_id": "1213913300476366879",
+      "guild_id": "437797104786604034"
+    },
+    "position": 6,
+    "referenced_message": {
+      "type": 0,
+      "content": "Will take some time but will do that",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2024-03-03T18:18:04.252000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1213913300476366879",
+      "channel_id": "1213407768296423434",
+      "author": {
+        "id": "231166051759554563",
+        "username": "_ashriel",
+        "avatar": "417723411ce7240eab711fb179ac6caa",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Ashriel",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 2
+    }
+  },
+  {
+    "type": 0,
+    "content": "<@194194944355860481> yeah you can make your own, there were so many new bonuses in w6 and im kinda stuck with exams rn. You are free to use anything from my sheet 😄",
+    "mentions": [
+      {
+        "id": "194194944355860481",
+        "username": "alloxya",
+        "avatar": "35efc6b070f758ba292f0eccdf650a00",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Dancing Pebble",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "563405492420870155",
+          "identity_enabled": true,
+          "tag": "LOTM",
+          "badge": "b1a70b12c9fc93280fd0f46b4365019c"
+        },
+        "primary_guild": {
+          "identity_guild_id": "563405492420870155",
+          "identity_enabled": true,
+          "tag": "LOTM",
+          "badge": "b1a70b12c9fc93280fd0f46b4365019c"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-07-14T05:16:27.676000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1261914188104859669",
+    "channel_id": "1213407768296423434",
+    "author": {
+      "id": "231166051759554563",
+      "username": "_ashriel",
+      "avatar": "417723411ce7240eab711fb179ac6caa",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Ashriel",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 7
+  }
+]

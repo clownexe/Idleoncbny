@@ -1,0 +1,4603 @@
+[
+  {
+    "type": 0,
+    "content": "I'm probably just repeating stuff that's already been said or providing already known info.\nBut I just completed this challenge so here's my setup and method (I got ~120k seconds)\n\n\nEnough dmg such that your *AURA* can ALWAYS 1 shot the oranges at OJ bay. \n() Represents Base level.\n\nAuspicious Aura: 200+\nRaise Dead:  181 (158)\nTenteyecle: 200+\nCranium Cooking: 226 (205) (1)\nFlatulent Spirit: 167 (144) (2)\n\nGo to OJ Bay (Either no weapon or boxing gloves)\nYour skills (excluding Cranium cooking) should be ordered the exact same way as shown in the Picture. \nHit Auto\n\n\n\n(1) you can prob make it pretty easily with 190+ Cranium Cooking\n(2) Not necessary but more consistency, takes care of enemies outside your Aurahttps://discord.com/channels/437797104786604034/1165326429102280735",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-10-21T16:31:11.416000+00:00",
+    "edited_timestamp": "2023-10-25T01:28:46.203000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1165326429102280735",
+    "channel_id": "1165326429102280735",
+    "author": {
+      "id": "598289522475663380",
+      "username": "way7476",
+      "avatar": "894a9ef81dbec62307e8a7f343817209",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Way",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 64,
+        "count_details": {
+          "burst": 0,
+          "normal": 64
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "💖"
+        },
+        "count": 10,
+        "count_details": {
+          "burst": 0,
+          "normal": 10
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1162256122166648872",
+          "name": "prinnycheers"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "Which picture?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-10-24T03:00:12.896000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1166209504074022922",
+    "channel_id": "1165326429102280735",
+    "author": {
+      "id": "115979332618289161",
+      "username": "pirapombo",
+      "avatar": "e4f437c70803cc16ed0b30e85f6d321a",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "ahvsfporra",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "😅"
+        },
+        "count": 18,
+        "count_details": {
+          "burst": 0,
+          "normal": 18
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "👆"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "👌"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "💀"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "im an idiot\nHere's the Picture:",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1166549029929357332",
+        "filename": "image.png",
+        "size": 58430,
+        "url": "https://cdn.discordapp.com/attachments/1165326429102280735/1166549029929357332/image.png?ex=6a0f08b2&is=6a0db732&hm=9702ff99832f7dfa03f0adf4e65356f660d2b9fdbf21723adc9b44687c148f0c&",
+        "proxy_url": "https://media.discordapp.net/attachments/1165326429102280735/1166549029929357332/image.png?ex=6a0f08b2&is=6a0db732&hm=9702ff99832f7dfa03f0adf4e65356f660d2b9fdbf21723adc9b44687c148f0c&",
+        "width": 703,
+        "height": 104,
+        "content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "F/gFCYCQqKipd2eIDnSSj5s=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2023-10-25T01:29:22.212000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1166549030113914921",
+    "channel_id": "1165326429102280735",
+    "author": {
+      "id": "598289522475663380",
+      "username": "way7476",
+      "avatar": "894a9ef81dbec62307e8a7f343817209",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Way",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 1,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍"
+        },
+        "count": 30,
+        "count_details": {
+          "burst": 0,
+          "normal": 30
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "501871923710525441",
+          "name": "5_"
+        },
+        "count": 7,
+        "count_details": {
+          "burst": 0,
+          "normal": 7
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "Worked like a charm.  This setup got me to around 160k seconds of progress, though my Cranium Cooking is at a total level of 241.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-10-25T05:30:44.866000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1166609774767509504",
+    "channel_id": "1165326429102280735",
+    "author": {
+      "id": "261357294690762752",
+      "username": "rolwinkle",
+      "avatar": "c5fa894052cb58f87aac4bbe427ac26f",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Rolwinkle",
+      "avatar_decoration_data": {
+        "asset": "a_9532e6bc08133eb1401c654a4f1a800e",
+        "sku_id": "1332505467980873728",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 2
+  },
+  {
+    "type": 0,
+    "content": "good to hear 👍",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-10-26T01:19:37.576000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1166908965838401638",
+    "channel_id": "1165326429102280735",
+    "author": {
+      "id": "598289522475663380",
+      "username": "way7476",
+      "avatar": "894a9ef81dbec62307e8a7f343817209",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Way",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 3
+  },
+  {
+    "type": 0,
+    "content": "Worked for me too! I was closer to the 100K seconds but never realized the order of the skills mattered. thanks!",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-10-27T17:05:47.413000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1167509463658401802",
+    "channel_id": "1165326429102280735",
+    "author": {
+      "id": "400088686076755978",
+      "username": "supersho",
+      "avatar": "68396192d42df9de99363b2c4b4fdb9f",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "SuperSho",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 4,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🥪"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "I'm still working on skill levels, but was curious how the no weapon or boxing gloves help the build?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-10-29T03:21:39.354000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1168026839197941801",
+    "channel_id": "1165326429102280735",
+    "author": {
+      "id": "73256542450753536",
+      "username": ".dakre18",
+      "avatar": "90ccae547f4cec7ade38fc2b8e4b5d5a",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Dakre",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 5,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "💖"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1168138447224061972",
+        "filename": "IMG_4674.png",
+        "size": 177848,
+        "url": "https://cdn.discordapp.com/attachments/1165326429102280735/1168138447224061972/IMG_4674.png?ex=6a0ee234&is=6a0d90b4&hm=c98309691b05c7b1e1fae5bbf4af1765454b8b20d84dbe96fee5acd900b95fa8&",
+        "proxy_url": "https://media.discordapp.net/attachments/1165326429102280735/1168138447224061972/IMG_4674.png?ex=6a0ee234&is=6a0d90b4&hm=c98309691b05c7b1e1fae5bbf4af1765454b8b20d84dbe96fee5acd900b95fa8&",
+        "width": 394,
+        "height": 603,
+        "content_type": "image/jpeg",
+        "content_scan_version": 4,
+        "placeholder": "iygGDQBI54B6+Hgnl3gptwd7dMAY",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2023-10-29T10:45:08.838000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1168138447463141458",
+    "channel_id": "1165326429102280735",
+    "author": {
+      "id": "342401278346788865",
+      "username": "wuuzy2253",
+      "avatar": null,
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Rukki",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 6
+  },
+  {
+    "type": 0,
+    "content": "I managed to get only about 28k my cooking cranium is at 205 i think and the bubble gives 78% extra time and yet i am not even half way",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-10-29T10:45:44.248000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1168138595983441961",
+    "channel_id": "1165326429102280735",
+    "author": {
+      "id": "342401278346788865",
+      "username": "wuuzy2253",
+      "avatar": null,
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Rukki",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 7
+  },
+  {
+    "type": 0,
+    "content": "What should i focus on?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-10-29T10:45:48.821000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1168138615163985980",
+    "channel_id": "1165326429102280735",
+    "author": {
+      "id": "342401278346788865",
+      "username": "wuuzy2253",
+      "avatar": null,
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Rukki",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 8
+  },
+  {
+    "type": 0,
+    "content": "Oh nvm, my skills are not quite there yet",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-10-29T10:46:34.418000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1168138806411669536",
+    "channel_id": "1165326429102280735",
+    "author": {
+      "id": "342401278346788865",
+      "username": "wuuzy2253",
+      "avatar": null,
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Rukki",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 9
+  },
+  {
+    "type": 0,
+    "content": "is this also how ppl active farm bubo?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-10-29T16:04:16.749000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1168218759622836396",
+    "channel_id": "1165326429102280735",
+    "author": {
+      "id": "404922722255372288",
+      "username": "tatsumiaries",
+      "avatar": "bb7939849b96cfd7460f1322feaad670",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "TatsumiAries",
+      "avatar_decoration_data": {
+        "asset": "a_9661cf3296ac236d8815e3f5b809a467",
+        "sku_id": "1341506443567693824",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "399918427256520705",
+        "identity_enabled": true,
+        "tag": "PW",
+        "badge": "21129b437afdc5d4c56b399d9d86e25d"
+      },
+      "primary_guild": {
+        "identity_guild_id": "399918427256520705",
+        "identity_enabled": true,
+        "tag": "PW",
+        "badge": "21129b437afdc5d4c56b399d9d86e25d"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 10,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "481714069930246147",
+          "name": "YES"
+        },
+        "count": 16,
+        "count_details": {
+          "burst": 0,
+          "normal": 16
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 19,
+    "content": "your weapons range makes it so you only cover a portion of the map\nthus your aura never covers the full spawn area.\nno weapon makes aura cover more -> kills more enemies -> more respawn/time",
+    "mentions": [
+      {
+        "id": "73256542450753536",
+        "username": ".dakre18",
+        "avatar": "90ccae547f4cec7ade38fc2b8e4b5d5a",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Dakre",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-10-29T16:38:31.525000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1168227377978028042",
+    "channel_id": "1165326429102280735",
+    "author": {
+      "id": "598289522475663380",
+      "username": "way7476",
+      "avatar": "894a9ef81dbec62307e8a7f343817209",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Way",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1165326429102280735",
+      "message_id": "1168026839197941801",
+      "guild_id": "437797104786604034"
+    },
+    "position": 11,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ],
+    "referenced_message": {
+      "type": 0,
+      "content": "I'm still working on skill levels, but was curious how the no weapon or boxing gloves help the build?",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2023-10-29T03:21:39.354000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1168026839197941801",
+      "channel_id": "1165326429102280735",
+      "author": {
+        "id": "73256542450753536",
+        "username": ".dakre18",
+        "avatar": "90ccae547f4cec7ade38fc2b8e4b5d5a",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Dakre",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 5
+    }
+  },
+  {
+    "type": 19,
+    "content": "yep",
+    "mentions": [
+      {
+        "id": "404922722255372288",
+        "username": "tatsumiaries",
+        "avatar": "bb7939849b96cfd7460f1322feaad670",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "TatsumiAries",
+        "avatar_decoration_data": {
+          "asset": "a_9661cf3296ac236d8815e3f5b809a467",
+          "sku_id": "1341506443567693824",
+          "expires_at": null
+        },
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "399918427256520705",
+          "identity_enabled": true,
+          "tag": "PW",
+          "badge": "21129b437afdc5d4c56b399d9d86e25d"
+        },
+        "primary_guild": {
+          "identity_guild_id": "399918427256520705",
+          "identity_enabled": true,
+          "tag": "PW",
+          "badge": "21129b437afdc5d4c56b399d9d86e25d"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-10-29T16:38:35.475000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1168227394545528923",
+    "channel_id": "1165326429102280735",
+    "author": {
+      "id": "598289522475663380",
+      "username": "way7476",
+      "avatar": "894a9ef81dbec62307e8a7f343817209",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Way",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1165326429102280735",
+      "message_id": "1168218759622836396",
+      "guild_id": "437797104786604034"
+    },
+    "position": 12,
+    "referenced_message": {
+      "type": 0,
+      "content": "is this also how ppl active farm bubo?",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2023-10-29T16:04:16.749000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1168218759622836396",
+      "channel_id": "1165326429102280735",
+      "author": {
+        "id": "404922722255372288",
+        "username": "tatsumiaries",
+        "avatar": "bb7939849b96cfd7460f1322feaad670",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "TatsumiAries",
+        "avatar_decoration_data": {
+          "asset": "a_9661cf3296ac236d8815e3f5b809a467",
+          "sku_id": "1341506443567693824",
+          "expires_at": null
+        },
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "399918427256520705",
+          "identity_enabled": true,
+          "tag": "PW",
+          "badge": "21129b437afdc5d4c56b399d9d86e25d"
+        },
+        "primary_guild": {
+          "identity_guild_id": "399918427256520705",
+          "identity_enabled": true,
+          "tag": "PW",
+          "badge": "21129b437afdc5d4c56b399d9d86e25d"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 10
+    }
+  },
+  {
+    "type": 0,
+    "content": "I see, thanks for the info",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-10-29T17:19:36.680000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1168237717587492894",
+    "channel_id": "1165326429102280735",
+    "author": {
+      "id": "73256542450753536",
+      "username": ".dakre18",
+      "avatar": "90ccae547f4cec7ade38fc2b8e4b5d5a",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Dakre",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 13
+  },
+  {
+    "type": 0,
+    "content": "Isn’t 100k really easy to achieve in w5",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-10-30T08:03:08.448000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1168460065058078751",
+    "channel_id": "1165326429102280735",
+    "author": {
+      "id": "970937148146602044",
+      "username": "osama.nah",
+      "avatar": null,
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "SUNRISE",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 14
+  },
+  {
+    "type": 0,
+    "content": "Btw does this guied work for pushing maximum seconds for late game also or only to get 100k",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-10-30T08:03:47.445000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1168460228623339571",
+    "channel_id": "1165326429102280735",
+    "author": {
+      "id": "970937148146602044",
+      "username": "osama.nah",
+      "avatar": null,
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "SUNRISE",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 15
+  },
+  {
+    "type": 19,
+    "content": "for my bubo on worms works Cranium, raise of the dead, aura and fart ghost.\nif i take ur order then i have the problem that Cranium will not activate often because all other skills activate before. Overall i would miss some cranium time if i look on craniums per hour or per day",
+    "mentions": [
+      {
+        "id": "598289522475663380",
+        "username": "way7476",
+        "avatar": "894a9ef81dbec62307e8a7f343817209",
+        "discriminator": "0",
+        "public_flags": 128,
+        "flags": 128,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Way",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-10-30T08:40:06.809000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1168469369538478110",
+    "channel_id": "1165326429102280735",
+    "author": {
+      "id": "820785532552085514",
+      "username": "ceth1410",
+      "avatar": null,
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Ceth",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1165326429102280735",
+      "message_id": "1166549030113914921",
+      "guild_id": "437797104786604034"
+    },
+    "position": 16,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "852416161786101771",
+          "name": "ArrowDown"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ],
+    "referenced_message": {
+      "type": 0,
+      "content": "im an idiot\nHere's the Picture:",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [
+        {
+          "id": "1166549029929357332",
+          "filename": "image.png",
+          "size": 58430,
+          "url": "https://cdn.discordapp.com/attachments/1165326429102280735/1166549029929357332/image.png?ex=6a0f08b2&is=6a0db732&hm=9702ff99832f7dfa03f0adf4e65356f660d2b9fdbf21723adc9b44687c148f0c&",
+          "proxy_url": "https://media.discordapp.net/attachments/1165326429102280735/1166549029929357332/image.png?ex=6a0f08b2&is=6a0db732&hm=9702ff99832f7dfa03f0adf4e65356f660d2b9fdbf21723adc9b44687c148f0c&",
+          "width": 703,
+          "height": 104,
+          "content_type": "image/png",
+          "content_scan_version": 4,
+          "placeholder": "F/gFCYCQqKipd2eIDnSSj5s=",
+          "placeholder_version": 1
+        }
+      ],
+      "embeds": [],
+      "timestamp": "2023-10-25T01:29:22.212000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1166549030113914921",
+      "channel_id": "1165326429102280735",
+      "author": {
+        "id": "598289522475663380",
+        "username": "way7476",
+        "avatar": "894a9ef81dbec62307e8a7f343817209",
+        "discriminator": "0",
+        "public_flags": 128,
+        "flags": 128,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Way",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 1
+    }
+  },
+  {
+    "type": 0,
+    "content": "Things to add that would all help your CC:\nhttps://i.imgur.com/1gIH31a.png",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "image",
+        "url": "https://imgur.com/1gIH31a",
+        "provider": {
+          "name": "Imgur",
+          "url": "https://imgur.com"
+        },
+        "thumbnail": {
+          "url": "https://i.imgur.com/1gIH31a.png",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/ch5EsNxbYl6eNrDo3IJqVfmjKiDCvYMzgs-dFqDSWpU/https/i.imgur.com/1gIH31a.png",
+          "width": 321,
+          "height": 445,
+          "content_type": "image/png",
+          "flags": 0
+        },
+        "content_scan_version": 4
+      }
+    ],
+    "timestamp": "2023-10-30T19:11:21.319000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1168628226747281438",
+    "channel_id": "1165326429102280735",
+    "author": {
+      "id": "242777199248277504",
+      "username": "trickzbunny",
+      "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trickzbunny",
+      "avatar_decoration_data": {
+        "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+        "sku_id": "1256321669467865088",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1437881614159056979",
+          "asset": "nameplates/peanut/light_wall_blue/",
+          "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 6,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 17
+  },
+  {
+    "type": 0,
+    "content": "Crystal spawns affect the time, as it counts as a mob kill, movespeed cause faster movement why not (caps at 350% visually) and yeh",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-10-30T19:12:04.482000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1168628407786033293",
+    "channel_id": "1165326429102280735",
+    "author": {
+      "id": "242777199248277504",
+      "username": "trickzbunny",
+      "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trickzbunny",
+      "avatar_decoration_data": {
+        "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+        "sku_id": "1256321669467865088",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1437881614159056979",
+          "asset": "nameplates/peanut/light_wall_blue/",
+          "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 6,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 18
+  },
+  {
+    "type": 19,
+    "content": "late game still works\nthough at that time i think ppl do it at wurms",
+    "mentions": [
+      {
+        "id": "970937148146602044",
+        "username": "osama.nah",
+        "avatar": null,
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "SUNRISE",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-10-31T00:01:21.394000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1168701207951458434",
+    "channel_id": "1165326429102280735",
+    "author": {
+      "id": "598289522475663380",
+      "username": "way7476",
+      "avatar": "894a9ef81dbec62307e8a7f343817209",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Way",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1165326429102280735",
+      "message_id": "1168460228623339571",
+      "guild_id": "437797104786604034"
+    },
+    "position": 19,
+    "referenced_message": {
+      "type": 0,
+      "content": "Btw does this guied work for pushing maximum seconds for late game also or only to get 100k",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2023-10-30T08:03:47.445000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1168460228623339571",
+      "channel_id": "1165326429102280735",
+      "author": {
+        "id": "970937148146602044",
+        "username": "osama.nah",
+        "avatar": null,
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "SUNRISE",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 15
+    }
+  },
+  {
+    "type": 0,
+    "content": "<:ArrowUp:852416192710443038>",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-11-25T03:28:10.854000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1177812953639165972",
+    "channel_id": "1165326429102280735",
+    "author": {
+      "id": "256285258092118016",
+      "username": "taliferrue",
+      "avatar": "e691640c9047c9bf4db078125cacaa04",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Taliferrue",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 21
+  },
+  {
+    "type": 19,
+    "content": "the idea is that the 2nd spell only activates if you're in attack range of any target so you take gloves (makes you melee) to have the spell covering the most surface !",
+    "mentions": [
+      {
+        "id": "73256542450753536",
+        "username": ".dakre18",
+        "avatar": "90ccae547f4cec7ade38fc2b8e4b5d5a",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Dakre",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-11-30T12:33:23.831000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1179762101137461248",
+    "channel_id": "1165326429102280735",
+    "author": {
+      "id": "820975325596876814",
+      "username": "redmordor",
+      "avatar": "71d4d37d88da3f18ec61b410dc741a29",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "redmordor",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1165326429102280735",
+      "message_id": "1168026839197941801",
+      "guild_id": "437797104786604034"
+    },
+    "position": 22,
+    "referenced_message": {
+      "type": 0,
+      "content": "I'm still working on skill levels, but was curious how the no weapon or boxing gloves help the build?",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2023-10-29T03:21:39.354000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1168026839197941801",
+      "channel_id": "1165326429102280735",
+      "author": {
+        "id": "73256542450753536",
+        "username": ".dakre18",
+        "avatar": "90ccae547f4cec7ade38fc2b8e4b5d5a",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Dakre",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 5
+    }
+  },
+  {
+    "type": 0,
+    "content": "I got it, thanks",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-12-01T02:37:58.357000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1179974645504540693",
+    "channel_id": "1165326429102280735",
+    "author": {
+      "id": "73256542450753536",
+      "username": ".dakre18",
+      "avatar": "90ccae547f4cec7ade38fc2b8e4b5d5a",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Dakre",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 23
+  },
+  {
+    "type": 0,
+    "content": "Nice",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-01-13T10:29:44.917000+00:00",
+    "edited_timestamp": "2024-01-13T10:49:43.464000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1195676050043179050",
+    "channel_id": "1165326429102280735",
+    "author": {
+      "id": "576804867042181120",
+      "username": "sagetheimmortal",
+      "avatar": "84630a650c180395a586497ed897a6d0",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Sage",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 25
+  },
+  {
+    "type": 19,
+    "content": "Whoops, apparently I needed to do this awhile ago 😂 thank you so much for the help y'all! ❤️",
+    "mentions": [
+      {
+        "id": "242777199248277504",
+        "username": "trickzbunny",
+        "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Trickzbunny",
+        "avatar_decoration_data": {
+          "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+          "sku_id": "1256321669467865088",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1437881614159056979",
+            "asset": "nameplates/peanut/light_wall_blue/",
+            "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+            "palette": "cobalt"
+          }
+        },
+        "display_name_styles": {
+          "font_id": 6,
+          "effect_id": 3,
+          "colors": [
+            1874155
+          ]
+        },
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1198757678114144377",
+        "filename": "Screenshot_20240121_163345.jpg",
+        "size": 245107,
+        "url": "https://cdn.discordapp.com/attachments/1165326429102280735/1198757678114144377/Screenshot_20240121_163345.jpg?ex=6a0edfd6&is=6a0d8e56&hm=a8df76915c29f09dd5ea3636a58df17f3a81c00a856bb50d3992fc1de79b5358&",
+        "proxy_url": "https://media.discordapp.net/attachments/1165326429102280735/1198757678114144377/Screenshot_20240121_163345.jpg?ex=6a0edfd6&is=6a0d8e56&hm=a8df76915c29f09dd5ea3636a58df17f3a81c00a856bb50d3992fc1de79b5358&",
+        "width": 2316,
+        "height": 1080,
+        "content_type": "image/jpeg",
+        "content_scan_version": 4,
+        "placeholder": "1gcOC4IJJ1Z3h5eHZYAyFQc=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2024-01-21T22:35:02.346000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1198757678294515802",
+    "channel_id": "1165326429102280735",
+    "author": {
+      "id": "711235888105127957",
+      "username": "han12314",
+      "avatar": "cd3eb053b6a47492747bac2962809a4c",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "han12314",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1165326429102280735",
+      "message_id": "1168628407786033293",
+      "guild_id": "437797104786604034"
+    },
+    "position": 27,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ],
+    "referenced_message": {
+      "type": 0,
+      "content": "Crystal spawns affect the time, as it counts as a mob kill, movespeed cause faster movement why not (caps at 350% visually) and yeh",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2023-10-30T19:12:04.482000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1168628407786033293",
+      "channel_id": "1165326429102280735",
+      "author": {
+        "id": "242777199248277504",
+        "username": "trickzbunny",
+        "avatar": "4beac0d9a4767f63661cb97bbdec1363",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Trickzbunny",
+        "avatar_decoration_data": {
+          "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+          "sku_id": "1256321669467865088",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1437881614159056979",
+            "asset": "nameplates/peanut/light_wall_blue/",
+            "label": "COLLECTIBLES_PEANUT_LIGHT_WALL_BLUE_NP_A11Y",
+            "palette": "cobalt"
+          }
+        },
+        "display_name_styles": {
+          "font_id": 6,
+          "effect_id": 3,
+          "colors": [
+            1874155
+          ]
+        },
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 18
+    }
+  },
+  {
+    "type": 0,
+    "content": "damage",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-01-28T00:11:01.149000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1200956159658561637",
+    "channel_id": "1165326429102280735",
+    "author": {
+      "id": "412806056960458762",
+      "username": "alexl0722",
+      "avatar": "3964d5fb28dc4fa449a520725ac6dc09",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Alex",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 28
+  },
+  {
+    "type": 19,
+    "content": "Is it okay if I level up skills more than required?",
+    "mentions": [
+      {
+        "id": "598289522475663380",
+        "username": "way7476",
+        "avatar": "894a9ef81dbec62307e8a7f343817209",
+        "discriminator": "0",
+        "public_flags": 128,
+        "flags": 128,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Way",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-01-30T00:36:01.119000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1201687226719948860",
+    "channel_id": "1165326429102280735",
+    "author": {
+      "id": "197225576782626816",
+      "username": "worngspelling",
+      "avatar": "c6dc2ac23c2c0c1d0096d7afd9f08d34",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "worngspelling",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1180042348755963924",
+        "identity_enabled": true,
+        "tag": "WWM",
+        "badge": "e51a60e0d45a26bcf4e00d2ef1bcbcb1"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1180042348755963924",
+        "identity_enabled": true,
+        "tag": "WWM",
+        "badge": "e51a60e0d45a26bcf4e00d2ef1bcbcb1"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1165326429102280735",
+      "message_id": "1165326429102280735",
+      "guild_id": "437797104786604034"
+    },
+    "position": 29,
+    "referenced_message": {
+      "type": 0,
+      "content": "I'm probably just repeating stuff that's already been said or providing already known info.\nBut I just completed this challenge so here's my setup and method (I got ~120k seconds)\n\n\nEnough dmg such that your *AURA* can ALWAYS 1 shot the oranges at OJ bay. \n() Represents Base level.\n\nAuspicious Aura: 200+\nRaise Dead:  181 (158)\nTenteyecle: 200+\nCranium Cooking: 226 (205) (1)\nFlatulent Spirit: 167 (144) (2)\n\nGo to OJ Bay (Either no weapon or boxing gloves)\nYour skills (excluding Cranium cooking) should be ordered the exact same way as shown in the Picture. \nHit Auto\n\n\n\n(1) you can prob make it pretty easily with 190+ Cranium Cooking\n(2) Not necessary but more consistency, takes care of enemies outside your Aurahttps://discord.com/channels/437797104786604034/1165326429102280735",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2023-10-21T16:31:11.416000+00:00",
+      "edited_timestamp": "2023-10-25T01:28:46.203000+00:00",
+      "flags": 0,
+      "components": [],
+      "id": "1165326429102280735",
+      "channel_id": "1165326429102280735",
+      "author": {
+        "id": "598289522475663380",
+        "username": "way7476",
+        "avatar": "894a9ef81dbec62307e8a7f343817209",
+        "discriminator": "0",
+        "public_flags": 128,
+        "flags": 128,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Way",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 0
+    }
+  },
+  {
+    "type": 19,
+    "content": "ofc\nthose are simply the ones i used to get 100k",
+    "mentions": [
+      {
+        "id": "197225576782626816",
+        "username": "worngspelling",
+        "avatar": "c6dc2ac23c2c0c1d0096d7afd9f08d34",
+        "discriminator": "0",
+        "public_flags": 128,
+        "flags": 128,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "worngspelling",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1180042348755963924",
+          "identity_enabled": true,
+          "tag": "WWM",
+          "badge": "e51a60e0d45a26bcf4e00d2ef1bcbcb1"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1180042348755963924",
+          "identity_enabled": true,
+          "tag": "WWM",
+          "badge": "e51a60e0d45a26bcf4e00d2ef1bcbcb1"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-01-30T01:22:47.285000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1201698996633223198",
+    "channel_id": "1165326429102280735",
+    "author": {
+      "id": "598289522475663380",
+      "username": "way7476",
+      "avatar": "894a9ef81dbec62307e8a7f343817209",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Way",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1165326429102280735",
+      "message_id": "1201687226719948860",
+      "guild_id": "437797104786604034"
+    },
+    "position": 30,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ],
+    "referenced_message": {
+      "type": 19,
+      "content": "Is it okay if I level up skills more than required?",
+      "mentions": [
+        {
+          "id": "598289522475663380",
+          "username": "way7476",
+          "avatar": "894a9ef81dbec62307e8a7f343817209",
+          "discriminator": "0",
+          "public_flags": 128,
+          "flags": 128,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Way",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2024-01-30T00:36:01.119000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1201687226719948860",
+      "channel_id": "1165326429102280735",
+      "author": {
+        "id": "197225576782626816",
+        "username": "worngspelling",
+        "avatar": "c6dc2ac23c2c0c1d0096d7afd9f08d34",
+        "discriminator": "0",
+        "public_flags": 128,
+        "flags": 128,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "worngspelling",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1180042348755963924",
+          "identity_enabled": true,
+          "tag": "WWM",
+          "badge": "e51a60e0d45a26bcf4e00d2ef1bcbcb1"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1180042348755963924",
+          "identity_enabled": true,
+          "tag": "WWM",
+          "badge": "e51a60e0d45a26bcf4e00d2ef1bcbcb1"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1165326429102280735",
+        "message_id": "1165326429102280735",
+        "guild_id": "437797104786604034"
+      },
+      "position": 29
+    }
+  },
+  {
+    "type": 0,
+    "content": "worked like a charm first try, 128k",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-01-30T04:56:41.626000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1201752827760738324",
+    "channel_id": "1165326429102280735",
+    "author": {
+      "id": "261709144862621696",
+      "username": "bubbakeg",
+      "avatar": "88493d3992b4f78e1105088dfa7244d3",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 31
+  },
+  {
+    "type": 0,
+    "content": "For me, I had to remove chocolate chip otherwise i would spend too much time killing crystals",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-02-09T01:34:41.226000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1205325869774802984",
+    "channel_id": "1165326429102280735",
+    "author": {
+      "id": "175709685616345088",
+      "username": "vsubs",
+      "avatar": "48c264b02a7797c471bfefa1f4de2571",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Subs",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 32
+  },
+  {
+    "type": 0,
+    "content": "Also, not sure why fart is relevant, at least in my case it does so little damage it seems to not be worth it, but I kept there anyway",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-02-09T01:37:01.801000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1205326459389083689",
+    "channel_id": "1165326429102280735",
+    "author": {
+      "id": "175709685616345088",
+      "username": "vsubs",
+      "avatar": "48c264b02a7797c471bfefa1f4de2571",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Subs",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 33
+  },
+  {
+    "type": 19,
+    "content": "fart is to cover the area of the map that has no aura\nlike on wurms map typically either the top 2 platforms have aura\nor the bottom, very rarely will you have both on full auto.\nfart is there to kill the mobs that arent in aura range",
+    "mentions": [
+      {
+        "id": "175709685616345088",
+        "username": "vsubs",
+        "avatar": "48c264b02a7797c471bfefa1f4de2571",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Subs",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-02-09T02:37:35.557000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1205341700466155621",
+    "channel_id": "1165326429102280735",
+    "author": {
+      "id": "598289522475663380",
+      "username": "way7476",
+      "avatar": "894a9ef81dbec62307e8a7f343817209",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Way",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1165326429102280735",
+      "message_id": "1205326459389083689",
+      "guild_id": "437797104786604034"
+    },
+    "position": 34,
+    "referenced_message": {
+      "type": 0,
+      "content": "Also, not sure why fart is relevant, at least in my case it does so little damage it seems to not be worth it, but I kept there anyway",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2024-02-09T01:37:01.801000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1205326459389083689",
+      "channel_id": "1165326429102280735",
+      "author": {
+        "id": "175709685616345088",
+        "username": "vsubs",
+        "avatar": "48c264b02a7797c471bfefa1f4de2571",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Subs",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 33
+    }
+  },
+  {
+    "type": 19,
+    "content": "I know. Sorry, I meant in the sense that the damage was so much lower that I believe it didn't make any difference in my case, and likely was slowing down casting other spells. But my dmg is quite slow. I barely 1hit oranges",
+    "mentions": [
+      {
+        "id": "598289522475663380",
+        "username": "way7476",
+        "avatar": "894a9ef81dbec62307e8a7f343817209",
+        "discriminator": "0",
+        "public_flags": 128,
+        "flags": 128,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Way",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-02-09T09:03:26.739000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1205438803561553970",
+    "channel_id": "1165326429102280735",
+    "author": {
+      "id": "175709685616345088",
+      "username": "vsubs",
+      "avatar": "48c264b02a7797c471bfefa1f4de2571",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Subs",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1165326429102280735",
+      "message_id": "1205341700466155621",
+      "guild_id": "437797104786604034"
+    },
+    "position": 35,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ],
+    "referenced_message": {
+      "type": 19,
+      "content": "fart is to cover the area of the map that has no aura\nlike on wurms map typically either the top 2 platforms have aura\nor the bottom, very rarely will you have both on full auto.\nfart is there to kill the mobs that arent in aura range",
+      "mentions": [
+        {
+          "id": "175709685616345088",
+          "username": "vsubs",
+          "avatar": "48c264b02a7797c471bfefa1f4de2571",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Subs",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2024-02-09T02:37:35.557000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1205341700466155621",
+      "channel_id": "1165326429102280735",
+      "author": {
+        "id": "598289522475663380",
+        "username": "way7476",
+        "avatar": "894a9ef81dbec62307e8a7f343817209",
+        "discriminator": "0",
+        "public_flags": 128,
+        "flags": 128,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Way",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1165326429102280735",
+        "message_id": "1205326459389083689",
+        "guild_id": "437797104786604034"
+      },
+      "position": 34
+    }
+  },
+  {
+    "type": 0,
+    "content": "I've thought for ages that I wouldn't be able to get anywhere close bc my highest before following this was only 3-5k. Got near 175k from following this, Great Guide",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-02-20T21:15:59.322000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1209609420577706034",
+    "channel_id": "1165326429102280735",
+    "author": {
+      "id": "538613598092525589",
+      "username": "afead",
+      "avatar": "262ca12a411baec584fafe46c9265c2a",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "AFead",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 2,
+        "colors": [
+          13764333,
+          3866954
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 36
+  },
+  {
+    "type": 19,
+    "content": "thanks man\nnot the most secretive info \nbut still much appreciated",
+    "mentions": [
+      {
+        "id": "538613598092525589",
+        "username": "afead",
+        "avatar": "262ca12a411baec584fafe46c9265c2a",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "AFead",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": {
+          "font_id": 10,
+          "effect_id": 2,
+          "colors": [
+            13764333,
+            3866954
+          ]
+        },
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-02-21T01:21:55.454000+00:00",
+    "edited_timestamp": "2024-02-21T01:22:30.880000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1209671312281444523",
+    "channel_id": "1165326429102280735",
+    "author": {
+      "id": "598289522475663380",
+      "username": "way7476",
+      "avatar": "894a9ef81dbec62307e8a7f343817209",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Way",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1165326429102280735",
+      "message_id": "1209609420577706034",
+      "guild_id": "437797104786604034"
+    },
+    "position": 37,
+    "referenced_message": {
+      "type": 0,
+      "content": "I've thought for ages that I wouldn't be able to get anywhere close bc my highest before following this was only 3-5k. Got near 175k from following this, Great Guide",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2024-02-20T21:15:59.322000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1209609420577706034",
+      "channel_id": "1165326429102280735",
+      "author": {
+        "id": "538613598092525589",
+        "username": "afead",
+        "avatar": "262ca12a411baec584fafe46c9265c2a",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "AFead",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": {
+          "font_id": 10,
+          "effect_id": 2,
+          "colors": [
+            13764333,
+            3866954
+          ]
+        },
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 36
+    }
+  },
+  {
+    "type": 19,
+    "content": "What picture?",
+    "mentions": [
+      {
+        "id": "598289522475663380",
+        "username": "way7476",
+        "avatar": "894a9ef81dbec62307e8a7f343817209",
+        "discriminator": "0",
+        "public_flags": 128,
+        "flags": 128,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Way",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-02-23T04:57:16.820000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1210450284149477406",
+    "channel_id": "1165326429102280735",
+    "author": {
+      "id": "1016053076290977873",
+      "username": "tgg23",
+      "avatar": "b297d8c8273ac5000200f504b2fc474a",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Gapple",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "319560327719026709",
+        "identity_enabled": true,
+        "tag": "KING",
+        "badge": "6c58ed9ad49f5258906c0d7c0a616ec2"
+      },
+      "primary_guild": {
+        "identity_guild_id": "319560327719026709",
+        "identity_enabled": true,
+        "tag": "KING",
+        "badge": "6c58ed9ad49f5258906c0d7c0a616ec2"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1165326429102280735",
+      "message_id": "1165326429102280735",
+      "guild_id": "437797104786604034"
+    },
+    "position": 38,
+    "referenced_message": {
+      "type": 0,
+      "content": "I'm probably just repeating stuff that's already been said or providing already known info.\nBut I just completed this challenge so here's my setup and method (I got ~120k seconds)\n\n\nEnough dmg such that your *AURA* can ALWAYS 1 shot the oranges at OJ bay. \n() Represents Base level.\n\nAuspicious Aura: 200+\nRaise Dead:  181 (158)\nTenteyecle: 200+\nCranium Cooking: 226 (205) (1)\nFlatulent Spirit: 167 (144) (2)\n\nGo to OJ Bay (Either no weapon or boxing gloves)\nYour skills (excluding Cranium cooking) should be ordered the exact same way as shown in the Picture. \nHit Auto\n\n\n\n(1) you can prob make it pretty easily with 190+ Cranium Cooking\n(2) Not necessary but more consistency, takes care of enemies outside your Aurahttps://discord.com/channels/437797104786604034/1165326429102280735",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2023-10-21T16:31:11.416000+00:00",
+      "edited_timestamp": "2023-10-25T01:28:46.203000+00:00",
+      "flags": 0,
+      "components": [],
+      "id": "1165326429102280735",
+      "channel_id": "1165326429102280735",
+      "author": {
+        "id": "598289522475663380",
+        "username": "way7476",
+        "avatar": "894a9ef81dbec62307e8a7f343817209",
+        "discriminator": "0",
+        "public_flags": 128,
+        "flags": 128,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Way",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 0
+    }
+  },
+  {
+    "type": 0,
+    "content": "**+1 rep **\nthis strat pulled me around 138k seconds - important to note that I have purple bubble 8 at level 119 at the time of achieving this! \nmany thanks",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1210593529974362122",
+        "filename": "image.png",
+        "size": 425619,
+        "url": "https://cdn.discordapp.com/attachments/1165326429102280735/1210593529974362122/image.png?ex=6a0f1615&is=6a0dc495&hm=c4d86bab8ea8b54d65b9706c88b7d7d86cecb6e01612cf1ac29ee646b0da94ed&",
+        "proxy_url": "https://media.discordapp.net/attachments/1165326429102280735/1210593529974362122/image.png?ex=6a0f1615&is=6a0dc495&hm=c4d86bab8ea8b54d65b9706c88b7d7d86cecb6e01612cf1ac29ee646b0da94ed&",
+        "width": 1446,
+        "height": 735,
+        "content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "mRgGFIIGWWWVhoeFiWnzcw2Ghg==",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2024-02-23T14:26:29.332000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1210593530167435324",
+    "channel_id": "1165326429102280735",
+    "author": {
+      "id": "583411090419875885",
+      "username": "starfragmentss",
+      "avatar": "5b76aab42056dba13f46442c0f3e04df",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "♡ StarFragmentss ♡",
+      "avatar_decoration_data": {
+        "asset": "a_8552f9857793aed0cf816f370e2df3be",
+        "sku_id": "1232071712695386162",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1458483484598337682",
+          "asset": "nameplates/slumber_party/dream_waves/",
+          "label": "COLLECTIBLES_SLUMBER_PARTY_DREAM_WAVES_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 8,
+        "effect_id": 2,
+        "colors": [
+          16095292,
+          15031015
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 39
+  },
+  {
+    "type": 19,
+    "content": "scroll down a bit",
+    "mentions": [
+      {
+        "id": "1016053076290977873",
+        "username": "tgg23",
+        "avatar": "b297d8c8273ac5000200f504b2fc474a",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Gapple",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "319560327719026709",
+          "identity_enabled": true,
+          "tag": "KING",
+          "badge": "6c58ed9ad49f5258906c0d7c0a616ec2"
+        },
+        "primary_guild": {
+          "identity_guild_id": "319560327719026709",
+          "identity_enabled": true,
+          "tag": "KING",
+          "badge": "6c58ed9ad49f5258906c0d7c0a616ec2"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-02-23T21:53:10.274000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1210705941465661482",
+    "channel_id": "1165326429102280735",
+    "author": {
+      "id": "598289522475663380",
+      "username": "way7476",
+      "avatar": "894a9ef81dbec62307e8a7f343817209",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Way",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1165326429102280735",
+      "message_id": "1210450284149477406",
+      "guild_id": "437797104786604034"
+    },
+    "position": 40,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "💀"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ],
+    "referenced_message": {
+      "type": 19,
+      "content": "What picture?",
+      "mentions": [
+        {
+          "id": "598289522475663380",
+          "username": "way7476",
+          "avatar": "894a9ef81dbec62307e8a7f343817209",
+          "discriminator": "0",
+          "public_flags": 128,
+          "flags": 128,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Way",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2024-02-23T04:57:16.820000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1210450284149477406",
+      "channel_id": "1165326429102280735",
+      "author": {
+        "id": "1016053076290977873",
+        "username": "tgg23",
+        "avatar": "b297d8c8273ac5000200f504b2fc474a",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Gapple",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "319560327719026709",
+          "identity_enabled": true,
+          "tag": "KING",
+          "badge": "6c58ed9ad49f5258906c0d7c0a616ec2"
+        },
+        "primary_guild": {
+          "identity_guild_id": "319560327719026709",
+          "identity_enabled": true,
+          "tag": "KING",
+          "badge": "6c58ed9ad49f5258906c0d7c0a616ec2"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1165326429102280735",
+        "message_id": "1165326429102280735",
+        "guild_id": "437797104786604034"
+      },
+      "position": 38
+    }
+  },
+  {
+    "type": 0,
+    "content": "thanks for the guide i kinda overshot aha",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1220295921175232532",
+        "filename": "image.png",
+        "size": 106109,
+        "url": "https://cdn.discordapp.com/attachments/1165326429102280735/1220295921175232532/image.png?ex=6a0ec9a3&is=6a0d7823&hm=c5d17922bc4980deecadf97c4fe2c281e6c13b0b66a3b541ccf2c21a7e225d73&",
+        "proxy_url": "https://media.discordapp.net/attachments/1165326429102280735/1220295921175232532/image.png?ex=6a0ec9a3&is=6a0d7823&hm=c5d17922bc4980deecadf97c4fe2c281e6c13b0b66a3b541ccf2c21a7e225d73&",
+        "width": 366,
+        "height": 549,
+        "content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "jSgKFQJ56ICK1mc3iHiYiAh0gmAX",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2024-03-21T09:00:19.660000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1220295921384820816",
+    "channel_id": "1165326429102280735",
+    "author": {
+      "id": "350218056380710913",
+      "username": "eclair_de_claire",
+      "avatar": "859714de1610ffd83a246e361e3c6cfb",
+      "discriminator": "0",
+      "public_flags": 640,
+      "flags": 640,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Claire",
+      "avatar_decoration_data": {
+        "asset": "a_5cbb9718e2dfa11903327526d23eb0fd",
+        "sku_id": "1483912918616510544",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1447654090736799915",
+          "asset": "nameplates/zodiac/taurus/",
+          "label": "COLLECTIBLES_ZODIAC_TAURUS_NP_A11Y",
+          "palette": "forest"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "839898094035795968",
+        "identity_enabled": true,
+        "tag": "YURI",
+        "badge": "5c1149a0106b8f6251429cedbfb80b5a"
+      },
+      "primary_guild": {
+        "identity_guild_id": "839898094035795968",
+        "identity_enabled": true,
+        "tag": "YURI",
+        "badge": "5c1149a0106b8f6251429cedbfb80b5a"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 41,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "481714069930246147",
+          "name": "YES"
+        },
+        "count": 8,
+        "count_details": {
+          "burst": 0,
+          "normal": 8
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "156k seconds. thanks!",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-03-02T01:02:53.744000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1345561973202620469",
+    "channel_id": "1165326429102280735",
+    "author": {
+      "id": "674368818352619547",
+      "username": "skysmeller",
+      "avatar": "960e9d5f6f89a7a778d505ed05ac330c",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "skysmeller",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 43,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "Why don't people use gas",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-03-07T10:50:14.345000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1347521722324353105",
+    "channel_id": "1165326429102280735",
+    "author": {
+      "id": "727541944938659901",
+      "username": "nazarli",
+      "avatar": "62fd747a3a152684290d6f979403cfaf",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": {
+        "asset": "a_b0e4807f3437fd951f7938e682bb7a0b",
+        "sku_id": "1462116613691281560",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1432550258365435934",
+          "asset": "nameplates/cosmos/cosmic_twilight_flow_beryl/",
+          "label": "COLLECTIBLES_COSMOS_COSMIC_TWILIGHT_FLOW_BERYL_NP_A11Y",
+          "palette": "sky"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "215838530889318401",
+        "identity_enabled": true,
+        "tag": "AC",
+        "badge": "20e99631eeb6fee2e535a70c28c38882"
+      },
+      "primary_guild": {
+        "identity_guild_id": "215838530889318401",
+        "identity_enabled": true,
+        "tag": "AC",
+        "badge": "20e99631eeb6fee2e535a70c28c38882"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 44
+  },
+  {
+    "type": 0,
+    "content": "But the spirit",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-03-07T10:50:27.005000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1347521775423979604",
+    "channel_id": "1165326429102280735",
+    "author": {
+      "id": "727541944938659901",
+      "username": "nazarli",
+      "avatar": "62fd747a3a152684290d6f979403cfaf",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": {
+        "asset": "a_b0e4807f3437fd951f7938e682bb7a0b",
+        "sku_id": "1462116613691281560",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1432550258365435934",
+          "asset": "nameplates/cosmos/cosmic_twilight_flow_beryl/",
+          "label": "COLLECTIBLES_COSMOS_COSMIC_TWILIGHT_FLOW_BERYL_NP_A11Y",
+          "palette": "sky"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "215838530889318401",
+        "identity_enabled": true,
+        "tag": "AC",
+        "badge": "20e99631eeb6fee2e535a70c28c38882"
+      },
+      "primary_guild": {
+        "identity_guild_id": "215838530889318401",
+        "identity_enabled": true,
+        "tag": "AC",
+        "badge": "20e99631eeb6fee2e535a70c28c38882"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 45
+  },
+  {
+    "type": 0,
+    "content": "Isn't gas easier to spread?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-03-07T10:50:41.582000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1347521836564615208",
+    "channel_id": "1165326429102280735",
+    "author": {
+      "id": "727541944938659901",
+      "username": "nazarli",
+      "avatar": "62fd747a3a152684290d6f979403cfaf",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": {
+        "asset": "a_b0e4807f3437fd951f7938e682bb7a0b",
+        "sku_id": "1462116613691281560",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1432550258365435934",
+          "asset": "nameplates/cosmos/cosmic_twilight_flow_beryl/",
+          "label": "COLLECTIBLES_COSMOS_COSMIC_TWILIGHT_FLOW_BERYL_NP_A11Y",
+          "palette": "sky"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "215838530889318401",
+        "identity_enabled": true,
+        "tag": "AC",
+        "badge": "20e99631eeb6fee2e535a70c28c38882"
+      },
+      "primary_guild": {
+        "identity_guild_id": "215838530889318401",
+        "identity_enabled": true,
+        "tag": "AC",
+        "badge": "20e99631eeb6fee2e535a70c28c38882"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 46
+  },
+  {
+    "type": 0,
+    "content": "too much lag",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-03-07T21:10:24.745000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1347677794053914675",
+    "channel_id": "1165326429102280735",
+    "author": {
+      "id": "598289522475663380",
+      "username": "way7476",
+      "avatar": "894a9ef81dbec62307e8a7f343817209",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Way",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 47
+  },
+  {
+    "type": 0,
+    "content": "theres a point where the only offensive skill you use is aura",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-03-07T21:11:07.256000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1347677972357841121",
+    "channel_id": "1165326429102280735",
+    "author": {
+      "id": "598289522475663380",
+      "username": "way7476",
+      "avatar": "894a9ef81dbec62307e8a7f343817209",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Way",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 48
+  },
+  {
+    "type": 0,
+    "content": "I don't have autoloot, I find it usefull to filter out the citrus drop to go longer without lag",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-05-31T09:43:05.087000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1378307790967410778",
+    "channel_id": "1165326429102280735",
+    "author": {
+      "id": "300208968188428291",
+      "username": "sjoerdl",
+      "avatar": null,
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "SjoerdL",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 51
+  },
+  {
+    "type": 0,
+    "content": "autofight in the  w5 \"the worm nest\"- easiest way to get 100+ k - its  pretty good (best in w1-w5) location with  best density of mobs- i get  100+k w/o 200 level talents (2>3 sec reduced cd). and w/o oneshotting worms (at least 2-shots)",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-23T12:17:11.683000+00:00",
+    "edited_timestamp": "2025-09-23T12:17:29.741000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1420021178545868832",
+    "channel_id": "1165326429102280735",
+    "author": {
+      "id": "479874157547356164",
+      "username": "grimik0306",
+      "avatar": "986b2cbcaa48fe4f0d6fac962f06a762",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "grimik",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 52
+  },
+  {
+    "type": 19,
+    "content": "Second this, print toilet roll logs, get cranium cooking up, max book your cranium cooking, tenteyecycle + raise dead, don't need any other skills above the normal amount, should be done by the time you're in W6 naturally  and toilet roll logs are used for multiple things that are quite useful. \n\nI got from 60k to 160k by using a max book on cranium cooking, really slacked on library and way behind where I should be because of it",
+    "mentions": [
+      {
+        "id": "479874157547356164",
+        "username": "grimik0306",
+        "avatar": "986b2cbcaa48fe4f0d6fac962f06a762",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "grimik",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-30T17:45:25.647000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1422640496077180948",
+    "channel_id": "1165326429102280735",
+    "author": {
+      "id": "850788613188747296",
+      "username": "velodesire",
+      "avatar": null,
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Velodesire1",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1263291279886913545",
+        "identity_enabled": true,
+        "tag": "AFC",
+        "badge": "d6d04d13af6de73c488b2c83a30a08f2"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1263291279886913545",
+        "identity_enabled": true,
+        "tag": "AFC",
+        "badge": "d6d04d13af6de73c488b2c83a30a08f2"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1165326429102280735",
+      "message_id": "1420021178545868832",
+      "guild_id": "437797104786604034"
+    },
+    "position": 53,
+    "referenced_message": {
+      "type": 0,
+      "content": "autofight in the  w5 \"the worm nest\"- easiest way to get 100+ k - its  pretty good (best in w1-w5) location with  best density of mobs- i get  100+k w/o 200 level talents (2>3 sec reduced cd). and w/o oneshotting worms (at least 2-shots)",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-09-23T12:17:11.683000+00:00",
+      "edited_timestamp": "2025-09-23T12:17:29.741000+00:00",
+      "flags": 0,
+      "components": [],
+      "id": "1420021178545868832",
+      "channel_id": "1165326429102280735",
+      "author": {
+        "id": "479874157547356164",
+        "username": "grimik0306",
+        "avatar": "986b2cbcaa48fe4f0d6fac962f06a762",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "grimik",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 52
+    }
+  },
+  {
+    "type": 19,
+    "content": "alchemy office boxes increase duration of cranium too -its can increase efficiency of farm. and using max book for cranium not worth it just because  you need to use 1000 books  for achievement and every book restock longer than previous.",
+    "mentions": [
+      {
+        "id": "850788613188747296",
+        "username": "velodesire",
+        "avatar": null,
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Velodesire1",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1263291279886913545",
+          "identity_enabled": true,
+          "tag": "AFC",
+          "badge": "d6d04d13af6de73c488b2c83a30a08f2"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1263291279886913545",
+          "identity_enabled": true,
+          "tag": "AFC",
+          "badge": "d6d04d13af6de73c488b2c83a30a08f2"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-30T18:41:16.206000+00:00",
+    "edited_timestamp": "2025-09-30T18:41:36.400000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1422654549339930654",
+    "channel_id": "1165326429102280735",
+    "author": {
+      "id": "479874157547356164",
+      "username": "grimik0306",
+      "avatar": "986b2cbcaa48fe4f0d6fac962f06a762",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "grimik",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1165326429102280735",
+      "message_id": "1422640496077180948",
+      "guild_id": "437797104786604034"
+    },
+    "position": 54,
+    "referenced_message": {
+      "type": 19,
+      "content": "Second this, print toilet roll logs, get cranium cooking up, max book your cranium cooking, tenteyecycle + raise dead, don't need any other skills above the normal amount, should be done by the time you're in W6 naturally  and toilet roll logs are used for multiple things that are quite useful. \n\nI got from 60k to 160k by using a max book on cranium cooking, really slacked on library and way behind where I should be because of it",
+      "mentions": [
+        {
+          "id": "479874157547356164",
+          "username": "grimik0306",
+          "avatar": "986b2cbcaa48fe4f0d6fac962f06a762",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "grimik",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": {
+            "identity_guild_id": "437797104786604034",
+            "identity_enabled": true,
+            "tag": "idle",
+            "badge": "613dd0a2876f97a2422d121940ecc992"
+          },
+          "primary_guild": {
+            "identity_guild_id": "437797104786604034",
+            "identity_enabled": true,
+            "tag": "idle",
+            "badge": "613dd0a2876f97a2422d121940ecc992"
+          }
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-09-30T17:45:25.647000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1422640496077180948",
+      "channel_id": "1165326429102280735",
+      "author": {
+        "id": "850788613188747296",
+        "username": "velodesire",
+        "avatar": null,
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Velodesire1",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1263291279886913545",
+          "identity_enabled": true,
+          "tag": "AFC",
+          "badge": "d6d04d13af6de73c488b2c83a30a08f2"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1263291279886913545",
+          "identity_enabled": true,
+          "tag": "AFC",
+          "badge": "d6d04d13af6de73c488b2c83a30a08f2"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1165326429102280735",
+        "message_id": "1420021178545868832",
+        "guild_id": "437797104786604034"
+      },
+      "position": 53
+    }
+  },
+  {
+    "type": 19,
+    "content": "The time you gain on alchemy outweighs the time you lose on the library checkouts IMO, not sure if there are some figures on this but if you're unlucky you're losing thousands of seconds per cranium cooking and from that slowing down your progression more than the achievement.",
+    "mentions": [
+      {
+        "id": "479874157547356164",
+        "username": "grimik0306",
+        "avatar": "986b2cbcaa48fe4f0d6fac962f06a762",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "grimik",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-30T18:46:32.631000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1422655876522573844",
+    "channel_id": "1165326429102280735",
+    "author": {
+      "id": "850788613188747296",
+      "username": "velodesire",
+      "avatar": null,
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Velodesire1",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1263291279886913545",
+        "identity_enabled": true,
+        "tag": "AFC",
+        "badge": "d6d04d13af6de73c488b2c83a30a08f2"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1263291279886913545",
+        "identity_enabled": true,
+        "tag": "AFC",
+        "badge": "d6d04d13af6de73c488b2c83a30a08f2"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1165326429102280735",
+      "message_id": "1422654549339930654",
+      "guild_id": "437797104786604034"
+    },
+    "position": 55,
+    "referenced_message": {
+      "type": 19,
+      "content": "alchemy office boxes increase duration of cranium too -its can increase efficiency of farm. and using max book for cranium not worth it just because  you need to use 1000 books  for achievement and every book restock longer than previous.",
+      "mentions": [
+        {
+          "id": "850788613188747296",
+          "username": "velodesire",
+          "avatar": null,
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Velodesire1",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": {
+            "identity_guild_id": "1263291279886913545",
+            "identity_enabled": true,
+            "tag": "AFC",
+            "badge": "d6d04d13af6de73c488b2c83a30a08f2"
+          },
+          "primary_guild": {
+            "identity_guild_id": "1263291279886913545",
+            "identity_enabled": true,
+            "tag": "AFC",
+            "badge": "d6d04d13af6de73c488b2c83a30a08f2"
+          }
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-09-30T18:41:16.206000+00:00",
+      "edited_timestamp": "2025-09-30T18:41:36.400000+00:00",
+      "flags": 0,
+      "components": [],
+      "id": "1422654549339930654",
+      "channel_id": "1165326429102280735",
+      "author": {
+        "id": "479874157547356164",
+        "username": "grimik0306",
+        "avatar": "986b2cbcaa48fe4f0d6fac962f06a762",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "grimik",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1165326429102280735",
+        "message_id": "1422640496077180948",
+        "guild_id": "437797104786604034"
+      },
+      "position": 54
+    }
+  },
+  {
+    "type": 19,
+    "content": "you are wrong- at this stage, you dont have a lot of resources  to push your library with baubles and you anyway lose not as much as you think from  +-5 level difference which you can compensate with higher level of another skills of another characters.\nmax level book is good only after you reach very high  speed of library checkout speed and high level of  book cap itself.",
+    "mentions": [
+      {
+        "id": "850788613188747296",
+        "username": "velodesire",
+        "avatar": null,
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Velodesire1",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1263291279886913545",
+          "identity_enabled": true,
+          "tag": "AFC",
+          "badge": "d6d04d13af6de73c488b2c83a30a08f2"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1263291279886913545",
+          "identity_enabled": true,
+          "tag": "AFC",
+          "badge": "d6d04d13af6de73c488b2c83a30a08f2"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-30T19:17:42.204000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1422663718080352377",
+    "channel_id": "1165326429102280735",
+    "author": {
+      "id": "479874157547356164",
+      "username": "grimik0306",
+      "avatar": "986b2cbcaa48fe4f0d6fac962f06a762",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "grimik",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1165326429102280735",
+      "message_id": "1422655876522573844",
+      "guild_id": "437797104786604034"
+    },
+    "position": 56,
+    "referenced_message": {
+      "type": 19,
+      "content": "The time you gain on alchemy outweighs the time you lose on the library checkouts IMO, not sure if there are some figures on this but if you're unlucky you're losing thousands of seconds per cranium cooking and from that slowing down your progression more than the achievement.",
+      "mentions": [
+        {
+          "id": "479874157547356164",
+          "username": "grimik0306",
+          "avatar": "986b2cbcaa48fe4f0d6fac962f06a762",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "grimik",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": {
+            "identity_guild_id": "437797104786604034",
+            "identity_enabled": true,
+            "tag": "idle",
+            "badge": "613dd0a2876f97a2422d121940ecc992"
+          },
+          "primary_guild": {
+            "identity_guild_id": "437797104786604034",
+            "identity_enabled": true,
+            "tag": "idle",
+            "badge": "613dd0a2876f97a2422d121940ecc992"
+          }
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-09-30T18:46:32.631000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1422655876522573844",
+      "channel_id": "1165326429102280735",
+      "author": {
+        "id": "850788613188747296",
+        "username": "velodesire",
+        "avatar": null,
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Velodesire1",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1263291279886913545",
+          "identity_enabled": true,
+          "tag": "AFC",
+          "badge": "d6d04d13af6de73c488b2c83a30a08f2"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1263291279886913545",
+          "identity_enabled": true,
+          "tag": "AFC",
+          "badge": "d6d04d13af6de73c488b2c83a30a08f2"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1165326429102280735",
+        "message_id": "1422654549339930654",
+        "guild_id": "437797104786604034"
+      },
+      "position": 55
+    }
+  },
+  {
+    "type": 0,
+    "content": "I went another route as a budget/low(?) skill level, it was a bit manual compared to the automatic/auto setup which only gave me up to 60k seconds using auto and gloves\n\nIt relies on having Arcane cultist unlocked with it I hit 143 seconds by spamming sizzling skull combined with arcane skull",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1480971411567804690",
+        "filename": "Screenshot_20260310_174451.jpg",
+        "size": 282229,
+        "url": "https://cdn.discordapp.com/attachments/1165326429102280735/1480971411567804690/Screenshot_20260310_174451.jpg?ex=6a0f381b&is=6a0de69b&hm=0fa3ed9a2d24857906b8d5bf44bf9b2f4bf6bc356a9f4a63f3dc51bd15da98dc&",
+        "proxy_url": "https://media.discordapp.net/attachments/1165326429102280735/1480971411567804690/Screenshot_20260310_174451.jpg?ex=6a0f381b&is=6a0de69b&hm=0fa3ed9a2d24857906b8d5bf44bf9b2f4bf6bc356a9f4a63f3dc51bd15da98dc&",
+        "width": 2340,
+        "height": 1080,
+        "content_type": "image/jpeg",
+        "content_scan_version": 4,
+        "placeholder": "1gcOC4IJN1Z3hpeGZoBTBDc=",
+        "placeholder_version": 1
+      },
+      {
+        "id": "1480971412263931986",
+        "filename": "Screenshot_20260310_174430.jpg",
+        "size": 290576,
+        "url": "https://cdn.discordapp.com/attachments/1165326429102280735/1480971412263931986/Screenshot_20260310_174430.jpg?ex=6a0f381b&is=6a0de69b&hm=57159b4e4408482f20fa229cea24f9935354c42da685bc628374b6215e3a9300&",
+        "proxy_url": "https://media.discordapp.net/attachments/1165326429102280735/1480971412263931986/Screenshot_20260310_174430.jpg?ex=6a0f381b&is=6a0de69b&hm=57159b4e4408482f20fa229cea24f9935354c42da685bc628374b6215e3a9300&",
+        "width": 2340,
+        "height": 1080,
+        "content_type": "image/jpeg",
+        "content_scan_version": 4,
+        "placeholder": "URgKC4IxC2iDeXd5sIikQwg=",
+        "placeholder_version": 1
+      },
+      {
+        "id": "1480971412666581042",
+        "filename": "Screenshot_20260310_174426.jpg",
+        "size": 294605,
+        "url": "https://cdn.discordapp.com/attachments/1165326429102280735/1480971412666581042/Screenshot_20260310_174426.jpg?ex=6a0f381b&is=6a0de69b&hm=1ce85550bf3021978fca8b18fa8abfa4ed6377db71f6ae15446f7c7198c8acbf&",
+        "proxy_url": "https://media.discordapp.net/attachments/1165326429102280735/1480971412666581042/Screenshot_20260310_174426.jpg?ex=6a0f381b&is=6a0de69b&hm=1ce85550bf3021978fca8b18fa8abfa4ed6377db71f6ae15446f7c7198c8acbf&",
+        "width": 2340,
+        "height": 1080,
+        "content_type": "image/jpeg",
+        "content_scan_version": 4,
+        "placeholder": "ERgKC4IxC1iDeXd6wIn1QQg=",
+        "placeholder_version": 1
+      },
+      {
+        "id": "1480971413119697019",
+        "filename": "Screenshot_20260310_174413.jpg",
+        "size": 201510,
+        "url": "https://cdn.discordapp.com/attachments/1165326429102280735/1480971413119697019/Screenshot_20260310_174413.jpg?ex=6a0f381c&is=6a0de69c&hm=cab812cbf89573454908766083a5333f9ddefb69d5f02c2408b68cce248435bb&",
+        "proxy_url": "https://media.discordapp.net/attachments/1165326429102280735/1480971413119697019/Screenshot_20260310_174413.jpg?ex=6a0f381c&is=6a0de69c&hm=cab812cbf89573454908766083a5333f9ddefb69d5f02c2408b68cce248435bb&",
+        "width": 2340,
+        "height": 1080,
+        "content_type": "image/jpeg",
+        "content_scan_version": 4,
+        "placeholder": "jCgKE4Q4R0hweah3OXmQgwc=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2026-03-10T16:51:40.070000+00:00",
+    "edited_timestamp": "2026-03-10T20:11:46.690000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1480971413388267531",
+    "channel_id": "1165326429102280735",
+    "author": {
+      "id": "107215194777726976",
+      "username": ".swede",
+      "avatar": "eeab495a0f4f064fa8fd5202b7314e64",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Swede",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 59
+  },
+  {
+    "type": 0,
+    "content": "This guide was from 3 years ago \nI should probably update it",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-03-10T21:25:38.689000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1481040361953427518",
+    "channel_id": "1165326429102280735",
+    "author": {
+      "id": "598289522475663380",
+      "username": "way7476",
+      "avatar": "894a9ef81dbec62307e8a7f343817209",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Way",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 60
+  },
+  {
+    "type": 19,
+    "content": "You should definitely update this guide. My cooking roadkill bubble was at level 1 on my first attempt 🙁",
+    "mentions": [
+      {
+        "id": "598289522475663380",
+        "username": "way7476",
+        "avatar": "894a9ef81dbec62307e8a7f343817209",
+        "discriminator": "0",
+        "public_flags": 128,
+        "flags": 128,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Way",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-03-14T11:51:19.897000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1482345382766841856",
+    "channel_id": "1165326429102280735",
+    "author": {
+      "id": "248611184377462784",
+      "username": "half_a_cow",
+      "avatar": "13828360d2ee39e4e71d2cc865f7a0bc",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Generosities",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1165326429102280735",
+      "message_id": "1481040361953427518",
+      "guild_id": "437797104786604034"
+    },
+    "position": 61,
+    "referenced_message": {
+      "type": 0,
+      "content": "This guide was from 3 years ago \nI should probably update it",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2026-03-10T21:25:38.689000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1481040361953427518",
+      "channel_id": "1165326429102280735",
+      "author": {
+        "id": "598289522475663380",
+        "username": "way7476",
+        "avatar": "894a9ef81dbec62307e8a7f343817209",
+        "discriminator": "0",
+        "public_flags": 128,
+        "flags": 128,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Way",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 60
+    }
+  },
+  {
+    "type": 19,
+    "content": "please.. I'm lost",
+    "mentions": [
+      {
+        "id": "598289522475663380",
+        "username": "way7476",
+        "avatar": "894a9ef81dbec62307e8a7f343817209",
+        "discriminator": "0",
+        "public_flags": 128,
+        "flags": 128,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Way",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-03-19T05:01:23.144000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1484054155835473931",
+    "channel_id": "1165326429102280735",
+    "author": {
+      "id": "448583917054722048",
+      "username": "bigboi2965",
+      "avatar": "dd86f7f798db6e2b1717bb681c316c7c",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Scrotumgrinder O' Coolihan",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1420225379293204593",
+          "asset": "nameplates/its_showtime/encore_teal/",
+          "label": "COLLECTIBLES_ITS_SHOWTIME_ENCORE_TEAL_NP_A11Y",
+          "palette": "teal"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1165326429102280735",
+      "message_id": "1481040361953427518",
+      "guild_id": "437797104786604034"
+    },
+    "position": 62,
+    "referenced_message": {
+      "type": 0,
+      "content": "This guide was from 3 years ago \nI should probably update it",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2026-03-10T21:25:38.689000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1481040361953427518",
+      "channel_id": "1165326429102280735",
+      "author": {
+        "id": "598289522475663380",
+        "username": "way7476",
+        "avatar": "894a9ef81dbec62307e8a7f343817209",
+        "discriminator": "0",
+        "public_flags": 128,
+        "flags": 128,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Way",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 60
+    }
+  },
+  {
+    "type": 0,
+    "content": "i mean not really but I just want the optimal build since I think skull spam is meta rn",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-03-19T05:02:29.943000+00:00",
+    "edited_timestamp": "2026-03-19T05:02:38.069000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1484054436010790923",
+    "channel_id": "1165326429102280735",
+    "author": {
+      "id": "448583917054722048",
+      "username": "bigboi2965",
+      "avatar": "dd86f7f798db6e2b1717bb681c316c7c",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Scrotumgrinder O' Coolihan",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1420225379293204593",
+          "asset": "nameplates/its_showtime/encore_teal/",
+          "label": "COLLECTIBLES_ITS_SHOWTIME_ENCORE_TEAL_NP_A11Y",
+          "palette": "teal"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 63
+  },
+  {
+    "type": 19,
+    "content": "i swap out aura for the cloud, and put the purple skull 3rd, \n\nalso\n\nRaise Dead 300 is giga chad, Tentacyle 300 for 80% + Chance,\nCranium cooking at 300 helps.\n\ndo not forget about the Alchemy Bubble that increases the Duration, reduces CD, and gives better cooking time. its a Purple Bubble.",
+    "mentions": [
+      {
+        "id": "598289522475663380",
+        "username": "way7476",
+        "avatar": "894a9ef81dbec62307e8a7f343817209",
+        "discriminator": "0",
+        "public_flags": 128,
+        "flags": 128,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Way",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-03-19T06:00:47.185000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1484069104506634290",
+    "channel_id": "1165326429102280735",
+    "author": {
+      "id": "141882804475527168",
+      "username": "cafeen",
+      "avatar": "fe393e42afb0a92bc35ffec4c94a9d98",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Cafeen",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1409983105577783410",
+          "asset": "nameplates/special_events_2/nitro_rocketfuel_nameplate/",
+          "label": "COLLECTIBLES_SEPTEMBER_2025_MARKETING_NAMEPLATE_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1165326429102280735",
+      "message_id": "1166549030113914921",
+      "guild_id": "437797104786604034"
+    },
+    "position": 64,
+    "referenced_message": {
+      "type": 0,
+      "content": "im an idiot\nHere's the Picture:",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [
+        {
+          "id": "1166549029929357332",
+          "filename": "image.png",
+          "size": 58430,
+          "url": "https://cdn.discordapp.com/attachments/1165326429102280735/1166549029929357332/image.png?ex=6a0f08b2&is=6a0db732&hm=9702ff99832f7dfa03f0adf4e65356f660d2b9fdbf21723adc9b44687c148f0c&",
+          "proxy_url": "https://media.discordapp.net/attachments/1165326429102280735/1166549029929357332/image.png?ex=6a0f08b2&is=6a0db732&hm=9702ff99832f7dfa03f0adf4e65356f660d2b9fdbf21723adc9b44687c148f0c&",
+          "width": 703,
+          "height": 104,
+          "content_type": "image/png",
+          "content_scan_version": 4,
+          "placeholder": "F/gFCYCQqKipd2eIDnSSj5s=",
+          "placeholder_version": 1
+        }
+      ],
+      "embeds": [],
+      "timestamp": "2023-10-25T01:29:22.212000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1166549030113914921",
+      "channel_id": "1165326429102280735",
+      "author": {
+        "id": "598289522475663380",
+        "username": "way7476",
+        "avatar": "894a9ef81dbec62307e8a7f343817209",
+        "discriminator": "0",
+        "public_flags": 128,
+        "flags": 128,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Way",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 1
+    }
+  },
+  {
+    "type": 0,
+    "content": "I was confused why I am in W7 and still can't get past 94k 🙂 \nusing this I moved from 94k to 441k",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-03-19T07:01:27.707000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1484084373962887271",
+    "channel_id": "1165326429102280735",
+    "author": {
+      "id": "929411980454936586",
+      "username": "versusic",
+      "avatar": "2cba77c3920a38765b580b48581fb52e",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Versusic",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 65
+  },
+  {
+    "type": 0,
+    "content": "helped in this too, but still a fail 🙃",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1484085672280064100",
+        "filename": "image.png",
+        "size": 12156,
+        "url": "https://cdn.discordapp.com/attachments/1165326429102280735/1484085672280064100/image.png?ex=6a0f57bd&is=6a0e063d&hm=ca28f3b940f664b35c4010f5e42603f4854f6a75d07c726d02d079e605fb3da0&",
+        "proxy_url": "https://media.discordapp.net/attachments/1165326429102280735/1484085672280064100/image.png?ex=6a0f57bd&is=6a0e063d&hm=ca28f3b940f664b35c4010f5e42603f4854f6a75d07c726d02d079e605fb3da0&",
+        "width": 438,
+        "height": 79,
+        "content_type": "image/webp",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "2+cFGYYSlmp9dQjLBoZ0YEg=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2026-03-19T07:06:37.326000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1484085672598966282",
+    "channel_id": "1165326429102280735",
+    "author": {
+      "id": "929411980454936586",
+      "username": "versusic",
+      "avatar": "2cba77c3920a38765b580b48581fb52e",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Versusic",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 66
+  },
+  {
+    "type": 0,
+    "content": "so is there coming an update?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-05-20T15:00:30.598000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1506672978052513805",
+    "channel_id": "1165326429102280735",
+    "author": {
+      "id": "778699714601549846",
+      "username": "bugra66",
+      "avatar": "1b2ab1afa9af654d0c1daf5eecc65f9d",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Bugra",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 67
+  }
+]

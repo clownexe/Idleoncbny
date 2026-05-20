@@ -1,0 +1,1318 @@
+[
+  {
+    "type": 0,
+    "content": "This is just something I made for myself, but some people were asking for a list, so I made it a bit of a better visual\n(Just a heads up some Event/Gem Shop Markings could possibly be mixed up (Or Lava puts an old event hat in the Gem Shop/ Old Gem Shop hat in an Event))\n\nNothing all too fancy, most people are done with getting their hats on the hat rack in 15min anyways, but this is here for the people who might like it :)",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1444473615209861362",
+        "filename": "Screenshot_2025-11-30_003550.png",
+        "size": 261560,
+        "url": "https://cdn.discordapp.com/attachments/1444473614945488937/1444473615209861362/Screenshot_2025-11-30_003550.png?ex=6a0eefa2&is=6a0d9e22&hm=ff7c6fe63bf18ddc2759effab9f530271e54def0c8c1291e1a1c16b2de5eeb3d&",
+        "proxy_url": "https://media.discordapp.net/attachments/1444473614945488937/1444473615209861362/Screenshot_2025-11-30_003550.png?ex=6a0eefa2&is=6a0d9e22&hm=ff7c6fe63bf18ddc2759effab9f530271e54def0c8c1291e1a1c16b2de5eeb3d&",
+        "width": 1380,
+        "height": 778,
+        "content_type": "image/webp",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "qvgFFIawZwWFd3mId3VPvVWvhg==",
+        "placeholder_version": 1,
+        "title": "Screenshot 2025-11-30 003550"
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2025-11-29T23:42:26.825000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1444473614945488937",
+    "channel_id": "1444473614945488937",
+    "author": {
+      "id": "347695893044002816",
+      "username": "shyyskyy",
+      "avatar": "9e68a24ec8c617020d75d0c9e3b01a8d",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "ƎYKS",
+      "avatar_decoration_data": {
+        "asset": "a_780cd1b7e878dce85d20c7ee495a86fe",
+        "sku_id": "1352407446391492660",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 66,
+        "count_details": {
+          "burst": 0,
+          "normal": 66
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1081680882022223913",
+          "name": "EquipmentHats10"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 4,
+          "normal": 0
+        },
+        "burst_colors": [
+          "#000000",
+          "#f068e4",
+          "#f0a4e9",
+          "#5f1b70",
+          "#c02fb4"
+        ],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 4
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🎉"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "Why doesn't the w^ hat from lantern Spirit appear in the drop table in the game? it is the only w6 hat like this and it has yet to drop for me.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-30T01:52:42.353000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1444506395645968496",
+    "channel_id": "1444473614945488937",
+    "author": {
+      "id": "353617924973395984",
+      "username": "chesstrees",
+      "avatar": null,
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "ChessTrees",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "😂"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 19,
+    "content": "I believe you need to have the hat in Sneaking before you can get it in main game",
+    "mentions": [
+      {
+        "id": "353617924973395984",
+        "username": "chesstrees",
+        "avatar": null,
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "ChessTrees",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-30T08:52:28.813000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1444612035315892315",
+    "channel_id": "1444473614945488937",
+    "author": {
+      "id": "252344026886307841",
+      "username": "rumissile",
+      "avatar": "5bcaab806668f8537e969a94cb0f4357",
+      "discriminator": "0",
+      "public_flags": 640,
+      "flags": 640,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Rumi",
+      "avatar_decoration_data": {
+        "asset": "a_0f7fa66bc185c858f92a7918ea4dd47a",
+        "sku_id": "1262491137394868308",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614227865711",
+          "asset": "nameplates/nameplates/koi_pond/",
+          "label": "COLLECTIBLES_NAMEPLATES_KOI_POND_A11Y",
+          "palette": "sky"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 11,
+        "effect_id": 3,
+        "colors": [
+          12790527
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "557138764170788864",
+        "identity_enabled": true,
+        "tag": "SHED",
+        "badge": "a096c02b558e6bcff7b1c10269fb6cd5"
+      },
+      "primary_guild": {
+        "identity_guild_id": "557138764170788864",
+        "identity_enabled": true,
+        "tag": "SHED",
+        "badge": "a096c02b558e6bcff7b1c10269fb6cd5"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1444473614945488937",
+      "message_id": "1444506395645968496",
+      "guild_id": "437797104786604034"
+    },
+    "position": 1,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "👆"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ],
+    "referenced_message": {
+      "type": 0,
+      "content": "Why doesn't the w^ hat from lantern Spirit appear in the drop table in the game? it is the only w6 hat like this and it has yet to drop for me.",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-11-30T01:52:42.353000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1444506395645968496",
+      "channel_id": "1444473614945488937",
+      "author": {
+        "id": "353617924973395984",
+        "username": "chesstrees",
+        "avatar": null,
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "ChessTrees",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 0
+    }
+  },
+  {
+    "type": 0,
+    "content": "niceee ty!",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-30T16:09:49.737000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1444722097728389120",
+    "channel_id": "1444473614945488937",
+    "author": {
+      "id": "436885411185426442",
+      "username": "pukonql",
+      "avatar": "c78e08b26b8550c97afea29b2275bfd7",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "pukissss",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 2,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "🫶"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "Excellent - is there a source file for this - or is it just the screenshot?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-02T04:05:13.327000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1445264520179224606",
+    "channel_id": "1444473614945488937",
+    "author": {
+      "id": "481636982938927104",
+      "username": "mgnumes",
+      "avatar": "38246fed63aaf08c141cd1a41bbdf900",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "mgnumes",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 5
+  },
+  {
+    "type": 19,
+    "content": "Just a screenshot! People could download it and then edit it to put in checkmarks, but if people are interested I can also make one that people can fill-in",
+    "mentions": [
+      {
+        "id": "481636982938927104",
+        "username": "mgnumes",
+        "avatar": "38246fed63aaf08c141cd1a41bbdf900",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "mgnumes",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-08T10:33:37.298000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1447536591311474850",
+    "channel_id": "1444473614945488937",
+    "author": {
+      "id": "347695893044002816",
+      "username": "shyyskyy",
+      "avatar": "9e68a24ec8c617020d75d0c9e3b01a8d",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "ƎYKS",
+      "avatar_decoration_data": {
+        "asset": "a_780cd1b7e878dce85d20c7ee495a86fe",
+        "sku_id": "1352407446391492660",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1444473614945488937",
+      "message_id": "1445264520179224606",
+      "guild_id": "437797104786604034"
+    },
+    "position": 6,
+    "referenced_message": {
+      "type": 0,
+      "content": "Excellent - is there a source file for this - or is it just the screenshot?",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-12-02T04:05:13.327000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1445264520179224606",
+      "channel_id": "1444473614945488937",
+      "author": {
+        "id": "481636982938927104",
+        "username": "mgnumes",
+        "avatar": "38246fed63aaf08c141cd1a41bbdf900",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "mgnumes",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 5
+    }
+  },
+  {
+    "type": 0,
+    "content": "The updated version after Christmas event 🙏",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1449009934581629080",
+        "filename": "image.png",
+        "size": 275282,
+        "url": "https://cdn.discordapp.com/attachments/1444473614945488937/1449009934581629080/image.png?ex=6a0ef5a9&is=6a0da429&hm=c9aac152028294ec922bb502bd6b0cc6e1fd6ba500eeaff608b2d907ef63be28&",
+        "proxy_url": "https://media.discordapp.net/attachments/1444473614945488937/1449009934581629080/image.png?ex=6a0ef5a9&is=6a0da429&hm=c9aac152028294ec922bb502bd6b0cc6e1fd6ba500eeaff608b2d907ef63be28&",
+        "width": 1250,
+        "height": 781,
+        "content_type": "image/webp",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "qvgBFIbQdhKFhmiXh4c/m3Sfdg==",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2025-12-12T12:08:09.805000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1449009934992805968",
+    "channel_id": "1444473614945488937",
+    "author": {
+      "id": "347695893044002816",
+      "username": "shyyskyy",
+      "avatar": "9e68a24ec8c617020d75d0c9e3b01a8d",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "ƎYKS",
+      "avatar_decoration_data": {
+        "asset": "a_780cd1b7e878dce85d20c7ee495a86fe",
+        "sku_id": "1352407446391492660",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 7,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "1098050666028597320",
+          "name": "grumblo_steal"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 19,
+    "content": "Are the world six hat drops just a secret drop or do you need to unlock something before they drop?",
+    "mentions": [
+      {
+        "id": "347695893044002816",
+        "username": "shyyskyy",
+        "avatar": "9e68a24ec8c617020d75d0c9e3b01a8d",
+        "discriminator": "0",
+        "public_flags": 64,
+        "flags": 64,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "ƎYKS",
+        "avatar_decoration_data": {
+          "asset": "a_780cd1b7e878dce85d20c7ee495a86fe",
+          "sku_id": "1352407446391492660",
+          "expires_at": null
+        },
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-19T00:20:30.866000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1451368564354322506",
+    "channel_id": "1444473614945488937",
+    "author": {
+      "id": "961989479902617661",
+      "username": "tfhj4t",
+      "avatar": null,
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Hi",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1444473614945488937",
+      "message_id": "1449009934992805968",
+      "guild_id": "437797104786604034"
+    },
+    "position": 10,
+    "referenced_message": {
+      "type": 0,
+      "content": "The updated version after Christmas event 🙏",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [
+        {
+          "id": "1449009934581629080",
+          "filename": "image.png",
+          "size": 275282,
+          "url": "https://cdn.discordapp.com/attachments/1444473614945488937/1449009934581629080/image.png?ex=6a0ef5a9&is=6a0da429&hm=c9aac152028294ec922bb502bd6b0cc6e1fd6ba500eeaff608b2d907ef63be28&",
+          "proxy_url": "https://media.discordapp.net/attachments/1444473614945488937/1449009934581629080/image.png?ex=6a0ef5a9&is=6a0da429&hm=c9aac152028294ec922bb502bd6b0cc6e1fd6ba500eeaff608b2d907ef63be28&",
+          "width": 1250,
+          "height": 781,
+          "content_type": "image/webp",
+          "original_content_type": "image/png",
+          "content_scan_version": 4,
+          "placeholder": "qvgBFIbQdhKFhmiXh4c/m3Sfdg==",
+          "placeholder_version": 1
+        }
+      ],
+      "embeds": [],
+      "timestamp": "2025-12-12T12:08:09.805000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1449009934992805968",
+      "channel_id": "1444473614945488937",
+      "author": {
+        "id": "347695893044002816",
+        "username": "shyyskyy",
+        "avatar": "9e68a24ec8c617020d75d0c9e3b01a8d",
+        "discriminator": "0",
+        "public_flags": 64,
+        "flags": 64,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "ƎYKS",
+        "avatar_decoration_data": {
+          "asset": "a_780cd1b7e878dce85d20c7ee495a86fe",
+          "sku_id": "1352407446391492660",
+          "expires_at": null
+        },
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 7
+    }
+  },
+  {
+    "type": 19,
+    "content": "They're unlocked from the Jade Emporium! (Its called Mob Cosplay Craze!)",
+    "mentions": [
+      {
+        "id": "961989479902617661",
+        "username": "tfhj4t",
+        "avatar": null,
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Hi",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-19T01:21:26.833000+00:00",
+    "edited_timestamp": "2025-12-19T01:24:27.307000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1451383898591465657",
+    "channel_id": "1444473614945488937",
+    "author": {
+      "id": "347695893044002816",
+      "username": "shyyskyy",
+      "avatar": "9e68a24ec8c617020d75d0c9e3b01a8d",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "ƎYKS",
+      "avatar_decoration_data": {
+        "asset": "a_780cd1b7e878dce85d20c7ee495a86fe",
+        "sku_id": "1352407446391492660",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1444473614945488937",
+      "message_id": "1451368564354322506",
+      "guild_id": "437797104786604034"
+    },
+    "position": 11,
+    "referenced_message": {
+      "type": 19,
+      "content": "Are the world six hat drops just a secret drop or do you need to unlock something before they drop?",
+      "mentions": [
+        {
+          "id": "347695893044002816",
+          "username": "shyyskyy",
+          "avatar": "9e68a24ec8c617020d75d0c9e3b01a8d",
+          "discriminator": "0",
+          "public_flags": 64,
+          "flags": 64,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "ƎYKS",
+          "avatar_decoration_data": {
+            "asset": "a_780cd1b7e878dce85d20c7ee495a86fe",
+            "sku_id": "1352407446391492660",
+            "expires_at": null
+          },
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-12-19T00:20:30.866000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1451368564354322506",
+      "channel_id": "1444473614945488937",
+      "author": {
+        "id": "961989479902617661",
+        "username": "tfhj4t",
+        "avatar": null,
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Hi",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1444473614945488937",
+        "message_id": "1449009934992805968",
+        "guild_id": "437797104786604034"
+      },
+      "position": 10
+    }
+  },
+  {
+    "type": 19,
+    "content": "Thank you very much is that a later upgrade within the shop?",
+    "mentions": [
+      {
+        "id": "347695893044002816",
+        "username": "shyyskyy",
+        "avatar": "9e68a24ec8c617020d75d0c9e3b01a8d",
+        "discriminator": "0",
+        "public_flags": 64,
+        "flags": 64,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "ƎYKS",
+        "avatar_decoration_data": {
+          "asset": "a_780cd1b7e878dce85d20c7ee495a86fe",
+          "sku_id": "1352407446391492660",
+          "expires_at": null
+        },
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-19T01:24:23.002000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1451384637497540643",
+    "channel_id": "1444473614945488937",
+    "author": {
+      "id": "961989479902617661",
+      "username": "tfhj4t",
+      "avatar": null,
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Hi",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1444473614945488937",
+      "message_id": "1451383898591465657",
+      "guild_id": "437797104786604034"
+    },
+    "position": 12,
+    "referenced_message": {
+      "type": 19,
+      "content": "They're unlocked from the Jade Emporium! (Its called Mob Cosplay Craze!)",
+      "mentions": [
+        {
+          "id": "961989479902617661",
+          "username": "tfhj4t",
+          "avatar": null,
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Hi",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": {
+            "identity_guild_id": "437797104786604034",
+            "identity_enabled": true,
+            "tag": "idle",
+            "badge": "613dd0a2876f97a2422d121940ecc992"
+          },
+          "primary_guild": {
+            "identity_guild_id": "437797104786604034",
+            "identity_enabled": true,
+            "tag": "idle",
+            "badge": "613dd0a2876f97a2422d121940ecc992"
+          }
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-12-19T01:21:26.833000+00:00",
+      "edited_timestamp": "2025-12-19T01:24:27.307000+00:00",
+      "flags": 0,
+      "components": [],
+      "id": "1451383898591465657",
+      "channel_id": "1444473614945488937",
+      "author": {
+        "id": "347695893044002816",
+        "username": "shyyskyy",
+        "avatar": "9e68a24ec8c617020d75d0c9e3b01a8d",
+        "discriminator": "0",
+        "public_flags": 64,
+        "flags": 64,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "ƎYKS",
+        "avatar_decoration_data": {
+          "asset": "a_780cd1b7e878dce85d20c7ee495a86fe",
+          "sku_id": "1352407446391492660",
+          "expires_at": null
+        },
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1444473614945488937",
+        "message_id": "1451368564354322506",
+        "guild_id": "437797104786604034"
+      },
+      "position": 11
+    }
+  },
+  {
+    "type": 19,
+    "content": "This is how expensive it is, I'd say pretty easy to get with all the new sneaking upgradesss",
+    "mentions": [
+      {
+        "id": "961989479902617661",
+        "username": "tfhj4t",
+        "avatar": null,
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Hi",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1451385024619352194",
+        "filename": "Screenshot_20251219_022442_Brave.jpg",
+        "size": 56938,
+        "url": "https://cdn.discordapp.com/attachments/1444473614945488937/1451385024619352194/Screenshot_20251219_022442_Brave.jpg?ex=6a0f07e3&is=6a0db663&hm=35fefa6f0228b29c4b3c25e0a71724293366a082fdaf9239710515783164c975&",
+        "proxy_url": "https://media.discordapp.net/attachments/1444473614945488937/1451385024619352194/Screenshot_20251219_022442_Brave.jpg?ex=6a0f07e3&is=6a0db663&hm=35fefa6f0228b29c4b3c25e0a71724293366a082fdaf9239710515783164c975&",
+        "width": 1080,
+        "height": 739,
+        "content_type": "image/jpeg",
+        "content_scan_version": 4,
+        "placeholder": "jAcGBYBuhVmJd4gwdYiHqq+X0s9r",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2025-12-19T01:25:55.325000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1451385024728268912",
+    "channel_id": "1444473614945488937",
+    "author": {
+      "id": "347695893044002816",
+      "username": "shyyskyy",
+      "avatar": "9e68a24ec8c617020d75d0c9e3b01a8d",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "ƎYKS",
+      "avatar_decoration_data": {
+        "asset": "a_780cd1b7e878dce85d20c7ee495a86fe",
+        "sku_id": "1352407446391492660",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1444473614945488937",
+      "message_id": "1451384637497540643",
+      "guild_id": "437797104786604034"
+    },
+    "position": 13,
+    "referenced_message": {
+      "type": 19,
+      "content": "Thank you very much is that a later upgrade within the shop?",
+      "mentions": [
+        {
+          "id": "347695893044002816",
+          "username": "shyyskyy",
+          "avatar": "9e68a24ec8c617020d75d0c9e3b01a8d",
+          "discriminator": "0",
+          "public_flags": 64,
+          "flags": 64,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "ƎYKS",
+          "avatar_decoration_data": {
+            "asset": "a_780cd1b7e878dce85d20c7ee495a86fe",
+            "sku_id": "1352407446391492660",
+            "expires_at": null
+          },
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-12-19T01:24:23.002000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1451384637497540643",
+      "channel_id": "1444473614945488937",
+      "author": {
+        "id": "961989479902617661",
+        "username": "tfhj4t",
+        "avatar": null,
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Hi",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1444473614945488937",
+        "message_id": "1451383898591465657",
+        "guild_id": "437797104786604034"
+      },
+      "position": 12
+    }
+  },
+  {
+    "type": 0,
+    "content": "Yeah thank you very much",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-19T01:35:34.945000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1451387455831019541",
+    "channel_id": "1444473614945488937",
+    "author": {
+      "id": "961989479902617661",
+      "username": "tfhj4t",
+      "avatar": null,
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Hi",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 14
+  },
+  {
+    "type": 0,
+    "content": "ig",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-26T22:45:50.771000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1454243843234070548",
+    "channel_id": "1444473614945488937",
+    "author": {
+      "id": "205059451193917440",
+      "username": "rodrigodhaka",
+      "avatar": "415ac48970ce664aad7701fc910be31b",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Haka",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 15
+  }
+]

@@ -1,0 +1,1374 @@
+[
+  {
+    "type": 0,
+    "content": "ALL W1-6 MEALS SORTED INTO CATEGORIES AND SUB-CATEGORIES\nmade by Zuiq/GG on 9/1/2025\n(Some suggestions provided by: Chaos74, and a minor suggestion by occido, and [ ] )\n(Feel free to use or modify however you'd like)\n(Made this because I didn't see anything anywhere vaguely like this. meals are just sorted by a list of when their acquired) \n(Note:  (W6 Spice) means it needs a spice that is locked behind a W6 map/spirit lock before one can acquire the territory, this consists of the final 4 spices)\n(Note 2: I've abbreviated quite a few things  due to character limit and having less clutter; it should still be very understandable)\n(Note 3: meals in each sub-category are listed in order of when they are unlocked, not how strong their base%/% per level is) \n\n**COOK SPEED STUFF <<<**\n\n% MEAL COOK SPD\n``Egg +5% \nCorndog +12%\nSoda +20%\nDouble Cherry +30% \nBurned Marshmallow +40% (W6 Spice)\n\nCabbage +5% (+5% cook spd per 10 kitchen LV's)(& new recipe spd)`` \n\n% LOWER KITCHEN COSTS\n``Dango +2%\nDurian Fruit +6%\nRatatouey +8%``\n\n**COMBAT STUFF <<<**\n\n% GOLD FOOD BONUS\n``Yumi Peachring +2% (W6 Spice)``\n\n% BASIC ATK SPD\n``Cauliflower +1%``\n\n% TOTAL DMG\n``Turkey +2%\nOctoplop +2%\nOnion +3%\nMassive Fig +3%\nPlumpcakes +6% (W6 Spice)``\n\n% CASH FROM MONSTERS\n``Salad +3%\nBunt Cake +7%``\n\n% CRIT CHANCE\n``Mutton +1%``\n\n% TOTAL ACC\n``Cheesy Bread +1%``\n\n+BASE DEF\n``Apple +5``\n\n**SKILL EFF <<<**\n\n% SKILL EFF\n``Corn +2%\nRiceball +3%\nWhipped Cocoa +4%``\n\n``Leek +2% (% skill prow)`` (shares the same cap as the Skill prowess bubble, which is 2.00x)\n\n+x MAX LVs TP PETE TALENT \n``Buncha Banana +4``\n\n**SKILL MISC STUFF <<<**\n\n% LIQUID CAP\n``Pumpkin +2% (liquids 1 & 2)`` \n``Kiwi Fruit +2% (liquids 3 & 4)``\n\n% POINTS EARNED IN TD\n``Cannoli +1%``\n\n% CRITTERS FROM TRAPS\n``Sea Urchin +1%``\n\n% LIBRARY CHECKOUT SPD\n``Fortune Cookie +4%``\n\n% VIP LIBRARY\n``Garlic Bread +4%\nSourish Fish +4%\nOrange +3%\nSushi Roll +7%``\n\n% LOWER EGG INCUBATION TIME\n``Potato Pea Pastry +1%``\n\n% PET BREEDABILITY SPEED\n``Eggplant +5%``\n\n% PET FIGHT DMG\n``Croissant +1%\nWedding Cake +2%``\n\n% NEW PET ODDS\n``Frenk Fries +5%\nPizza +9%\nDonut +15%\nChocolate Truffle +25%``\n\n% RECIPE COOK SPD\n``Pie +5%\nCanopy +10%``\n\n+Px LINE WIDTH\n``Pancakes +2Px\nWild Boar +2Px``  (Wild Boar uneffected by ribbons?)\n\n``Eel +1% (Line Width %)``\n\n% BITS GAINED IN GAMING\n``Head Chef Bread +4%\nSausy Sausage +6%\n``\n% SAILING SPD\n``Popped Corn +2%``\n\n% CROP EVO CHANCE\n``Bill Jack Pepper +5% (W6 Spice)\nNyanborgir +9% (W6 Spice)``\n\n% SUMMON ESSENCE GAIN\n``Sticky Bun +5% (W6 Spice)``\n\n% JADE GAIN FROM SNEAK\n``Misterloin Steak +6% (W6 Spice)``\n\n**SKILL EXP STUFF <<<** \n\n% BREED EXP\n``Spaghetti +4%``\n\n% COOK EXP\n``Cheese +5%\nMashed Potato +6%``\n\n% LAB EXP\n``Garlicless Bread +2%\nSawdust +5%\nPretzel +7%``\n\n% DIVINITY EXP\n``Cotton Candy +2%\nWrath Grapes +4%``\n\n% GAMING EXP\n``Giant Tomato +5%``\n\n% FARM EXP \n``Seasoned Marrow +3% (W6 Spice)``\n\n% SUMMON EXP\n``Large Pohayoh +2% (W6 Spice)``\n\n% SNEAK EXP \n``Frazzleberry +2% (W6 Spice)``",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1412271921638408333",
+        "filename": "image.png",
+        "size": 57962,
+        "url": "https://cdn.discordapp.com/attachments/1412271921369710725/1412271921638408333/image.png?ex=6a0f1ef8&is=6a0dcd78&hm=5e1347268a483ed7422157e65bfaef1a344dcdd76106194698ed0c239f206df7&",
+        "proxy_url": "https://media.discordapp.net/attachments/1412271921369710725/1412271921638408333/image.png?ex=6a0f1ef8&is=6a0dcd78&hm=5e1347268a483ed7422157e65bfaef1a344dcdd76106194698ed0c239f206df7&",
+        "width": 793,
+        "height": 414,
+        "content_type": "image/webp",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "kjgGHIIFWhJkapiOZ1lHhpDj9g==",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2025-09-02T03:04:24.798000+00:00",
+    "edited_timestamp": "2025-09-03T23:18:28.329000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1412271921369710725",
+    "channel_id": "1412271921369710725",
+    "author": {
+      "id": "347199538802720768",
+      "username": "gaminggoalie",
+      "avatar": "b8d8f7026650527e13af840cf1b84dd4",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Zuǐqiáng wángzhě",
+      "avatar_decoration_data": {
+        "asset": "a_13913a00bd9990ab4102a3bf069f0f3f",
+        "sku_id": "1271174640026255380",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": {
+        "font_id": 11,
+        "effect_id": 2,
+        "colors": [
+          361252,
+          3800852
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 18,
+        "count_details": {
+          "burst": 0,
+          "normal": 18
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🫃🏼"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "886463603434217523",
+          "name": "Yeet"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "588731421028515845",
+          "name": "bongocat",
+          "animated": true
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "This is my first time making something like this that doesn't apply only to me, and something that other people would be able to understand\nApologies if there are any mistakes I missed, but there shouldn't be any (i double checked many times)\nHopefully, this will help anyone who was in a similar position as I was when looking for something like this and being unable to find anything like it",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-02T03:06:15.139000+00:00",
+    "edited_timestamp": "2025-09-02T03:09:00.747000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1412272384173543454",
+    "channel_id": "1412271921369710725",
+    "author": {
+      "id": "347199538802720768",
+      "username": "gaminggoalie",
+      "avatar": "b8d8f7026650527e13af840cf1b84dd4",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Zuǐqiáng wángzhě",
+      "avatar_decoration_data": {
+        "asset": "a_13913a00bd9990ab4102a3bf069f0f3f",
+        "sku_id": "1271174640026255380",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": {
+        "font_id": 11,
+        "effect_id": 2,
+        "colors": [
+          361252,
+          3800852
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0
+  },
+  {
+    "type": 0,
+    "content": "this is epic sauce",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-02T03:33:08.820000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1412279152442216510",
+    "channel_id": "1412271921369710725",
+    "author": {
+      "id": "781645214317412374",
+      "username": "2headphones",
+      "avatar": "7dcc3ae8e5573af9204159b2b0ca6879",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "2headphones",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 1,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "1114306970816630876",
+          "name": "Grumblo_Pray"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": ":xplode:",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-03T13:03:09.306000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1412784987543175298",
+    "channel_id": "1412271921369710725",
+    "author": {
+      "id": "1362095298935001118",
+      "username": ".sclythe",
+      "avatar": "17794d52c1b47d634237e0b2275dbc06",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "˚ʚ Ashy ɞ˚",
+      "avatar_decoration_data": {
+        "asset": "a_57807030ab60f7ac0c4a1998aa091bbf",
+        "sku_id": "1436367668897775757",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1436367669031993384",
+          "asset": "nameplates/straw/fluttering_static/",
+          "label": "COLLECTIBLES_STRAW_FLUTTERING_STATIC_NP_A11Y",
+          "palette": "crimson"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 4,
+        "colors": [
+          14287177
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1369716002085928983",
+        "identity_enabled": true,
+        "tag": "ԝlԝ",
+        "badge": "e701df75ce906698f0d02ce19bf7c8c6"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1369716002085928983",
+        "identity_enabled": true,
+        "tag": "ԝlԝ",
+        "badge": "e701df75ce906698f0d02ce19bf7c8c6"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 2
+  },
+  {
+    "type": 0,
+    "content": "btw cabbage's cooking speed actually counts as both meal cooking speed and new recipe speed",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-03T13:06:28.500000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1412785823023235114",
+    "channel_id": "1412271921369710725",
+    "author": {
+      "id": "1362095298935001118",
+      "username": ".sclythe",
+      "avatar": "17794d52c1b47d634237e0b2275dbc06",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "˚ʚ Ashy ɞ˚",
+      "avatar_decoration_data": {
+        "asset": "a_57807030ab60f7ac0c4a1998aa091bbf",
+        "sku_id": "1436367668897775757",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1436367669031993384",
+          "asset": "nameplates/straw/fluttering_static/",
+          "label": "COLLECTIBLES_STRAW_FLUTTERING_STATIC_NP_A11Y",
+          "palette": "crimson"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 4,
+        "colors": [
+          14287177
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1369716002085928983",
+        "identity_enabled": true,
+        "tag": "ԝlԝ",
+        "badge": "e701df75ce906698f0d02ce19bf7c8c6"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1369716002085928983",
+        "identity_enabled": true,
+        "tag": "ԝlԝ",
+        "badge": "e701df75ce906698f0d02ce19bf7c8c6"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 3
+  },
+  {
+    "type": 0,
+    "content": "ah\nit does? \nI'll modify it when I get home then",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-03T15:02:24.604000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1412814999038201856",
+    "channel_id": "1412271921369710725",
+    "author": {
+      "id": "347199538802720768",
+      "username": "gaminggoalie",
+      "avatar": "b8d8f7026650527e13af840cf1b84dd4",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Zuǐqiáng wángzhě",
+      "avatar_decoration_data": {
+        "asset": "a_13913a00bd9990ab4102a3bf069f0f3f",
+        "sku_id": "1271174640026255380",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": {
+        "font_id": 11,
+        "effect_id": 2,
+        "colors": [
+          361252,
+          3800852
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 4
+  },
+  {
+    "type": 0,
+    "content": "Head Chef Bread is missing how much the bonus is.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-03T18:51:49.944000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1412872735058825276",
+    "channel_id": "1412271921369710725",
+    "author": {
+      "id": "516702463479250969",
+      "username": "bravestcobra",
+      "avatar": null,
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "BravestCobra",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 5
+  },
+  {
+    "type": 0,
+    "content": "Based",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-03T23:16:52.773000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1412939436358111234",
+    "channel_id": "1412271921369710725",
+    "author": {
+      "id": "493756381908959243",
+      "username": "djthechad",
+      "avatar": "4cfb8ed16fbb89fbfd619ff7f2268fc4",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "S-DIO",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 6
+  },
+  {
+    "type": 19,
+    "content": "weird it somehow didnt carry over when i copied everything lol\nboth things are fixed now tho",
+    "mentions": [
+      {
+        "id": "516702463479250969",
+        "username": "bravestcobra",
+        "avatar": null,
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "BravestCobra",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-03T23:18:51.164000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1412939932925821019",
+    "channel_id": "1412271921369710725",
+    "author": {
+      "id": "347199538802720768",
+      "username": "gaminggoalie",
+      "avatar": "b8d8f7026650527e13af840cf1b84dd4",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Zuǐqiáng wángzhě",
+      "avatar_decoration_data": {
+        "asset": "a_13913a00bd9990ab4102a3bf069f0f3f",
+        "sku_id": "1271174640026255380",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": {
+        "font_id": 11,
+        "effect_id": 2,
+        "colors": [
+          361252,
+          3800852
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1412271921369710725",
+      "message_id": "1412872735058825276",
+      "guild_id": "437797104786604034"
+    },
+    "position": 7,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ],
+    "referenced_message": {
+      "type": 0,
+      "content": "Head Chef Bread is missing how much the bonus is.",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-09-03T18:51:49.944000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1412872735058825276",
+      "channel_id": "1412271921369710725",
+      "author": {
+        "id": "516702463479250969",
+        "username": "bravestcobra",
+        "avatar": null,
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "BravestCobra",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 5
+    }
+  },
+  {
+    "type": 0,
+    "content": "we need this in a tier list.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-06T16:57:23.223000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1413931097540006058",
+    "channel_id": "1412271921369710725",
+    "author": {
+      "id": "767818830134247444",
+      "username": "amutantcow",
+      "avatar": "dcc2752b0aab960d472ee4978282b690",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "amutantcow",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "669128285527080961",
+        "identity_enabled": true,
+        "tag": "WoWs",
+        "badge": "7b571a46a1266491cfabe2e362aad176"
+      },
+      "primary_guild": {
+        "identity_guild_id": "669128285527080961",
+        "identity_enabled": true,
+        "tag": "WoWs",
+        "badge": "7b571a46a1266491cfabe2e362aad176"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 8
+  },
+  {
+    "type": 0,
+    "content": "S+ is yumi",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-07T12:17:20.238000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1414223008578404442",
+    "channel_id": "1412271921369710725",
+    "author": {
+      "id": "1362095298935001118",
+      "username": ".sclythe",
+      "avatar": "17794d52c1b47d634237e0b2275dbc06",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "˚ʚ Ashy ɞ˚",
+      "avatar_decoration_data": {
+        "asset": "a_57807030ab60f7ac0c4a1998aa091bbf",
+        "sku_id": "1436367668897775757",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1436367669031993384",
+          "asset": "nameplates/straw/fluttering_static/",
+          "label": "COLLECTIBLES_STRAW_FLUTTERING_STATIC_NP_A11Y",
+          "palette": "crimson"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 4,
+        "colors": [
+          14287177
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1369716002085928983",
+        "identity_enabled": true,
+        "tag": "ԝlԝ",
+        "badge": "e701df75ce906698f0d02ce19bf7c8c6"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1369716002085928983",
+        "identity_enabled": true,
+        "tag": "ԝlԝ",
+        "badge": "e701df75ce906698f0d02ce19bf7c8c6"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 9
+  },
+  {
+    "type": 19,
+    "content": "someone might have been working on it\n\ni was making one for myself (specifically made for my account) of which i update with current ribbons\nbut as someone who is W4 and biased due ot the nature of my account i would not be able to make a true tier list for everyone lol",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-20T01:58:54.333000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1418778417385701456",
+    "channel_id": "1412271921369710725",
+    "author": {
+      "id": "347199538802720768",
+      "username": "gaminggoalie",
+      "avatar": "b8d8f7026650527e13af840cf1b84dd4",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Zuǐqiáng wángzhě",
+      "avatar_decoration_data": {
+        "asset": "a_13913a00bd9990ab4102a3bf069f0f3f",
+        "sku_id": "1271174640026255380",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": {
+        "font_id": 11,
+        "effect_id": 2,
+        "colors": [
+          361252,
+          3800852
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1412271921369710725",
+      "message_id": "1413931097540006058",
+      "guild_id": "437797104786604034"
+    },
+    "position": 10,
+    "referenced_message": {
+      "type": 0,
+      "content": "we need this in a tier list.",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-09-06T16:57:23.223000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1413931097540006058",
+      "channel_id": "1412271921369710725",
+      "author": {
+        "id": "767818830134247444",
+        "username": "amutantcow",
+        "avatar": "dcc2752b0aab960d472ee4978282b690",
+        "discriminator": "0",
+        "public_flags": 64,
+        "flags": 64,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "amutantcow",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "669128285527080961",
+          "identity_enabled": true,
+          "tag": "WoWs",
+          "badge": "7b571a46a1266491cfabe2e362aad176"
+        },
+        "primary_guild": {
+          "identity_guild_id": "669128285527080961",
+          "identity_enabled": true,
+          "tag": "WoWs",
+          "badge": "7b571a46a1266491cfabe2e362aad176"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 8
+    }
+  },
+  {
+    "type": 19,
+    "content": "tho this is just a universal agreed placement thankfully",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-20T01:59:10.565000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1418778485467516928",
+    "channel_id": "1412271921369710725",
+    "author": {
+      "id": "347199538802720768",
+      "username": "gaminggoalie",
+      "avatar": "b8d8f7026650527e13af840cf1b84dd4",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Zuǐqiáng wángzhě",
+      "avatar_decoration_data": {
+        "asset": "a_13913a00bd9990ab4102a3bf069f0f3f",
+        "sku_id": "1271174640026255380",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": {
+        "font_id": 11,
+        "effect_id": 2,
+        "colors": [
+          361252,
+          3800852
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1412271921369710725",
+      "message_id": "1414223008578404442",
+      "guild_id": "437797104786604034"
+    },
+    "position": 11,
+    "referenced_message": {
+      "type": 0,
+      "content": "S+ is yumi",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-09-07T12:17:20.238000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1414223008578404442",
+      "channel_id": "1412271921369710725",
+      "author": {
+        "id": "1362095298935001118",
+        "username": ".sclythe",
+        "avatar": "17794d52c1b47d634237e0b2275dbc06",
+        "discriminator": "0",
+        "public_flags": 256,
+        "flags": 256,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "˚ʚ Ashy ɞ˚",
+        "avatar_decoration_data": {
+          "asset": "a_57807030ab60f7ac0c4a1998aa091bbf",
+          "sku_id": "1436367668897775757",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1436367669031993384",
+            "asset": "nameplates/straw/fluttering_static/",
+            "label": "COLLECTIBLES_STRAW_FLUTTERING_STATIC_NP_A11Y",
+            "palette": "crimson"
+          }
+        },
+        "display_name_styles": {
+          "font_id": 10,
+          "effect_id": 4,
+          "colors": [
+            14287177
+          ]
+        },
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1369716002085928983",
+          "identity_enabled": true,
+          "tag": "ԝlԝ",
+          "badge": "e701df75ce906698f0d02ce19bf7c8c6"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1369716002085928983",
+          "identity_enabled": true,
+          "tag": "ԝlԝ",
+          "badge": "e701df75ce906698f0d02ce19bf7c8c6"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 9
+    }
+  },
+  {
+    "type": 0,
+    "content": "S+ consists of two meals",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-20T01:59:19.566000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1418778523220574271",
+    "channel_id": "1412271921369710725",
+    "author": {
+      "id": "347199538802720768",
+      "username": "gaminggoalie",
+      "avatar": "b8d8f7026650527e13af840cf1b84dd4",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Zuǐqiáng wángzhě",
+      "avatar_decoration_data": {
+        "asset": "a_13913a00bd9990ab4102a3bf069f0f3f",
+        "sku_id": "1271174640026255380",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": {
+        "font_id": 11,
+        "effect_id": 2,
+        "colors": [
+          361252,
+          3800852
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 12
+  },
+  {
+    "type": 0,
+    "content": "Yummi\nand Leek. (this is a joke)",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-20T01:59:31.649000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1418778573900222494",
+    "channel_id": "1412271921369710725",
+    "author": {
+      "id": "347199538802720768",
+      "username": "gaminggoalie",
+      "avatar": "b8d8f7026650527e13af840cf1b84dd4",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Zuǐqiáng wángzhě",
+      "avatar_decoration_data": {
+        "asset": "a_13913a00bd9990ab4102a3bf069f0f3f",
+        "sku_id": "1271174640026255380",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": {
+        "font_id": 11,
+        "effect_id": 2,
+        "colors": [
+          361252,
+          3800852
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 13
+  },
+  {
+    "type": 0,
+    "content": "start sorting them meals",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-14T02:23:58.195000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1438716057647845417",
+    "channel_id": "1412271921369710725",
+    "author": {
+      "id": "1362095298935001118",
+      "username": ".sclythe",
+      "avatar": "17794d52c1b47d634237e0b2275dbc06",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "˚ʚ Ashy ɞ˚",
+      "avatar_decoration_data": {
+        "asset": "a_57807030ab60f7ac0c4a1998aa091bbf",
+        "sku_id": "1436367668897775757",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1436367669031993384",
+          "asset": "nameplates/straw/fluttering_static/",
+          "label": "COLLECTIBLES_STRAW_FLUTTERING_STATIC_NP_A11Y",
+          "palette": "crimson"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 4,
+        "colors": [
+          14287177
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1369716002085928983",
+        "identity_enabled": true,
+        "tag": "ԝlԝ",
+        "badge": "e701df75ce906698f0d02ce19bf7c8c6"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1369716002085928983",
+        "identity_enabled": true,
+        "tag": "ԝlԝ",
+        "badge": "e701df75ce906698f0d02ce19bf7c8c6"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 15
+  },
+  {
+    "type": 0,
+    "content": "oh right 4 new meals\nill try to update this later ty",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-16T06:09:39.671000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1439497630445998192",
+    "channel_id": "1412271921369710725",
+    "author": {
+      "id": "347199538802720768",
+      "username": "gaminggoalie",
+      "avatar": "b8d8f7026650527e13af840cf1b84dd4",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Zuǐqiáng wángzhě",
+      "avatar_decoration_data": {
+        "asset": "a_13913a00bd9990ab4102a3bf069f0f3f",
+        "sku_id": "1271174640026255380",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": {
+        "font_id": 11,
+        "effect_id": 2,
+        "colors": [
+          361252,
+          3800852
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 16,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "💖"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "thx!",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-24T15:14:08.830000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1453405393723068593",
+    "channel_id": "1412271921369710725",
+    "author": {
+      "id": "250367536703471617",
+      "username": "testdrivendavid",
+      "avatar": "2177efaeed850152aada41049601cb37",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "david",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 17
+  },
+  {
+    "type": 0,
+    "content": "can someone help me with the last recipes ?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1491476553098330235",
+        "filename": "image.png",
+        "size": 60339,
+        "url": "https://cdn.discordapp.com/attachments/1412271921369710725/1491476553098330235/image.png?ex=6a0f3448&is=6a0de2c8&hm=18658a33abac542c9f4e12c2d98f9042e8f1e02a0e9467a6f67da73a29059645&",
+        "proxy_url": "https://media.discordapp.net/attachments/1412271921369710725/1491476553098330235/image.png?ex=6a0f3448&is=6a0de2c8&hm=18658a33abac542c9f4e12c2d98f9042e8f1e02a0e9467a6f67da73a29059645&",
+        "width": 1246,
+        "height": 354,
+        "content_type": "image/png",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "ivcFAoBfmaiPpmiHnb3vmvk=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2026-04-08T16:35:20.634000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1491476553438335018",
+    "channel_id": "1412271921369710725",
+    "author": {
+      "id": "522122149939642388",
+      "username": "sgola",
+      "avatar": "127e81740ce87414f3deb52308f86303",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Sopol",
+      "avatar_decoration_data": {
+        "asset": "a_1005898c6acf56a9ac5010baf444f6fd",
+        "sku_id": "1256321669467865088",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712078848180",
+          "asset": "nameplates/nameplates_v2/glitch/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_GLITCH_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 19
+  }
+]

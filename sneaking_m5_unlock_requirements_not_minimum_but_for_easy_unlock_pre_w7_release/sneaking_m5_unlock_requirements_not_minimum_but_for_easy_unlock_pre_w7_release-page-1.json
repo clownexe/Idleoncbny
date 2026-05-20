@@ -1,0 +1,1826 @@
+[
+  {
+    "type": 0,
+    "content": "I will outline how I reached M5, please note this is not the minimum requirements but it serves to give you a goalpost to aim for that can garuntee an easy unlock. ** You don't need fractal (nothing hour) sneaking upgrade to reach M5**",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1429409126496338040",
+        "filename": "20251019105934_1.jpg",
+        "size": 52869,
+        "url": "https://cdn.discordapp.com/attachments/1429409125892227082/1429409126496338040/20251019105934_1.jpg?ex=6a0ed7fc&is=6a0d867c&hm=f415e300dedb916e7a178b917306cd5fdbc53d89dad1033d356479f24d7514c1&",
+        "proxy_url": "https://media.discordapp.net/attachments/1429409125892227082/1429409126496338040/20251019105934_1.jpg?ex=6a0ed7fc&is=6a0d867c&hm=f415e300dedb916e7a178b917306cd5fdbc53d89dad1033d356479f24d7514c1&",
+        "width": 438,
+        "height": 208,
+        "content_type": "image/jpeg",
+        "original_content_type": "image/jpeg",
+        "content_scan_version": 4,
+        "placeholder": "k/cFE4IIZmmbdziIKoeQYgg=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2025-10-19T10:01:32.750000+00:00",
+    "edited_timestamp": "2025-10-19T10:16:48.183000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1429409125892227082",
+    "channel_id": "1429409125892227082",
+    "author": {
+      "id": "311155561385164810",
+      "username": "lolgod",
+      "avatar": "1b96b9c55e9deb6ca10f34a2b0640133",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Lolgod",
+      "avatar_decoration_data": {
+        "asset": "a_c3cffc19e9784f7d0b005eecdf1b566e",
+        "sku_id": "1212569433839636530",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "778221489974673410",
+        "identity_enabled": true,
+        "tag": "BORB",
+        "badge": "07c56bddb376d1d563d075d672f3d590"
+      },
+      "primary_guild": {
+        "identity_guild_id": "778221489974673410",
+        "identity_enabled": true,
+        "tag": "BORB",
+        "badge": "07c56bddb376d1d563d075d672f3d590"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 11,
+        "count_details": {
+          "burst": 0,
+          "normal": 11
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "This is my toon setup and inventory with gcharm levels",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1429409509696344126",
+        "filename": "20251019115106_1.jpg",
+        "size": 248828,
+        "url": "https://cdn.discordapp.com/attachments/1429409125892227082/1429409509696344126/20251019115106_1.jpg?ex=6a0ed858&is=6a0d86d8&hm=21f988f45f74861d02b82100f745831962111481da970c1a080bc832e9b981d9&",
+        "proxy_url": "https://media.discordapp.net/attachments/1429409125892227082/1429409509696344126/20251019115106_1.jpg?ex=6a0ed858&is=6a0d86d8&hm=21f988f45f74861d02b82100f745831962111481da970c1a080bc832e9b981d9&",
+        "width": 960,
+        "height": 572,
+        "content_type": "image/jpeg",
+        "original_content_type": "image/jpeg",
+        "content_scan_version": 4,
+        "placeholder": "VBgGDIKXqXqBd4lvdoJ4dVAFFg==",
+        "placeholder_version": 1
+      },
+      {
+        "id": "1429409510023233586",
+        "filename": "image.png",
+        "size": 75833,
+        "url": "https://cdn.discordapp.com/attachments/1429409125892227082/1429409510023233586/image.png?ex=6a0ed858&is=6a0d86d8&hm=f7f3683022f0c5d6916e8b3607804711172543234f9d0156f917886231c7b9d2&",
+        "proxy_url": "https://media.discordapp.net/attachments/1429409125892227082/1429409510023233586/image.png?ex=6a0ed858&is=6a0d86d8&hm=f7f3683022f0c5d6916e8b3607804711172543234f9d0156f917886231c7b9d2&",
+        "width": 654,
+        "height": 666,
+        "content_type": "image/png",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "ifcBBwBM3opqeYigdoSW5mmFnwn4gpAJ",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2025-10-19T10:03:04.414000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1429409510359044257",
+    "channel_id": "1429409125892227082",
+    "author": {
+      "id": "311155561385164810",
+      "username": "lolgod",
+      "avatar": "1b96b9c55e9deb6ca10f34a2b0640133",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Lolgod",
+      "avatar_decoration_data": {
+        "asset": "a_c3cffc19e9784f7d0b005eecdf1b566e",
+        "sku_id": "1212569433839636530",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "778221489974673410",
+        "identity_enabled": true,
+        "tag": "BORB",
+        "badge": "07c56bddb376d1d563d075d672f3d590"
+      },
+      "primary_guild": {
+        "identity_guild_id": "778221489974673410",
+        "identity_enabled": true,
+        "tag": "BORB",
+        "badge": "07c56bddb376d1d563d075d672f3d590"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "🌀"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "Here you can see my upgrade levels and gem count and percentages",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1429409719188979772",
+        "filename": "20251019120312_1.jpg",
+        "size": 205892,
+        "url": "https://cdn.discordapp.com/attachments/1429409125892227082/1429409719188979772/20251019120312_1.jpg?ex=6a0ed88a&is=6a0d870a&hm=240f64b632853cd838cc6d23ca3d957f63c20184dd9e8728bb19c0dcb45c0bcf&",
+        "proxy_url": "https://media.discordapp.net/attachments/1429409125892227082/1429409719188979772/20251019120312_1.jpg?ex=6a0ed88a&is=6a0d870a&hm=240f64b632853cd838cc6d23ca3d957f63c20184dd9e8728bb19c0dcb45c0bcf&",
+        "width": 960,
+        "height": 572,
+        "content_type": "image/jpeg",
+        "original_content_type": "image/jpeg",
+        "content_scan_version": 4,
+        "placeholder": "VggKDIKIiHeQh3h8eHmGlEAmCg==",
+        "placeholder_version": 1
+      },
+      {
+        "id": "1429409719541305414",
+        "filename": "20251019120316_1.jpg",
+        "size": 222462,
+        "url": "https://cdn.discordapp.com/attachments/1429409125892227082/1429409719541305414/20251019120316_1.jpg?ex=6a0ed88a&is=6a0d870a&hm=eae8315ee1d8a27114beb84bc85712a88b63457dfebf626b065574b283e13dcb&",
+        "proxy_url": "https://media.discordapp.net/attachments/1429409125892227082/1429409719541305414/20251019120316_1.jpg?ex=6a0ed88a&is=6a0d870a&hm=eae8315ee1d8a27114beb84bc85712a88b63457dfebf626b065574b283e13dcb&",
+        "width": 960,
+        "height": 572,
+        "content_type": "image/jpeg",
+        "original_content_type": "image/jpeg",
+        "content_scan_version": 4,
+        "placeholder": "VQgKDIKYiHeQh3h8d3mWkzAmCQ==",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2025-10-19T10:03:54.357000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1429409719835168798",
+    "channel_id": "1429409125892227082",
+    "author": {
+      "id": "311155561385164810",
+      "username": "lolgod",
+      "avatar": "1b96b9c55e9deb6ca10f34a2b0640133",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Lolgod",
+      "avatar_decoration_data": {
+        "asset": "a_c3cffc19e9784f7d0b005eecdf1b566e",
+        "sku_id": "1212569433839636530",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "778221489974673410",
+        "identity_enabled": true,
+        "tag": "BORB",
+        "badge": "07c56bddb376d1d563d075d672f3d590"
+      },
+      "primary_guild": {
+        "identity_guild_id": "778221489974673410",
+        "identity_enabled": true,
+        "tag": "BORB",
+        "badge": "07c56bddb376d1d563d075d672f3d590"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 1
+  },
+  {
+    "type": 0,
+    "content": "This is my final stealth total (I had 100% detection chance) and I had e50 damage",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1429409866421895168",
+        "filename": "20251019115424_1.jpg",
+        "size": 16532,
+        "url": "https://cdn.discordapp.com/attachments/1429409125892227082/1429409866421895168/20251019115424_1.jpg?ex=6a0ed8ad&is=6a0d872d&hm=b699934cafb1d06dfcab6fe16a8b712a6ebcba3632b315cd75923a0910003759&",
+        "proxy_url": "https://media.discordapp.net/attachments/1429409125892227082/1429409866421895168/20251019115424_1.jpg?ex=6a0ed8ad&is=6a0d872d&hm=b699934cafb1d06dfcab6fe16a8b712a6ebcba3632b315cd75923a0910003759&",
+        "width": 218,
+        "height": 112,
+        "content_type": "image/jpeg",
+        "original_content_type": "image/jpeg",
+        "content_scan_version": 4,
+        "placeholder": "z+YFDIB/Z3iXaYlph2copC+C9g==",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2025-10-19T10:04:29.360000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1429409866648256544",
+    "channel_id": "1429409125892227082",
+    "author": {
+      "id": "311155561385164810",
+      "username": "lolgod",
+      "avatar": "1b96b9c55e9deb6ca10f34a2b0640133",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Lolgod",
+      "avatar_decoration_data": {
+        "asset": "a_c3cffc19e9784f7d0b005eecdf1b566e",
+        "sku_id": "1212569433839636530",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "778221489974673410",
+        "identity_enabled": true,
+        "tag": "BORB",
+        "badge": "07c56bddb376d1d563d075d672f3d590"
+      },
+      "primary_guild": {
+        "identity_guild_id": "778221489974673410",
+        "identity_enabled": true,
+        "tag": "BORB",
+        "badge": "07c56bddb376d1d563d075d672f3d590"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 2
+  },
+  {
+    "type": 0,
+    "content": "**As for buffs outside of sneaking:**",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-10-19T10:05:39.556000+00:00",
+    "edited_timestamp": "2025-10-19T10:05:49.601000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1429410161071489044",
+    "channel_id": "1429409125892227082",
+    "author": {
+      "id": "311155561385164810",
+      "username": "lolgod",
+      "avatar": "1b96b9c55e9deb6ca10f34a2b0640133",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Lolgod",
+      "avatar_decoration_data": {
+        "asset": "a_c3cffc19e9784f7d0b005eecdf1b566e",
+        "sku_id": "1212569433839636530",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "778221489974673410",
+        "identity_enabled": true,
+        "tag": "BORB",
+        "badge": "07c56bddb376d1d563d075d672f3d590"
+      },
+      "primary_guild": {
+        "identity_guild_id": "778221489974673410",
+        "identity_enabled": true,
+        "tag": "BORB",
+        "badge": "07c56bddb376d1d563d075d672f3d590"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 3
+  },
+  {
+    "type": 0,
+    "content": "Moon of Sneak lvl 250 (WW Compass Upgrade)\n\nFarming level 466 with R11 landrank for seed of stealth\n\nHole schematic with 13 QQ quavers\n\nStealth Chapter bubble at 98% effectiveness or level 2655, with 30k tome score (Green bubble 30 last w6 one)\n\nHinge Buster Bubble 95% or lvl 1335 (Yellow bubble 28)\n\nAll my WW talents at 451 for sneaking",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1429412121157963856",
+        "filename": "image.png",
+        "size": 17492,
+        "url": "https://cdn.discordapp.com/attachments/1429409125892227082/1429412121157963856/image.png?ex=6a0edac6&is=6a0d8946&hm=a95626b6a4135922477fcd72de2b0cd1ba0c0bdca197059fdfdc55ecbf70d961&",
+        "proxy_url": "https://media.discordapp.net/attachments/1429409125892227082/1429412121157963856/image.png?ex=6a0edac6&is=6a0d8946&hm=a95626b6a4135922477fcd72de2b0cd1ba0c0bdca197059fdfdc55ecbf70d961&",
+        "width": 304,
+        "height": 241,
+        "content_type": "image/png",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "jPcBBoA/VkZ9p3dxiBmIJ4hoOZ+VsDY=",
+        "placeholder_version": 1
+      },
+      {
+        "id": "1429412121740836884",
+        "filename": "20251019120636_1.jpg",
+        "size": 66598,
+        "url": "https://cdn.discordapp.com/attachments/1429409125892227082/1429412121740836884/20251019120636_1.jpg?ex=6a0edac7&is=6a0d8947&hm=e2ae925334fed6a03e46cd4e4168db689ebcc6db34e3629c2244b45925b7d9d9&",
+        "proxy_url": "https://media.discordapp.net/attachments/1429409125892227082/1429412121740836884/20251019120636_1.jpg?ex=6a0edac7&is=6a0d8947&hm=e2ae925334fed6a03e46cd4e4168db689ebcc6db34e3629c2244b45925b7d9d9&",
+        "width": 262,
+        "height": 329,
+        "content_type": "image/jpeg",
+        "original_content_type": "image/jpeg",
+        "content_scan_version": 4,
+        "placeholder": "WlkGFgImWOiYdwd3d4t4g5mXl32Qr3g=",
+        "placeholder_version": 1
+      },
+      {
+        "id": "1429412122269581312",
+        "filename": "image.png",
+        "size": 15344,
+        "url": "https://cdn.discordapp.com/attachments/1429409125892227082/1429412122269581312/image.png?ex=6a0edac7&is=6a0d8947&hm=056e036a8a4c729d92589f4d0b809bc03d6b5200e03d4aa6305820e7144551a4&",
+        "proxy_url": "https://media.discordapp.net/attachments/1429409125892227082/1429412122269581312/image.png?ex=6a0edac7&is=6a0d8947&hm=056e036a8a4c729d92589f4d0b809bc03d6b5200e03d4aa6305820e7144551a4&",
+        "width": 331,
+        "height": 203,
+        "content_type": "image/png",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "jOcFBIBbeGeJd3dgeYgyAABjRQ==",
+        "placeholder_version": 1
+      },
+      {
+        "id": "1429412123158773950",
+        "filename": "image.png",
+        "size": 19081,
+        "url": "https://cdn.discordapp.com/attachments/1429409125892227082/1429412123158773950/image.png?ex=6a0edac7&is=6a0d8947&hm=6ceb2bf5da806c8688f1a0b90c961e382170a07488d0510f08b7f69eecb1b04d&",
+        "proxy_url": "https://media.discordapp.net/attachments/1429409125892227082/1429412123158773950/image.png?ex=6a0edac7&is=6a0d8947&hm=6ceb2bf5da806c8688f1a0b90c961e382170a07488d0510f08b7f69eecb1b04d&",
+        "width": 258,
+        "height": 231,
+        "content_type": "image/png",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "jPcBBoBPV4qZiHeGeReJZJecf4P1eiU=",
+        "placeholder_version": 1
+      },
+      {
+        "id": "1429412123519356988",
+        "filename": "image.png",
+        "size": 17353,
+        "url": "https://cdn.discordapp.com/attachments/1429409125892227082/1429412123519356988/image.png?ex=6a0edac7&is=6a0d8947&hm=bd92add4ff25724b912db5e728fc4c1e41a8a58203365cedbe363a6aa85b6166&",
+        "proxy_url": "https://media.discordapp.net/attachments/1429409125892227082/1429412123519356988/image.png?ex=6a0edac7&is=6a0d8947&hm=bd92add4ff25724b912db5e728fc4c1e41a8a58203365cedbe363a6aa85b6166&",
+        "width": 258,
+        "height": 231,
+        "content_type": "image/png",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "jPcBBoB/doqaeHaWmkeKJYh3jYfwjTY=",
+        "placeholder_version": 1
+      },
+      {
+        "id": "1429412123913752597",
+        "filename": "20251019120508_1.jpg",
+        "size": 14068,
+        "url": "https://cdn.discordapp.com/attachments/1429409125892227082/1429412123913752597/20251019120508_1.jpg?ex=6a0edac7&is=6a0d8947&hm=30fa5d0d6e6969cd0b1fcb345a73498378037b3f639fc52fc4bc64397de9942c&",
+        "proxy_url": "https://media.discordapp.net/attachments/1429409125892227082/1429412123913752597/20251019120508_1.jpg?ex=6a0edac7&is=6a0d8947&hm=30fa5d0d6e6969cd0b1fcb345a73498378037b3f639fc52fc4bc64397de9942c&",
+        "width": 192,
+        "height": 78,
+        "content_type": "image/jpeg",
+        "original_content_type": "image/jpeg",
+        "content_scan_version": 4,
+        "placeholder": "5QgGG4Qk9RlkdumI+HJvffY=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2025-10-19T10:13:27.585000+00:00",
+    "edited_timestamp": "2025-10-19T10:15:44.495000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1429412124127658146",
+    "channel_id": "1429409125892227082",
+    "author": {
+      "id": "311155561385164810",
+      "username": "lolgod",
+      "avatar": "1b96b9c55e9deb6ca10f34a2b0640133",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Lolgod",
+      "avatar_decoration_data": {
+        "asset": "a_c3cffc19e9784f7d0b005eecdf1b566e",
+        "sku_id": "1212569433839636530",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "778221489974673410",
+        "identity_enabled": true,
+        "tag": "BORB",
+        "badge": "07c56bddb376d1d563d075d672f3d590"
+      },
+      "primary_guild": {
+        "identity_guild_id": "778221489974673410",
+        "identity_enabled": true,
+        "tag": "BORB",
+        "badge": "07c56bddb376d1d563d075d672f3d590"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 4
+  },
+  {
+    "type": 0,
+    "content": "Additional Lesser Buffs:\n\n205 Crop Depot giving 4600% jade joins (Farming)\n\n4.9x stealth multi from emperor 60 (W6 boss)",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1429412536536666122",
+        "filename": "image.png",
+        "size": 7155,
+        "url": "https://cdn.discordapp.com/attachments/1429409125892227082/1429412536536666122/image.png?ex=6a0edb29&is=6a0d89a9&hm=6d2b7096cbf228ef0abed07e44eef0bd8a37c0f9800facecb4c0cbc56f2a4997&",
+        "proxy_url": "https://media.discordapp.net/attachments/1429409125892227082/1429412536536666122/image.png?ex=6a0edb29&is=6a0d89a9&hm=6d2b7096cbf228ef0abed07e44eef0bd8a37c0f9800facecb4c0cbc56f2a4997&",
+        "width": 427,
+        "height": 90,
+        "content_type": "image/png",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "ivcFAYB3eIeHeAeI96Rqffk=",
+        "placeholder_version": 1
+      },
+      {
+        "id": "1429412536964616352",
+        "filename": "image.png",
+        "size": 7729,
+        "url": "https://cdn.discordapp.com/attachments/1429409125892227082/1429412536964616352/image.png?ex=6a0edb2a&is=6a0d89aa&hm=e788bb2726ea60706d658f2520272960a0673b838733fca941cc116e1c6f7d20&",
+        "proxy_url": "https://media.discordapp.net/attachments/1429409125892227082/1429412536964616352/image.png?ex=6a0edb2a&is=6a0d89aa&hm=e788bb2726ea60706d658f2520272960a0673b838733fca941cc116e1c6f7d20&",
+        "width": 288,
+        "height": 138,
+        "content_type": "image/png",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "i+cBA4BfVVWXeUlmX1Gv/V8=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2025-10-19T10:15:06.090000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1429412537287573586",
+    "channel_id": "1429409125892227082",
+    "author": {
+      "id": "311155561385164810",
+      "username": "lolgod",
+      "avatar": "1b96b9c55e9deb6ca10f34a2b0640133",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Lolgod",
+      "avatar_decoration_data": {
+        "asset": "a_c3cffc19e9784f7d0b005eecdf1b566e",
+        "sku_id": "1212569433839636530",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "778221489974673410",
+        "identity_enabled": true,
+        "tag": "BORB",
+        "badge": "07c56bddb376d1d563d075d672f3d590"
+      },
+      "primary_guild": {
+        "identity_guild_id": "778221489974673410",
+        "identity_enabled": true,
+        "tag": "BORB",
+        "badge": "07c56bddb376d1d563d075d672f3d590"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 5
+  },
+  {
+    "type": 0,
+    "content": "And lastly please remember:\n\n\n** You don't need fractal (nothing hour) sneaking upgrade to reach M5**",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-10-19T10:17:10.342000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1429413058438238363",
+    "channel_id": "1429409125892227082",
+    "author": {
+      "id": "311155561385164810",
+      "username": "lolgod",
+      "avatar": "1b96b9c55e9deb6ca10f34a2b0640133",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Lolgod",
+      "avatar_decoration_data": {
+        "asset": "a_c3cffc19e9784f7d0b005eecdf1b566e",
+        "sku_id": "1212569433839636530",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "778221489974673410",
+        "identity_enabled": true,
+        "tag": "BORB",
+        "badge": "07c56bddb376d1d563d075d672f3d590"
+      },
+      "primary_guild": {
+        "identity_guild_id": "778221489974673410",
+        "identity_enabled": true,
+        "tag": "BORB",
+        "badge": "07c56bddb376d1d563d075d672f3d590"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 6
+  },
+  {
+    "type": 0,
+    "content": "I am pretty sure you're way too overprepared, I pushed with much less stats and still cleared it under a month <:Grumblo_Pray:1114306970816630876> e31 stealth and a nunchuk that can 1 shot the last door (1290+ m4f6 chuk) is all you need",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-10-20T12:17:42.216000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1429805778981879809",
+    "channel_id": "1429409125892227082",
+    "author": {
+      "id": "1127838186090012682",
+      "username": "user_jy.json",
+      "avatar": "77e6517b58fe1d8d3c34c56fde86228e",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "This is my Username",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 7
+  },
+  {
+    "type": 0,
+    "content": "I started my grind yesterday at about 5e31 across three pushers, who each could one shot the door (1300ish m4f6 chuks).  I was expecting this to take weeks, and would gradually improve stealth through emperor battles, farming levels, and statue levels, but ~36 hours was all it took.\nI have no idea how lucky I was, or if I even was lucky.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-10-21T23:11:23.588000+00:00",
+    "edited_timestamp": "2025-10-21T23:12:50.985000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1430332673204813906",
+    "channel_id": "1429409125892227082",
+    "author": {
+      "id": "854516068240719912",
+      "username": "duckf1n",
+      "avatar": null,
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "duckfin",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 8
+  },
+  {
+    "type": 19,
+    "content": "Yeah the odds seem very favourable to us a 1 in 1000 chance which would display as 100% detection, would take on average 2000 mins, which is 33 hours, if you had slower or faster action speed and depending on your respawn time etc, this can double or 4x. So yeah you got pretty lucky but it seems like we all get carried in sneaking xD",
+    "mentions": [
+      {
+        "id": "854516068240719912",
+        "username": "duckf1n",
+        "avatar": null,
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "duckfin",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-10-22T07:03:51.982000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1430451574987034636",
+    "channel_id": "1429409125892227082",
+    "author": {
+      "id": "311155561385164810",
+      "username": "lolgod",
+      "avatar": "1b96b9c55e9deb6ca10f34a2b0640133",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Lolgod",
+      "avatar_decoration_data": {
+        "asset": "a_c3cffc19e9784f7d0b005eecdf1b566e",
+        "sku_id": "1212569433839636530",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "778221489974673410",
+        "identity_enabled": true,
+        "tag": "BORB",
+        "badge": "07c56bddb376d1d563d075d672f3d590"
+      },
+      "primary_guild": {
+        "identity_guild_id": "778221489974673410",
+        "identity_enabled": true,
+        "tag": "BORB",
+        "badge": "07c56bddb376d1d563d075d672f3d590"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1429409125892227082",
+      "message_id": "1430332673204813906",
+      "guild_id": "437797104786604034"
+    },
+    "position": 9,
+    "referenced_message": {
+      "type": 0,
+      "content": "I started my grind yesterday at about 5e31 across three pushers, who each could one shot the door (1300ish m4f6 chuks).  I was expecting this to take weeks, and would gradually improve stealth through emperor battles, farming levels, and statue levels, but ~36 hours was all it took.\nI have no idea how lucky I was, or if I even was lucky.",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-10-21T23:11:23.588000+00:00",
+      "edited_timestamp": "2025-10-21T23:12:50.985000+00:00",
+      "flags": 0,
+      "components": [],
+      "id": "1430332673204813906",
+      "channel_id": "1429409125892227082",
+      "author": {
+        "id": "854516068240719912",
+        "username": "duckf1n",
+        "avatar": null,
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "duckfin",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 8
+    }
+  },
+  {
+    "type": 0,
+    "content": "still got 100% detection rate though...",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1430543565829963947",
+        "filename": "image.png",
+        "size": 79511,
+        "url": "https://cdn.discordapp.com/attachments/1429409125892227082/1430543565829963947/image.png?ex=6a0f0404&is=6a0db284&hm=de9cb2faa8d91ab81c8fb1267a8f5408527d955299c50146a28e315b31361951&",
+        "proxy_url": "https://media.discordapp.net/attachments/1429409125892227082/1430543565829963947/image.png?ex=6a0f0404&is=6a0db284&hm=de9cb2faa8d91ab81c8fb1267a8f5408527d955299c50146a28e315b31361951&",
+        "width": 397,
+        "height": 251,
+        "content_type": "image/png",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "VOYFDIBraEieaIiAeWuIkFwZ9g==",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2025-10-22T13:09:24.383000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1430543566144278538",
+    "channel_id": "1429409125892227082",
+    "author": {
+      "id": "814598352397795389",
+      "username": "flexia0",
+      "avatar": null,
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "JFK",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 10
+  },
+  {
+    "type": 0,
+    "content": "If you have an action rate, you have a chance to do an action",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-10-22T14:10:48.851000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1430559019923407031",
+    "channel_id": "1429409125892227082",
+    "author": {
+      "id": "1127838186090012682",
+      "username": "user_jy.json",
+      "avatar": "77e6517b58fe1d8d3c34c56fde86228e",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "This is my Username",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 11
+  },
+  {
+    "type": 19,
+    "content": "yes you will have 100%, but its not real. Its just rounding, leave it for a day or too and your charcters will break it. But also you are 800 sneakign I assum you already are M5?",
+    "mentions": [
+      {
+        "id": "814598352397795389",
+        "username": "flexia0",
+        "avatar": null,
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "JFK",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-10-22T19:59:39.331000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1430646808719392899",
+    "channel_id": "1429409125892227082",
+    "author": {
+      "id": "311155561385164810",
+      "username": "lolgod",
+      "avatar": "1b96b9c55e9deb6ca10f34a2b0640133",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Lolgod",
+      "avatar_decoration_data": {
+        "asset": "a_c3cffc19e9784f7d0b005eecdf1b566e",
+        "sku_id": "1212569433839636530",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "778221489974673410",
+        "identity_enabled": true,
+        "tag": "BORB",
+        "badge": "07c56bddb376d1d563d075d672f3d590"
+      },
+      "primary_guild": {
+        "identity_guild_id": "778221489974673410",
+        "identity_enabled": true,
+        "tag": "BORB",
+        "badge": "07c56bddb376d1d563d075d672f3d590"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1429409125892227082",
+      "message_id": "1430543566144278538",
+      "guild_id": "437797104786604034"
+    },
+    "position": 12,
+    "referenced_message": {
+      "type": 0,
+      "content": "still got 100% detection rate though...",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [
+        {
+          "id": "1430543565829963947",
+          "filename": "image.png",
+          "size": 79511,
+          "url": "https://cdn.discordapp.com/attachments/1429409125892227082/1430543565829963947/image.png?ex=6a0f0404&is=6a0db284&hm=de9cb2faa8d91ab81c8fb1267a8f5408527d955299c50146a28e315b31361951&",
+          "proxy_url": "https://media.discordapp.net/attachments/1429409125892227082/1430543565829963947/image.png?ex=6a0f0404&is=6a0db284&hm=de9cb2faa8d91ab81c8fb1267a8f5408527d955299c50146a28e315b31361951&",
+          "width": 397,
+          "height": 251,
+          "content_type": "image/png",
+          "original_content_type": "image/png",
+          "content_scan_version": 4,
+          "placeholder": "VOYFDIBraEieaIiAeWuIkFwZ9g==",
+          "placeholder_version": 1
+        }
+      ],
+      "embeds": [],
+      "timestamp": "2025-10-22T13:09:24.383000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1430543566144278538",
+      "channel_id": "1429409125892227082",
+      "author": {
+        "id": "814598352397795389",
+        "username": "flexia0",
+        "avatar": null,
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "JFK",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 10
+    }
+  },
+  {
+    "type": 0,
+    "content": "So the idea is to have pushers with scarf and necklace and the rest with lotuses?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-10-23T04:39:45.715000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1430777697780502610",
+    "channel_id": "1429409125892227082",
+    "author": {
+      "id": "247046852099309568",
+      "username": "sylvan_ae",
+      "avatar": null,
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Sylvan",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 13,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "1101692875248521366",
+          "name": "grumblo_thumbsup"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 19,
+    "content": "I am today, took a few hours. I thought it was impossible previously so I didn't even try and camped at f9. So thank you for the guide to let me know that.",
+    "mentions": [
+      {
+        "id": "311155561385164810",
+        "username": "lolgod",
+        "avatar": "1b96b9c55e9deb6ca10f34a2b0640133",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Lolgod",
+        "avatar_decoration_data": {
+          "asset": "a_c3cffc19e9784f7d0b005eecdf1b566e",
+          "sku_id": "1212569433839636530",
+          "expires_at": null
+        },
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "778221489974673410",
+          "identity_enabled": true,
+          "tag": "BORB",
+          "badge": "07c56bddb376d1d563d075d672f3d590"
+        },
+        "primary_guild": {
+          "identity_guild_id": "778221489974673410",
+          "identity_enabled": true,
+          "tag": "BORB",
+          "badge": "07c56bddb376d1d563d075d672f3d590"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-10-23T07:46:44.325000+00:00",
+    "edited_timestamp": "2025-10-23T12:24:48.378000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1430824752041431123",
+    "channel_id": "1429409125892227082",
+    "author": {
+      "id": "814598352397795389",
+      "username": "flexia0",
+      "avatar": null,
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "JFK",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1429409125892227082",
+      "message_id": "1430646808719392899",
+      "guild_id": "437797104786604034"
+    },
+    "position": 14,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "❤️"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ],
+    "referenced_message": {
+      "type": 19,
+      "content": "yes you will have 100%, but its not real. Its just rounding, leave it for a day or too and your charcters will break it. But also you are 800 sneakign I assum you already are M5?",
+      "mentions": [
+        {
+          "id": "814598352397795389",
+          "username": "flexia0",
+          "avatar": null,
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "JFK",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-10-22T19:59:39.331000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1430646808719392899",
+      "channel_id": "1429409125892227082",
+      "author": {
+        "id": "311155561385164810",
+        "username": "lolgod",
+        "avatar": "1b96b9c55e9deb6ca10f34a2b0640133",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Lolgod",
+        "avatar_decoration_data": {
+          "asset": "a_c3cffc19e9784f7d0b005eecdf1b566e",
+          "sku_id": "1212569433839636530",
+          "expires_at": null
+        },
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "778221489974673410",
+          "identity_enabled": true,
+          "tag": "BORB",
+          "badge": "07c56bddb376d1d563d075d672f3d590"
+        },
+        "primary_guild": {
+          "identity_guild_id": "778221489974673410",
+          "identity_enabled": true,
+          "tag": "BORB",
+          "badge": "07c56bddb376d1d563d075d672f3d590"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1429409125892227082",
+        "message_id": "1430543566144278538",
+        "guild_id": "437797104786604034"
+      },
+      "position": 12
+    }
+  },
+  {
+    "type": 0,
+    "content": "Thank you so much this was very useful for me!",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-10-27T11:22:09.780000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1432328516791435354",
+    "channel_id": "1429409125892227082",
+    "author": {
+      "id": "1367279827190677587",
+      "username": "adddddddty_23958",
+      "avatar": "3f71d5cb4174148b20281cd87574c5c6",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "OD",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 15
+  },
+  {
+    "type": 0,
+    "content": "How should the symbols be done correctly? , golden charm",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1453549839198585075",
+        "filename": "IMG_20251225_014147.jpg",
+        "size": 13612,
+        "url": "https://cdn.discordapp.com/attachments/1429409125892227082/1453549839198585075/IMG_20251225_014147.jpg?ex=6a0eff07&is=6a0dad87&hm=76b8b8ce3f071cee4f70599120e5cc78afc6dd584262c8e41c155bf8d08a9331&",
+        "proxy_url": "https://media.discordapp.net/attachments/1429409125892227082/1453549839198585075/IMG_20251225_014147.jpg?ex=6a0eff07&is=6a0dad87&hm=76b8b8ce3f071cee4f70599120e5cc78afc6dd584262c8e41c155bf8d08a9331&",
+        "width": 485,
+        "height": 144,
+        "content_type": "image/jpeg",
+        "content_scan_version": 4,
+        "placeholder": "kCgGCoCXp4eSiPh3iqT/sfo=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2025-12-25T00:48:07.274000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1453549839026487358",
+    "channel_id": "1429409125892227082",
+    "author": {
+      "id": "808703866148880427",
+      "username": "hans_46",
+      "avatar": "39d8ee1ed4908db4fc59025dfc3a048f",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "STEINST0N3",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 16
+  },
+  {
+    "type": 19,
+    "content": "M5 was reachable before charms slots (symbols), so realistically speaking you can do it anyway and it will be easier",
+    "mentions": [
+      {
+        "id": "808703866148880427",
+        "username": "hans_46",
+        "avatar": "39d8ee1ed4908db4fc59025dfc3a048f",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "STEINST0N3",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-25T08:33:08.362000+00:00",
+    "edited_timestamp": "2025-12-25T08:33:17.923000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1453666864671494176",
+    "channel_id": "1429409125892227082",
+    "author": {
+      "id": "311155561385164810",
+      "username": "lolgod",
+      "avatar": "1b96b9c55e9deb6ca10f34a2b0640133",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Lolgod",
+      "avatar_decoration_data": {
+        "asset": "a_c3cffc19e9784f7d0b005eecdf1b566e",
+        "sku_id": "1212569433839636530",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "778221489974673410",
+        "identity_enabled": true,
+        "tag": "BORB",
+        "badge": "07c56bddb376d1d563d075d672f3d590"
+      },
+      "primary_guild": {
+        "identity_guild_id": "778221489974673410",
+        "identity_enabled": true,
+        "tag": "BORB",
+        "badge": "07c56bddb376d1d563d075d672f3d590"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1429409125892227082",
+      "message_id": "1453549839026487358",
+      "guild_id": "437797104786604034"
+    },
+    "position": 17,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ],
+    "referenced_message": {
+      "type": 0,
+      "content": "How should the symbols be done correctly? , golden charm",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [
+        {
+          "id": "1453549839198585075",
+          "filename": "IMG_20251225_014147.jpg",
+          "size": 13612,
+          "url": "https://cdn.discordapp.com/attachments/1429409125892227082/1453549839198585075/IMG_20251225_014147.jpg?ex=6a0eff07&is=6a0dad87&hm=76b8b8ce3f071cee4f70599120e5cc78afc6dd584262c8e41c155bf8d08a9331&",
+          "proxy_url": "https://media.discordapp.net/attachments/1429409125892227082/1453549839198585075/IMG_20251225_014147.jpg?ex=6a0eff07&is=6a0dad87&hm=76b8b8ce3f071cee4f70599120e5cc78afc6dd584262c8e41c155bf8d08a9331&",
+          "width": 485,
+          "height": 144,
+          "content_type": "image/jpeg",
+          "content_scan_version": 4,
+          "placeholder": "kCgGCoCXp4eSiPh3iqT/sfo=",
+          "placeholder_version": 1
+        }
+      ],
+      "embeds": [],
+      "timestamp": "2025-12-25T00:48:07.274000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1453549839026487358",
+      "channel_id": "1429409125892227082",
+      "author": {
+        "id": "808703866148880427",
+        "username": "hans_46",
+        "avatar": "39d8ee1ed4908db4fc59025dfc3a048f",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "STEINST0N3",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 16
+    }
+  },
+  {
+    "type": 0,
+    "content": "",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1453666879464804495",
+        "filename": "20251225103203_1.jpg",
+        "size": 38692,
+        "url": "https://cdn.discordapp.com/attachments/1429409125892227082/1453666879464804495/20251225103203_1.jpg?ex=6a0f6c07&is=6a0e1a87&hm=32fbc0e9f6b49be78d5d2999c86a1f3d9b166a3ec663edccac85c22182d06941&",
+        "proxy_url": "https://media.discordapp.net/attachments/1429409125892227082/1453666879464804495/20251225103203_1.jpg?ex=6a0f6c07&is=6a0e1a87&hm=32fbc0e9f6b49be78d5d2999c86a1f3d9b166a3ec663edccac85c22182d06941&",
+        "width": 671,
+        "height": 76,
+        "content_type": "image/jpeg",
+        "original_content_type": "image/jpeg",
+        "content_scan_version": 4,
+        "placeholder": "lggKEYSIhoqPdzd4oIMRClg=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2025-12-25T08:33:11.961000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1453666879766925459",
+    "channel_id": "1429409125892227082",
+    "author": {
+      "id": "311155561385164810",
+      "username": "lolgod",
+      "avatar": "1b96b9c55e9deb6ca10f34a2b0640133",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Lolgod",
+      "avatar_decoration_data": {
+        "asset": "a_c3cffc19e9784f7d0b005eecdf1b566e",
+        "sku_id": "1212569433839636530",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "778221489974673410",
+        "identity_enabled": true,
+        "tag": "BORB",
+        "badge": "07c56bddb376d1d563d075d672f3d590"
+      },
+      "primary_guild": {
+        "identity_guild_id": "778221489974673410",
+        "identity_enabled": true,
+        "tag": "BORB",
+        "badge": "07c56bddb376d1d563d075d672f3d590"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 18
+  },
+  {
+    "type": 0,
+    "content": "This is my layout for pushing, if I was farming new charms or items I switch the golden ninja star into the highest slot and put the scroll in the 2nf highest slot and then put the damage damage (sai) into the lowest as you dont need damage when charm farming",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-25T08:34:45.790000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1453667273314275359",
+    "channel_id": "1429409125892227082",
+    "author": {
+      "id": "311155561385164810",
+      "username": "lolgod",
+      "avatar": "1b96b9c55e9deb6ca10f34a2b0640133",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Lolgod",
+      "avatar_decoration_data": {
+        "asset": "a_c3cffc19e9784f7d0b005eecdf1b566e",
+        "sku_id": "1212569433839636530",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "778221489974673410",
+        "identity_enabled": true,
+        "tag": "BORB",
+        "badge": "07c56bddb376d1d563d075d672f3d590"
+      },
+      "primary_guild": {
+        "identity_guild_id": "778221489974673410",
+        "identity_enabled": true,
+        "tag": "BORB",
+        "badge": "07c56bddb376d1d563d075d672f3d590"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 19
+  },
+  {
+    "type": 0,
+    "content": "rift\\",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-03-29T17:54:21.075000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1487872557632983192",
+    "channel_id": "1429409125892227082",
+    "author": {
+      "id": "693785581121044542",
+      "username": "mr.gofer_",
+      "avatar": "e8ddf7e17424adf79bafa69cb806d2ec",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "goferito_",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 21
+  },
+  {
+    "type": 0,
+    "content": "rift",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-03-29T17:54:24.494000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1487872571973308467",
+    "channel_id": "1429409125892227082",
+    "author": {
+      "id": "693785581121044542",
+      "username": "mr.gofer_",
+      "avatar": "e8ddf7e17424adf79bafa69cb806d2ec",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "goferito_",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 22
+  },
+  {
+    "type": 19,
+    "content": "hello do u know how to forcefully drag your ninja twins back to lobby as im locked out of a floor i unlocked but progress wasn't saved",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-04-12T00:22:15.620000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1492681220402839573",
+    "channel_id": "1429409125892227082",
+    "author": {
+      "id": "322539878631997442",
+      "username": "taedium.z",
+      "avatar": "308f3b6d351536249de29e20b883acbf",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Taedium",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1429409125892227082",
+      "message_id": "1453666864671494176",
+      "guild_id": "437797104786604034"
+    },
+    "position": 23,
+    "referenced_message": {
+      "type": 19,
+      "content": "M5 was reachable before charms slots (symbols), so realistically speaking you can do it anyway and it will be easier",
+      "mentions": [
+        {
+          "id": "808703866148880427",
+          "username": "hans_46",
+          "avatar": "39d8ee1ed4908db4fc59025dfc3a048f",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "STEINST0N3",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": {
+            "identity_guild_id": "437797104786604034",
+            "identity_enabled": true,
+            "tag": "idle",
+            "badge": "613dd0a2876f97a2422d121940ecc992"
+          },
+          "primary_guild": {
+            "identity_guild_id": "437797104786604034",
+            "identity_enabled": true,
+            "tag": "idle",
+            "badge": "613dd0a2876f97a2422d121940ecc992"
+          }
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-12-25T08:33:08.362000+00:00",
+      "edited_timestamp": "2025-12-25T08:33:17.923000+00:00",
+      "flags": 0,
+      "components": [],
+      "id": "1453666864671494176",
+      "channel_id": "1429409125892227082",
+      "author": {
+        "id": "311155561385164810",
+        "username": "lolgod",
+        "avatar": "1b96b9c55e9deb6ca10f34a2b0640133",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Lolgod",
+        "avatar_decoration_data": {
+          "asset": "a_c3cffc19e9784f7d0b005eecdf1b566e",
+          "sku_id": "1212569433839636530",
+          "expires_at": null
+        },
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "778221489974673410",
+          "identity_enabled": true,
+          "tag": "BORB",
+          "badge": "07c56bddb376d1d563d075d672f3d590"
+        },
+        "primary_guild": {
+          "identity_guild_id": "778221489974673410",
+          "identity_enabled": true,
+          "tag": "BORB",
+          "badge": "07c56bddb376d1d563d075d672f3d590"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1429409125892227082",
+        "message_id": "1453549839026487358",
+        "guild_id": "437797104786604034"
+      },
+      "position": 17
+    }
+  }
+]

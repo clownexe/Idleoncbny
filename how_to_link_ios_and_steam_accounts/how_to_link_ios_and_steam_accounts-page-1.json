@@ -1,0 +1,165 @@
+[
+  {
+    "type": 0,
+    "content": "I keep seeing people in chat asking how to link their iOS and Steam IdleOn accounts. So here's something that worked for me, for what it's worth.\n\nFIRST AND MOST IMPORTANT STEP TO NOTE: if you want to link the accounts, **THE ACCOUNT YOU WANT TO LINK MUST BE STARTED ON YOUR PHONE *FIRST***. Meaning, you download the app on your phone, start it up, and the IdleOn account on your phone is now linked to your Apple ID. If you've already started your account on Steam first, then as far as I can tell, TOUGH BANANAS. That's why I've marked this guide as \"early game\" - if you're mid-to-late game on Steam and just now wanting to link it to your phone, you're out of luck.\n\nStep 2: Play a little bit on your phone, then go to the character menu and hit the Cloudsave button. Close the app on your phone.\n\nStep 3: Open the game on Steam. There should be a splash screen with a big SYNC UP button; click it, then click the \"Sign in with Apple\" option (shown in the thumbnail). From what I remember, it'll take you to a browser window where you can enter your Apple ID login information. Do that.\n\nStep 4: Profit! Your iOS account and your Steam account are now the same one. If you're playing on Steam, before you quit out, just tap the Cloudsave button, and you can pick up where you left off on your phone, and vice versa.\n\nStep Whenever-The-Appstore-Gets-Around-To-It: As we all know, if there's an update on Steam, the same update for iOS always lags behind a couple of days. So even if the accounts are linked, until the iOS version is up-to-date, you won't be able to play the account on your phone, only Steam.\n\nNOTE that when I say iOS I'm specifically talking about phones/tablets and the app from the Appstore. From what I've heard from a number of people, the browser version of the game doesn't work on Macs for reasons unknown.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1454532797720035542",
+        "filename": "image.png",
+        "size": 232768,
+        "url": "https://cdn.discordapp.com/attachments/1454532796826521700/1454532797720035542/image.png?ex=6a0f46ba&is=6a0df53a&hm=8c70019018915a936987d125cb8cd48bcb4a35fc3a7954816007532fce934d2e&",
+        "proxy_url": "https://media.discordapp.net/attachments/1454532796826521700/1454532797720035542/image.png?ex=6a0f46ba&is=6a0df53a&hm=8c70019018915a936987d125cb8cd48bcb4a35fc3a7954816007532fce934d2e&",
+        "width": 828,
+        "height": 680,
+        "content_type": "image/png",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "0dcFHoIox4ZviWiHinRZZ2iGSGB3gQc=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2025-12-27T17:54:02.676000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1454532796826521700",
+    "channel_id": "1454532796826521700",
+    "author": {
+      "id": "597187566302658579",
+      "username": "saucyj4ck",
+      "avatar": "367ae2b5ad35bdeffbfa467f99f4a8f2",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Saucy Jack",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 7,
+        "count_details": {
+          "burst": 0,
+          "normal": 7
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "TLDR: if you started on steam its game over.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-01-02T13:25:30.193000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1456639543368487075",
+    "channel_id": "1454532796826521700",
+    "author": {
+      "id": "284616307482165249",
+      "username": "dexterlive",
+      "avatar": "a15a8b6f31fc503e976108b99116cf0d",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Dexter",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "481714069930246147",
+          "name": "YES"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "😭"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  }
+]

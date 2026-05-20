@@ -1,0 +1,767 @@
+[
+  {
+    "type": 0,
+    "content": "Calculate how many Shimmers you'll get for Trial. Breakpoints included.\nFile -> Make a copy\n\nhttps://docs.google.com/spreadsheets/d/1959bkPGK8SeRHeAnbRO2LQ7hV8gTRlK_1n4IM0Pwe3Q/edit?usp=sharing",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "link",
+        "url": "https://docs.google.com/spreadsheets/d/1959bkPGK8SeRHeAnbRO2LQ7hV8gTRlK_1n4IM0Pwe3Q/edit?usp=sharing",
+        "title": "Shimmers Calculator",
+        "description": "Calc\n\nTrials,Your Result,Total Shimmers,Multiplier,To Reach 1,To Reach 10,To Reach Max.,Island Shop Price Scale,Trials In Order,1,2,3,4,5,6\nGet as much total stats as possible, STR AGI WIS and LUK combined.,0,0.0x,500,50000,800000,+ Base STR,1,Thresholds/Breakpoints,1,500,2000,4500,8000,12500,180...",
+        "provider": {
+          "name": "Google Docs"
+        },
+        "thumbnail": {
+          "url": "https://lh3.googleusercontent.com/docs/AOD9vFo_hPqAGwS83TdtEUEvAscnbmbsWFeyMSs-MffShUGiWtoy9d2MszRVw0oGvL1_wO12DTc3c8hgvIZ1Pqb2s-dkPgO2QJnIiySjZgwB6GSk=w1200-h630-p",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/5Ujf8gme2FsHiWEXlJXJbLBLLq_TJeBSTpPWr3x8j1o/https/lh3.googleusercontent.com/docs/AOD9vFo_hPqAGwS83TdtEUEvAscnbmbsWFeyMSs-MffShUGiWtoy9d2MszRVw0oGvL1_wO12DTc3c8hgvIZ1Pqb2s-dkPgO2QJnIiySjZgwB6GSk%3Dw1200-h630-p",
+          "width": 1200,
+          "height": 630,
+          "flags": 0
+        },
+        "content_scan_version": 4
+      }
+    ],
+    "timestamp": "2023-08-15T12:03:41.369000+00:00",
+    "edited_timestamp": "2023-08-16T11:52:57.226000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1140979123330748426",
+    "channel_id": "1140979123330748426",
+    "author": {
+      "id": "210879097067274244",
+      "username": "youwillloveeachother",
+      "avatar": "6b88a3bb5ee6267d115dccdcead6d5a9",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "BHY4A",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": true,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 9,
+        "count_details": {
+          "burst": 0,
+          "normal": 9
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "Nice work, I added a couple columns to know what to aim for.\nhttps://docs.google.com/spreadsheets/d/1djL6ex1s7Kzg2xBBfxgWObQLGrK_CJZB4mOvEdD0N08/edit?usp=sharing",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "link",
+        "url": "https://docs.google.com/spreadsheets/d/1djL6ex1s7Kzg2xBBfxgWObQLGrK_CJZB4mOvEdD0N08/edit?usp=sharing",
+        "title": "Copie de Shimmers Calculator",
+        "description": "Calc\n\nTrials,Your Result,Total Shimmers,Multiplier,To reach 1,To reach max\nGet as much total stats as possible, STR AGI WIS and LUK combined.,0,0,50000,762500\nGet as much STR stat as you can.,0,0,15000,228750\nGet as much AGI stat as you can.,0,0,15000,228750\nGet as much WIS stat as you can.,0,0,1...",
+        "provider": {
+          "name": "Google Docs"
+        },
+        "thumbnail": {
+          "url": "https://lh3.googleusercontent.com/docs/AOD9vFq68IOb_LRUEHZZ8rkuPT-bXuS1vyAJ5oBYlFk4QFNUHqE14XqtBkYxbzoBso5uNVwJPP_A4XCaR956sb44yasa-BdQJ5Q5kvjZb9IWqw4-=w1200-h630-p",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/1I9ijJ9eLu_9z0oOCSSBTnXEXt4P2UzGQr9YUOYdFnI/https/lh3.googleusercontent.com/docs/AOD9vFq68IOb_LRUEHZZ8rkuPT-bXuS1vyAJ5oBYlFk4QFNUHqE14XqtBkYxbzoBso5uNVwJPP_A4XCaR956sb44yasa-BdQJ5Q5kvjZb9IWqw4-%3Dw1200-h630-p",
+          "width": 1200,
+          "height": 630,
+          "flags": 0
+        },
+        "content_scan_version": 4
+      }
+    ],
+    "timestamp": "2023-08-15T12:29:57.804000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1140985735378386944",
+    "channel_id": "1140979123330748426",
+    "author": {
+      "id": "278832144728719360",
+      "username": "gnakor",
+      "avatar": "b4672079b683cc22742b84720067f2a4",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Gnakor",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0
+  },
+  {
+    "type": 0,
+    "content": "600gp for 1 shimmer? Sheesh",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-08-15T12:41:57.079000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1140988752236380241",
+    "channel_id": "1140979123330748426",
+    "author": {
+      "id": "175572531103793152",
+      "username": "teacup0209",
+      "avatar": "53faaa22d5d48c5058b100ff81f45757",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Teacup",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "736096289686552616",
+        "identity_enabled": true,
+        "tag": "ADV",
+        "badge": "fa9cc80236e71715c90d24db7ee9eb53"
+      },
+      "primary_guild": {
+        "identity_guild_id": "736096289686552616",
+        "identity_enabled": true,
+        "tag": "ADV",
+        "badge": "fa9cc80236e71715c90d24db7ee9eb53"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 1
+  },
+  {
+    "type": 19,
+    "content": "Thanks <:Grumblo_Pray:1114306970816630876> , added to sheet",
+    "mentions": [
+      {
+        "id": "278832144728719360",
+        "username": "gnakor",
+        "avatar": "b4672079b683cc22742b84720067f2a4",
+        "discriminator": "0",
+        "public_flags": 128,
+        "flags": 128,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Gnakor",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-08-15T13:16:13.574000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1140997377801592882",
+    "channel_id": "1140979123330748426",
+    "author": {
+      "id": "210879097067274244",
+      "username": "youwillloveeachother",
+      "avatar": "6b88a3bb5ee6267d115dccdcead6d5a9",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "BHY4A",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1140979123330748426",
+      "message_id": "1140985735378386944",
+      "guild_id": "437797104786604034"
+    },
+    "position": 2,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ],
+    "referenced_message": {
+      "type": 0,
+      "content": "Nice work, I added a couple columns to know what to aim for.\nhttps://docs.google.com/spreadsheets/d/1djL6ex1s7Kzg2xBBfxgWObQLGrK_CJZB4mOvEdD0N08/edit?usp=sharing",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [
+        {
+          "type": "link",
+          "url": "https://docs.google.com/spreadsheets/d/1djL6ex1s7Kzg2xBBfxgWObQLGrK_CJZB4mOvEdD0N08/edit?usp=sharing",
+          "title": "Copie de Shimmers Calculator",
+          "description": "Calc\n\nTrials,Your Result,Total Shimmers,Multiplier,To reach 1,To reach max\nGet as much total stats as possible, STR AGI WIS and LUK combined.,0,0,50000,762500\nGet as much STR stat as you can.,0,0,15000,228750\nGet as much AGI stat as you can.,0,0,15000,228750\nGet as much WIS stat as you can.,0,0,1...",
+          "provider": {
+            "name": "Google Docs"
+          },
+          "thumbnail": {
+            "url": "https://lh3.googleusercontent.com/docs/AOD9vFq68IOb_LRUEHZZ8rkuPT-bXuS1vyAJ5oBYlFk4QFNUHqE14XqtBkYxbzoBso5uNVwJPP_A4XCaR956sb44yasa-BdQJ5Q5kvjZb9IWqw4-=w1200-h630-p",
+            "proxy_url": "https://images-ext-1.discordapp.net/external/1I9ijJ9eLu_9z0oOCSSBTnXEXt4P2UzGQr9YUOYdFnI/https/lh3.googleusercontent.com/docs/AOD9vFq68IOb_LRUEHZZ8rkuPT-bXuS1vyAJ5oBYlFk4QFNUHqE14XqtBkYxbzoBso5uNVwJPP_A4XCaR956sb44yasa-BdQJ5Q5kvjZb9IWqw4-%3Dw1200-h630-p",
+            "width": 1200,
+            "height": 630,
+            "flags": 0
+          },
+          "content_scan_version": 4
+        }
+      ],
+      "timestamp": "2023-08-15T12:29:57.804000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1140985735378386944",
+      "channel_id": "1140979123330748426",
+      "author": {
+        "id": "278832144728719360",
+        "username": "gnakor",
+        "avatar": "b4672079b683cc22742b84720067f2a4",
+        "discriminator": "0",
+        "public_flags": 128,
+        "flags": 128,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Gnakor",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 0
+    }
+  },
+  {
+    "type": 0,
+    "content": "Damn most of the challenges are really for endgame players and even in endgame it's impossible to reach the max for most of them for now",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-08-15T17:44:36.827000+00:00",
+    "edited_timestamp": "2023-08-15T17:44:55.946000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1141064919740072050",
+    "channel_id": "1140979123330748426",
+    "author": {
+      "id": "641927091419611146",
+      "username": "natsu_2003",
+      "avatar": null,
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Natsu_2003",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 3
+  },
+  {
+    "type": 19,
+    "content": "I would say only DPS and Stats are harder",
+    "mentions": [
+      {
+        "id": "641927091419611146",
+        "username": "natsu_2003",
+        "avatar": null,
+        "discriminator": "0",
+        "public_flags": 256,
+        "flags": 256,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Natsu_2003",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-08-16T15:46:26.486000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1141397568560058449",
+    "channel_id": "1140979123330748426",
+    "author": {
+      "id": "210879097067274244",
+      "username": "youwillloveeachother",
+      "avatar": "6b88a3bb5ee6267d115dccdcead6d5a9",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "BHY4A",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1140979123330748426",
+      "message_id": "1141064919740072050",
+      "guild_id": "437797104786604034"
+    },
+    "position": 4,
+    "referenced_message": {
+      "type": 0,
+      "content": "Damn most of the challenges are really for endgame players and even in endgame it's impossible to reach the max for most of them for now",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2023-08-15T17:44:36.827000+00:00",
+      "edited_timestamp": "2023-08-15T17:44:55.946000+00:00",
+      "flags": 0,
+      "components": [],
+      "id": "1141064919740072050",
+      "channel_id": "1140979123330748426",
+      "author": {
+        "id": "641927091419611146",
+        "username": "natsu_2003",
+        "avatar": null,
+        "discriminator": "0",
+        "public_flags": 256,
+        "flags": 256,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Natsu_2003",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 3
+    }
+  },
+  {
+    "type": 0,
+    "content": "Fixed DPS and Skill Efficiency",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-08-20T05:53:57.282000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1142698015853924462",
+    "channel_id": "1140979123330748426",
+    "author": {
+      "id": "210879097067274244",
+      "username": "youwillloveeachother",
+      "avatar": "6b88a3bb5ee6267d115dccdcead6d5a9",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "BHY4A",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 5
+  },
+  {
+    "type": 0,
+    "content": "13 digits doesn't give 13 shimmers",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1234195748678012989",
+        "filename": "uhOezY90S0efKi5Qfx4pZg.png",
+        "size": 28724,
+        "url": "https://cdn.discordapp.com/attachments/1140979123330748426/1234195748678012989/uhOezY90S0efKi5Qfx4pZg.png?ex=6a0f41dc&is=6a0df05c&hm=6d15ab827bde95d97f54eae79b043bc9ff31a99a66a5254ecc9bfb7726d87a09&",
+        "proxy_url": "https://media.discordapp.net/attachments/1140979123330748426/1234195748678012989/uhOezY90S0efKi5Qfx4pZg.png?ex=6a0f41dc&is=6a0df05c&hm=6d15ab827bde95d97f54eae79b043bc9ff31a99a66a5254ecc9bfb7726d87a09&",
+        "width": 143,
+        "height": 192,
+        "content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "qJUFDQJmeI94t2i4h4yGh9OqX2YJ",
+        "placeholder_version": 1
+      },
+      {
+        "id": "1234195748976070768",
+        "filename": "6T_OfJGAS5-XmtFK94YQPA.png",
+        "size": 6012,
+        "url": "https://cdn.discordapp.com/attachments/1140979123330748426/1234195748976070768/6T_OfJGAS5-XmtFK94YQPA.png?ex=6a0f41dc&is=6a0df05c&hm=2219f21fb453b2c9c97202502cbce1aec53769afad5a60b41406bc0450f5fa31&",
+        "proxy_url": "https://media.discordapp.net/attachments/1140979123330748426/1234195748976070768/6T_OfJGAS5-XmtFK94YQPA.png?ex=6a0f41dc&is=6a0df05c&hm=2219f21fb453b2c9c97202502cbce1aec53769afad5a60b41406bc0450f5fa31&",
+        "width": 515,
+        "height": 19,
+        "content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "cucFAYB2q7SvZ2eWuRcPfaQ=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2024-04-28T17:33:16.848000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1234195749160489031",
+    "channel_id": "1140979123330748426",
+    "author": {
+      "id": "836947614813257738",
+      "username": "ducklings01",
+      "avatar": "964ba8c8fb5f304259ae6547e9ec5d63",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Duckling",
+      "avatar_decoration_data": {
+        "asset": "a_1ffd338bf104b616ea5774244e46dbf6",
+        "sku_id": "1385050947834613820",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 10
+  },
+  {
+    "type": 6,
+    "content": "",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-05-15T20:06:37.932000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1240394935019114567",
+    "channel_id": "1140979123330748426",
+    "author": {
+      "id": "236928332430573569",
+      "username": "rashaken",
+      "avatar": "c589bd219a130db4bbcec6d12a4f6a9a",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Rashaken",
+      "avatar_decoration_data": {
+        "asset": "a_c7e1751e8122f1b475cb3006966fb28c",
+        "sku_id": "1154896005045694555",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "368953963267096586",
+        "identity_enabled": true,
+        "tag": "LE",
+        "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+      },
+      "primary_guild": {
+        "identity_guild_id": "368953963267096586",
+        "identity_enabled": true,
+        "tag": "LE",
+        "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1140979123330748426",
+      "message_id": "1140979123330748426"
+    },
+    "position": 11
+  },
+  {
+    "type": 0,
+    "content": "thanks for the info!",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-07-26T20:37:57.543000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1398766315946115164",
+    "channel_id": "1140979123330748426",
+    "author": {
+      "id": "352995691754422272",
+      "username": "gamewiththem",
+      "avatar": "edcafb2c5a24505151251cd31615fda8",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Michael K",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "686053708261228577",
+        "identity_enabled": true,
+        "tag": "OBSD",
+        "badge": "458e8e1a06750c3de56539c5e84b7b33"
+      },
+      "primary_guild": {
+        "identity_guild_id": "686053708261228577",
+        "identity_enabled": true,
+        "tag": "OBSD",
+        "badge": "458e8e1a06750c3de56539c5e84b7b33"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 13
+  },
+  {
+    "type": 19,
+    "content": "It helped me too!",
+    "mentions": [
+      {
+        "id": "352995691754422272",
+        "username": "gamewiththem",
+        "avatar": "edcafb2c5a24505151251cd31615fda8",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Michael K",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "686053708261228577",
+          "identity_enabled": true,
+          "tag": "OBSD",
+          "badge": "458e8e1a06750c3de56539c5e84b7b33"
+        },
+        "primary_guild": {
+          "identity_guild_id": "686053708261228577",
+          "identity_enabled": true,
+          "tag": "OBSD",
+          "badge": "458e8e1a06750c3de56539c5e84b7b33"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-07-26T20:38:46.370000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1398766520741400637",
+    "channel_id": "1140979123330748426",
+    "author": {
+      "id": "339344312418435074",
+      "username": "rikito378",
+      "avatar": "3f54fbe986ec35747cc78be70d9cc8da",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Rikito378",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1447654090661302343",
+          "asset": "nameplates/zodiac/aries/",
+          "label": "COLLECTIBLES_ZODIAC_ARIES_NP_A11Y",
+          "palette": "crimson"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 6,
+        "effect_id": 5,
+        "colors": [
+          15999128
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "695843507230736406",
+        "identity_enabled": true,
+        "tag": "CC",
+        "badge": "5cb0b716cd008fdd37700d65253c9950"
+      },
+      "primary_guild": {
+        "identity_guild_id": "695843507230736406",
+        "identity_enabled": true,
+        "tag": "CC",
+        "badge": "5cb0b716cd008fdd37700d65253c9950"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1140979123330748426",
+      "message_id": "1398766315946115164",
+      "guild_id": "437797104786604034"
+    },
+    "position": 14,
+    "referenced_message": {
+      "type": 0,
+      "content": "thanks for the info!",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-07-26T20:37:57.543000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1398766315946115164",
+      "channel_id": "1140979123330748426",
+      "author": {
+        "id": "352995691754422272",
+        "username": "gamewiththem",
+        "avatar": "edcafb2c5a24505151251cd31615fda8",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Michael K",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "686053708261228577",
+          "identity_enabled": true,
+          "tag": "OBSD",
+          "badge": "458e8e1a06750c3de56539c5e84b7b33"
+        },
+        "primary_guild": {
+          "identity_guild_id": "686053708261228577",
+          "identity_enabled": true,
+          "tag": "OBSD",
+          "badge": "458e8e1a06750c3de56539c5e84b7b33"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 13
+    }
+  }
+]

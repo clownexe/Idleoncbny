@@ -1,0 +1,1358 @@
+[
+  {
+    "type": 0,
+    "content": "I’m releasing the second guide of IdleOn Academy: the “Fixing Guide”.\n⚠️ This guide is still a work in progress, but I’m sharing it early for players who want to dive in already.\n\nThis guide focuses on the “Fixing Phase” — the stage where you backtrack and optimize your account to clean up mistakes and unlock stronger progression.\n\n👉 Current content:\n\nAlchemy explained from A to Z\n\nHow Alchemy fits into long-term account strength\n\nEven in its unfinished state, the Alchemy section alone can already significantly improve your account if you’ve been neglecting or misusing it.\n\nThis guide will continue to expand with:\n\nBreeding\n\nRift / Cards Farming\n\nCrystal Farming\n\nDivinity / Lab\n\nIf you like understanding why things work instead of just copying steps, this guide is for you.\n\n🔗 Fixing Guide (WIP):\n👉  https://my.visme.co/view/y71djywx-idleon-academy-the-fixing\n\nFeedback is welcome, this guide is actively evolving. 🚀",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "image",
+        "url": "https://my.visme.co/view/y71djywx-idleon-academy-the-fixing",
+        "title": "Idleon Academy : The Fixing",
+        "description": "Idleon Academy : The Fixing -  Design & share beautiful engaging content with Visme",
+        "thumbnail": {
+          "url": "https://screenshots.visme.co/d8/73/33/d2/f348b7bbd92321572c1dab5acc3248d2_f.jpg?v=683",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/WEDkhm5hfAG8UXriNToWhKj5zKspyJs-Z__hy9nglwQ/%3Fv%3D683/https/screenshots.visme.co/d8/73/33/d2/f348b7bbd92321572c1dab5acc3248d2_f.jpg",
+          "width": 800,
+          "height": 420,
+          "content_type": "image/jpeg",
+          "placeholder": "SzYGJI6fiHd4eHd4iHefZ/hKdw==",
+          "placeholder_version": 1,
+          "flags": 0
+        },
+        "content_scan_version": 4
+      }
+    ],
+    "timestamp": "2026-01-08T13:50:33.173000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1458820174516850800",
+    "channel_id": "1458820174516850800",
+    "author": {
+      "id": "197688922057342976",
+      "username": "nekow",
+      "avatar": "447371b14af592814f35a69531df12a7",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nekow",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 2,
+        "colors": [
+          9452762,
+          2939534
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1069381916492562582",
+        "identity_enabled": true,
+        "tag": "SUNO",
+        "badge": "7f968d34689b032120d7a0f2a3d69b83"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1069381916492562582",
+        "identity_enabled": true,
+        "tag": "SUNO",
+        "badge": "7f968d34689b032120d7a0f2a3d69b83"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 22,
+        "count_details": {
+          "burst": 0,
+          "normal": 22
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "812252292597547018",
+          "name": "Hearto"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "1074896471079526431",
+          "name": "Frog_Gentlemen"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "is there a way to print this?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-01-08T13:54:39.681000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1458821208446468107",
+    "channel_id": "1458820174516850800",
+    "author": {
+      "id": "1412759368067317890",
+      "username": "reallynoobkid",
+      "avatar": "853e454edf0fec1945649cbc3e7d4680",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Swagman",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "187363008610041857",
+        "identity_enabled": true,
+        "tag": "NK",
+        "badge": "878c62b6694a4f5931104f766191bec7"
+      },
+      "primary_guild": {
+        "identity_guild_id": "187363008610041857",
+        "identity_enabled": true,
+        "tag": "NK",
+        "badge": "878c62b6694a4f5931104f766191bec7"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0
+  },
+  {
+    "type": 19,
+    "content": "the pdf version of it, but i won't update when i'm adding more pages",
+    "mentions": [
+      {
+        "id": "1412759368067317890",
+        "username": "reallynoobkid",
+        "avatar": "853e454edf0fec1945649cbc3e7d4680",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Swagman",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "187363008610041857",
+          "identity_enabled": true,
+          "tag": "NK",
+          "badge": "878c62b6694a4f5931104f766191bec7"
+        },
+        "primary_guild": {
+          "identity_guild_id": "187363008610041857",
+          "identity_enabled": true,
+          "tag": "NK",
+          "badge": "878c62b6694a4f5931104f766191bec7"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1458822374693667020",
+        "filename": "Idleon_Academy_The_Fixing.pdf",
+        "size": 918043,
+        "url": "https://cdn.discordapp.com/attachments/1458820174516850800/1458822374693667020/Idleon_Academy_The_Fixing.pdf?ex=6a0f0fb5&is=6a0dbe35&hm=f24e743fee3f041c1477bf0cd3d864f4694907f9c873e35ceeb5a050985c714f&",
+        "proxy_url": "https://media.discordapp.net/attachments/1458820174516850800/1458822374693667020/Idleon_Academy_The_Fixing.pdf?ex=6a0f0fb5&is=6a0dbe35&hm=f24e743fee3f041c1477bf0cd3d864f4694907f9c873e35ceeb5a050985c714f&",
+        "content_type": "application/pdf",
+        "original_content_type": "application/pdf",
+        "content_scan_version": 4,
+        "title": "Idleon Academy The Fixing"
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2026-01-08T13:59:17.869000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1458822375251513385",
+    "channel_id": "1458820174516850800",
+    "author": {
+      "id": "197688922057342976",
+      "username": "nekow",
+      "avatar": "447371b14af592814f35a69531df12a7",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nekow",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 2,
+        "colors": [
+          9452762,
+          2939534
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1069381916492562582",
+        "identity_enabled": true,
+        "tag": "SUNO",
+        "badge": "7f968d34689b032120d7a0f2a3d69b83"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1069381916492562582",
+        "identity_enabled": true,
+        "tag": "SUNO",
+        "badge": "7f968d34689b032120d7a0f2a3d69b83"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1458820174516850800",
+      "message_id": "1458821208446468107",
+      "guild_id": "437797104786604034"
+    },
+    "position": 1,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "812252292597547018",
+          "name": "Hearto"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ],
+    "referenced_message": {
+      "type": 0,
+      "content": "is there a way to print this?",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2026-01-08T13:54:39.681000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1458821208446468107",
+      "channel_id": "1458820174516850800",
+      "author": {
+        "id": "1412759368067317890",
+        "username": "reallynoobkid",
+        "avatar": "853e454edf0fec1945649cbc3e7d4680",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Swagman",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "187363008610041857",
+          "identity_enabled": true,
+          "tag": "NK",
+          "badge": "878c62b6694a4f5931104f766191bec7"
+        },
+        "primary_guild": {
+          "identity_guild_id": "187363008610041857",
+          "identity_enabled": true,
+          "tag": "NK",
+          "badge": "878c62b6694a4f5931104f766191bec7"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 0
+    }
+  },
+  {
+    "type": 0,
+    "content": "Nice start (or continuation I suppose), a few notes\nI'm sad that the green/red icons for soft/hard locks aren't used more intentionally\nYour linear bubble example needs to change given the change in the Dec 8 patch https://discord.com/channels/437797104786604034/549713440076333058/1447687165642276864\nNBLB works from level 2 - 10000\nLithium atom will allow it to affect W4-6 bubbles",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-01-08T16:42:30.424000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1458863448204251331",
+    "channel_id": "1458820174516850800",
+    "author": {
+      "id": "241063840471711744",
+      "username": "acecow",
+      "avatar": "38ac3d9af0e6c5e996bb9752896bcc67",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "acecow",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1495807265175900180",
+          "asset": "nameplates/pitter_patter/1495807265175900180/",
+          "label": "Drizzling rain pattering over a small pond",
+          "palette": "forest"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "742803994816020501",
+        "identity_enabled": true,
+        "tag": "COW",
+        "badge": "036a27b8bfc2e610e0c74802c295c969"
+      },
+      "primary_guild": {
+        "identity_guild_id": "742803994816020501",
+        "identity_enabled": true,
+        "tag": "COW",
+        "badge": "036a27b8bfc2e610e0c74802c295c969"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 2
+  },
+  {
+    "type": 0,
+    "content": "Perhaps I am stupid and do not know how to read, but what level is recommended to level bubbles to for the initial push. I see 70% of total value but I'm not sure how to interpret that for the linear bubbles",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-01-09T21:05:21.417000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1459291984408608769",
+    "channel_id": "1458820174516850800",
+    "author": {
+      "id": "228295153327144960",
+      "username": "xavinus",
+      "avatar": "e54e5bde2e0d6a0d367911c7b0e1dd86",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Xavinus",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 3
+  },
+  {
+    "type": 0,
+    "content": "This is good but I need MOAR",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-01-10T00:09:37.556000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1459338357216641109",
+    "channel_id": "1458820174516850800",
+    "author": {
+      "id": "139853855998345216",
+      "username": "jetic",
+      "avatar": "da3c6a727c81c7ad1b4e442ebd23f20d",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Jetic",
+      "avatar_decoration_data": {
+        "asset": "a_c48b135704ecb5c88f2f71f6c8bcce2f",
+        "sku_id": "1357589632581374042",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 2,
+        "colors": [
+          16095292,
+          15031015
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 4,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "💯"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "that's really interesting, i'll take a deep look at it tonight or tomorow after work ! thanks for this 🙂",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-01-12T09:58:48.480000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1460211405469782202",
+    "channel_id": "1458820174516850800",
+    "author": {
+      "id": "268801457073946624",
+      "username": "miz1337",
+      "avatar": "13cd51356357a79378af308933c844e1",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Stevan",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1292238032996401293",
+        "identity_enabled": true,
+        "tag": "KC",
+        "badge": "8d61abb8b5da075befaff858861dba54"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1292238032996401293",
+        "identity_enabled": true,
+        "tag": "KC",
+        "badge": "8d61abb8b5da075befaff858861dba54"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 5,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "🎉"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "Getting to 200 tent on my bubo has been pretty rough. I ended up opting for div jail and lab jail after I got goat god and mantra unlocked so I can work both jails at the same time",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-01-12T18:45:32.985000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1460343964371517618",
+    "channel_id": "1458820174516850800",
+    "author": {
+      "id": "139853855998345216",
+      "username": "jetic",
+      "avatar": "da3c6a727c81c7ad1b4e442ebd23f20d",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Jetic",
+      "avatar_decoration_data": {
+        "asset": "a_c48b135704ecb5c88f2f71f6c8bcce2f",
+        "sku_id": "1357589632581374042",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 2,
+        "colors": [
+          16095292,
+          15031015
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 6,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "🎉"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 19,
+    "content": "Is that just 70% of what the bubble maxes out at? So we have to Google each bubble and level it to 70% of its cap",
+    "mentions": [
+      {
+        "id": "228295153327144960",
+        "username": "xavinus",
+        "avatar": "e54e5bde2e0d6a0d367911c7b0e1dd86",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Xavinus",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-01-14T21:17:02.624000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1461106864812196132",
+    "channel_id": "1458820174516850800",
+    "author": {
+      "id": "139853855998345216",
+      "username": "jetic",
+      "avatar": "da3c6a727c81c7ad1b4e442ebd23f20d",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Jetic",
+      "avatar_decoration_data": {
+        "asset": "a_c48b135704ecb5c88f2f71f6c8bcce2f",
+        "sku_id": "1357589632581374042",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 2,
+        "colors": [
+          16095292,
+          15031015
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1458820174516850800",
+      "message_id": "1459291984408608769",
+      "guild_id": "437797104786604034"
+    },
+    "position": 7,
+    "referenced_message": {
+      "type": 0,
+      "content": "Perhaps I am stupid and do not know how to read, but what level is recommended to level bubbles to for the initial push. I see 70% of total value but I'm not sure how to interpret that for the linear bubbles",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2026-01-09T21:05:21.417000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1459291984408608769",
+      "channel_id": "1458820174516850800",
+      "author": {
+        "id": "228295153327144960",
+        "username": "xavinus",
+        "avatar": "e54e5bde2e0d6a0d367911c7b0e1dd86",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Xavinus",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 3
+    }
+  },
+  {
+    "type": 0,
+    "content": "Google? <:KEKW:728126931899383808> \nIT will let you filter by threshold% (or you can check wiki)",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-01-14T21:18:05.186000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1461107127216242960",
+    "channel_id": "1458820174516850800",
+    "author": {
+      "id": "241063840471711744",
+      "username": "acecow",
+      "avatar": "38ac3d9af0e6c5e996bb9752896bcc67",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "acecow",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1495807265175900180",
+          "asset": "nameplates/pitter_patter/1495807265175900180/",
+          "label": "Drizzling rain pattering over a small pond",
+          "palette": "forest"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "742803994816020501",
+        "identity_enabled": true,
+        "tag": "COW",
+        "badge": "036a27b8bfc2e610e0c74802c295c969"
+      },
+      "primary_guild": {
+        "identity_guild_id": "742803994816020501",
+        "identity_enabled": true,
+        "tag": "COW",
+        "badge": "036a27b8bfc2e610e0c74802c295c969"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 8
+  },
+  {
+    "type": 0,
+    "content": "True I as a millennial use Google as a synonym for look up",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-01-14T21:20:47.056000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1461107806148235438",
+    "channel_id": "1458820174516850800",
+    "author": {
+      "id": "139853855998345216",
+      "username": "jetic",
+      "avatar": "da3c6a727c81c7ad1b4e442ebd23f20d",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Jetic",
+      "avatar_decoration_data": {
+        "asset": "a_c48b135704ecb5c88f2f71f6c8bcce2f",
+        "sku_id": "1357589632581374042",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 2,
+        "colors": [
+          16095292,
+          15031015
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 9
+  },
+  {
+    "type": 0,
+    "content": "also the only 2 purple bubbles recommended that use logs are the initial wisdom bubble and the cookin roadkill which doesnt affect wood gains at all <:sad:814316602472398868>",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-01-15T04:59:04.380000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1461223138284142683",
+    "channel_id": "1458820174516850800",
+    "author": {
+      "id": "139853855998345216",
+      "username": "jetic",
+      "avatar": "da3c6a727c81c7ad1b4e442ebd23f20d",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Jetic",
+      "avatar_decoration_data": {
+        "asset": "a_c48b135704ecb5c88f2f71f6c8bcce2f",
+        "sku_id": "1357589632581374042",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 2,
+        "colors": [
+          16095292,
+          15031015
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 10
+  },
+  {
+    "type": 0,
+    "content": "updates?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-03-10T08:48:36.411000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1480849847111254048",
+    "channel_id": "1458820174516850800",
+    "author": {
+      "id": "1418671058764042320",
+      "username": "tillinni",
+      "avatar": "047f0e1d98da939f65e7e8906e35b9d8",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Heran",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 11
+  },
+  {
+    "type": 0,
+    "content": "I followed the tenteyecle suggestions and got to 196, needing more salt lick purchases from 5 to 7. Also got library max level of 145",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-03-20T16:41:21.143000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1484592696076271728",
+    "channel_id": "1458820174516850800",
+    "author": {
+      "id": "139853855998345216",
+      "username": "jetic",
+      "avatar": "da3c6a727c81c7ad1b4e442ebd23f20d",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Jetic",
+      "avatar_decoration_data": {
+        "asset": "a_c48b135704ecb5c88f2f71f6c8bcce2f",
+        "sku_id": "1357589632581374042",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 2,
+        "colors": [
+          16095292,
+          15031015
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 12
+  },
+  {
+    "type": 0,
+    "content": "Bump",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-04-09T18:41:42.037000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1491870740012601628",
+    "channel_id": "1458820174516850800",
+    "author": {
+      "id": "500428295637041163",
+      "username": "lightlie",
+      "avatar": "93f540e8289a76a585ba0c803793d436",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nani",
+      "avatar_decoration_data": {
+        "asset": "a_322c506cac670b3fc9915c44d1bcbe47",
+        "sku_id": "1459194821255237723",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1471911380490780703",
+          "asset": "nameplates/pluto_playful_friend/1471911222382428362/",
+          "label": "Green gradient with floating green bone treats.",
+          "palette": "clover"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "905260056331825223",
+        "identity_enabled": true,
+        "tag": "BARK",
+        "badge": "8d61abb8b5da075befaff858861dba54"
+      },
+      "primary_guild": {
+        "identity_guild_id": "905260056331825223",
+        "identity_enabled": true,
+        "tag": "BARK",
+        "badge": "8d61abb8b5da075befaff858861dba54"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 13
+  },
+  {
+    "type": 0,
+    "content": "up",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-04-13T04:04:40.550000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1493099580961853601",
+    "channel_id": "1458820174516850800",
+    "author": {
+      "id": "699060921523372032",
+      "username": "vitao.trembolona",
+      "avatar": "2a15892b49fd24b591d0bc0dd60e66e9",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Vitão",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1427463138646954036",
+          "asset": "nameplates/orb/magical_mist/",
+          "label": "COLLECTIBLES_ORB_MAGIC_MISTS_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 14
+  },
+  {
+    "type": 0,
+    "content": "need to add a section for increasing max liquid. Alchemy progression is capped by that pretty hard",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-04-16T23:38:38.010000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1494482180678615140",
+    "channel_id": "1458820174516850800",
+    "author": {
+      "id": "464584024065703936",
+      "username": "eclipse0159",
+      "avatar": "3524c3d5d6ff3297249da4917f4bc8fd",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Eclipse",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 15,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 19,
+    "content": "Liquidvestment from equinox along with cran cooking will fix that for you",
+    "mentions": [
+      {
+        "id": "464584024065703936",
+        "username": "eclipse0159",
+        "avatar": "3524c3d5d6ff3297249da4917f4bc8fd",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Eclipse",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-04-21T07:37:45.807000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1496052309141229640",
+    "channel_id": "1458820174516850800",
+    "author": {
+      "id": "453835286065971201",
+      "username": "_sallam_",
+      "avatar": "45b13e77384f14da0dbfadaabcd10e85",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "sallam",
+      "avatar_decoration_data": {
+        "asset": "a_75348082d14b5097708444fca20a09e0",
+        "sku_id": "1427463138634109026",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1458820174516850800",
+      "message_id": "1494482180678615140",
+      "guild_id": "437797104786604034"
+    },
+    "position": 16,
+    "referenced_message": {
+      "type": 0,
+      "content": "need to add a section for increasing max liquid. Alchemy progression is capped by that pretty hard",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2026-04-16T23:38:38.010000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1494482180678615140",
+      "channel_id": "1458820174516850800",
+      "author": {
+        "id": "464584024065703936",
+        "username": "eclipse0159",
+        "avatar": "3524c3d5d6ff3297249da4917f4bc8fd",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Eclipse",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 15
+    }
+  },
+  {
+    "type": 0,
+    "content": "old",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-05-18T08:07:29.595000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1505844263261442119",
+    "channel_id": "1458820174516850800",
+    "author": {
+      "id": "267656914106580992",
+      "username": "wakitooo",
+      "avatar": "d9ac5c260151bb747f3feeb73a7dc40e",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": ".Thomas",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 18
+  },
+  {
+    "type": 0,
+    "content": "Nevur 4gurt",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-05-20T15:48:42.497000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1506685107556061304",
+    "channel_id": "1458820174516850800",
+    "author": {
+      "id": "139853855998345216",
+      "username": "jetic",
+      "avatar": "da3c6a727c81c7ad1b4e442ebd23f20d",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Jetic",
+      "avatar_decoration_data": {
+        "asset": "a_c48b135704ecb5c88f2f71f6c8bcce2f",
+        "sku_id": "1357589632581374042",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 2,
+        "colors": [
+          16095292,
+          15031015
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 19
+  }
+]

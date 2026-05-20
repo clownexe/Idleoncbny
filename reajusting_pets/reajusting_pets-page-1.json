@@ -1,0 +1,1237 @@
+[
+  {
+    "type": 0,
+    "content": "Did you know that you can move your BM pets around by kicking them? If you placed your nachos on the wrong place, or just want to \"play around with him\", you can use your kick ability to reajust his position, i know this is *kinda* useless, but i figured if anyone makes mistakes in placing him as much as i do this could be useful, also, pro tip: DONT DO THIS IRL",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1087007110048514098",
+        "filename": "YouCut_20230319_133256983.mp4",
+        "size": 4592515,
+        "url": "https://cdn.discordapp.com/attachments/1087007109553598626/1087007110048514098/YouCut_20230319_133256983.mp4?ex=6a0f0ac2&is=6a0db942&hm=0366642d707a326fc4c3aac2160ca327b88ed07a6fc7c280a3ad461dec61afb7&",
+        "proxy_url": "https://media.discordapp.net/attachments/1087007109553598626/1087007110048514098/YouCut_20230319_133256983.mp4?ex=6a0f0ac2&is=6a0db942&hm=0366642d707a326fc4c3aac2160ca327b88ed07a6fc7c280a3ad461dec61afb7&",
+        "width": 1280,
+        "height": 448,
+        "content_type": "video/mp4",
+        "content_scan_version": 4
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2023-03-19T13:38:10.533000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1087007109553598626",
+    "channel_id": "1087007109553598626",
+    "author": {
+      "id": "731076840076345424",
+      "username": "gamergeb2000",
+      "avatar": "63cb0e3ed6e3cb1c5ca10f008d4b701c",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "gamer geb",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1438845977304891426",
+        "identity_enabled": true,
+        "tag": "ACES",
+        "badge": "b402ff658295bf5f7c2eb1f810eae0a7"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1438845977304891426",
+        "identity_enabled": true,
+        "tag": "ACES",
+        "badge": "b402ff658295bf5f7c2eb1f810eae0a7"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 59,
+        "count_details": {
+          "burst": 0,
+          "normal": 59
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "456707411395346447",
+          "name": "pointer2"
+        },
+        "count": 7,
+        "count_details": {
+          "burst": 0,
+          "normal": 7
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "How is this late game",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-03-19T15:48:50.356000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1087039992154554378",
+    "channel_id": "1087007109553598626",
+    "author": {
+      "id": "1004492022662565918",
+      "username": "windowsxperience",
+      "avatar": "c4e7197d09615294bf5d7aa9f199f3a4",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Windowman",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0
+  },
+  {
+    "type": 0,
+    "content": "\"late game\"<:Grumblo:882122800620519475>",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-03-19T18:52:23.678000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1087086185375076352",
+    "channel_id": "1087007109553598626",
+    "author": {
+      "id": "270188377683394561",
+      "username": "fanthome",
+      "avatar": "4888a5d880df1f500e352598c670ebd5",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Fanthome",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 2
+  },
+  {
+    "type": 0,
+    "content": "I guess W4 is late game, therefore BM is late game. Late game is not Endgame tho",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-03-19T19:18:51.949000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1087092847066501209",
+    "channel_id": "1087007109553598626",
+    "author": {
+      "id": "175572531103793152",
+      "username": "teacup0209",
+      "avatar": "53faaa22d5d48c5058b100ff81f45757",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Teacup",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "736096289686552616",
+        "identity_enabled": true,
+        "tag": "ADV",
+        "badge": "fa9cc80236e71715c90d24db7ee9eb53"
+      },
+      "primary_guild": {
+        "identity_guild_id": "736096289686552616",
+        "identity_enabled": true,
+        "tag": "ADV",
+        "badge": "fa9cc80236e71715c90d24db7ee9eb53"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 3
+  },
+  {
+    "type": 19,
+    "content": "w4 isnt lategame",
+    "mentions": [
+      {
+        "id": "175572531103793152",
+        "username": "teacup0209",
+        "avatar": "53faaa22d5d48c5058b100ff81f45757",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Teacup",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "736096289686552616",
+          "identity_enabled": true,
+          "tag": "ADV",
+          "badge": "fa9cc80236e71715c90d24db7ee9eb53"
+        },
+        "primary_guild": {
+          "identity_guild_id": "736096289686552616",
+          "identity_enabled": true,
+          "tag": "ADV",
+          "badge": "fa9cc80236e71715c90d24db7ee9eb53"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-03-19T19:23:30.330000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1087094014681030817",
+    "channel_id": "1087007109553598626",
+    "author": {
+      "id": "1004492022662565918",
+      "username": "windowsxperience",
+      "avatar": "c4e7197d09615294bf5d7aa9f199f3a4",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Windowman",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1087007109553598626",
+      "message_id": "1087092847066501209",
+      "guild_id": "437797104786604034"
+    },
+    "position": 4,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "456707411395346447",
+          "name": "pointer2"
+        },
+        "count": 16,
+        "count_details": {
+          "burst": 0,
+          "normal": 16
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ],
+    "referenced_message": {
+      "type": 0,
+      "content": "I guess W4 is late game, therefore BM is late game. Late game is not Endgame tho",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2023-03-19T19:18:51.949000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1087092847066501209",
+      "channel_id": "1087007109553598626",
+      "author": {
+        "id": "175572531103793152",
+        "username": "teacup0209",
+        "avatar": "53faaa22d5d48c5058b100ff81f45757",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Teacup",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "736096289686552616",
+          "identity_enabled": true,
+          "tag": "ADV",
+          "badge": "fa9cc80236e71715c90d24db7ee9eb53"
+        },
+        "primary_guild": {
+          "identity_guild_id": "736096289686552616",
+          "identity_enabled": true,
+          "tag": "ADV",
+          "badge": "fa9cc80236e71715c90d24db7ee9eb53"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 3
+    }
+  },
+  {
+    "type": 0,
+    "content": "Sure",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-03-19T20:05:38.720000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1087104619517333534",
+    "channel_id": "1087007109553598626",
+    "author": {
+      "id": "175572531103793152",
+      "username": "teacup0209",
+      "avatar": "53faaa22d5d48c5058b100ff81f45757",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Teacup",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "736096289686552616",
+        "identity_enabled": true,
+        "tag": "ADV",
+        "badge": "fa9cc80236e71715c90d24db7ee9eb53"
+      },
+      "primary_guild": {
+        "identity_guild_id": "736096289686552616",
+        "identity_enabled": true,
+        "tag": "ADV",
+        "badge": "fa9cc80236e71715c90d24db7ee9eb53"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 5
+  },
+  {
+    "type": 0,
+    "content": "Very helpful for the vm mians",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-03-19T23:00:04.953000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1087148518080249896",
+    "channel_id": "1087007109553598626",
+    "author": {
+      "id": "444905794131984387",
+      "username": "rinxes",
+      "avatar": "850cc55fd0970f1f7f66084f1df16c96",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Rina",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "800148125289021470",
+        "identity_enabled": true,
+        "tag": "RC",
+        "badge": "ff518a7017bcf5aca81ec95580358ee5"
+      },
+      "primary_guild": {
+        "identity_guild_id": "800148125289021470",
+        "identity_enabled": true,
+        "tag": "RC",
+        "badge": "ff518a7017bcf5aca81ec95580358ee5"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 6
+  },
+  {
+    "type": 0,
+    "content": "<@731076840076345424> i did not know this",
+    "mentions": [
+      {
+        "id": "731076840076345424",
+        "username": "gamergeb2000",
+        "avatar": "63cb0e3ed6e3cb1c5ca10f008d4b701c",
+        "discriminator": "0",
+        "public_flags": 128,
+        "flags": 128,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "gamer geb",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1438845977304891426",
+          "identity_enabled": true,
+          "tag": "ACES",
+          "badge": "b402ff658295bf5f7c2eb1f810eae0a7"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1438845977304891426",
+          "identity_enabled": true,
+          "tag": "ACES",
+          "badge": "b402ff658295bf5f7c2eb1f810eae0a7"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-03-20T08:51:57.774000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1087297469647421492",
+    "channel_id": "1087007109553598626",
+    "author": {
+      "id": "262837652334706690",
+      "username": "lennyi",
+      "avatar": "406f3d10afb69643346cdafa535d3b66",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Lenni",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 7,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "😳"
+        },
+        "count": 9,
+        "count_details": {
+          "burst": 0,
+          "normal": 9
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 19,
+    "content": "W4 where you unlock bb i guess",
+    "mentions": [
+      {
+        "id": "1004492022662565918",
+        "username": "windowsxperience",
+        "avatar": "c4e7197d09615294bf5d7aa9f199f3a4",
+        "discriminator": "0",
+        "public_flags": 256,
+        "flags": 256,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Windowman",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-03-20T10:02:13.617000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1087315152174596137",
+    "channel_id": "1087007109553598626",
+    "author": {
+      "id": "731076840076345424",
+      "username": "gamergeb2000",
+      "avatar": "63cb0e3ed6e3cb1c5ca10f008d4b701c",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "gamer geb",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1438845977304891426",
+        "identity_enabled": true,
+        "tag": "ACES",
+        "badge": "b402ff658295bf5f7c2eb1f810eae0a7"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1438845977304891426",
+        "identity_enabled": true,
+        "tag": "ACES",
+        "badge": "b402ff658295bf5f7c2eb1f810eae0a7"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1087007109553598626",
+      "message_id": "1087039992154554378",
+      "guild_id": "437797104786604034"
+    },
+    "position": 8,
+    "referenced_message": {
+      "type": 0,
+      "content": "How is this late game",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2023-03-19T15:48:50.356000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1087039992154554378",
+      "channel_id": "1087007109553598626",
+      "author": {
+        "id": "1004492022662565918",
+        "username": "windowsxperience",
+        "avatar": "c4e7197d09615294bf5d7aa9f199f3a4",
+        "discriminator": "0",
+        "public_flags": 256,
+        "flags": 256,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Windowman",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 0
+    }
+  },
+  {
+    "type": 19,
+    "content": "Just use Jman whip",
+    "mentions": [
+      {
+        "id": "731076840076345424",
+        "username": "gamergeb2000",
+        "avatar": "63cb0e3ed6e3cb1c5ca10f008d4b701c",
+        "discriminator": "0",
+        "public_flags": 128,
+        "flags": 128,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "gamer geb",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1438845977304891426",
+          "identity_enabled": true,
+          "tag": "ACES",
+          "badge": "b402ff658295bf5f7c2eb1f810eae0a7"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1438845977304891426",
+          "identity_enabled": true,
+          "tag": "ACES",
+          "badge": "b402ff658295bf5f7c2eb1f810eae0a7"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-04-05T00:42:57.660000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1092972614139519019",
+    "channel_id": "1087007109553598626",
+    "author": {
+      "id": "690534865665261599",
+      "username": "orenberry",
+      "avatar": "602a3254f4143afc9acb15fed1445eec",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "orenberry",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614198505602",
+          "asset": "nameplates/nameplates/twilight/",
+          "label": "COLLECTIBLES_NAMEPLATES_TWILIGHT_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1087007109553598626",
+      "message_id": "1087007109553598626",
+      "guild_id": "437797104786604034"
+    },
+    "position": 12,
+    "referenced_message": {
+      "type": 0,
+      "content": "Did you know that you can move your BM pets around by kicking them? If you placed your nachos on the wrong place, or just want to \"play around with him\", you can use your kick ability to reajust his position, i know this is *kinda* useless, but i figured if anyone makes mistakes in placing him as much as i do this could be useful, also, pro tip: DONT DO THIS IRL",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [
+        {
+          "id": "1087007110048514098",
+          "filename": "YouCut_20230319_133256983.mp4",
+          "size": 4592515,
+          "url": "https://cdn.discordapp.com/attachments/1087007109553598626/1087007110048514098/YouCut_20230319_133256983.mp4?ex=6a0f0ac2&is=6a0db942&hm=0366642d707a326fc4c3aac2160ca327b88ed07a6fc7c280a3ad461dec61afb7&",
+          "proxy_url": "https://media.discordapp.net/attachments/1087007109553598626/1087007110048514098/YouCut_20230319_133256983.mp4?ex=6a0f0ac2&is=6a0db942&hm=0366642d707a326fc4c3aac2160ca327b88ed07a6fc7c280a3ad461dec61afb7&",
+          "width": 1280,
+          "height": 448,
+          "content_type": "video/mp4",
+          "content_scan_version": 4
+        }
+      ],
+      "embeds": [],
+      "timestamp": "2023-03-19T13:38:10.533000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1087007109553598626",
+      "channel_id": "1087007109553598626",
+      "author": {
+        "id": "731076840076345424",
+        "username": "gamergeb2000",
+        "avatar": "63cb0e3ed6e3cb1c5ca10f008d4b701c",
+        "discriminator": "0",
+        "public_flags": 128,
+        "flags": 128,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "gamer geb",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1438845977304891426",
+          "identity_enabled": true,
+          "tag": "ACES",
+          "badge": "b402ff658295bf5f7c2eb1f810eae0a7"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1438845977304891426",
+          "identity_enabled": true,
+          "tag": "ACES",
+          "badge": "b402ff658295bf5f7c2eb1f810eae0a7"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 0
+    }
+  },
+  {
+    "type": 0,
+    "content": "",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-04-05T00:43:04.280000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "sticker_items": [
+      {
+        "id": "859886620563603467",
+        "name": "Jman",
+        "format_type": 1
+      }
+    ],
+    "id": "1092972641905819709",
+    "channel_id": "1087007109553598626",
+    "author": {
+      "id": "690534865665261599",
+      "username": "orenberry",
+      "avatar": "602a3254f4143afc9acb15fed1445eec",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "orenberry",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614198505602",
+          "asset": "nameplates/nameplates/twilight/",
+          "label": "COLLECTIBLES_NAMEPLATES_TWILIGHT_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 13
+  },
+  {
+    "type": 19,
+    "content": "On a bm<:eyeballer:1046866496212713532><:eyeballer:1046866496212713532>",
+    "mentions": [
+      {
+        "id": "690534865665261599",
+        "username": "orenberry",
+        "avatar": "602a3254f4143afc9acb15fed1445eec",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "orenberry",
+        "avatar_decoration_data": null,
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1349849614198505602",
+            "asset": "nameplates/nameplates/twilight/",
+            "label": "COLLECTIBLES_NAMEPLATES_TWILIGHT_A11Y",
+            "palette": "cobalt"
+          }
+        },
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-04-05T06:49:30.193000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1093064857508642837",
+    "channel_id": "1087007109553598626",
+    "author": {
+      "id": "999574478902280213",
+      "username": ".originalusername.",
+      "avatar": "ac2e27dece1706fe8551d722dd876094",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "_OriginalUsername_",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1238152626282041405",
+        "identity_enabled": true,
+        "tag": "Rats",
+        "badge": "2d8bea68b3152b52858942d2bc854cc7"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1238152626282041405",
+        "identity_enabled": true,
+        "tag": "Rats",
+        "badge": "2d8bea68b3152b52858942d2bc854cc7"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1087007109553598626",
+      "message_id": "1092972614139519019",
+      "guild_id": "437797104786604034"
+    },
+    "position": 14,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍"
+        },
+        "count": 6,
+        "count_details": {
+          "burst": 0,
+          "normal": 6
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ],
+    "referenced_message": {
+      "type": 19,
+      "content": "Just use Jman whip",
+      "mentions": [
+        {
+          "id": "731076840076345424",
+          "username": "gamergeb2000",
+          "avatar": "63cb0e3ed6e3cb1c5ca10f008d4b701c",
+          "discriminator": "0",
+          "public_flags": 128,
+          "flags": 128,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "gamer geb",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": {
+            "identity_guild_id": "1438845977304891426",
+            "identity_enabled": true,
+            "tag": "ACES",
+            "badge": "b402ff658295bf5f7c2eb1f810eae0a7"
+          },
+          "primary_guild": {
+            "identity_guild_id": "1438845977304891426",
+            "identity_enabled": true,
+            "tag": "ACES",
+            "badge": "b402ff658295bf5f7c2eb1f810eae0a7"
+          }
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2023-04-05T00:42:57.660000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1092972614139519019",
+      "channel_id": "1087007109553598626",
+      "author": {
+        "id": "690534865665261599",
+        "username": "orenberry",
+        "avatar": "602a3254f4143afc9acb15fed1445eec",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "orenberry",
+        "avatar_decoration_data": null,
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1349849614198505602",
+            "asset": "nameplates/nameplates/twilight/",
+            "label": "COLLECTIBLES_NAMEPLATES_TWILIGHT_A11Y",
+            "palette": "cobalt"
+          }
+        },
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1087007109553598626",
+        "message_id": "1087007109553598626",
+        "guild_id": "437797104786604034"
+      },
+      "position": 12
+    }
+  },
+  {
+    "type": 19,
+    "content": "Of course",
+    "mentions": [
+      {
+        "id": "999574478902280213",
+        "username": ".originalusername.",
+        "avatar": "ac2e27dece1706fe8551d722dd876094",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "_OriginalUsername_",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1238152626282041405",
+          "identity_enabled": true,
+          "tag": "Rats",
+          "badge": "2d8bea68b3152b52858942d2bc854cc7"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1238152626282041405",
+          "identity_enabled": true,
+          "tag": "Rats",
+          "badge": "2d8bea68b3152b52858942d2bc854cc7"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-04-05T09:34:45.016000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1093106443290419241",
+    "channel_id": "1087007109553598626",
+    "author": {
+      "id": "731076840076345424",
+      "username": "gamergeb2000",
+      "avatar": "63cb0e3ed6e3cb1c5ca10f008d4b701c",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "gamer geb",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1438845977304891426",
+        "identity_enabled": true,
+        "tag": "ACES",
+        "badge": "b402ff658295bf5f7c2eb1f810eae0a7"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1438845977304891426",
+        "identity_enabled": true,
+        "tag": "ACES",
+        "badge": "b402ff658295bf5f7c2eb1f810eae0a7"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1087007109553598626",
+      "message_id": "1093064857508642837",
+      "guild_id": "437797104786604034"
+    },
+    "position": 15,
+    "referenced_message": {
+      "type": 19,
+      "content": "On a bm<:eyeballer:1046866496212713532><:eyeballer:1046866496212713532>",
+      "mentions": [
+        {
+          "id": "690534865665261599",
+          "username": "orenberry",
+          "avatar": "602a3254f4143afc9acb15fed1445eec",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "orenberry",
+          "avatar_decoration_data": null,
+          "collectibles": {
+            "nameplate": {
+              "sku_id": "1349849614198505602",
+              "asset": "nameplates/nameplates/twilight/",
+              "label": "COLLECTIBLES_NAMEPLATES_TWILIGHT_A11Y",
+              "palette": "cobalt"
+            }
+          },
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2023-04-05T06:49:30.193000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1093064857508642837",
+      "channel_id": "1087007109553598626",
+      "author": {
+        "id": "999574478902280213",
+        "username": ".originalusername.",
+        "avatar": "ac2e27dece1706fe8551d722dd876094",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "_OriginalUsername_",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1238152626282041405",
+          "identity_enabled": true,
+          "tag": "Rats",
+          "badge": "2d8bea68b3152b52858942d2bc854cc7"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1238152626282041405",
+          "identity_enabled": true,
+          "tag": "Rats",
+          "badge": "2d8bea68b3152b52858942d2bc854cc7"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1087007109553598626",
+        "message_id": "1092972614139519019",
+        "guild_id": "437797104786604034"
+      },
+      "position": 14
+    }
+  },
+  {
+    "type": 0,
+    "content": "I thought that this was a bug not gunna lie",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-04-30T10:53:28.739000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1102185952660701214",
+    "channel_id": "1087007109553598626",
+    "author": {
+      "id": "948254109117595679",
+      "username": "mrcrystal9920",
+      "avatar": "7638509b3f5024c933444f0e9c3b1408",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Mrcrystal9920",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 23
+  },
+  {
+    "type": 0,
+    "content": "Yeah me too at first",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-04-30T11:03:04.713000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1102188368470753390",
+    "channel_id": "1087007109553598626",
+    "author": {
+      "id": "731076840076345424",
+      "username": "gamergeb2000",
+      "avatar": "63cb0e3ed6e3cb1c5ca10f008d4b701c",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "gamer geb",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1438845977304891426",
+        "identity_enabled": true,
+        "tag": "ACES",
+        "badge": "b402ff658295bf5f7c2eb1f810eae0a7"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1438845977304891426",
+        "identity_enabled": true,
+        "tag": "ACES",
+        "badge": "b402ff658295bf5f7c2eb1f810eae0a7"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 24
+  },
+  {
+    "type": 0,
+    "content": "this also works with the other BM summon (the boar)",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-12-18T13:04:56.254000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1186293020115619974",
+    "channel_id": "1087007109553598626",
+    "author": {
+      "id": "456226577798135808",
+      "username": "Deleted User",
+      "avatar": null,
+      "discriminator": "0000",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 38
+  }
+]

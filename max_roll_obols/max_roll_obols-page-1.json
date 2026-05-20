@@ -1,0 +1,169 @@
+[
+  {
+    "type": 0,
+    "content": "Average cost of fragment to get perfect roll on every obol",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1096371620148412466",
+        "filename": "image.png",
+        "size": 34991,
+        "url": "https://cdn.discordapp.com/attachments/1096371619984851036/1096371620148412466/image.png?ex=6a0ed523&is=6a0d83a3&hm=c544b55cf95057092520a88de9de2aa8990bf3764bfc5efb510ddaebc4a1341f&",
+        "proxy_url": "https://media.discordapp.net/attachments/1096371619984851036/1096371620148412466/image.png?ex=6a0ed523&is=6a0d83a3&hm=c544b55cf95057092520a88de9de2aa8990bf3764bfc5efb510ddaebc4a1341f&",
+        "width": 1325,
+        "height": 194,
+        "content_type": "image/png",
+        "content_scan_version": 4
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2023-04-14T09:49:23.804000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1096371619984851036",
+    "channel_id": "1096371619984851036",
+    "author": {
+      "id": "278832144728719360",
+      "username": "gnakor",
+      "avatar": "b4672079b683cc22742b84720067f2a4",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Gnakor",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 14,
+        "count_details": {
+          "burst": 0,
+          "normal": 14
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "972657371673427998",
+          "name": "Pinchy",
+          "animated": true
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "858942633626566686",
+          "name": "Obol"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇫🇷"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "That's too endgame",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-04-14T17:32:03.888000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1096488054216212520",
+    "channel_id": "1096371619984851036",
+    "author": {
+      "id": "751119721914433647",
+      "username": "judemaz",
+      "avatar": "57f2a74e19d6fb07f9a8efc3bd8fdabe",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "obo",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "481713993623273481",
+          "name": "NO"
+        },
+        "count": 17,
+        "count_details": {
+          "burst": 0,
+          "normal": 17
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  }
+]

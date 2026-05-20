@@ -1,0 +1,1847 @@
+[
+  {
+    "type": 0,
+    "content": "This is a Google Sheet that has a calculator for most of the skills in the game. Below is a list of what it contains.\n\n```NEW: added PJS, just copy your lvls and past\n\nCandy calc for Mining, Chopping, Fishing, Catching\nand WW countdown calc for it(more smithing)\n\nBalloon calc for Cooking\n\nEXP calc for Construction, Active alchemy(may be wrong), Smithing,  Laboratory\n\nEgg and EXP calc for Breeding\n\nMantra and EXP calc for Divinity\n\nFamily and EXP calc for Summoning(wrong )\n\nCalc for Trapping and Sneaking```\n\n\nhttps://docs.google.com/spreadsheets/d/1TZj_xxsZ1l-e8m_Xhcbdx2gnzjb8UhtFzojF44WbHVQ/edit?gid=1584189455#gid=1584189455",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1423088007782727852",
+        "filename": "Screenshot_2025-10-02_012036.png",
+        "size": 95399,
+        "url": "https://cdn.discordapp.com/attachments/1423088006407000064/1423088007782727852/Screenshot_2025-10-02_012036.png?ex=6a0eeb3c&is=6a0d99bc&hm=6d374eb53d4f12f9db6d02dd307077d7d3007ea9b2bb8b2dc6be24e6a7362d41&",
+        "proxy_url": "https://media.discordapp.net/attachments/1423088006407000064/1423088007782727852/Screenshot_2025-10-02_012036.png?ex=6a0eeb3c&is=6a0d99bc&hm=6d374eb53d4f12f9db6d02dd307077d7d3007ea9b2bb8b2dc6be24e6a7362d41&",
+        "width": 1003,
+        "height": 634,
+        "content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "thgGDIKYVmuHeYd/lntFdkBkBw==",
+        "placeholder_version": 1,
+        "title": "Screenshot 2025-10-02 012036"
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2025-10-01T23:23:40.424000+00:00",
+    "edited_timestamp": "2025-10-12T15:42:39.827000+00:00",
+    "flags": 4,
+    "components": [],
+    "id": "1423088006407000064",
+    "channel_id": "1423088006407000064",
+    "author": {
+      "id": "432828545996423168",
+      "username": "tarqqz",
+      "avatar": "5b7abaca1fcf74b9cecb380dfc10c7b1",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "TaRo",
+      "avatar_decoration_data": {
+        "asset": "a_3c97a2d37f433a7913a1c7b7a735d000",
+        "sku_id": "1144308439720394944",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614198505602",
+          "asset": "nameplates/nameplates/twilight/",
+          "label": "COLLECTIBLES_NAMEPLATES_TWILIGHT_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 12,
+        "count_details": {
+          "burst": 0,
+          "normal": 12
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "what if i want to balloon mining but candy cooking?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-10-01T23:27:39.870000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1423089010716180621",
+    "channel_id": "1423088006407000064",
+    "author": {
+      "id": "773192392043790367",
+      "username": "mega_yairzzz",
+      "avatar": "4a99a3239e6149beeed7c6b945618708",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Mega",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "337985280969801728",
+        "identity_enabled": true,
+        "tag": "IL",
+        "badge": "ead40c6aa63f3427a25947f36b63bc0c"
+      },
+      "primary_guild": {
+        "identity_guild_id": "337985280969801728",
+        "identity_enabled": true,
+        "tag": "IL",
+        "badge": "ead40c6aa63f3427a25947f36b63bc0c"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0
+  },
+  {
+    "type": 19,
+    "content": "You can't use candies for cooking. and balloons for mining, that's not a good idea.<:Grumblo:882122800620519475>",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-10-01T23:29:00.500000+00:00",
+    "edited_timestamp": "2025-10-01T23:29:11.567000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1423089348903043182",
+    "channel_id": "1423088006407000064",
+    "author": {
+      "id": "432828545996423168",
+      "username": "tarqqz",
+      "avatar": "5b7abaca1fcf74b9cecb380dfc10c7b1",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "TaRo",
+      "avatar_decoration_data": {
+        "asset": "a_3c97a2d37f433a7913a1c7b7a735d000",
+        "sku_id": "1144308439720394944",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614198505602",
+          "asset": "nameplates/nameplates/twilight/",
+          "label": "COLLECTIBLES_NAMEPLATES_TWILIGHT_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1423088006407000064",
+      "message_id": "1423089010716180621",
+      "guild_id": "437797104786604034"
+    },
+    "position": 1,
+    "referenced_message": {
+      "type": 0,
+      "content": "what if i want to balloon mining but candy cooking?",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-10-01T23:27:39.870000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1423089010716180621",
+      "channel_id": "1423088006407000064",
+      "author": {
+        "id": "773192392043790367",
+        "username": "mega_yairzzz",
+        "avatar": "4a99a3239e6149beeed7c6b945618708",
+        "discriminator": "0",
+        "public_flags": 256,
+        "flags": 256,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Mega",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "337985280969801728",
+          "identity_enabled": true,
+          "tag": "IL",
+          "badge": "ead40c6aa63f3427a25947f36b63bc0c"
+        },
+        "primary_guild": {
+          "identity_guild_id": "337985280969801728",
+          "identity_enabled": true,
+          "tag": "IL",
+          "badge": "ead40c6aa63f3427a25947f36b63bc0c"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 0
+    }
+  },
+  {
+    "type": 0,
+    "content": "this is pretty cool",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-10-02T01:33:16.959000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1423120623558987877",
+    "channel_id": "1423088006407000064",
+    "author": {
+      "id": "781645214317412374",
+      "username": "2headphones",
+      "avatar": "7dcc3ae8e5573af9204159b2b0ca6879",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "2headphones",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 2
+  },
+  {
+    "type": 0,
+    "content": "What if I use vman with an 85% exp reduction?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-10-03T14:34:56.697000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1423679723183276042",
+    "channel_id": "1423088006407000064",
+    "author": {
+      "id": "222382127142928384",
+      "username": "cubicosta",
+      "avatar": "a_368d0a293fc43f5270b73c149fa757b3",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "𝕮𝖚𝖇𝖎𝕮𝖔𝖘𝖙𝖆",
+      "avatar_decoration_data": {
+        "asset": "a_a1035747f9a437cf875dc7b2088e397d",
+        "sku_id": "1474489440771641599",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1420225379284553810",
+          "asset": "nameplates/its_showtime/encore_orange/",
+          "label": "COLLECTIBLES_ITS_SHOWTIME_ENCORE_ORANGE_NP_A11Y",
+          "palette": "lemon"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 4,
+        "effect_id": 4,
+        "colors": [
+          16711684
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1345150399857819822",
+        "identity_enabled": true,
+        "tag": "hää",
+        "badge": "6b9a772c87ac340f32861187e7218259"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1345150399857819822",
+        "identity_enabled": true,
+        "tag": "hää",
+        "badge": "6b9a772c87ac340f32861187e7218259"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 3
+  },
+  {
+    "type": 19,
+    "content": "This is a good stuff to add, maybe I will, but don't forget that the discount only works for 1 level",
+    "mentions": [
+      {
+        "id": "222382127142928384",
+        "username": "cubicosta",
+        "avatar": "a_368d0a293fc43f5270b73c149fa757b3",
+        "discriminator": "0",
+        "public_flags": 128,
+        "flags": 128,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "𝕮𝖚𝖇𝖎𝕮𝖔𝖘𝖙𝖆",
+        "avatar_decoration_data": {
+          "asset": "a_a1035747f9a437cf875dc7b2088e397d",
+          "sku_id": "1474489440771641599",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1420225379284553810",
+            "asset": "nameplates/its_showtime/encore_orange/",
+            "label": "COLLECTIBLES_ITS_SHOWTIME_ENCORE_ORANGE_NP_A11Y",
+            "palette": "lemon"
+          }
+        },
+        "display_name_styles": {
+          "font_id": 4,
+          "effect_id": 4,
+          "colors": [
+            16711684
+          ]
+        },
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1345150399857819822",
+          "identity_enabled": true,
+          "tag": "hää",
+          "badge": "6b9a772c87ac340f32861187e7218259"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1345150399857819822",
+          "identity_enabled": true,
+          "tag": "hää",
+          "badge": "6b9a772c87ac340f32861187e7218259"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-10-03T14:59:55.768000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1423686010742767616",
+    "channel_id": "1423088006407000064",
+    "author": {
+      "id": "432828545996423168",
+      "username": "tarqqz",
+      "avatar": "5b7abaca1fcf74b9cecb380dfc10c7b1",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "TaRo",
+      "avatar_decoration_data": {
+        "asset": "a_3c97a2d37f433a7913a1c7b7a735d000",
+        "sku_id": "1144308439720394944",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614198505602",
+          "asset": "nameplates/nameplates/twilight/",
+          "label": "COLLECTIBLES_NAMEPLATES_TWILIGHT_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1423088006407000064",
+      "message_id": "1423679723183276042",
+      "guild_id": "437797104786604034"
+    },
+    "position": 4,
+    "referenced_message": {
+      "type": 0,
+      "content": "What if I use vman with an 85% exp reduction?",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-10-03T14:34:56.697000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1423679723183276042",
+      "channel_id": "1423088006407000064",
+      "author": {
+        "id": "222382127142928384",
+        "username": "cubicosta",
+        "avatar": "a_368d0a293fc43f5270b73c149fa757b3",
+        "discriminator": "0",
+        "public_flags": 128,
+        "flags": 128,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "𝕮𝖚𝖇𝖎𝕮𝖔𝖘𝖙𝖆",
+        "avatar_decoration_data": {
+          "asset": "a_a1035747f9a437cf875dc7b2088e397d",
+          "sku_id": "1474489440771641599",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1420225379284553810",
+            "asset": "nameplates/its_showtime/encore_orange/",
+            "label": "COLLECTIBLES_ITS_SHOWTIME_ENCORE_ORANGE_NP_A11Y",
+            "palette": "lemon"
+          }
+        },
+        "display_name_styles": {
+          "font_id": 4,
+          "effect_id": 4,
+          "colors": [
+            16711684
+          ]
+        },
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1345150399857819822",
+          "identity_enabled": true,
+          "tag": "hää",
+          "badge": "6b9a772c87ac340f32861187e7218259"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1345150399857819822",
+          "identity_enabled": true,
+          "tag": "hää",
+          "badge": "6b9a772c87ac340f32861187e7218259"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 3
+    }
+  },
+  {
+    "type": 19,
+    "content": "Yes true",
+    "mentions": [
+      {
+        "id": "432828545996423168",
+        "username": "tarqqz",
+        "avatar": "5b7abaca1fcf74b9cecb380dfc10c7b1",
+        "discriminator": "0",
+        "public_flags": 128,
+        "flags": 128,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "TaRo",
+        "avatar_decoration_data": {
+          "asset": "a_3c97a2d37f433a7913a1c7b7a735d000",
+          "sku_id": "1144308439720394944",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1349849614198505602",
+            "asset": "nameplates/nameplates/twilight/",
+            "label": "COLLECTIBLES_NAMEPLATES_TWILIGHT_A11Y",
+            "palette": "cobalt"
+          }
+        },
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-10-03T15:15:24.537000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1423689906282299463",
+    "channel_id": "1423088006407000064",
+    "author": {
+      "id": "222382127142928384",
+      "username": "cubicosta",
+      "avatar": "a_368d0a293fc43f5270b73c149fa757b3",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "𝕮𝖚𝖇𝖎𝕮𝖔𝖘𝖙𝖆",
+      "avatar_decoration_data": {
+        "asset": "a_a1035747f9a437cf875dc7b2088e397d",
+        "sku_id": "1474489440771641599",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1420225379284553810",
+          "asset": "nameplates/its_showtime/encore_orange/",
+          "label": "COLLECTIBLES_ITS_SHOWTIME_ENCORE_ORANGE_NP_A11Y",
+          "palette": "lemon"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 4,
+        "effect_id": 4,
+        "colors": [
+          16711684
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1345150399857819822",
+        "identity_enabled": true,
+        "tag": "hää",
+        "badge": "6b9a772c87ac340f32861187e7218259"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1345150399857819822",
+        "identity_enabled": true,
+        "tag": "hää",
+        "badge": "6b9a772c87ac340f32861187e7218259"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1423088006407000064",
+      "message_id": "1423686010742767616",
+      "guild_id": "437797104786604034"
+    },
+    "position": 5,
+    "referenced_message": {
+      "type": 19,
+      "content": "This is a good stuff to add, maybe I will, but don't forget that the discount only works for 1 level",
+      "mentions": [
+        {
+          "id": "222382127142928384",
+          "username": "cubicosta",
+          "avatar": "a_368d0a293fc43f5270b73c149fa757b3",
+          "discriminator": "0",
+          "public_flags": 128,
+          "flags": 128,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "𝕮𝖚𝖇𝖎𝕮𝖔𝖘𝖙𝖆",
+          "avatar_decoration_data": {
+            "asset": "a_a1035747f9a437cf875dc7b2088e397d",
+            "sku_id": "1474489440771641599",
+            "expires_at": null
+          },
+          "collectibles": {
+            "nameplate": {
+              "sku_id": "1420225379284553810",
+              "asset": "nameplates/its_showtime/encore_orange/",
+              "label": "COLLECTIBLES_ITS_SHOWTIME_ENCORE_ORANGE_NP_A11Y",
+              "palette": "lemon"
+            }
+          },
+          "display_name_styles": {
+            "font_id": 4,
+            "effect_id": 4,
+            "colors": [
+              16711684
+            ]
+          },
+          "banner_color": null,
+          "clan": {
+            "identity_guild_id": "1345150399857819822",
+            "identity_enabled": true,
+            "tag": "hää",
+            "badge": "6b9a772c87ac340f32861187e7218259"
+          },
+          "primary_guild": {
+            "identity_guild_id": "1345150399857819822",
+            "identity_enabled": true,
+            "tag": "hää",
+            "badge": "6b9a772c87ac340f32861187e7218259"
+          }
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-10-03T14:59:55.768000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1423686010742767616",
+      "channel_id": "1423088006407000064",
+      "author": {
+        "id": "432828545996423168",
+        "username": "tarqqz",
+        "avatar": "5b7abaca1fcf74b9cecb380dfc10c7b1",
+        "discriminator": "0",
+        "public_flags": 128,
+        "flags": 128,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "TaRo",
+        "avatar_decoration_data": {
+          "asset": "a_3c97a2d37f433a7913a1c7b7a735d000",
+          "sku_id": "1144308439720394944",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1349849614198505602",
+            "asset": "nameplates/nameplates/twilight/",
+            "label": "COLLECTIBLES_NAMEPLATES_TWILIGHT_A11Y",
+            "palette": "cobalt"
+          }
+        },
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1423088006407000064",
+        "message_id": "1423679723183276042",
+        "guild_id": "437797104786604034"
+      },
+      "position": 4
+    }
+  },
+  {
+    "type": 19,
+    "content": "Thanks for the idea of ​​adding this thing, I hope to add it soon",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-10-03T15:17:55.007000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1423690537399222364",
+    "channel_id": "1423088006407000064",
+    "author": {
+      "id": "432828545996423168",
+      "username": "tarqqz",
+      "avatar": "5b7abaca1fcf74b9cecb380dfc10c7b1",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "TaRo",
+      "avatar_decoration_data": {
+        "asset": "a_3c97a2d37f433a7913a1c7b7a735d000",
+        "sku_id": "1144308439720394944",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614198505602",
+          "asset": "nameplates/nameplates/twilight/",
+          "label": "COLLECTIBLES_NAMEPLATES_TWILIGHT_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1423088006407000064",
+      "message_id": "1423689906282299463",
+      "guild_id": "437797104786604034"
+    },
+    "position": 6,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "1114306970816630876",
+          "name": "Grumblo_Pray"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "481714069930246147",
+          "name": "YES"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ],
+    "referenced_message": {
+      "type": 19,
+      "content": "Yes true",
+      "mentions": [
+        {
+          "id": "432828545996423168",
+          "username": "tarqqz",
+          "avatar": "5b7abaca1fcf74b9cecb380dfc10c7b1",
+          "discriminator": "0",
+          "public_flags": 128,
+          "flags": 128,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "TaRo",
+          "avatar_decoration_data": {
+            "asset": "a_3c97a2d37f433a7913a1c7b7a735d000",
+            "sku_id": "1144308439720394944",
+            "expires_at": null
+          },
+          "collectibles": {
+            "nameplate": {
+              "sku_id": "1349849614198505602",
+              "asset": "nameplates/nameplates/twilight/",
+              "label": "COLLECTIBLES_NAMEPLATES_TWILIGHT_A11Y",
+              "palette": "cobalt"
+            }
+          },
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-10-03T15:15:24.537000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1423689906282299463",
+      "channel_id": "1423088006407000064",
+      "author": {
+        "id": "222382127142928384",
+        "username": "cubicosta",
+        "avatar": "a_368d0a293fc43f5270b73c149fa757b3",
+        "discriminator": "0",
+        "public_flags": 128,
+        "flags": 128,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "𝕮𝖚𝖇𝖎𝕮𝖔𝖘𝖙𝖆",
+        "avatar_decoration_data": {
+          "asset": "a_a1035747f9a437cf875dc7b2088e397d",
+          "sku_id": "1474489440771641599",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1420225379284553810",
+            "asset": "nameplates/its_showtime/encore_orange/",
+            "label": "COLLECTIBLES_ITS_SHOWTIME_ENCORE_ORANGE_NP_A11Y",
+            "palette": "lemon"
+          }
+        },
+        "display_name_styles": {
+          "font_id": 4,
+          "effect_id": 4,
+          "colors": [
+            16711684
+          ]
+        },
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1345150399857819822",
+          "identity_enabled": true,
+          "tag": "hää",
+          "badge": "6b9a772c87ac340f32861187e7218259"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1345150399857819822",
+          "identity_enabled": true,
+          "tag": "hää",
+          "badge": "6b9a772c87ac340f32861187e7218259"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1423088006407000064",
+        "message_id": "1423686010742767616",
+        "guild_id": "437797104786604034"
+      },
+      "position": 5
+    }
+  },
+  {
+    "type": 0,
+    "content": "Added a WW check box to  Mining, Chopping, Fishing, Catching and smithing, i hope it works good...<:Grumblo_Pray:1114306970816630876>",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1424757365013483613",
+        "filename": "image.png",
+        "size": 7338,
+        "url": "https://cdn.discordapp.com/attachments/1423088006407000064/1424757365013483613/image.png?ex=6a0f0f32&is=6a0dbdb2&hm=4e7932386a32cff98a362cb63a0b6e71ad6635a6d5b37202926fe4a94c2f5fb3&",
+        "proxy_url": "https://media.discordapp.net/attachments/1423088006407000064/1424757365013483613/image.png?ex=6a0f0f32&is=6a0dbdb2&hm=4e7932386a32cff98a362cb63a0b6e71ad6635a6d5b37202926fe4a94c2f5fb3&",
+        "width": 461,
+        "height": 114,
+        "content_type": "image/webp",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "tBgOIoRXaqd/WGh3hZBaCKk=",
+        "placeholder_version": 1
+      },
+      {
+        "id": "1424757365378384043",
+        "filename": "image.png",
+        "size": 2764,
+        "url": "https://cdn.discordapp.com/attachments/1423088006407000064/1424757365378384043/image.png?ex=6a0f0f32&is=6a0dbdb2&hm=05ac8ccadc2ebf4cc99a452a3962be0d9de535ce8d8d9a3ee56427d88f678568&",
+        "proxy_url": "https://media.discordapp.net/attachments/1423088006407000064/1424757365378384043/image.png?ex=6a0f0f32&is=6a0dbdb2&hm=05ac8ccadc2ebf4cc99a452a3962be0d9de535ce8d8d9a3ee56427d88f678568&",
+        "width": 195,
+        "height": 55,
+        "content_type": "image/webp",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "dQgKEoJAqamAiEhpVE899NM=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2025-10-06T13:57:06.696000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1424757365705670656",
+    "channel_id": "1423088006407000064",
+    "author": {
+      "id": "432828545996423168",
+      "username": "tarqqz",
+      "avatar": "5b7abaca1fcf74b9cecb380dfc10c7b1",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "TaRo",
+      "avatar_decoration_data": {
+        "asset": "a_3c97a2d37f433a7913a1c7b7a735d000",
+        "sku_id": "1144308439720394944",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614198505602",
+          "asset": "nameplates/nameplates/twilight/",
+          "label": "COLLECTIBLES_NAMEPLATES_TWILIGHT_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 7,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "1114306970816630876",
+          "name": "Grumblo_Pray"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "Questions in image. (Sorry, I'm dumb. lol.)",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1424843970223276092",
+        "filename": "image.png",
+        "size": 31989,
+        "url": "https://cdn.discordapp.com/attachments/1423088006407000064/1424843970223276092/image.png?ex=6a0f5fda&is=6a0e0e5a&hm=c3b85f5acd22afab74d65f805b6a36f8e8e28d8e23afcea8ac4a75b1f49873bb&",
+        "proxy_url": "https://media.discordapp.net/attachments/1423088006407000064/1424843970223276092/image.png?ex=6a0f5fda&is=6a0e0e5a&hm=c3b85f5acd22afab74d65f805b6a36f8e8e28d8e23afcea8ac4a75b1f49873bb&",
+        "width": 728,
+        "height": 246,
+        "content_type": "image/png",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "thgGCoKXqfiDiKd4VINABFg=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2025-10-06T19:41:14.882000+00:00",
+    "edited_timestamp": "2025-10-06T19:41:34.524000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1424843970474676234",
+    "channel_id": "1423088006407000064",
+    "author": {
+      "id": "533862365951688748",
+      "username": "pastanut",
+      "avatar": "2575318e5eed7cb1aa834fab0030184d",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Kaidi",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 8
+  },
+  {
+    "type": 19,
+    "content": "so the exp multiplier is in the skills info like it says, and yes, pets from all four worlds, because formula gives you more exp by each opened pet",
+    "mentions": [
+      {
+        "id": "533862365951688748",
+        "username": "pastanut",
+        "avatar": "2575318e5eed7cb1aa834fab0030184d",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Kaidi",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1424844920920870982",
+        "filename": "image.png",
+        "size": 17918,
+        "url": "https://cdn.discordapp.com/attachments/1423088006407000064/1424844920920870982/image.png?ex=6a0f60bd&is=6a0e0f3d&hm=9f81f54657965352ffd851dc305a64aa8498dd562747ea65765387e4430c51e1&",
+        "proxy_url": "https://media.discordapp.net/attachments/1423088006407000064/1424844920920870982/image.png?ex=6a0f60bd&is=6a0e0f3d&hm=9f81f54657965352ffd851dc305a64aa8498dd562747ea65765387e4430c51e1&",
+        "width": 225,
+        "height": 222,
+        "content_type": "image/webp",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "FQcGF4Cfemdsl4hShll1eHiG1vVnB0YD",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2025-10-06T19:45:01.605000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1424844921420120184",
+    "channel_id": "1423088006407000064",
+    "author": {
+      "id": "432828545996423168",
+      "username": "tarqqz",
+      "avatar": "5b7abaca1fcf74b9cecb380dfc10c7b1",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "TaRo",
+      "avatar_decoration_data": {
+        "asset": "a_3c97a2d37f433a7913a1c7b7a735d000",
+        "sku_id": "1144308439720394944",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614198505602",
+          "asset": "nameplates/nameplates/twilight/",
+          "label": "COLLECTIBLES_NAMEPLATES_TWILIGHT_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1423088006407000064",
+      "message_id": "1424843970474676234",
+      "guild_id": "437797104786604034"
+    },
+    "position": 9,
+    "referenced_message": {
+      "type": 0,
+      "content": "Questions in image. (Sorry, I'm dumb. lol.)",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [
+        {
+          "id": "1424843970223276092",
+          "filename": "image.png",
+          "size": 31989,
+          "url": "https://cdn.discordapp.com/attachments/1423088006407000064/1424843970223276092/image.png?ex=6a0f5fda&is=6a0e0e5a&hm=c3b85f5acd22afab74d65f805b6a36f8e8e28d8e23afcea8ac4a75b1f49873bb&",
+          "proxy_url": "https://media.discordapp.net/attachments/1423088006407000064/1424843970223276092/image.png?ex=6a0f5fda&is=6a0e0e5a&hm=c3b85f5acd22afab74d65f805b6a36f8e8e28d8e23afcea8ac4a75b1f49873bb&",
+          "width": 728,
+          "height": 246,
+          "content_type": "image/png",
+          "original_content_type": "image/png",
+          "content_scan_version": 4,
+          "placeholder": "thgGCoKXqfiDiKd4VINABFg=",
+          "placeholder_version": 1
+        }
+      ],
+      "embeds": [],
+      "timestamp": "2025-10-06T19:41:14.882000+00:00",
+      "edited_timestamp": "2025-10-06T19:41:34.524000+00:00",
+      "flags": 0,
+      "components": [],
+      "id": "1424843970474676234",
+      "channel_id": "1423088006407000064",
+      "author": {
+        "id": "533862365951688748",
+        "username": "pastanut",
+        "avatar": "2575318e5eed7cb1aa834fab0030184d",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Kaidi",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 8
+    }
+  },
+  {
+    "type": 19,
+    "content": "Ahhh, duh, for both questions. Apparently not enough coffee today. Thanks! This is cool :)",
+    "mentions": [
+      {
+        "id": "432828545996423168",
+        "username": "tarqqz",
+        "avatar": "5b7abaca1fcf74b9cecb380dfc10c7b1",
+        "discriminator": "0",
+        "public_flags": 128,
+        "flags": 128,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "TaRo",
+        "avatar_decoration_data": {
+          "asset": "a_3c97a2d37f433a7913a1c7b7a735d000",
+          "sku_id": "1144308439720394944",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1349849614198505602",
+            "asset": "nameplates/nameplates/twilight/",
+            "label": "COLLECTIBLES_NAMEPLATES_TWILIGHT_A11Y",
+            "palette": "cobalt"
+          }
+        },
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-10-06T19:45:47.652000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1424845114555240551",
+    "channel_id": "1423088006407000064",
+    "author": {
+      "id": "533862365951688748",
+      "username": "pastanut",
+      "avatar": "2575318e5eed7cb1aa834fab0030184d",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Kaidi",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1423088006407000064",
+      "message_id": "1424844921420120184",
+      "guild_id": "437797104786604034"
+    },
+    "position": 10,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "812252292597547018",
+          "name": "Hearto"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ],
+    "referenced_message": {
+      "type": 19,
+      "content": "so the exp multiplier is in the skills info like it says, and yes, pets from all four worlds, because formula gives you more exp by each opened pet",
+      "mentions": [
+        {
+          "id": "533862365951688748",
+          "username": "pastanut",
+          "avatar": "2575318e5eed7cb1aa834fab0030184d",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Kaidi",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [
+        {
+          "id": "1424844920920870982",
+          "filename": "image.png",
+          "size": 17918,
+          "url": "https://cdn.discordapp.com/attachments/1423088006407000064/1424844920920870982/image.png?ex=6a0f60bd&is=6a0e0f3d&hm=9f81f54657965352ffd851dc305a64aa8498dd562747ea65765387e4430c51e1&",
+          "proxy_url": "https://media.discordapp.net/attachments/1423088006407000064/1424844920920870982/image.png?ex=6a0f60bd&is=6a0e0f3d&hm=9f81f54657965352ffd851dc305a64aa8498dd562747ea65765387e4430c51e1&",
+          "width": 225,
+          "height": 222,
+          "content_type": "image/webp",
+          "original_content_type": "image/png",
+          "content_scan_version": 4,
+          "placeholder": "FQcGF4Cfemdsl4hShll1eHiG1vVnB0YD",
+          "placeholder_version": 1
+        }
+      ],
+      "embeds": [],
+      "timestamp": "2025-10-06T19:45:01.605000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1424844921420120184",
+      "channel_id": "1423088006407000064",
+      "author": {
+        "id": "432828545996423168",
+        "username": "tarqqz",
+        "avatar": "5b7abaca1fcf74b9cecb380dfc10c7b1",
+        "discriminator": "0",
+        "public_flags": 128,
+        "flags": 128,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "TaRo",
+        "avatar_decoration_data": {
+          "asset": "a_3c97a2d37f433a7913a1c7b7a735d000",
+          "sku_id": "1144308439720394944",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1349849614198505602",
+            "asset": "nameplates/nameplates/twilight/",
+            "label": "COLLECTIBLES_NAMEPLATES_TWILIGHT_A11Y",
+            "palette": "cobalt"
+          }
+        },
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1423088006407000064",
+        "message_id": "1424843970474676234",
+        "guild_id": "437797104786604034"
+      },
+      "position": 9
+    }
+  },
+  {
+    "type": 0,
+    "content": "Hello, I just modified the Excel file a little.\nI added trapping and sneaking.\nI modified the discount theme with vman.\nAnd I added an option to enter the level of all characters.\nIf there is something you like, you can use it for your original Excel file and Let me know if you find any errors.\nhttps://docs.google.com/spreadsheets/d/1rsQtHHzXw794YtaPDLlRj94rRkMEKpJ1_TpjeaNWFhk/edit?gid=139151183#gid=139151183",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-10-12T00:37:34.219000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1426730481747234818",
+    "channel_id": "1423088006407000064",
+    "author": {
+      "id": "495329238317137938",
+      "username": "keit7bort",
+      "avatar": "a4ac7370c5d267a48450fa96604e3af5",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Keit7Bort",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 11
+  },
+  {
+    "type": 19,
+    "content": "Wow dude, that's godly, I didn't even think of adding that with level copying, thank you so much, I'll make a copy of your sheet if you don't mind and put it as relevant. Of course I'll mention you<:Grumblo_Pray:1114306970816630876> <:grumblo_steal:1098050666028597320>",
+    "mentions": [
+      {
+        "id": "495329238317137938",
+        "username": "keit7bort",
+        "avatar": "a4ac7370c5d267a48450fa96604e3af5",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Keit7Bort",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-10-12T10:44:54.383000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1426883322872725535",
+    "channel_id": "1423088006407000064",
+    "author": {
+      "id": "432828545996423168",
+      "username": "tarqqz",
+      "avatar": "5b7abaca1fcf74b9cecb380dfc10c7b1",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "TaRo",
+      "avatar_decoration_data": {
+        "asset": "a_3c97a2d37f433a7913a1c7b7a735d000",
+        "sku_id": "1144308439720394944",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614198505602",
+          "asset": "nameplates/nameplates/twilight/",
+          "label": "COLLECTIBLES_NAMEPLATES_TWILIGHT_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1423088006407000064",
+      "message_id": "1426730481747234818",
+      "guild_id": "437797104786604034"
+    },
+    "position": 12,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "1101692875248521366",
+          "name": "grumblo_thumbsup"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ],
+    "referenced_message": {
+      "type": 0,
+      "content": "Hello, I just modified the Excel file a little.\nI added trapping and sneaking.\nI modified the discount theme with vman.\nAnd I added an option to enter the level of all characters.\nIf there is something you like, you can use it for your original Excel file and Let me know if you find any errors.\nhttps://docs.google.com/spreadsheets/d/1rsQtHHzXw794YtaPDLlRj94rRkMEKpJ1_TpjeaNWFhk/edit?gid=139151183#gid=139151183",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-10-12T00:37:34.219000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1426730481747234818",
+      "channel_id": "1423088006407000064",
+      "author": {
+        "id": "495329238317137938",
+        "username": "keit7bort",
+        "avatar": "a4ac7370c5d267a48450fa96604e3af5",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Keit7Bort",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 11
+    }
+  },
+  {
+    "type": 0,
+    "content": "##  Sheet was updated\nNew link is the new sheet, more easy and comfortable. Copy lvls from IdleonToolbox and past, big thanks to Keit7bort<:Grumblo_Pray:1114306970816630876>",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-10-12T15:44:43.757000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1426958775776182342",
+    "channel_id": "1423088006407000064",
+    "author": {
+      "id": "432828545996423168",
+      "username": "tarqqz",
+      "avatar": "5b7abaca1fcf74b9cecb380dfc10c7b1",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "TaRo",
+      "avatar_decoration_data": {
+        "asset": "a_3c97a2d37f433a7913a1c7b7a735d000",
+        "sku_id": "1144308439720394944",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614198505602",
+          "asset": "nameplates/nameplates/twilight/",
+          "label": "COLLECTIBLES_NAMEPLATES_TWILIGHT_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 13
+  },
+  {
+    "type": 0,
+    "content": "Any tips on how to format the copied data from IdleonToolBox into the PJS sheet? The default format goes to every other line for me.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1448041098785063084",
+        "filename": "image.png",
+        "size": 27280,
+        "url": "https://cdn.discordapp.com/attachments/1423088006407000064/1448041098785063084/image.png?ex=6a0f63dd&is=6a0e125d&hm=2f0157265021096e5f6ae77e548a79219f3b04773d25f92f7ea14eeb244abb30&",
+        "proxy_url": "https://media.discordapp.net/attachments/1423088006407000064/1448041098785063084/image.png?ex=6a0f63dd&is=6a0e125d&hm=2f0157265021096e5f6ae77e548a79219f3b04773d25f92f7ea14eeb244abb30&",
+        "width": 484,
+        "height": 792,
+        "content_type": "image/webp",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "8fcNDALyd1a2iYmXmJn0ZVhfhw==",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2025-12-09T19:58:21.326000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1448041099091382402",
+    "channel_id": "1423088006407000064",
+    "author": {
+      "id": "151133843649200128",
+      "username": "fitzchivalrous",
+      "avatar": null,
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "FitzChivalrous",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 14
+  },
+  {
+    "type": 19,
+    "content": "Are you doing this on a PC? If so, then most likely the images that are null were copied too. I think the only solution is to move each level to his correct cell.<:Grumblo_Pray:1114306970816630876>",
+    "mentions": [
+      {
+        "id": "151133843649200128",
+        "username": "fitzchivalrous",
+        "avatar": null,
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "FitzChivalrous",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-09T20:29:32.044000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1448048945451372780",
+    "channel_id": "1423088006407000064",
+    "author": {
+      "id": "432828545996423168",
+      "username": "tarqqz",
+      "avatar": "5b7abaca1fcf74b9cecb380dfc10c7b1",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "TaRo",
+      "avatar_decoration_data": {
+        "asset": "a_3c97a2d37f433a7913a1c7b7a735d000",
+        "sku_id": "1144308439720394944",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614198505602",
+          "asset": "nameplates/nameplates/twilight/",
+          "label": "COLLECTIBLES_NAMEPLATES_TWILIGHT_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1423088006407000064",
+      "message_id": "1448041099091382402",
+      "guild_id": "437797104786604034"
+    },
+    "position": 15,
+    "referenced_message": {
+      "type": 0,
+      "content": "Any tips on how to format the copied data from IdleonToolBox into the PJS sheet? The default format goes to every other line for me.",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [
+        {
+          "id": "1448041098785063084",
+          "filename": "image.png",
+          "size": 27280,
+          "url": "https://cdn.discordapp.com/attachments/1423088006407000064/1448041098785063084/image.png?ex=6a0f63dd&is=6a0e125d&hm=2f0157265021096e5f6ae77e548a79219f3b04773d25f92f7ea14eeb244abb30&",
+          "proxy_url": "https://media.discordapp.net/attachments/1423088006407000064/1448041098785063084/image.png?ex=6a0f63dd&is=6a0e125d&hm=2f0157265021096e5f6ae77e548a79219f3b04773d25f92f7ea14eeb244abb30&",
+          "width": 484,
+          "height": 792,
+          "content_type": "image/webp",
+          "original_content_type": "image/png",
+          "content_scan_version": 4,
+          "placeholder": "8fcNDALyd1a2iYmXmJn0ZVhfhw==",
+          "placeholder_version": 1
+        }
+      ],
+      "embeds": [],
+      "timestamp": "2025-12-09T19:58:21.326000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1448041099091382402",
+      "channel_id": "1423088006407000064",
+      "author": {
+        "id": "151133843649200128",
+        "username": "fitzchivalrous",
+        "avatar": null,
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "FitzChivalrous",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 14
+    }
+  },
+  {
+    "type": 0,
+    "content": "Yep, on PC. I'll give it a go T_T",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-09T20:30:08.346000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1448049097713127577",
+    "channel_id": "1423088006407000064",
+    "author": {
+      "id": "151133843649200128",
+      "username": "fitzchivalrous",
+      "avatar": null,
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "FitzChivalrous",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 16
+  },
+  {
+    "type": 19,
+    "content": "You can try to delete the empty cells, it will move every cells automatically and i dont think it will break anything",
+    "mentions": [
+      {
+        "id": "151133843649200128",
+        "username": "fitzchivalrous",
+        "avatar": null,
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "FitzChivalrous",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-09T20:33:47.884000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1448050018522238979",
+    "channel_id": "1423088006407000064",
+    "author": {
+      "id": "432828545996423168",
+      "username": "tarqqz",
+      "avatar": "5b7abaca1fcf74b9cecb380dfc10c7b1",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "TaRo",
+      "avatar_decoration_data": {
+        "asset": "a_3c97a2d37f433a7913a1c7b7a735d000",
+        "sku_id": "1144308439720394944",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614198505602",
+          "asset": "nameplates/nameplates/twilight/",
+          "label": "COLLECTIBLES_NAMEPLATES_TWILIGHT_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1423088006407000064",
+      "message_id": "1448049097713127577",
+      "guild_id": "437797104786604034"
+    },
+    "position": 17,
+    "referenced_message": {
+      "type": 0,
+      "content": "Yep, on PC. I'll give it a go T_T",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-12-09T20:30:08.346000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1448049097713127577",
+      "channel_id": "1423088006407000064",
+      "author": {
+        "id": "151133843649200128",
+        "username": "fitzchivalrous",
+        "avatar": null,
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "FitzChivalrous",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 16
+    }
+  }
+]

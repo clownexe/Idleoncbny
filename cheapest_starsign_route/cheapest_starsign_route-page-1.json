@@ -1,0 +1,408 @@
+[
+  {
+    "type": 0,
+    "content": "This is the cheapest route to reach the 4% afk gains rate star sign in hydron (and still unlocking the important ones)\n\nYou could also avoid the stat ones (top right Chronus) but you would still need to replace them with other 2 star signs, since you need a certain amount of star signs to unlock hydron page (obv would cost more, so don't exaggerate with points usage or you would lack points to unlock the 4% afk gains one)\nImage\nCredits to<@381550582756016138> for the image and info.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1085024721579560990",
+        "filename": "unknown-125.png",
+        "size": 143031,
+        "url": "https://cdn.discordapp.com/attachments/1085024721323687966/1085024721579560990/unknown-125.png?ex=6a0f14c4&is=6a0dc344&hm=2f1fb21a48e23baf7a8e2322e77923e44a7680830e2ff4e07d1c9c0b90ec2c0d&",
+        "proxy_url": "https://media.discordapp.net/attachments/1085024721323687966/1085024721579560990/unknown-125.png?ex=6a0f14c4&is=6a0dc344&hm=2f1fb21a48e23baf7a8e2322e77923e44a7680830e2ff4e07d1c9c0b90ec2c0d&",
+        "width": 948,
+        "height": 772,
+        "content_type": "image/png",
+        "content_scan_version": 4
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2023-03-14T02:20:52.348000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1085024721323687966",
+    "channel_id": "1085024721323687966",
+    "author": {
+      "id": "236928332430573569",
+      "username": "rashaken",
+      "avatar": "c589bd219a130db4bbcec6d12a4f6a9a",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Rashaken",
+      "avatar_decoration_data": {
+        "asset": "a_c7e1751e8122f1b475cb3006966fb28c",
+        "sku_id": "1154896005045694555",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "368953963267096586",
+        "identity_enabled": true,
+        "tag": "LE",
+        "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+      },
+      "primary_guild": {
+        "identity_guild_id": "368953963267096586",
+        "identity_enabled": true,
+        "tag": "LE",
+        "badge": "4ef966b9bdd3ca7155e184e893314cd6"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 95,
+        "count_details": {
+          "burst": 0,
+          "normal": 95
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "Is there a video ?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-06-29T02:51:21.255000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1123807893934854195",
+    "channel_id": "1085024721323687966",
+    "author": {
+      "id": "593208209536450570",
+      "username": "sprinkler38300",
+      "avatar": "d07aa623fab73184394a9c0f41e4559e",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Jaycee",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 26
+  },
+  {
+    "type": 19,
+    "content": "If u mean where to find the constellations and stuff, search it on google. There should be a wiki about it and a bunch of videos about it.",
+    "mentions": [
+      {
+        "id": "593208209536450570",
+        "username": "sprinkler38300",
+        "avatar": "d07aa623fab73184394a9c0f41e4559e",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Jaycee",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-06-29T13:21:21.485000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1123966439590727730",
+    "channel_id": "1085024721323687966",
+    "author": {
+      "id": "828087422079205426",
+      "username": "trovinroth",
+      "avatar": "c3b7c13ae37433473f5e99c80ff5b71c",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Trov",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "323822524586524685",
+        "identity_enabled": true,
+        "tag": "BS",
+        "badge": "57105dd5d54ebb9faef5e1b90c3768e1"
+      },
+      "primary_guild": {
+        "identity_guild_id": "323822524586524685",
+        "identity_enabled": true,
+        "tag": "BS",
+        "badge": "57105dd5d54ebb9faef5e1b90c3768e1"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1085024721323687966",
+      "message_id": "1123807893934854195",
+      "guild_id": "437797104786604034"
+    },
+    "position": 27,
+    "referenced_message": {
+      "type": 0,
+      "content": "Is there a video ?",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2023-06-29T02:51:21.255000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1123807893934854195",
+      "channel_id": "1085024721323687966",
+      "author": {
+        "id": "593208209536450570",
+        "username": "sprinkler38300",
+        "avatar": "d07aa623fab73184394a9c0f41e4559e",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Jaycee",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 26
+    }
+  },
+  {
+    "type": 19,
+    "content": "https://www.youtube.com/watch?v=y4s8asRDxF4",
+    "mentions": [
+      {
+        "id": "593208209536450570",
+        "username": "sprinkler38300",
+        "avatar": "d07aa623fab73184394a9c0f41e4559e",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Jaycee",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=y4s8asRDxF4",
+        "title": "IdleOn Ultimate Star Sign Guide | Everything You Need To Know!",
+        "description": "My dudes here's the link to help collect them all! https://idleon.info/wiki/Star_Signs\n\n\n#griffybit #idleon #legendsofidleon",
+        "color": 16711680,
+        "reference_id": "1124740833242001438",
+        "author": {
+          "name": "GriffyBit",
+          "url": "https://www.youtube.com/channel/UCt5WC8O9Jrb-UeNcI5T9BoQ"
+        },
+        "provider": {
+          "name": "YouTube",
+          "url": "https://www.youtube.com"
+        },
+        "thumbnail": {
+          "url": "https://i.ytimg.com/vi/y4s8asRDxF4/maxresdefault.jpg",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/awcPczdqJgKNUl4UyMKWrN0bR5TLlDxqMlHSLgYBMJg/https/i.ytimg.com/vi/y4s8asRDxF4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "flags": 0
+        },
+        "video": {
+          "url": "https://www.youtube.com/embed/y4s8asRDxF4",
+          "width": 1280,
+          "height": 720,
+          "flags": 0
+        },
+        "content_scan_version": 4
+      }
+    ],
+    "timestamp": "2023-07-01T16:38:31.319000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1124740833242001438",
+    "channel_id": "1085024721323687966",
+    "author": {
+      "id": "456226577798135808",
+      "username": "Deleted User",
+      "avatar": null,
+      "discriminator": "0000",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1085024721323687966",
+      "message_id": "1123807893934854195",
+      "guild_id": "437797104786604034"
+    },
+    "position": 28,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "1098050666028597320",
+          "name": "grumblo_steal"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ],
+    "referenced_message": {
+      "type": 0,
+      "content": "Is there a video ?",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2023-06-29T02:51:21.255000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1123807893934854195",
+      "channel_id": "1085024721323687966",
+      "author": {
+        "id": "593208209536450570",
+        "username": "sprinkler38300",
+        "avatar": "d07aa623fab73184394a9c0f41e4559e",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Jaycee",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 26
+    }
+  },
+  {
+    "type": 0,
+    "content": "update pls?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-02-27T02:03:27.844000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1211856093316251681",
+    "channel_id": "1085024721323687966",
+    "author": {
+      "id": "197225576782626816",
+      "username": "worngspelling",
+      "avatar": "c6dc2ac23c2c0c1d0096d7afd9f08d34",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "worngspelling",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1180042348755963924",
+        "identity_enabled": true,
+        "tag": "WWM",
+        "badge": "e51a60e0d45a26bcf4e00d2ef1bcbcb1"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1180042348755963924",
+        "identity_enabled": true,
+        "tag": "WWM",
+        "badge": "e51a60e0d45a26bcf4e00d2ef1bcbcb1"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 53
+  }
+]

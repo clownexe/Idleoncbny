@@ -1,0 +1,906 @@
+[
+  {
+    "type": 0,
+    "content": "Note: look below for a faster method that only works on steam/web!\n\nYou’ll need some setup. You’ll need to be on your DK and have lots of googly eyes.\nStep 1: fill up your inventory with stacks of 1 googly eyes.\nStep 2: stand over the hourglass and click your “knight diciple” ability.\nStep 3: Drop a googly eyes.\nStep 4: when the background turns day again, drop another googly eyes.\n\nWhen the ability runs out, use it again, obviously. Repeat until all your eyes are used up!",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1240018103648129034",
+        "filename": "IMG_0379.jpeg",
+        "size": 21414,
+        "url": "https://cdn.discordapp.com/attachments/1240018103379824740/1240018103648129034/IMG_0379.jpeg?ex=6a0f585a&is=6a0e06da&hm=408370bb1175f3ad5ae0798ab1f444b4b89ad8e2e1f25097e0a2dfe0ea34e8a9&",
+        "proxy_url": "https://media.discordapp.net/attachments/1240018103379824740/1240018103648129034/IMG_0379.jpeg?ex=6a0f585a&is=6a0e06da&hm=408370bb1175f3ad5ae0798ab1f444b4b89ad8e2e1f25097e0a2dfe0ea34e8a9&",
+        "width": 120,
+        "height": 150,
+        "content_type": "image/jpeg",
+        "content_scan_version": 4,
+        "placeholder": "6TkKHgiXiPh4h5doaH6Hc6eIm2CuBuc=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2024-05-14T19:09:14.268000+00:00",
+    "edited_timestamp": "2024-05-14T19:14:16.562000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1240018103379824740",
+    "channel_id": "1240018103379824740",
+    "author": {
+      "id": "1170181823536582781",
+      "username": "awesome118_",
+      "avatar": "67d8a6a6d414cfd78234f4f063cc9e42",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "awesome118",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1417311919689170984",
+          "asset": "nameplates/nameplate_bonanza/planet_rings/",
+          "label": "COLLECTIBLES_NAMEPLATE_BONANZA_PLANET_RINGS_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "313066655494438922",
+        "identity_enabled": true,
+        "tag": "MONU",
+        "badge": "70e29dbbf668565de607bfc15b462845"
+      },
+      "primary_guild": {
+        "identity_guild_id": "313066655494438922",
+        "identity_enabled": true,
+        "tag": "MONU",
+        "badge": "70e29dbbf668565de607bfc15b462845"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 17,
+        "count_details": {
+          "burst": 0,
+          "normal": 17
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "btw, thumbnail is not mine. it’s from idleon.guide",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-05-14T19:09:31.073000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1240018173865230347",
+    "channel_id": "1240018103379824740",
+    "author": {
+      "id": "1170181823536582781",
+      "username": "awesome118_",
+      "avatar": "67d8a6a6d414cfd78234f4f063cc9e42",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "awesome118",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1417311919689170984",
+          "asset": "nameplates/nameplate_bonanza/planet_rings/",
+          "label": "COLLECTIBLES_NAMEPLATE_BONANZA_PLANET_RINGS_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "313066655494438922",
+        "identity_enabled": true,
+        "tag": "MONU",
+        "badge": "70e29dbbf668565de607bfc15b462845"
+      },
+      "primary_guild": {
+        "identity_guild_id": "313066655494438922",
+        "identity_enabled": true,
+        "tag": "MONU",
+        "badge": "70e29dbbf668565de607bfc15b462845"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0
+  },
+  {
+    "type": 0,
+    "content": "wouldnt this be faster",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1240018390844965004",
+        "filename": "Biggie_Test_50mb.mp4",
+        "size": 50608008,
+        "url": "https://cdn.discordapp.com/attachments/1240018103379824740/1240018390844965004/Biggie_Test_50mb.mp4?ex=6a0f589e&is=6a0e071e&hm=de517f240af8e74f44e0d6c25330be8596ff275ff868fd7df4bae94fbf05e6f3&",
+        "proxy_url": "https://media.discordapp.net/attachments/1240018103379824740/1240018390844965004/Biggie_Test_50mb.mp4?ex=6a0f589e&is=6a0e071e&hm=de517f240af8e74f44e0d6c25330be8596ff275ff868fd7df4bae94fbf05e6f3&",
+        "width": 1920,
+        "height": 1040,
+        "content_type": "video/mp4",
+        "content_scan_version": 4,
+        "placeholder": "1lkGHIIoBxdomIiYd3dWjICCCA==",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2024-05-14T19:10:22.852000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1240018391041970187",
+    "channel_id": "1240018103379824740",
+    "author": {
+      "id": "773192392043790367",
+      "username": "mega_yairzzz",
+      "avatar": "4a99a3239e6149beeed7c6b945618708",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Mega",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "337985280969801728",
+        "identity_enabled": true,
+        "tag": "IL",
+        "badge": "ead40c6aa63f3427a25947f36b63bc0c"
+      },
+      "primary_guild": {
+        "identity_guild_id": "337985280969801728",
+        "identity_enabled": true,
+        "tag": "IL",
+        "badge": "ead40c6aa63f3427a25947f36b63bc0c"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 1,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "481714069930246147",
+          "name": "YES"
+        },
+        "count": 29,
+        "count_details": {
+          "burst": 0,
+          "normal": 29
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "spamming attack button",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-05-14T19:10:26.786000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1240018407542227014",
+    "channel_id": "1240018103379824740",
+    "author": {
+      "id": "773192392043790367",
+      "username": "mega_yairzzz",
+      "avatar": "4a99a3239e6149beeed7c6b945618708",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Mega",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "337985280969801728",
+        "identity_enabled": true,
+        "tag": "IL",
+        "badge": "ead40c6aa63f3427a25947f36b63bc0c"
+      },
+      "primary_guild": {
+        "identity_guild_id": "337985280969801728",
+        "identity_enabled": true,
+        "tag": "IL",
+        "badge": "ead40c6aa63f3427a25947f36b63bc0c"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 2
+  },
+  {
+    "type": 0,
+    "content": "Yes. My guide would be faster <:Grumblo_Pray:1114306970816630876>",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-05-14T19:10:48.900000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1240018500295196763",
+    "channel_id": "1240018103379824740",
+    "author": {
+      "id": "356045459456000002",
+      "username": "xayayah_",
+      "avatar": "7ae8892a7401681d199cfe16e15e7871",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Xayayah",
+      "avatar_decoration_data": {
+        "asset": "a_c3cffc19e9784f7d0b005eecdf1b566e",
+        "sku_id": "1212569433839636530",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614227865711",
+          "asset": "nameplates/nameplates/koi_pond/",
+          "label": "COLLECTIBLES_NAMEPLATES_KOI_POND_A11Y",
+          "palette": "sky"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 3
+  },
+  {
+    "type": 0,
+    "content": "I was not aware you could do that, but you can’t do that on mobile.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-05-14T19:12:50.984000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1240019012352737290",
+    "channel_id": "1240018103379824740",
+    "author": {
+      "id": "1170181823536582781",
+      "username": "awesome118_",
+      "avatar": "67d8a6a6d414cfd78234f4f063cc9e42",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "awesome118",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1417311919689170984",
+          "asset": "nameplates/nameplate_bonanza/planet_rings/",
+          "label": "COLLECTIBLES_NAMEPLATE_BONANZA_PLANET_RINGS_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "313066655494438922",
+        "identity_enabled": true,
+        "tag": "MONU",
+        "badge": "70e29dbbf668565de607bfc15b462845"
+      },
+      "primary_guild": {
+        "identity_guild_id": "313066655494438922",
+        "identity_enabled": true,
+        "tag": "MONU",
+        "badge": "70e29dbbf668565de607bfc15b462845"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 4,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "972657462194868224",
+          "name": "PinchyPic"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 19,
+    "content": "mobile issues",
+    "mentions": [
+      {
+        "id": "1170181823536582781",
+        "username": "awesome118_",
+        "avatar": "67d8a6a6d414cfd78234f4f063cc9e42",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "awesome118",
+        "avatar_decoration_data": null,
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1417311919689170984",
+            "asset": "nameplates/nameplate_bonanza/planet_rings/",
+            "label": "COLLECTIBLES_NAMEPLATE_BONANZA_PLANET_RINGS_NP_A11Y",
+            "palette": "cobalt"
+          }
+        },
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "313066655494438922",
+          "identity_enabled": true,
+          "tag": "MONU",
+          "badge": "70e29dbbf668565de607bfc15b462845"
+        },
+        "primary_guild": {
+          "identity_guild_id": "313066655494438922",
+          "identity_enabled": true,
+          "tag": "MONU",
+          "badge": "70e29dbbf668565de607bfc15b462845"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-05-14T20:17:35.588000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1240035305562832992",
+    "channel_id": "1240018103379824740",
+    "author": {
+      "id": "773192392043790367",
+      "username": "mega_yairzzz",
+      "avatar": "4a99a3239e6149beeed7c6b945618708",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Mega",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "337985280969801728",
+        "identity_enabled": true,
+        "tag": "IL",
+        "badge": "ead40c6aa63f3427a25947f36b63bc0c"
+      },
+      "primary_guild": {
+        "identity_guild_id": "337985280969801728",
+        "identity_enabled": true,
+        "tag": "IL",
+        "badge": "ead40c6aa63f3427a25947f36b63bc0c"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1240018103379824740",
+      "message_id": "1240019012352737290",
+      "guild_id": "437797104786604034"
+    },
+    "position": 5,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "539023586518630402",
+          "name": "hahaha"
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ],
+    "referenced_message": {
+      "type": 0,
+      "content": "I was not aware you could do that, but you can’t do that on mobile.",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2024-05-14T19:12:50.984000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1240019012352737290",
+      "channel_id": "1240018103379824740",
+      "author": {
+        "id": "1170181823536582781",
+        "username": "awesome118_",
+        "avatar": "67d8a6a6d414cfd78234f4f063cc9e42",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "awesome118",
+        "avatar_decoration_data": null,
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1417311919689170984",
+            "asset": "nameplates/nameplate_bonanza/planet_rings/",
+            "label": "COLLECTIBLES_NAMEPLATE_BONANZA_PLANET_RINGS_NP_A11Y",
+            "palette": "cobalt"
+          }
+        },
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "313066655494438922",
+          "identity_enabled": true,
+          "tag": "MONU",
+          "badge": "70e29dbbf668565de607bfc15b462845"
+        },
+        "primary_guild": {
+          "identity_guild_id": "313066655494438922",
+          "identity_enabled": true,
+          "tag": "MONU",
+          "badge": "70e29dbbf668565de607bfc15b462845"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 4
+    }
+  },
+  {
+    "type": 0,
+    "content": "which button is for attacking ?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-05-14T20:53:01.547000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1240044222480908398",
+    "channel_id": "1240018103379824740",
+    "author": {
+      "id": "623196058561806336",
+      "username": "lykanite",
+      "avatar": "0f1a01695ae36a2d24fdd5356517787d",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Baxton",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 6
+  },
+  {
+    "type": 19,
+    "content": "R i think, or whatever key you bind it to",
+    "mentions": [
+      {
+        "id": "623196058561806336",
+        "username": "lykanite",
+        "avatar": "0f1a01695ae36a2d24fdd5356517787d",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Baxton",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-05-14T21:24:22.938000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1240052113606705202",
+    "channel_id": "1240018103379824740",
+    "author": {
+      "id": "863067848028717056",
+      "username": "lozbotw",
+      "avatar": "97e5c94acc7fa7f53a4b1d69f9d6bf71",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "LoZ BotW",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1240018103379824740",
+      "message_id": "1240044222480908398",
+      "guild_id": "437797104786604034"
+    },
+    "position": 7,
+    "referenced_message": {
+      "type": 0,
+      "content": "which button is for attacking ?",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2024-05-14T20:53:01.547000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1240044222480908398",
+      "channel_id": "1240018103379824740",
+      "author": {
+        "id": "623196058561806336",
+        "username": "lykanite",
+        "avatar": "0f1a01695ae36a2d24fdd5356517787d",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Baxton",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 6
+    }
+  },
+  {
+    "type": 0,
+    "content": "Yeah default key is R. If this is too far away for your fingers you can rebind it by going to Menu > Settings > Keybinds in the top left corner iirc",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-05-14T22:18:01.766000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1240065614349860965",
+    "channel_id": "1240018103379824740",
+    "author": {
+      "id": "356045459456000002",
+      "username": "xayayah_",
+      "avatar": "7ae8892a7401681d199cfe16e15e7871",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Xayayah",
+      "avatar_decoration_data": {
+        "asset": "a_c3cffc19e9784f7d0b005eecdf1b566e",
+        "sku_id": "1212569433839636530",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614227865711",
+          "asset": "nameplates/nameplates/koi_pond/",
+          "label": "COLLECTIBLES_NAMEPLATES_KOI_POND_A11Y",
+          "palette": "sky"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 8
+  },
+  {
+    "type": 0,
+    "content": "oo thanks",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-05-15T03:30:06.145000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1240144150087733268",
+    "channel_id": "1240018103379824740",
+    "author": {
+      "id": "623196058561806336",
+      "username": "lykanite",
+      "avatar": "0f1a01695ae36a2d24fdd5356517787d",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Baxton",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 9
+  },
+  {
+    "type": 19,
+    "content": "u just said on your guide that mobile can t use your method either",
+    "mentions": [
+      {
+        "id": "1170181823536582781",
+        "username": "awesome118_",
+        "avatar": "67d8a6a6d414cfd78234f4f063cc9e42",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "awesome118",
+        "avatar_decoration_data": null,
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1417311919689170984",
+            "asset": "nameplates/nameplate_bonanza/planet_rings/",
+            "label": "COLLECTIBLES_NAMEPLATE_BONANZA_PLANET_RINGS_NP_A11Y",
+            "palette": "cobalt"
+          }
+        },
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "313066655494438922",
+          "identity_enabled": true,
+          "tag": "MONU",
+          "badge": "70e29dbbf668565de607bfc15b462845"
+        },
+        "primary_guild": {
+          "identity_guild_id": "313066655494438922",
+          "identity_enabled": true,
+          "tag": "MONU",
+          "badge": "70e29dbbf668565de607bfc15b462845"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-07-09T13:12:17.264000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1260221994427748403",
+    "channel_id": "1240018103379824740",
+    "author": {
+      "id": "273078655494651904",
+      "username": "zubot",
+      "avatar": "b9cfef3bc60560fea344587b479caf64",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1240018103379824740",
+      "message_id": "1240019012352737290",
+      "guild_id": "437797104786604034"
+    },
+    "position": 10,
+    "referenced_message": {
+      "type": 0,
+      "content": "I was not aware you could do that, but you can’t do that on mobile.",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2024-05-14T19:12:50.984000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1240019012352737290",
+      "channel_id": "1240018103379824740",
+      "author": {
+        "id": "1170181823536582781",
+        "username": "awesome118_",
+        "avatar": "67d8a6a6d414cfd78234f4f063cc9e42",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "awesome118",
+        "avatar_decoration_data": null,
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1417311919689170984",
+            "asset": "nameplates/nameplate_bonanza/planet_rings/",
+            "label": "COLLECTIBLES_NAMEPLATE_BONANZA_PLANET_RINGS_NP_A11Y",
+            "palette": "cobalt"
+          }
+        },
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "313066655494438922",
+          "identity_enabled": true,
+          "tag": "MONU",
+          "badge": "70e29dbbf668565de607bfc15b462845"
+        },
+        "primary_guild": {
+          "identity_guild_id": "313066655494438922",
+          "identity_enabled": true,
+          "tag": "MONU",
+          "badge": "70e29dbbf668565de607bfc15b462845"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 4
+    }
+  }
+]

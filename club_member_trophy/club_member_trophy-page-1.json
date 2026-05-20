@@ -1,0 +1,102 @@
+[
+  {
+    "type": 0,
+    "content": "If you have a spare club member trophy (probably because you got a club maestro), create a new character and equip it, BEFORE getting a class, and the trophy will stay on giving extra xp",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1208335531092615178",
+        "filename": "Screenshot_2024-02-17_at_8.53.46_AM.png",
+        "size": 144020,
+        "url": "https://cdn.discordapp.com/attachments/1208335530631364638/1208335531092615178/Screenshot_2024-02-17_at_8.53.46_AM.png?ex=6a0ec828&is=6a0d76a8&hm=057f8341f8f2f14f6bb7c78fc49dd10b4b194a1916b9e691e65e2c019c3fd2a4&",
+        "proxy_url": "https://media.discordapp.net/attachments/1208335530631364638/1208335531092615178/Screenshot_2024-02-17_at_8.53.46_AM.png?ex=6a0ec828&is=6a0d76a8&hm=057f8341f8f2f14f6bb7c78fc49dd10b4b194a1916b9e691e65e2c019c3fd2a4&",
+        "width": 578,
+        "height": 408,
+        "content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "UQcOLYKwWHmYd3eHh3h3hrB5B5t3",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2024-02-17T08:54:00.291000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1208335530631364638",
+    "channel_id": "1208335530631364638",
+    "author": {
+      "id": "831433025471774720",
+      "username": "cleverdumb",
+      "avatar": "a8b23478751892b2c51620c10743303d",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "cleverdumb",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614257225760",
+          "asset": "nameplates/nameplates/vengeance/",
+          "label": "COLLECTIBLES_NAMEPLATES_VENGEANCE_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "182894318913191936",
+        "identity_enabled": true,
+        "tag": "WUG",
+        "badge": "856cecbf8055036b98cf05fd54cd8872"
+      },
+      "primary_guild": {
+        "identity_guild_id": "182894318913191936",
+        "identity_enabled": true,
+        "tag": "WUG",
+        "badge": "856cecbf8055036b98cf05fd54cd8872"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 23,
+        "count_details": {
+          "burst": 0,
+          "normal": 23
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "❌"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  }
+]

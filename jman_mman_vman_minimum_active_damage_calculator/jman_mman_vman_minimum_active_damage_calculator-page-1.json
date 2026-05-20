@@ -1,0 +1,508 @@
+[
+  {
+    "type": 0,
+    "content": "*Might contain spoiler(s)*\n\nhttps://docs.google.com/spreadsheets/d/18H9unUfK5FcgqJJ6hKKPQcK034tsc2hw/edit?usp=drive_link&ouid=113932508853693326790&rtpof=true&sd=true\n\n**Note: Download locally to use (not optimized for web).**\n\nVoid Walker min dmg calculator calculates ALL FOUR punches' individual and total damage. \nThings you need to input:\n1) Crit chance\n2) Crit Damage\n3) Minimum sheet damage (from player stats)\n4) Mega crit and punch talents' level\n5) Unit (optional*) K, M & T\n\nTo be added:\nA nice little <:PinchyPic:972657462194868224> nested if statement so it gives you the mob name directly.\n\n**DM me (sledgecr) for any changes**",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "link",
+        "url": "https://docs.google.com/spreadsheets/d/18H9unUfK5FcgqJJ6hKKPQcK034tsc2hw/edit?usp=drive_link&ouid=113932508853693326790&rtpof=true&sd=true",
+        "title": "Vman min dmg.xlsx",
+        "description": "Vman min dmg\n\nName,Value,Bonus,Damage,Unit\nIn-game min dmg,31.981,M,   ←    Use drop down\nCrit chance,125,Megacrit level,80\nCrit damage,1.72,←             Insert values here         ↑\nTalent,↙\nTwo punch man,173,103.8,82.6\nTriple jab,191,67.7,95.5\nQuad jab,171,72,85.5\nTotals\nEffective crit damage,...",
+        "provider": {
+          "name": "Google Docs"
+        },
+        "thumbnail": {
+          "url": "https://lh3.googleusercontent.com/docs/ADP-6oFcuLKhY0QgDLJk9g8GuRSaFyEPwsDIKRrturNL4ABB9bHTgBb4EdeSRLxGNQTtcGFND82db-gejutkGALefTdR_QOCcw=w1200-h630-p",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/ETQ4p_aMpwLFN3Vedr6FLmAToU4SY-SSJCTE0qDjkow/https/lh3.googleusercontent.com/docs/ADP-6oFcuLKhY0QgDLJk9g8GuRSaFyEPwsDIKRrturNL4ABB9bHTgBb4EdeSRLxGNQTtcGFND82db-gejutkGALefTdR_QOCcw%3Dw1200-h630-p",
+          "width": 1200,
+          "height": 630,
+          "flags": 0
+        },
+        "content_scan_version": 4
+      }
+    ],
+    "timestamp": "2023-05-25T17:25:44.314000+00:00",
+    "edited_timestamp": "2023-06-17T04:47:13.285000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1111344364657070272",
+    "channel_id": "1111344364657070272",
+    "author": {
+      "id": "818314975738724433",
+      "username": "sledgecr",
+      "avatar": "5035da01916d9f92fc2f967950035127",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Sledge",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 19,
+        "count_details": {
+          "burst": 0,
+          "normal": 19
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "👊"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "<:CharSmile:1023843922943934505>",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-05-28T10:40:58.194000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1112329664883593256",
+    "channel_id": "1111344364657070272",
+    "author": {
+      "id": "191238361871024128",
+      "username": "just.whale",
+      "avatar": "b93a8a7e3d5f5cdb8424fc583689ac6f",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Whale",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614227865711",
+          "asset": "nameplates/nameplates/koi_pond/",
+          "label": "COLLECTIBLES_NAMEPLATES_KOI_POND_A11Y",
+          "palette": "sky"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 4,
+        "effect_id": 4,
+        "colors": [
+          1628845
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "989899054815281243",
+        "identity_enabled": true,
+        "tag": "ᗪꙗЫꚛ",
+        "badge": "f8f83771cafb44ce3147857bf1427dff"
+      },
+      "primary_guild": {
+        "identity_guild_id": "989899054815281243",
+        "identity_enabled": true,
+        "tag": "ᗪꙗЫꚛ",
+        "badge": "f8f83771cafb44ce3147857bf1427dff"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "813876254331109386",
+          "name": "BobJourneyPickle"
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "Guess I gotta fix this one",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-06-11T09:23:39.413000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1117383638544293919",
+    "channel_id": "1111344364657070272",
+    "author": {
+      "id": "818314975738724433",
+      "username": "sledgecr",
+      "avatar": "5035da01916d9f92fc2f967950035127",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Sledge",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 2
+  },
+  {
+    "type": 0,
+    "content": "it's inaccurate according to a test I did",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-06-11T09:23:48.018000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1117383674636288040",
+    "channel_id": "1111344364657070272",
+    "author": {
+      "id": "818314975738724433",
+      "username": "sledgecr",
+      "avatar": "5035da01916d9f92fc2f967950035127",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Sledge",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 3
+  },
+  {
+    "type": 0,
+    "content": "<:grumblo_thumbsup:1101692875248521366>",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-06-17T01:53:59.045000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1119444801872478248",
+    "channel_id": "1111344364657070272",
+    "author": {
+      "id": "191238361871024128",
+      "username": "just.whale",
+      "avatar": "b93a8a7e3d5f5cdb8424fc583689ac6f",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Whale",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614227865711",
+          "asset": "nameplates/nameplates/koi_pond/",
+          "label": "COLLECTIBLES_NAMEPLATES_KOI_POND_A11Y",
+          "palette": "sky"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 4,
+        "effect_id": 4,
+        "colors": [
+          1628845
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "989899054815281243",
+        "identity_enabled": true,
+        "tag": "ᗪꙗЫꚛ",
+        "badge": "f8f83771cafb44ce3147857bf1427dff"
+      },
+      "primary_guild": {
+        "identity_guild_id": "989899054815281243",
+        "identity_enabled": true,
+        "tag": "ᗪꙗЫꚛ",
+        "badge": "f8f83771cafb44ce3147857bf1427dff"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 4
+  },
+  {
+    "type": 0,
+    "content": "Fixed 🪚",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-06-17T04:47:33.655000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1119488483912855573",
+    "channel_id": "1111344364657070272",
+    "author": {
+      "id": "818314975738724433",
+      "username": "sledgecr",
+      "avatar": "5035da01916d9f92fc2f967950035127",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Sledge",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 5
+  },
+  {
+    "type": 0,
+    "content": "Works perfectly now",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-06-17T04:47:44.211000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1119488528187916359",
+    "channel_id": "1111344364657070272",
+    "author": {
+      "id": "818314975738724433",
+      "username": "sledgecr",
+      "avatar": "5035da01916d9f92fc2f967950035127",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Sledge",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 6
+  },
+  {
+    "type": 0,
+    "content": "walker",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-11-23T14:38:50.085000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1309890912284971030",
+    "channel_id": "1111344364657070272",
+    "author": {
+      "id": "836947614813257738",
+      "username": "ducklings01",
+      "avatar": "964ba8c8fb5f304259ae6547e9ec5d63",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Duckling",
+      "avatar_decoration_data": {
+        "asset": "a_1ffd338bf104b616ea5774244e46dbf6",
+        "sku_id": "1385050947834613820",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 30
+  },
+  {
+    "type": 0,
+    "content": "alker",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-05-04T07:35:45.304000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1368491275023814669",
+    "channel_id": "1111344364657070272",
+    "author": {
+      "id": "252537135049998338",
+      "username": "sykatrac",
+      "avatar": "f957156d8413da269a276d8d2a5ec7d6",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Sykatrac",
+      "avatar_decoration_data": {
+        "asset": "a_670b722e56740d11d1e6fe55b8094013",
+        "sku_id": "1343751617303805983",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614143979540",
+          "asset": "nameplates/nameplates/cat_beans/",
+          "label": "COLLECTIBLES_NAMEPLATES_CAT_BEANS_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "343057854078386177",
+        "identity_enabled": true,
+        "tag": "TORN",
+        "badge": "c8d016eed5c8752316ca38fdd54380c6"
+      },
+      "primary_guild": {
+        "identity_guild_id": "343057854078386177",
+        "identity_enabled": true,
+        "tag": "TORN",
+        "badge": "c8d016eed5c8752316ca38fdd54380c6"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 31
+  }
+]

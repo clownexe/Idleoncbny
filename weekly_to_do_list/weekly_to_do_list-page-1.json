@@ -1,0 +1,854 @@
+[
+  {
+    "type": 0,
+    "content": "",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1086404751152914634",
+        "filename": "WeeklyToDo.png",
+        "size": 390378,
+        "url": "https://cdn.discordapp.com/attachments/1086404750678962216/1086404751152914634/WeeklyToDo.png?ex=6a0ed405&is=6a0d8285&hm=82ac0398fe53a6d508a7f5afb8678bfb6ee8308983462efe338554492e8f1932&",
+        "proxy_url": "https://media.discordapp.net/attachments/1086404750678962216/1086404751152914634/WeeklyToDo.png?ex=6a0ed405&is=6a0d8285&hm=82ac0398fe53a6d508a7f5afb8678bfb6ee8308983462efe338554492e8f1932&",
+        "width": 1076,
+        "height": 2542,
+        "content_type": "image/png",
+        "content_scan_version": 4
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2023-03-17T21:44:36.986000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1086404750678962216",
+    "channel_id": "1086404750678962216",
+    "author": {
+      "id": "178611493246468097",
+      "username": "pickleyama",
+      "avatar": "880848f97b260861979ab165f413d856",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Pickleyama",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 163,
+        "count_details": {
+          "burst": 29,
+          "normal": 134
+        },
+        "burst_colors": [
+          "#000000",
+          "#7af077",
+          "#078032",
+          "#e1f0e0",
+          "#29e047",
+          "#465045",
+          "#285027",
+          "#37e043",
+          "#13a037",
+          "#0b4014"
+        ],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 29
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "what is the w3 stamp discount referring to?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-04-14T01:45:30.143000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1096249843984371836",
+    "channel_id": "1086404750678962216",
+    "author": {
+      "id": "264168313729449984",
+      "username": "lofi6569",
+      "avatar": "394502261bf853312ad8e6e8ce254e57",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "lofi",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 8,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 7,
+        "count_details": {
+          "burst": 0,
+          "normal": 7
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "666624496093888512",
+          "name": "eh"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "atom collider",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-04-15T01:50:22.577000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1096613458407075902",
+    "channel_id": "1086404750678962216",
+    "author": {
+      "id": "178611493246468097",
+      "username": "pickleyama",
+      "avatar": "880848f97b260861979ab165f413d856",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Pickleyama",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 9,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "✅"
+        },
+        "count": 12,
+        "count_details": {
+          "burst": 0,
+          "normal": 12
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "Why should we unlink each week?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-04-20T15:12:19.437000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1098627214473449532",
+    "channel_id": "1086404750678962216",
+    "author": {
+      "id": "140306526215602176",
+      "username": "elchialde",
+      "avatar": "b3cc2e3eeceeed62e69fd7579f1c1971",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "El Chialde",
+      "avatar_decoration_data": {
+        "asset": "a_21cb131c7eb53f1d6ed7de051cc6a1dc",
+        "sku_id": "1445852154131775520",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1420057111718531112",
+          "asset": "nameplates/trick_or_treat/ms_spider_trick/",
+          "label": "COLLECTIBLES_TRICK_OR_TREAT_MS_SPIDER_TRICK_NP_A11Y",
+          "palette": "teal"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 7,
+        "effect_id": 4,
+        "colors": [
+          16332578
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1369769906110992444",
+        "identity_enabled": true,
+        "tag": "CUNᎢ",
+        "badge": "cbc8765dbaa3acebe39059b5a02fb40b"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1369769906110992444",
+        "identity_enabled": true,
+        "tag": "CUNᎢ",
+        "badge": "cbc8765dbaa3acebe39059b5a02fb40b"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 11
+  },
+  {
+    "type": 0,
+    "content": "For better 3d printer outpost, because some gods are better for printing",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-04-20T16:39:25.405000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1098649133771919530",
+    "channel_id": "1086404750678962216",
+    "author": {
+      "id": "999574478902280213",
+      "username": ".originalusername.",
+      "avatar": "ac2e27dece1706fe8551d722dd876094",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "_OriginalUsername_",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1238152626282041405",
+        "identity_enabled": true,
+        "tag": "Rats",
+        "badge": "2d8bea68b3152b52858942d2bc854cc7"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1238152626282041405",
+        "identity_enabled": true,
+        "tag": "Rats",
+        "badge": "2d8bea68b3152b52858942d2bc854cc7"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 12
+  },
+  {
+    "type": 19,
+    "content": "Id love to know this too. Same for stamp discount.",
+    "mentions": [
+      {
+        "id": "140306526215602176",
+        "username": "elchialde",
+        "avatar": "b3cc2e3eeceeed62e69fd7579f1c1971",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "El Chialde",
+        "avatar_decoration_data": {
+          "asset": "a_21cb131c7eb53f1d6ed7de051cc6a1dc",
+          "sku_id": "1445852154131775520",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1420057111718531112",
+            "asset": "nameplates/trick_or_treat/ms_spider_trick/",
+            "label": "COLLECTIBLES_TRICK_OR_TREAT_MS_SPIDER_TRICK_NP_A11Y",
+            "palette": "teal"
+          }
+        },
+        "display_name_styles": {
+          "font_id": 7,
+          "effect_id": 4,
+          "colors": [
+            16332578
+          ]
+        },
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1369769906110992444",
+          "identity_enabled": true,
+          "tag": "CUNᎢ",
+          "badge": "cbc8765dbaa3acebe39059b5a02fb40b"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1369769906110992444",
+          "identity_enabled": true,
+          "tag": "CUNᎢ",
+          "badge": "cbc8765dbaa3acebe39059b5a02fb40b"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-05-02T02:43:37.592000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1102787452986462238",
+    "channel_id": "1086404750678962216",
+    "author": {
+      "id": "524419211288641549",
+      "username": "jeffthibault",
+      "avatar": "6a52232f85cfca5c221eb0899c3a1fb8",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "jeffthibault",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1086404750678962216",
+      "message_id": "1098627214473449532",
+      "guild_id": "437797104786604034"
+    },
+    "position": 17,
+    "referenced_message": {
+      "type": 0,
+      "content": "Why should we unlink each week?",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2023-04-20T15:12:19.437000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1098627214473449532",
+      "channel_id": "1086404750678962216",
+      "author": {
+        "id": "140306526215602176",
+        "username": "elchialde",
+        "avatar": "b3cc2e3eeceeed62e69fd7579f1c1971",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "El Chialde",
+        "avatar_decoration_data": {
+          "asset": "a_21cb131c7eb53f1d6ed7de051cc6a1dc",
+          "sku_id": "1445852154131775520",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1420057111718531112",
+            "asset": "nameplates/trick_or_treat/ms_spider_trick/",
+            "label": "COLLECTIBLES_TRICK_OR_TREAT_MS_SPIDER_TRICK_NP_A11Y",
+            "palette": "teal"
+          }
+        },
+        "display_name_styles": {
+          "font_id": 7,
+          "effect_id": 4,
+          "colors": [
+            16332578
+          ]
+        },
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "1369769906110992444",
+          "identity_enabled": true,
+          "tag": "CUNᎢ",
+          "badge": "cbc8765dbaa3acebe39059b5a02fb40b"
+        },
+        "primary_guild": {
+          "identity_guild_id": "1369769906110992444",
+          "identity_enabled": true,
+          "tag": "CUNᎢ",
+          "badge": "cbc8765dbaa3acebe39059b5a02fb40b"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 11
+    }
+  },
+  {
+    "type": 19,
+    "content": "Maximizing Samples: https://discord.com/channels/437797104786604034/1084953188647583819/1084953188647583819\n\nStamp discount is the Atom Collider one, adds more of a discount each day. For important stamps that need rarer materials (mostly Salts, Anvil materials, and rare drops), things that can't stack, or that you don't have enough Carry Capacity for, those are the stamps you want to use the Stamp Decreaser's effect on.\nWaiting too long between uses may mean you're neglecting your stamps, but high discounts mean cheap stamps. You can ignore it for stamps that use common materials.",
+    "mentions": [
+      {
+        "id": "524419211288641549",
+        "username": "jeffthibault",
+        "avatar": "6a52232f85cfca5c221eb0899c3a1fb8",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "jeffthibault",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1102845599914672158",
+        "filename": "image.png",
+        "size": 11638,
+        "url": "https://cdn.discordapp.com/attachments/1086404750678962216/1102845599914672158/image.png?ex=6a0f5040&is=6a0dfec0&hm=d363cdd483eb1ac8caedcc697f37e24a00708e9018a4e23f14594145675590cd&",
+        "proxy_url": "https://media.discordapp.net/attachments/1086404750678962216/1102845599914672158/image.png?ex=6a0f5040&is=6a0dfec0&hm=d363cdd483eb1ac8caedcc697f37e24a00708e9018a4e23f14594145675590cd&",
+        "width": 813,
+        "height": 27,
+        "content_type": "image/png",
+        "content_scan_version": 4
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2023-05-02T06:34:40.963000+00:00",
+    "edited_timestamp": "2023-05-02T06:37:12.375000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1102845600178896917",
+    "channel_id": "1086404750678962216",
+    "author": {
+      "id": "201332225881538561",
+      "username": "rhimona",
+      "avatar": "5ee0741629fd4cfbfadae4e224fca1d5",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Rinoa",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1086404750678962216",
+      "message_id": "1102787452986462238",
+      "guild_id": "437797104786604034"
+    },
+    "position": 18,
+    "referenced_message": {
+      "type": 19,
+      "content": "Id love to know this too. Same for stamp discount.",
+      "mentions": [
+        {
+          "id": "140306526215602176",
+          "username": "elchialde",
+          "avatar": "b3cc2e3eeceeed62e69fd7579f1c1971",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "El Chialde",
+          "avatar_decoration_data": {
+            "asset": "a_21cb131c7eb53f1d6ed7de051cc6a1dc",
+            "sku_id": "1445852154131775520",
+            "expires_at": null
+          },
+          "collectibles": {
+            "nameplate": {
+              "sku_id": "1420057111718531112",
+              "asset": "nameplates/trick_or_treat/ms_spider_trick/",
+              "label": "COLLECTIBLES_TRICK_OR_TREAT_MS_SPIDER_TRICK_NP_A11Y",
+              "palette": "teal"
+            }
+          },
+          "display_name_styles": {
+            "font_id": 7,
+            "effect_id": 4,
+            "colors": [
+              16332578
+            ]
+          },
+          "banner_color": null,
+          "clan": {
+            "identity_guild_id": "1369769906110992444",
+            "identity_enabled": true,
+            "tag": "CUNᎢ",
+            "badge": "cbc8765dbaa3acebe39059b5a02fb40b"
+          },
+          "primary_guild": {
+            "identity_guild_id": "1369769906110992444",
+            "identity_enabled": true,
+            "tag": "CUNᎢ",
+            "badge": "cbc8765dbaa3acebe39059b5a02fb40b"
+          }
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2023-05-02T02:43:37.592000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1102787452986462238",
+      "channel_id": "1086404750678962216",
+      "author": {
+        "id": "524419211288641549",
+        "username": "jeffthibault",
+        "avatar": "6a52232f85cfca5c221eb0899c3a1fb8",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "jeffthibault",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1086404750678962216",
+        "message_id": "1098627214473449532",
+        "guild_id": "437797104786604034"
+      },
+      "position": 17
+    }
+  },
+  {
+    "type": 19,
+    "content": "Idleon Efficiency also helps you find out which of your characters has enough Carry Capacity to push Stamps. You can also use Star Signs to push your Carry Capacity higher than it otherwise would be. Getting more Carry Capacity > using a Discount because you can't hold enough materials.",
+    "mentions": [
+      {
+        "id": "524419211288641549",
+        "username": "jeffthibault",
+        "avatar": "6a52232f85cfca5c221eb0899c3a1fb8",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "jeffthibault",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1102850301020614736",
+        "filename": "image.png",
+        "size": 49172,
+        "url": "https://cdn.discordapp.com/attachments/1086404750678962216/1102850301020614736/image.png?ex=6a0f54a1&is=6a0e0321&hm=134959a0b0ca260b5019ed4950967fb80a125df5586a25c9313d268026fc0b54&",
+        "proxy_url": "https://media.discordapp.net/attachments/1086404750678962216/1102850301020614736/image.png?ex=6a0f54a1&is=6a0e0321&hm=134959a0b0ca260b5019ed4950967fb80a125df5586a25c9313d268026fc0b54&",
+        "width": 499,
+        "height": 410,
+        "content_type": "image/png",
+        "content_scan_version": 4
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2023-05-02T06:53:21.854000+00:00",
+    "edited_timestamp": "2023-05-02T06:53:28.546000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1102850301536518145",
+    "channel_id": "1086404750678962216",
+    "author": {
+      "id": "201332225881538561",
+      "username": "rhimona",
+      "avatar": "5ee0741629fd4cfbfadae4e224fca1d5",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Rinoa",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1462574032464642309",
+        "identity_enabled": true,
+        "tag": "HOLO",
+        "badge": "95d1bf2bdae2656a3fa6b0d808a7fe33"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1086404750678962216",
+      "message_id": "1102787452986462238",
+      "guild_id": "437797104786604034"
+    },
+    "position": 19,
+    "referenced_message": {
+      "type": 19,
+      "content": "Id love to know this too. Same for stamp discount.",
+      "mentions": [
+        {
+          "id": "140306526215602176",
+          "username": "elchialde",
+          "avatar": "b3cc2e3eeceeed62e69fd7579f1c1971",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "El Chialde",
+          "avatar_decoration_data": {
+            "asset": "a_21cb131c7eb53f1d6ed7de051cc6a1dc",
+            "sku_id": "1445852154131775520",
+            "expires_at": null
+          },
+          "collectibles": {
+            "nameplate": {
+              "sku_id": "1420057111718531112",
+              "asset": "nameplates/trick_or_treat/ms_spider_trick/",
+              "label": "COLLECTIBLES_TRICK_OR_TREAT_MS_SPIDER_TRICK_NP_A11Y",
+              "palette": "teal"
+            }
+          },
+          "display_name_styles": {
+            "font_id": 7,
+            "effect_id": 4,
+            "colors": [
+              16332578
+            ]
+          },
+          "banner_color": null,
+          "clan": {
+            "identity_guild_id": "1369769906110992444",
+            "identity_enabled": true,
+            "tag": "CUNᎢ",
+            "badge": "cbc8765dbaa3acebe39059b5a02fb40b"
+          },
+          "primary_guild": {
+            "identity_guild_id": "1369769906110992444",
+            "identity_enabled": true,
+            "tag": "CUNᎢ",
+            "badge": "cbc8765dbaa3acebe39059b5a02fb40b"
+          }
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2023-05-02T02:43:37.592000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1102787452986462238",
+      "channel_id": "1086404750678962216",
+      "author": {
+        "id": "524419211288641549",
+        "username": "jeffthibault",
+        "avatar": "6a52232f85cfca5c221eb0899c3a1fb8",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "jeffthibault",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1086404750678962216",
+        "message_id": "1098627214473449532",
+        "guild_id": "437797104786604034"
+      },
+      "position": 17
+    }
+  },
+  {
+    "type": 0,
+    "content": "Start of the list \nhttps://discord.com/channels/437797104786604034/1086404750678962216/1086404750678962216",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-10-18T11:30:56.387000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1164163704997298226",
+    "channel_id": "1086404750678962216",
+    "author": {
+      "id": "793084238391541760",
+      "username": "marco_dl",
+      "avatar": "837f714c4f15b2fb0c810f7a2b622a75",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Touhou, embodiment of freedom",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1065100353881776238",
+        "identity_enabled": true,
+        "tag": "PJSM",
+        "badge": "03c8ddc870aeb846b18434e52c9899c5"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1065100353881776238",
+        "identity_enabled": true,
+        "tag": "PJSM",
+        "badge": "03c8ddc870aeb846b18434e52c9899c5"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 50
+  }
+]

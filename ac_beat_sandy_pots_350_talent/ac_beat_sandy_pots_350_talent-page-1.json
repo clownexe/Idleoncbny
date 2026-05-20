@@ -1,0 +1,3211 @@
+[
+  {
+    "type": 0,
+    "content": "Many players are stuck at Sandy Pots due to low mob density. You're limited to a few maps, and progression is locked behind the 20 Arcane mob kills. The problem is most players can only spawn around 9 Arcane mobs. So here's how to work around it.\n\n__**Recommended Setup (what helped me progress)**__  \n(The more is better, but less is still bearable)\n- Tenteyecle Nostalgia around level 27 (54% chance)  \n- Arcane Charging + Backup Energy = Arcane mobs spawn every 192 kills\nTry grinding in Glublin to upgrade Arcane Charging (mine is at level 2)\n\n**Max:**  \n• Shaman: 3rd and 4th\n• Bubo: 4th and 5th\n• Arcane Cultist: 3rd, 4th, and 15th\n\n__**Setup and Strategy**__  \n1. Place your **crystal near the rope**   \n2. Toggle auto on, stand near the rope and let it **spam basic attacks**  \n3. Keep **skulls flying** on both platforms at all times  \n4. **Jiggle the rope** (move up and down by clicking the rope) to spread skulls more efficiently\n\n__**TL;DR**__  \nIf you just leave Auto on, you won’t progress.  \nYou need to **juggle between platforms** by clicking the rope.\n\nIf one platform has no skulls flying, click the rope and stay there until mobs respawn.  \nOnce skulls are out, **immediately switch** to the other platform and repeat.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1387907060980650176",
+        "filename": "thumbnail.png",
+        "size": 323946,
+        "url": "https://cdn.discordapp.com/attachments/1387907060795969536/1387907060980650176/thumbnail.png?ex=6a0ecfed&is=6a0d7e6d&hm=a0548e972624d3af6d6c6e8093cb9890e9eca41b99a0b7c948d9ed74c01b5482&",
+        "proxy_url": "https://media.discordapp.net/attachments/1387907060795969536/1387907060980650176/thumbnail.png?ex=6a0ecfed&is=6a0d7e6d&hm=a0548e972624d3af6d6c6e8093cb9890e9eca41b99a0b7c948d9ed74c01b5482&",
+        "width": 681,
+        "height": 625,
+        "content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "5noKLoq3eYZ/l2h6h5iXiYeM6HCKCWc=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2025-06-26T21:27:09.360000+00:00",
+    "edited_timestamp": "2025-06-26T21:35:19.139000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1387907060795969536",
+    "channel_id": "1387907060795969536",
+    "author": {
+      "id": "335930446049443842",
+      "username": "pitoregia",
+      "avatar": "9a2d55c5947a65928e1d4620435ac8ee",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "pitoregia",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712162738196",
+          "asset": "nameplates/nameplates_v2/sword_of_legend/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SWORD_OF_LEGEND_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 11,
+        "count_details": {
+          "burst": 0,
+          "normal": 11
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "😂"
+        },
+        "count": 6,
+        "count_details": {
+          "burst": 0,
+          "normal": 6
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "993227203548545104",
+          "name": "anyway"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "481714069930246147",
+          "name": "YES"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "__**Video Guide**__",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1387907258091966567",
+        "filename": "videoguide.mp4",
+        "size": 47011783,
+        "url": "https://cdn.discordapp.com/attachments/1387907060795969536/1387907258091966567/videoguide.mp4?ex=6a0ed01c&is=6a0d7e9c&hm=b23d02a8936c6bbbe8fef09e417c581d2a7da1ddf195cbdb44c0ba0c2d59c02f&",
+        "proxy_url": "https://media.discordapp.net/attachments/1387907060795969536/1387907258091966567/videoguide.mp4?ex=6a0ed01c&is=6a0d7e9c&hm=b23d02a8936c6bbbe8fef09e417c581d2a7da1ddf195cbdb44c0ba0c2d59c02f&",
+        "width": 1282,
+        "height": 720,
+        "content_type": "video/mp4",
+        "content_scan_version": 4,
+        "placeholder": "YloKNIp2V2iPh3ebh3d2cmAYBw==",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2025-06-26T21:27:56.920000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1387907260277330001",
+    "channel_id": "1387907060795969536",
+    "author": {
+      "id": "335930446049443842",
+      "username": "pitoregia",
+      "avatar": "9a2d55c5947a65928e1d4620435ac8ee",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "pitoregia",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712162738196",
+          "asset": "nameplates/nameplates_v2/sword_of_legend/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SWORD_OF_LEGEND_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0
+  },
+  {
+    "type": 0,
+    "content": "__**Hotbar Setup**__",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1387907281081073825",
+        "filename": "hotbar.png",
+        "size": 118329,
+        "url": "https://cdn.discordapp.com/attachments/1387907060795969536/1387907281081073825/hotbar.png?ex=6a0ed021&is=6a0d7ea1&hm=6e3f82cd6a365fcf0b2b1969864c5989f86d12d03a0a9a1501c26f70bbff5ee4&",
+        "proxy_url": "https://media.discordapp.net/attachments/1387907060795969536/1387907281081073825/hotbar.png?ex=6a0ed021&is=6a0d7ea1&hm=6e3f82cd6a365fcf0b2b1969864c5989f86d12d03a0a9a1501c26f70bbff5ee4&",
+        "width": 791,
+        "height": 133,
+        "content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "WDkGGYjZaGmfhvhHM4+fvfc=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2025-06-26T21:28:01.869000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1387907281034809366",
+    "channel_id": "1387907060795969536",
+    "author": {
+      "id": "335930446049443842",
+      "username": "pitoregia",
+      "avatar": "9a2d55c5947a65928e1d4620435ac8ee",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "pitoregia",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712162738196",
+          "asset": "nameplates/nameplates_v2/sword_of_legend/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SWORD_OF_LEGEND_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 1,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "1208199310777393153",
+          "name": "happytroll"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "__**Talent**__",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1387907397380739192",
+        "filename": "FE17E275-E2C4-4F80-807B-F96C1BCB972D.png",
+        "size": 71118,
+        "url": "https://cdn.discordapp.com/attachments/1387907060795969536/1387907397380739192/FE17E275-E2C4-4F80-807B-F96C1BCB972D.png?ex=6a0ed03d&is=6a0d7ebd&hm=15d658f5a50919f1b00028bc391bec66e893e2eadb0a653037eda08c3287d792&",
+        "proxy_url": "https://media.discordapp.net/attachments/1387907060795969536/1387907397380739192/FE17E275-E2C4-4F80-807B-F96C1BCB972D.png?ex=6a0ed03d&is=6a0d7ebd&hm=15d658f5a50919f1b00028bc391bec66e893e2eadb0a653037eda08c3287d792&",
+        "width": 531,
+        "height": 171,
+        "content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "4CgCEoIHia3Oeji+cHPeb0o=",
+        "placeholder_version": 1,
+        "title": "{FE17E275-E2C4-4F80-807B-F96C1BCB972D}"
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2025-06-26T21:28:29.657000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1387907397586125041",
+    "channel_id": "1387907060795969536",
+    "author": {
+      "id": "335930446049443842",
+      "username": "pitoregia",
+      "avatar": "9a2d55c5947a65928e1d4620435ac8ee",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "pitoregia",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712162738196",
+          "asset": "nameplates/nameplates_v2/sword_of_legend/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SWORD_OF_LEGEND_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 2
+  },
+  {
+    "type": 0,
+    "content": "",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1387907454230200410",
+        "filename": "4E286F00-9BF0-4656-BE41-6D1226EB34FB.png",
+        "size": 69359,
+        "url": "https://cdn.discordapp.com/attachments/1387907060795969536/1387907454230200410/4E286F00-9BF0-4656-BE41-6D1226EB34FB.png?ex=6a0ed04b&is=6a0d7ecb&hm=e0691470ad82b3354d53defd0295b31b1649036a8f5bc8c0dd49f74363827059&",
+        "proxy_url": "https://media.discordapp.net/attachments/1387907060795969536/1387907454230200410/4E286F00-9BF0-4656-BE41-6D1226EB34FB.png?ex=6a0ed04b&is=6a0d7ecb&hm=e0691470ad82b3354d53defd0295b31b1649036a8f5bc8c0dd49f74363827059&",
+        "width": 532,
+        "height": 177,
+        "content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "3xgCGoQGmdx9hRfLUHQMVcg=",
+        "placeholder_version": 1,
+        "title": "{4E286F00-9BF0-4656-BE41-6D1226EB34FB}"
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2025-06-26T21:28:43.229000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1387907454511222904",
+    "channel_id": "1387907060795969536",
+    "author": {
+      "id": "335930446049443842",
+      "username": "pitoregia",
+      "avatar": "9a2d55c5947a65928e1d4620435ac8ee",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "pitoregia",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712162738196",
+          "asset": "nameplates/nameplates_v2/sword_of_legend/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SWORD_OF_LEGEND_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 3
+  },
+  {
+    "type": 0,
+    "content": "",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1387907595381244024",
+        "filename": "EBF1E6C7-58B3-4222-8518-637AD3BE7A26.png",
+        "size": 41478,
+        "url": "https://cdn.discordapp.com/attachments/1387907060795969536/1387907595381244024/EBF1E6C7-58B3-4222-8518-637AD3BE7A26.png?ex=6a0ed06c&is=6a0d7eec&hm=589c6ffb553d8593164565ec42a9cc6f1003180979df5af9233d9a838720887b&",
+        "proxy_url": "https://media.discordapp.net/attachments/1387907060795969536/1387907595381244024/EBF1E6C7-58B3-4222-8518-637AD3BE7A26.png?ex=6a0ed06c&is=6a0d7eec&hm=589c6ffb553d8593164565ec42a9cc6f1003180979df5af9233d9a838720887b&",
+        "width": 779,
+        "height": 95,
+        "content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "DgcCCYJtxTzLZ8dwjYAD0sg=",
+        "placeholder_version": 1,
+        "title": "{EBF1E6C7-58B3-4222-8518-637AD3BE7A26}"
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2025-06-26T21:29:16.881000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1387907595657810152",
+    "channel_id": "1387907060795969536",
+    "author": {
+      "id": "335930446049443842",
+      "username": "pitoregia",
+      "avatar": "9a2d55c5947a65928e1d4620435ac8ee",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "pitoregia",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712162738196",
+          "asset": "nameplates/nameplates_v2/sword_of_legend/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SWORD_OF_LEGEND_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 4
+  },
+  {
+    "type": 0,
+    "content": "",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1387907631976288347",
+        "filename": "1076B9FC-2AB3-4362-A500-45A70810FF4F.png",
+        "size": 39397,
+        "url": "https://cdn.discordapp.com/attachments/1387907060795969536/1387907631976288347/1076B9FC-2AB3-4362-A500-45A70810FF4F.png?ex=6a0ed075&is=6a0d7ef5&hm=345ab360ef10fbe4a5dd10234345f887b81e4a99442803149dce97b1cc49154c&",
+        "proxy_url": "https://media.discordapp.net/attachments/1387907060795969536/1387907631976288347/1076B9FC-2AB3-4362-A500-45A70810FF4F.png?ex=6a0ed075&is=6a0d7ef5&hm=345ab360ef10fbe4a5dd10234345f887b81e4a99442803149dce97b1cc49154c&",
+        "width": 794,
+        "height": 91,
+        "content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "TxcGCYKfV5qTaMhjZ4D3v3U=",
+        "placeholder_version": 1,
+        "title": "{1076B9FC-2AB3-4362-A500-45A70810FF4F}"
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2025-06-26T21:29:25.595000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1387907632206970920",
+    "channel_id": "1387907060795969536",
+    "author": {
+      "id": "335930446049443842",
+      "username": "pitoregia",
+      "avatar": "9a2d55c5947a65928e1d4620435ac8ee",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "pitoregia",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712162738196",
+          "asset": "nameplates/nameplates_v2/sword_of_legend/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SWORD_OF_LEGEND_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 5
+  },
+  {
+    "type": 0,
+    "content": "Pincer next",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-06-27T00:29:36.097000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1387952974738882751",
+    "channel_id": "1387907060795969536",
+    "author": {
+      "id": "897262541598781520",
+      "username": "jona_123229",
+      "avatar": "06334a0d258eac3610b4083108fc2ca1",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "magical.",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 6
+  },
+  {
+    "type": 0,
+    "content": "Plz, am also stuck on Pincer",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-06-27T01:10:43.043000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1387963321860231218",
+    "channel_id": "1387907060795969536",
+    "author": {
+      "id": "232282953097543680",
+      "username": "direthorn",
+      "avatar": "e2925ceaa017926e43fe918498730d80",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Direthorn",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1201454230486134804",
+        "identity_enabled": true,
+        "tag": "VIBE",
+        "badge": "bb6f447245dd4c9243d2aeb61d26154d"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1201454230486134804",
+        "identity_enabled": true,
+        "tag": "VIBE",
+        "badge": "bb6f447245dd4c9243d2aeb61d26154d"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 7
+  },
+  {
+    "type": 0,
+    "content": "I was able to get it with 175 kills needed per crystal and following a similar strategy to the sandy pots map, ends up working for most of world 2.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-06-27T01:14:14.392000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1387964208322318457",
+    "channel_id": "1387907060795969536",
+    "author": {
+      "id": "358061248048398346",
+      "username": "doomsday0",
+      "avatar": "dc7d6a29059a31b7d51d2dcc213e9956",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 8
+  },
+  {
+    "type": 0,
+    "content": "I have mine upgraded to 168 and still no dice",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-06-27T01:14:57.716000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1387964390036209684",
+    "channel_id": "1387907060795969536",
+    "author": {
+      "id": "232282953097543680",
+      "username": "direthorn",
+      "avatar": "e2925ceaa017926e43fe918498730d80",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Direthorn",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1201454230486134804",
+        "identity_enabled": true,
+        "tag": "VIBE",
+        "badge": "bb6f447245dd4c9243d2aeb61d26154d"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1201454230486134804",
+        "identity_enabled": true,
+        "tag": "VIBE",
+        "badge": "bb6f447245dd4c9243d2aeb61d26154d"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 9
+  },
+  {
+    "type": 0,
+    "content": "what skill order did u use, or was it the same",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-06-27T01:15:08.630000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1387964435812974694",
+    "channel_id": "1387907060795969536",
+    "author": {
+      "id": "232282953097543680",
+      "username": "direthorn",
+      "avatar": "e2925ceaa017926e43fe918498730d80",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Direthorn",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1201454230486134804",
+        "identity_enabled": true,
+        "tag": "VIBE",
+        "badge": "bb6f447245dd4c9243d2aeb61d26154d"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1201454230486134804",
+        "identity_enabled": true,
+        "tag": "VIBE",
+        "badge": "bb6f447245dd4c9243d2aeb61d26154d"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 10
+  },
+  {
+    "type": 0,
+    "content": "Different skill order, although I think the most important are the respawn and the arcane skull spawn. But definitely actively used the skills on the pincer map",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-06-27T01:16:45.713000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1387964843008720906",
+    "channel_id": "1387907060795969536",
+    "author": {
+      "id": "358061248048398346",
+      "username": "doomsday0",
+      "avatar": "dc7d6a29059a31b7d51d2dcc213e9956",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 11
+  },
+  {
+    "type": 0,
+    "content": "Just pulled it off, just had to force CDs a little",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-06-27T01:27:57.059000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1387967658837938369",
+    "channel_id": "1387907060795969536",
+    "author": {
+      "id": "232282953097543680",
+      "username": "direthorn",
+      "avatar": "e2925ceaa017926e43fe918498730d80",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Direthorn",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1201454230486134804",
+        "identity_enabled": true,
+        "tag": "VIBE",
+        "badge": "bb6f447245dd4c9243d2aeb61d26154d"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1201454230486134804",
+        "identity_enabled": true,
+        "tag": "VIBE",
+        "badge": "bb6f447245dd4c9243d2aeb61d26154d"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 12,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "rcane",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-06-27T07:05:32.098000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1388052614628904961",
+    "channel_id": "1387907060795969536",
+    "author": {
+      "id": "294181604518002689",
+      "username": "mrreaps",
+      "avatar": "920b984565cad108b18d4d82a5ce9706",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Reaps",
+      "avatar_decoration_data": {
+        "asset": "a_c7febbc41e0673e42f79a79078701660",
+        "sku_id": "1354894010602361124",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 13
+  },
+  {
+    "type": 0,
+    "content": "I finished pincer exactly at the last second. All in all, try to get talent level more until arcane crystal talent could spawn 10 mobs in one go (W2 gated with 20 mobs, so you will only need to full twice). Then farm tachy to upgrade Tenteyecle Nostalgia as much as possible.\n\nat sheepie W3, you will get locked again until have tenteyecle talent to 400.\n\nin conclusion, keep farming until you get lv 400 talent especially for tenteyecle",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-06-27T07:44:47.578000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1388062494227959818",
+    "channel_id": "1387907060795969536",
+    "author": {
+      "id": "790519181325500477",
+      "username": "sillysnail.085",
+      "avatar": "c34e7735affca7bce92724b4a1a1962d",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "SillySnail",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 15,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "can we talk about the Pincermin? They really hard to pull off...",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-06-27T07:56:53.172000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1388065537589907457",
+    "channel_id": "1387907060795969536",
+    "author": {
+      "id": "437293359430893616",
+      "username": "g.rry",
+      "avatar": "b9b20fa0160f846e626d858b699f36e8",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Garry",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 16
+  },
+  {
+    "type": 19,
+    "content": "There's clear separation between players with characters with sub 400 talents and those above 400 talents. There's multiple hard walls so far, the one causing the biggest issue is world 4 biggole wurms (we're gonna ignore the suggma people). I'm at 434 talents with 812 character levels. I had zero issues till world 3 where I needed to just grind for a day to get accuracy up to punch into blood bones for arcanist rings, once those were acquired, world 4 was got but you still have to grind and upgrade stats.  Multiple barrier mobs then clear easy maps then hard barriers. \n\nThis is a proper endgame master-class, if your account is not well developed or your class levels are low, you are going to suffer. Tenteyecle is ths big one. You need it past 400 talent levels so the corresponding arcanist upgrade can match your percentage in atenteyecle. My 434 talent is an 81%, get the appropriate arcanist skill up to match your tenteyecle percentage, you need the skill speed up asap, but if your character and overall account is not fully developed, you're gonna be hard stuck below where others are pushing. This is nothing new with idleon. You NEED tenteyecle at 400 or more talent levels else you simply aren't resurrecting mobs fast enough to generate arcane mobs in the numbers needed. Then focus arcanist upgrades.",
+    "mentions": [
+      {
+        "id": "437293359430893616",
+        "username": "g.rry",
+        "avatar": "b9b20fa0160f846e626d858b699f36e8",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Garry",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-06-27T08:06:35.310000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1388067979253514280",
+    "channel_id": "1387907060795969536",
+    "author": {
+      "id": "210601242882211840",
+      "username": "watch_tower",
+      "avatar": "fd0f3e40d0fb1d2bb3baf9197f98e3d6",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Watch Tower (Luke Roberts)",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1387907060795969536",
+      "message_id": "1388065537589907457",
+      "guild_id": "437797104786604034"
+    },
+    "position": 17,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "💯"
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ],
+    "referenced_message": {
+      "type": 0,
+      "content": "can we talk about the Pincermin? They really hard to pull off...",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-06-27T07:56:53.172000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1388065537589907457",
+      "channel_id": "1387907060795969536",
+      "author": {
+        "id": "437293359430893616",
+        "username": "g.rry",
+        "avatar": "b9b20fa0160f846e626d858b699f36e8",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Garry",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 16
+    }
+  },
+  {
+    "type": 0,
+    "content": "Yeah came here to see if Pincers are nonsense because very infuriatingly, a crystal fill is 9 enemies. But I need 20 or higher.. But the time isn't enough, the enemies don't spawn in enough, the layout is awful so traversal time is longer too.\nDidn't expect to hit such a boring, early roadblock. I get 1.181 M of the 2nd Tachys an hour so I guess my dumb ass is gonna afk 24-48 hours here with it open, brute force the less mobs required purchase and ???? something? Was excited for Arcanist launch but now just kind of annoyed.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-06-27T09:58:20.171000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1388096101478826044",
+    "channel_id": "1387907060795969536",
+    "author": {
+      "id": "84187922995122176",
+      "username": "talonrose",
+      "avatar": "704320d9befbf3d7f4ba8939db534bfc",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Talon Rose",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 18,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "🎀"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍🏽"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "✅"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "i cant get past pincermin. i have the feeling its due to the map layout. i maybe get here and there 1 crystal charge",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-06-27T12:09:57.100000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1388129223599984732",
+    "channel_id": "1387907060795969536",
+    "author": {
+      "id": "322777223469858817",
+      "username": "d0nkey3771",
+      "avatar": "46f41745f10bb2deb1ff6576e01e3611",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "D0nk3eh",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 19
+  },
+  {
+    "type": 0,
+    "content": "even when i play manual",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-06-27T12:10:16.668000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1388129305673863289",
+    "channel_id": "1387907060795969536",
+    "author": {
+      "id": "322777223469858817",
+      "username": "d0nkey3771",
+      "avatar": "46f41745f10bb2deb1ff6576e01e3611",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "D0nk3eh",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 20
+  },
+  {
+    "type": 0,
+    "content": "Im in trouble at W3 sheepies, anyone hast a tip, or is there another way to get tachyons 3?\nPincers was easy, with enough upgrades for acc, i did it manually, for all the maps btw",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-06-27T14:20:22.124000+00:00",
+    "edited_timestamp": "2025-06-27T14:22:29.826000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1388162044129448057",
+    "channel_id": "1387907060795969536",
+    "author": {
+      "id": "447668189623615488",
+      "username": "gordrak.17",
+      "avatar": "75157e1b0be61f028623818c795f10df",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Fantastique",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 21
+  },
+  {
+    "type": 0,
+    "content": "Best to go back to prevous spawns and continue upgrading Accuracy, atk and the faster spawn mechanic skills",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-06-27T14:22:49.461000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1388162662105616385",
+    "channel_id": "1387907060795969536",
+    "author": {
+      "id": "263945939071401984",
+      "username": "zenkev.",
+      "avatar": "2f62d1ab83cf3eb9eae2ed4f9e2249bd",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Zenkev",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 22
+  },
+  {
+    "type": 0,
+    "content": "managed to beat pincer map with level 300 arcane crystal  took a lot of farming but we in this bois . no endgame needed :D.   \n\ntenteyecle nostalgia = matched my bubo  76 % \ndamage   2X  multi kill the pincermin   / enough for fart gas to kill the pincers on the top platforms\narcane charging = 170  kills\nbackup energy also level 300",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-06-27T15:31:14.034000+00:00",
+    "edited_timestamp": "2025-06-27T15:31:33.849000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1388179877932568577",
+    "channel_id": "1387907060795969536",
+    "author": {
+      "id": "109328348601122816",
+      "username": "mataholickz",
+      "avatar": "2836fa1f121821db0f74e3e6fb904c10",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Mata",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 23,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "Im active afk rn and trying to get tenta eye maxed to procc more\n\nSheepie is a wall rn",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-06-27T20:41:24.407000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1388257935494348841",
+    "channel_id": "1387907060795969536",
+    "author": {
+      "id": "129779882421911552",
+      "username": "itasian",
+      "avatar": "e26b8cc42a4b96238adef28e8069fe5a",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Itasian",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "951972846152859699",
+        "identity_enabled": true,
+        "tag": "ZZZ",
+        "badge": "5607047f21b7e25a26c195cc49871278"
+      },
+      "primary_guild": {
+        "identity_guild_id": "951972846152859699",
+        "identity_enabled": true,
+        "tag": "ZZZ",
+        "badge": "5607047f21b7e25a26c195cc49871278"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 25
+  },
+  {
+    "type": 0,
+    "content": "nice",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-06-27T20:44:25.900000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1388258696731037887",
+    "channel_id": "1387907060795969536",
+    "author": {
+      "id": "1126957881305071696",
+      "username": "timiktpc",
+      "avatar": "2ab7d07d6a381c3416139e60005f5da2",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "TimikTpc",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 26
+  },
+  {
+    "type": 0,
+    "content": "how do  iget my talents up 2 the max all mine capped at lvl 100",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-06-27T20:57:51.617000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1388262076153204968",
+    "channel_id": "1387907060795969536",
+    "author": {
+      "id": "133298096007413760",
+      "username": "voidofdragons",
+      "avatar": "8f673d9343da36ce5e28fb54e0131e01",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "voidofdragons",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 27
+  },
+  {
+    "type": 19,
+    "content": "How the fuck did you get to world 6 without booking talents?😭",
+    "mentions": [
+      {
+        "id": "133298096007413760",
+        "username": "voidofdragons",
+        "avatar": "8f673d9343da36ce5e28fb54e0131e01",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "voidofdragons",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-06-27T21:01:43.073000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1388263046950162482",
+    "channel_id": "1387907060795969536",
+    "author": {
+      "id": "1102890027509358634",
+      "username": "flylowkirk",
+      "avatar": "51bc7367302653b9bc5ca6c1837911d1",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Uncle",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1387907060795969536",
+      "message_id": "1388262076153204968",
+      "guild_id": "437797104786604034"
+    },
+    "position": 28,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 6,
+        "count_details": {
+          "burst": 0,
+          "normal": 6
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ],
+    "referenced_message": {
+      "type": 0,
+      "content": "how do  iget my talents up 2 the max all mine capped at lvl 100",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-06-27T20:57:51.617000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1388262076153204968",
+      "channel_id": "1387907060795969536",
+      "author": {
+        "id": "133298096007413760",
+        "username": "voidofdragons",
+        "avatar": "8f673d9343da36ce5e28fb54e0131e01",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "voidofdragons",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 27
+    }
+  },
+  {
+    "type": 19,
+    "content": "Getting to world 6 now is the easy part, actually being good is the grind",
+    "mentions": [
+      {
+        "id": "1102890027509358634",
+        "username": "flylowkirk",
+        "avatar": "51bc7367302653b9bc5ca6c1837911d1",
+        "discriminator": "0",
+        "public_flags": 64,
+        "flags": 64,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Uncle",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-06-27T21:50:51.024000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1388275411552702565",
+    "channel_id": "1387907060795969536",
+    "author": {
+      "id": "339077200533913620",
+      "username": "nutty1001",
+      "avatar": "4de748b3ec552d69508ad0e68e104534",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nutty",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1387907060795969536",
+      "message_id": "1388263046950162482",
+      "guild_id": "437797104786604034"
+    },
+    "position": 29,
+    "referenced_message": {
+      "type": 19,
+      "content": "How the fuck did you get to world 6 without booking talents?😭",
+      "mentions": [
+        {
+          "id": "133298096007413760",
+          "username": "voidofdragons",
+          "avatar": "8f673d9343da36ce5e28fb54e0131e01",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "voidofdragons",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": {
+            "identity_guild_id": "437797104786604034",
+            "identity_enabled": true,
+            "tag": "idle",
+            "badge": "613dd0a2876f97a2422d121940ecc992"
+          },
+          "primary_guild": {
+            "identity_guild_id": "437797104786604034",
+            "identity_enabled": true,
+            "tag": "idle",
+            "badge": "613dd0a2876f97a2422d121940ecc992"
+          }
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-06-27T21:01:43.073000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1388263046950162482",
+      "channel_id": "1387907060795969536",
+      "author": {
+        "id": "1102890027509358634",
+        "username": "flylowkirk",
+        "avatar": "51bc7367302653b9bc5ca6c1837911d1",
+        "discriminator": "0",
+        "public_flags": 64,
+        "flags": 64,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Uncle",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1387907060795969536",
+        "message_id": "1388262076153204968",
+        "guild_id": "437797104786604034"
+      },
+      "position": 28
+    }
+  },
+  {
+    "type": 19,
+    "content": "True",
+    "mentions": [
+      {
+        "id": "339077200533913620",
+        "username": "nutty1001",
+        "avatar": "4de748b3ec552d69508ad0e68e104534",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Nutty",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-06-28T01:08:08.106000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1388325059873083594",
+    "channel_id": "1387907060795969536",
+    "author": {
+      "id": "1102890027509358634",
+      "username": "flylowkirk",
+      "avatar": "51bc7367302653b9bc5ca6c1837911d1",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Uncle",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1387907060795969536",
+      "message_id": "1388275411552702565",
+      "guild_id": "437797104786604034"
+    },
+    "position": 30,
+    "referenced_message": {
+      "type": 19,
+      "content": "Getting to world 6 now is the easy part, actually being good is the grind",
+      "mentions": [
+        {
+          "id": "1102890027509358634",
+          "username": "flylowkirk",
+          "avatar": "51bc7367302653b9bc5ca6c1837911d1",
+          "discriminator": "0",
+          "public_flags": 64,
+          "flags": 64,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Uncle",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-06-27T21:50:51.024000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1388275411552702565",
+      "channel_id": "1387907060795969536",
+      "author": {
+        "id": "339077200533913620",
+        "username": "nutty1001",
+        "avatar": "4de748b3ec552d69508ad0e68e104534",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Nutty",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1387907060795969536",
+        "message_id": "1388263046950162482",
+        "guild_id": "437797104786604034"
+      },
+      "position": 29
+    }
+  },
+  {
+    "type": 19,
+    "content": "tbh i forgot about that",
+    "mentions": [
+      {
+        "id": "1102890027509358634",
+        "username": "flylowkirk",
+        "avatar": "51bc7367302653b9bc5ca6c1837911d1",
+        "discriminator": "0",
+        "public_flags": 64,
+        "flags": 64,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Uncle",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-06-28T01:42:40.509000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1388333752161275975",
+    "channel_id": "1387907060795969536",
+    "author": {
+      "id": "133298096007413760",
+      "username": "voidofdragons",
+      "avatar": "8f673d9343da36ce5e28fb54e0131e01",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "voidofdragons",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1387907060795969536",
+      "message_id": "1388263046950162482",
+      "guild_id": "437797104786604034"
+    },
+    "position": 31,
+    "referenced_message": {
+      "type": 19,
+      "content": "How the fuck did you get to world 6 without booking talents?😭",
+      "mentions": [
+        {
+          "id": "133298096007413760",
+          "username": "voidofdragons",
+          "avatar": "8f673d9343da36ce5e28fb54e0131e01",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "voidofdragons",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": {
+            "identity_guild_id": "437797104786604034",
+            "identity_enabled": true,
+            "tag": "idle",
+            "badge": "613dd0a2876f97a2422d121940ecc992"
+          },
+          "primary_guild": {
+            "identity_guild_id": "437797104786604034",
+            "identity_enabled": true,
+            "tag": "idle",
+            "badge": "613dd0a2876f97a2422d121940ecc992"
+          }
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-06-27T21:01:43.073000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1388263046950162482",
+      "channel_id": "1387907060795969536",
+      "author": {
+        "id": "1102890027509358634",
+        "username": "flylowkirk",
+        "avatar": "51bc7367302653b9bc5ca6c1837911d1",
+        "discriminator": "0",
+        "public_flags": 64,
+        "flags": 64,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Uncle",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1387907060795969536",
+        "message_id": "1388262076153204968",
+        "guild_id": "437797104786604034"
+      },
+      "position": 28
+    }
+  },
+  {
+    "type": 0,
+    "content": "My max arcane crystal skill level is  345, so I'm stuck at 9 spawns per crystal fill.\n1)How much do I need to spawn 10 on a fill?\n2) And how the f*ck do I increase it further? I've got all kinds of boosts and bonuses and I just don't know any more D=",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-06-28T08:22:43.240000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1388434426911916164",
+    "channel_id": "1387907060795969536",
+    "author": {
+      "id": "84187922995122176",
+      "username": "talonrose",
+      "avatar": "704320d9befbf3d7f4ba8939db534bfc",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Talon Rose",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 32
+  },
+  {
+    "type": 0,
+    "content": "Apparently the answer to #1 is 350. SERIOUSLY? I'm so mad now lo",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-06-28T08:31:01.144000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1388436515272659005",
+    "channel_id": "1387907060795969536",
+    "author": {
+      "id": "84187922995122176",
+      "username": "talonrose",
+      "avatar": "704320d9befbf3d7f4ba8939db534bfc",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Talon Rose",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 33
+  },
+  {
+    "type": 19,
+    "content": "I beat all W2 with 9 spawns, it becomes impossible in world 3 tho, or rather really hard for no reason",
+    "mentions": [
+      {
+        "id": "84187922995122176",
+        "username": "talonrose",
+        "avatar": "704320d9befbf3d7f4ba8939db534bfc",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Talon Rose",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-06-28T11:37:08.043000+00:00",
+    "edited_timestamp": "2025-06-28T11:37:38.794000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1388483352641798165",
+    "channel_id": "1387907060795969536",
+    "author": {
+      "id": "456769510318276629",
+      "username": ".nedis.80085",
+      "avatar": "1617962dae3dec084072d08099df893a",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "NeDiS",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1387907060795969536",
+      "message_id": "1388436515272659005",
+      "guild_id": "437797104786604034"
+    },
+    "position": 34,
+    "referenced_message": {
+      "type": 0,
+      "content": "Apparently the answer to #1 is 350. SERIOUSLY? I'm so mad now lo",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-06-28T08:31:01.144000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1388436515272659005",
+      "channel_id": "1387907060795969536",
+      "author": {
+        "id": "84187922995122176",
+        "username": "talonrose",
+        "avatar": "704320d9befbf3d7f4ba8939db534bfc",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Talon Rose",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 33
+    }
+  },
+  {
+    "type": 0,
+    "content": "I don't know how you could have possibly done that with the short timer, shit layout and small enemy amounts on the pincer map, but it isn't relevant to the question of *how do you raise skill level caps*.\nThat's the solution. 350 on crystal or gtfo lol",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-06-28T11:40:03.298000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1388484087714549780",
+    "channel_id": "1387907060795969536",
+    "author": {
+      "id": "84187922995122176",
+      "username": "talonrose",
+      "avatar": "704320d9befbf3d7f4ba8939db534bfc",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Talon Rose",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 35
+  },
+  {
+    "type": 0,
+    "content": "death bringer has an upgrade to raise max of 40 on all skills",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-06-28T14:56:00.775000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1388533402147356822",
+    "channel_id": "1387907060795969536",
+    "author": {
+      "id": "109328348601122816",
+      "username": "mataholickz",
+      "avatar": "2836fa1f121821db0f74e3e6fb904c10",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Mata",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 36,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "👀"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 19,
+    "content": "30",
+    "mentions": [
+      {
+        "id": "109328348601122816",
+        "username": "mataholickz",
+        "avatar": "2836fa1f121821db0f74e3e6fb904c10",
+        "discriminator": "0",
+        "public_flags": 512,
+        "flags": 512,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Mata",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-06-28T14:57:33.837000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1388533792477679747",
+    "channel_id": "1387907060795969536",
+    "author": {
+      "id": "790519181325500477",
+      "username": "sillysnail.085",
+      "avatar": "c34e7735affca7bce92724b4a1a1962d",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "SillySnail",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1387907060795969536",
+      "message_id": "1388533402147356822",
+      "guild_id": "437797104786604034"
+    },
+    "position": 37,
+    "referenced_message": {
+      "type": 0,
+      "content": "death bringer has an upgrade to raise max of 40 on all skills",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-06-28T14:56:00.775000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1388533402147356822",
+      "channel_id": "1387907060795969536",
+      "author": {
+        "id": "109328348601122816",
+        "username": "mataholickz",
+        "avatar": "2836fa1f121821db0f74e3e6fb904c10",
+        "discriminator": "0",
+        "public_flags": 512,
+        "flags": 512,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Mata",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        },
+        "primary_guild": {
+          "identity_guild_id": "437797104786604034",
+          "identity_enabled": true,
+          "tag": "idle",
+          "badge": "613dd0a2876f97a2422d121940ecc992"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 36
+    }
+  },
+  {
+    "type": 19,
+    "content": "Leave Active afk, use -skull,respawn,aura,farts(dose the same effect as the poison, but also attack and cover the whole map after a while without missing spots)",
+    "mentions": [
+      {
+        "id": "447668189623615488",
+        "username": "gordrak.17",
+        "avatar": "75157e1b0be61f028623818c795f10df",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Fantastique",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-06-28T14:58:20.085000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1388533986455851081",
+    "channel_id": "1387907060795969536",
+    "author": {
+      "id": "837369727721799702",
+      "username": "ippcka",
+      "avatar": null,
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "iPpcka",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1387907060795969536",
+      "message_id": "1388162044129448057",
+      "guild_id": "437797104786604034"
+    },
+    "position": 38,
+    "referenced_message": {
+      "type": 0,
+      "content": "Im in trouble at W3 sheepies, anyone hast a tip, or is there another way to get tachyons 3?\nPincers was easy, with enough upgrades for acc, i did it manually, for all the maps btw",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-06-27T14:20:22.124000+00:00",
+      "edited_timestamp": "2025-06-27T14:22:29.826000+00:00",
+      "flags": 0,
+      "components": [],
+      "id": "1388162044129448057",
+      "channel_id": "1387907060795969536",
+      "author": {
+        "id": "447668189623615488",
+        "username": "gordrak.17",
+        "avatar": "75157e1b0be61f028623818c795f10df",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Fantastique",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 21
+    }
+  },
+  {
+    "type": 0,
+    "content": "Just done it on Penguins after 2-3 h the Auto somehow figured it out 🤷‍♂️",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-06-28T15:00:12.890000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1388534459594182657",
+    "channel_id": "1387907060795969536",
+    "author": {
+      "id": "837369727721799702",
+      "username": "ippcka",
+      "avatar": null,
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "iPpcka",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 39
+  },
+  {
+    "type": 0,
+    "content": "Gotta look at my Deathbringer soon then lol thanks",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-06-28T16:42:21.604000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1388560165283827813",
+    "channel_id": "1387907060795969536",
+    "author": {
+      "id": "84187922995122176",
+      "username": "talonrose",
+      "avatar": "704320d9befbf3d7f4ba8939db534bfc",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Talon Rose",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 40
+  },
+  {
+    "type": 0,
+    "content": "you could also invest in symbols of beyond talents thats how i raised mine to 350",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-06-28T16:58:24.084000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1388564202217537728",
+    "channel_id": "1387907060795969536",
+    "author": {
+      "id": "534846813216440350",
+      "username": "vitelio28",
+      "avatar": "d5fffff7461f6c223adf0f9114b2595a",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Vitelio",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 41,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "❤️"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "Put in 60 levels. I allegedly got 3 levels. Went back to my Arcane dude and uh. No. Same max level as before , so... that clearly doesn't work D=",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-06-29T22:41:15.469000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1389012872725528729",
+    "channel_id": "1387907060795969536",
+    "author": {
+      "id": "84187922995122176",
+      "username": "talonrose",
+      "avatar": "704320d9befbf3d7f4ba8939db534bfc",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Talon Rose",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 42
+  },
+  {
+    "type": 0,
+    "content": "Hi, how about pincermins? I am capped at lvl316,  and mob density makes me suffer to be honest. I'd appreciate a hint or a small guide how to go past them",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-06-30T01:05:25.809000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1389049154881196054",
+    "channel_id": "1387907060795969536",
+    "author": {
+      "id": "674368818352619547",
+      "username": "skysmeller",
+      "avatar": "960e9d5f6f89a7a778d505ed05ac330c",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "skysmeller",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 43,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍🏿"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "Capped at 293 talent level and i figured out a little trick to get through Pincermins! Even with just 8 arcane spawns per fill\nPut on your fastest attack speed wand you can (even non archanist staff drops)\nPop on as many movement speed potions you can\nTurn on auto attack but then click on enemies as your go in a clockwise motion around the map.\nI just relied on the arcane skulls (at max level) to bounce back and forth every time the mobs respawned naturally or by raise dead",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1389238022398152826",
+        "filename": "image.png",
+        "size": 90391,
+        "url": "https://cdn.discordapp.com/attachments/1387907060795969536/1389238022398152826/image.png?ex=6a0f0a3b&is=6a0db8bb&hm=c5e5390154942f1c0b5e181a71285bcbac6a83db4385f7aac5110f483051d95f&",
+        "proxy_url": "https://media.discordapp.net/attachments/1387907060795969536/1389238022398152826/image.png?ex=6a0f0a3b&is=6a0db8bb&hm=c5e5390154942f1c0b5e181a71285bcbac6a83db4385f7aac5110f483051d95f&",
+        "width": 774,
+        "height": 135,
+        "content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "WAgGEYSjfD+miIeaOp+22/g=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2025-06-30T13:35:55.350000+00:00",
+    "edited_timestamp": "2025-06-30T13:44:23.219000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1389238022465392823",
+    "channel_id": "1387907060795969536",
+    "author": {
+      "id": "98631876314435584",
+      "username": "ptesh",
+      "avatar": "cc81108f04d6a658ac1dc6b1a71a9202",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "PTesh",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 44,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "I'd love to rely on the skulls too ,but they have this fantastic habit of just **not showing up** with no explanation, so...",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-06-30T14:56:20.101000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1389258258937806869",
+    "channel_id": "1387907060795969536",
+    "author": {
+      "id": "84187922995122176",
+      "username": "talonrose",
+      "avatar": "704320d9befbf3d7f4ba8939db534bfc",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Talon Rose",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 45
+  },
+  {
+    "type": 0,
+    "content": "I have a question about tentacle nostalgia, the main skinny say 68% chance to work, if o upgrade my tentacle nostalgia to lv 50(100%) start work the 68% of main skill right? Or if I upgrade to 50 they work all the time?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-07-03T22:43:40.161000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1390463031070162954",
+    "channel_id": "1387907060795969536",
+    "author": {
+      "id": "385168965670010890",
+      "username": "luhou",
+      "avatar": "00fbedf093d920e0c1d12f1562c595d2",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Luhou",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "975999406941822996",
+        "identity_enabled": true,
+        "tag": "MSU",
+        "badge": "8084d59ab2c97476363c0eb9c88c8486"
+      },
+      "primary_guild": {
+        "identity_guild_id": "975999406941822996",
+        "identity_enabled": true,
+        "tag": "MSU",
+        "badge": "8084d59ab2c97476363c0eb9c88c8486"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 46
+  },
+  {
+    "type": 0,
+    "content": "It only goes up to the percent you have on the talent itself",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-07-03T22:52:33.070000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1390465266252779715",
+    "channel_id": "1387907060795969536",
+    "author": {
+      "id": "493756381908959243",
+      "username": "djthechad",
+      "avatar": "4cfb8ed16fbb89fbfd619ff7f2268fc4",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "S-DIO",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 47
+  },
+  {
+    "type": 0,
+    "content": "It's a percentage of the real skill and I hate to be the bearer of bad news, but lvl 50 doesn't give you 100%.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-07-03T23:34:24.775000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1390475801107103865",
+    "channel_id": "1387907060795969536",
+    "author": {
+      "id": "189258466475507713",
+      "username": "xanthousphoenix",
+      "avatar": "048af30bde95b551226fe53a880df541",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "xanthousphoenix",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 48
+  },
+  {
+    "type": 0,
+    "content": "Right, thanks",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-07-03T23:37:01.243000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1390476457381199872",
+    "channel_id": "1387907060795969536",
+    "author": {
+      "id": "385168965670010890",
+      "username": "luhou",
+      "avatar": "00fbedf093d920e0c1d12f1562c595d2",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Luhou",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "975999406941822996",
+        "identity_enabled": true,
+        "tag": "MSU",
+        "badge": "8084d59ab2c97476363c0eb9c88c8486"
+      },
+      "primary_guild": {
+        "identity_guild_id": "975999406941822996",
+        "identity_enabled": true,
+        "tag": "MSU",
+        "badge": "8084d59ab2c97476363c0eb9c88c8486"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 49
+  },
+  {
+    "type": 0,
+    "content": "7-=",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-07-07T07:57:44.167000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1391689630134571079",
+    "channel_id": "1387907060795969536",
+    "author": {
+      "id": "1173582879784177736",
+      "username": "amirbarhay",
+      "avatar": null,
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "מעוז ברחי",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "505528873459646465",
+        "identity_enabled": true,
+        "tag": "ヅ",
+        "badge": "84412606536488d76915487613779361"
+      },
+      "primary_guild": {
+        "identity_guild_id": "505528873459646465",
+        "identity_enabled": true,
+        "tag": "ヅ",
+        "badge": "84412606536488d76915487613779361"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 50
+  }
+]

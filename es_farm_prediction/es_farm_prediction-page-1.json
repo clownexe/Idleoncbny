@@ -1,0 +1,687 @@
+[
+  {
+    "type": 0,
+    "content": "Here a little tool to calculate how long it would take to farm something with ES.\nTo avoid desync, try to use web instead of steam version.\nhttps://docs.google.com/spreadsheets/d/1269iK7ea_OLvVDn9VQdg8NJlqzdjY_QBigjtPNjNWgM/edit?usp=sharing",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "link",
+        "url": "https://docs.google.com/spreadsheets/d/1269iK7ea_OLvVDn9VQdg8NJlqzdjY_QBigjtPNjNWgM/edit?usp=sharing",
+        "title": "Elemental Sorceror Portal Predictor V5",
+        "description": "Portal calc\n\nGnakor#9980,Fill in Blank cells with your own values.\nOrange cells are calculated,Don't use midas on ES, it will nerf your drops\nEternallyFrumheldt#7296,This sheet assume you have the mana PO box maxed\nActual farm :,Prediction :,Desync is common with ES, it will take a bit more time ...",
+        "provider": {
+          "name": "Google Docs"
+        },
+        "thumbnail": {
+          "url": "https://lh3.googleusercontent.com/docs/ADP-6oGEyshnnFB65lNbhlVP7Sa6OuvUwPhgDXObsry9F-YdaEJhsUxNNn4Z5d0e4x7NRd6zvEBW2qjauXutBgsIn2jANNCk2VNhGU1Voh41kFU=w1200-h630-p",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/5KyvrKhFmn8UgD_Wthf5LOdVspiK-pu-MwO5jBx4cTw/https/lh3.googleusercontent.com/docs/ADP-6oGEyshnnFB65lNbhlVP7Sa6OuvUwPhgDXObsry9F-YdaEJhsUxNNn4Z5d0e4x7NRd6zvEBW2qjauXutBgsIn2jANNCk2VNhGU1Voh41kFU%3Dw1200-h630-p",
+          "width": 1200,
+          "height": 630,
+          "flags": 0
+        },
+        "content_scan_version": 4
+      }
+    ],
+    "timestamp": "2023-04-18T12:01:03.332000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1097854304469127288",
+    "channel_id": "1097854304469127288",
+    "author": {
+      "id": "278832144728719360",
+      "username": "gnakor",
+      "avatar": "b4672079b683cc22742b84720067f2a4",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Gnakor",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 16,
+        "count_details": {
+          "burst": 0,
+          "normal": 16
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "Is there a way to prevent the game from freezing when switching tabs on web version?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-04-18T12:02:05.920000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1097854566982230076",
+    "channel_id": "1097854304469127288",
+    "author": {
+      "id": "285866452395753474",
+      "username": "showmdowm",
+      "avatar": "d3ed7981cca9ed05fc6891912c6d79ef",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "ShowmDowm",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0
+  },
+  {
+    "type": 19,
+    "content": "Move the browser page on a different window/open a new browser window",
+    "mentions": [
+      {
+        "id": "285866452395753474",
+        "username": "showmdowm",
+        "avatar": "d3ed7981cca9ed05fc6891912c6d79ef",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "ShowmDowm",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-04-18T12:05:49.612000+00:00",
+    "edited_timestamp": "2023-04-18T12:05:56.442000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1097855505214492785",
+    "channel_id": "1097854304469127288",
+    "author": {
+      "id": "234731469430456320",
+      "username": "lindbrum",
+      "avatar": "836fc3d2e365d29d3566726e18e34edf",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Lindbrum",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1097854304469127288",
+      "message_id": "1097854566982230076",
+      "guild_id": "437797104786604034"
+    },
+    "position": 1,
+    "referenced_message": {
+      "type": 0,
+      "content": "Is there a way to prevent the game from freezing when switching tabs on web version?",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2023-04-18T12:02:05.920000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1097854566982230076",
+      "channel_id": "1097854304469127288",
+      "author": {
+        "id": "285866452395753474",
+        "username": "showmdowm",
+        "avatar": "d3ed7981cca9ed05fc6891912c6d79ef",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "ShowmDowm",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 0
+    }
+  },
+  {
+    "type": 0,
+    "content": "No, everything is paused when you switch. That's the behavior of all browser afaik\nYou can open it in a new window tho",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-04-18T12:06:16.551000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1097855618204840147",
+    "channel_id": "1097854304469127288",
+    "author": {
+      "id": "278832144728719360",
+      "username": "gnakor",
+      "avatar": "b4672079b683cc22742b84720067f2a4",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Gnakor",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 2,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "812252292597547018",
+          "name": "Hearto"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 19,
+    "content": "How to know portal lvl and portal kills and item drop chance",
+    "mentions": [
+      {
+        "id": "278832144728719360",
+        "username": "gnakor",
+        "avatar": "b4672079b683cc22742b84720067f2a4",
+        "discriminator": "0",
+        "public_flags": 128,
+        "flags": 128,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Gnakor",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-05-31T08:07:21.750000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1113378171912466503",
+    "channel_id": "1097854304469127288",
+    "author": {
+      "id": "970937148146602044",
+      "username": "osama.nah",
+      "avatar": null,
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "SUNRISE",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1097854304469127288",
+      "message_id": "1097854304469127288",
+      "guild_id": "437797104786604034"
+    },
+    "position": 8,
+    "referenced_message": {
+      "type": 0,
+      "content": "Here a little tool to calculate how long it would take to farm something with ES.\nTo avoid desync, try to use web instead of steam version.\nhttps://docs.google.com/spreadsheets/d/1269iK7ea_OLvVDn9VQdg8NJlqzdjY_QBigjtPNjNWgM/edit?usp=sharing",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [
+        {
+          "type": "link",
+          "url": "https://docs.google.com/spreadsheets/d/1269iK7ea_OLvVDn9VQdg8NJlqzdjY_QBigjtPNjNWgM/edit?usp=sharing",
+          "title": "Elemental Sorceror Portal Predictor V5",
+          "description": "Portal calc\n\nGnakor#9980,Fill in Blank cells with your own values.\nOrange cells are calculated,Don't use midas on ES, it will nerf your drops\nEternallyFrumheldt#7296,This sheet assume you have the mana PO box maxed\nActual farm :,Prediction :,Desync is common with ES, it will take a bit more time ...",
+          "provider": {
+            "name": "Google Docs"
+          },
+          "thumbnail": {
+            "url": "https://lh3.googleusercontent.com/docs/ADP-6oGEyshnnFB65lNbhlVP7Sa6OuvUwPhgDXObsry9F-YdaEJhsUxNNn4Z5d0e4x7NRd6zvEBW2qjauXutBgsIn2jANNCk2VNhGU1Voh41kFU=w1200-h630-p",
+            "proxy_url": "https://images-ext-1.discordapp.net/external/5KyvrKhFmn8UgD_Wthf5LOdVspiK-pu-MwO5jBx4cTw/https/lh3.googleusercontent.com/docs/ADP-6oGEyshnnFB65lNbhlVP7Sa6OuvUwPhgDXObsry9F-YdaEJhsUxNNn4Z5d0e4x7NRd6zvEBW2qjauXutBgsIn2jANNCk2VNhGU1Voh41kFU%3Dw1200-h630-p",
+            "width": 1200,
+            "height": 630,
+            "flags": 0
+          },
+          "content_scan_version": 4
+        }
+      ],
+      "timestamp": "2023-04-18T12:01:03.332000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1097854304469127288",
+      "channel_id": "1097854304469127288",
+      "author": {
+        "id": "278832144728719360",
+        "username": "gnakor",
+        "avatar": "b4672079b683cc22742b84720067f2a4",
+        "discriminator": "0",
+        "public_flags": 128,
+        "flags": 128,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Gnakor",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 0
+    }
+  },
+  {
+    "type": 19,
+    "content": "Portal lvl is the talent lvl\nPortal kill : Just do a couple portal and input the last number you can see over the portal or the average\nItem drop chance is on wiki. You can see it on cards but it's not accurate for base drops (usually 1/6.25 is displayed as 1/7)",
+    "mentions": [
+      {
+        "id": "970937148146602044",
+        "username": "osama.nah",
+        "avatar": null,
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "SUNRISE",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-05-31T08:09:10.120000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1113378626449178695",
+    "channel_id": "1097854304469127288",
+    "author": {
+      "id": "278832144728719360",
+      "username": "gnakor",
+      "avatar": "b4672079b683cc22742b84720067f2a4",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Gnakor",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1097854304469127288",
+      "message_id": "1113378171912466503",
+      "guild_id": "437797104786604034"
+    },
+    "position": 9,
+    "referenced_message": {
+      "type": 19,
+      "content": "How to know portal lvl and portal kills and item drop chance",
+      "mentions": [
+        {
+          "id": "278832144728719360",
+          "username": "gnakor",
+          "avatar": "b4672079b683cc22742b84720067f2a4",
+          "discriminator": "0",
+          "public_flags": 128,
+          "flags": 128,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Gnakor",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2023-05-31T08:07:21.750000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1113378171912466503",
+      "channel_id": "1097854304469127288",
+      "author": {
+        "id": "970937148146602044",
+        "username": "osama.nah",
+        "avatar": null,
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "SUNRISE",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1097854304469127288",
+        "message_id": "1097854304469127288",
+        "guild_id": "437797104786604034"
+      },
+      "position": 8
+    }
+  },
+  {
+    "type": 0,
+    "content": "What's the difference between the \"Actual farm\" and the \"Prediction\" boxes? \nAlso, if i'm trying to predict non base drops, will setting multikill to 0 be representative?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-06-10T16:03:49.838000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1117121957700325518",
+    "channel_id": "1097854304469127288",
+    "author": {
+      "id": "154269617521557504",
+      "username": "matt989253",
+      "avatar": "29da61b24fcd6d0164672496bed15550",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "matt989253",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 10,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "em",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-07-14T18:41:13.904000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1394388286167973911",
+    "channel_id": "1097854304469127288",
+    "author": {
+      "id": "102269226798047232",
+      "username": "thescrantom",
+      "avatar": "90ab59e754512845502a0b756441be05",
+      "discriminator": "0",
+      "public_flags": 576,
+      "flags": 576,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "TheScrantom",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 20
+  },
+  {
+    "type": 0,
+    "content": "Build",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-08-05T01:08:51.283000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1402095979863216169",
+    "channel_id": "1097854304469127288",
+    "author": {
+      "id": "208302025102852097",
+      "username": "darkress_",
+      "avatar": "4be708927e967a6be12d914c6eaf701b",
+      "discriminator": "0",
+      "public_flags": 640,
+      "flags": 640,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "DarkRess",
+      "avatar_decoration_data": {
+        "asset": "a_7186f839f92ecb643755baa61fa1e271",
+        "sku_id": "1474182780043657490",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614257225760",
+          "asset": "nameplates/nameplates/vengeance/",
+          "label": "COLLECTIBLES_NAMEPLATES_VENGEANCE_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 7,
+        "effect_id": 3,
+        "colors": [
+          12790527
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1474372673709801484",
+        "identity_enabled": true,
+        "tag": "YGFM",
+        "badge": "dea4f5f8e9aaa736c9b599506226508e"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1474372673709801484",
+        "identity_enabled": true,
+        "tag": "YGFM",
+        "badge": "dea4f5f8e9aaa736c9b599506226508e"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 21
+  },
+  {
+    "type": 0,
+    "content": "ampling",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-26T11:45:08.075000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1443205933747540103",
+    "channel_id": "1097854304469127288",
+    "author": {
+      "id": "199557515103567873",
+      "username": ".sentence",
+      "avatar": "fe52de7689c6ab329c12491b614d3aba",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Sentence",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712028516443",
+          "asset": "nameplates/nameplates_v2/spirit_moon/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SPIRIT_MOON_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 22
+  }
+]

@@ -1,0 +1,223 @@
+[
+  {
+    "type": 0,
+    "content": "A sheet to show the evolution of substats\n\nhttps://docs.google.com/spreadsheets/d/1y6gItThJsgKc1k33q3t453aXnA3ycvkPVkr-_juw0MQ/edit?usp=sharing",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1097492895956746351",
+        "filename": "image.png",
+        "size": 79136,
+        "url": "https://cdn.discordapp.com/attachments/1097492895780589650/1097492895956746351/image.png?ex=6a0ef4e8&is=6a0da368&hm=3444893098ab25cc6a590c0746959e817f0168eacfa3f529d7bdbdfaab677320&",
+        "proxy_url": "https://media.discordapp.net/attachments/1097492895780589650/1097492895956746351/image.png?ex=6a0ef4e8&is=6a0da368&hm=3444893098ab25cc6a590c0746959e817f0168eacfa3f529d7bdbdfaab677320&",
+        "width": 1114,
+        "height": 662,
+        "content_type": "image/png",
+        "content_scan_version": 4
+      }
+    ],
+    "embeds": [
+      {
+        "type": "link",
+        "url": "https://docs.google.com/spreadsheets/d/1y6gItThJsgKc1k33q3t453aXnA3ycvkPVkr-_juw0MQ/edit?usp=sharing",
+        "title": "Bonus from stats",
+        "description": "Stats\n\n\nMain Stats\nTotal Str,5000\nTotal Agi,5000\nTotal Wis,5000\nTotal Luck,5000\nSecondary stats,.\nCrit dmg,28,98%\nCrit Rate,22,68%\nSpeed,28,98%\nAnvil,112,73%\nBoss dmg,43,47%\nBrew,93,94%\nExp,31,31%\nDrop,78,94%",
+        "provider": {
+          "name": "Google Docs"
+        },
+        "thumbnail": {
+          "url": "https://lh3.googleusercontent.com/docs/ADP-6oECF3dWsrqWjNnqaa3yYVuz6mMYncXue09x6mPu7qswzcTOjaNpnf9Ziw1c28oNrLEZ6uLu2cpyI07XlqsCgW5AlhvYhwc_WmRUKYGSLpjk=w1200-h630-p",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/GhBgLu-BnzZlcMFrHXWotkjEFUpxYlrnKuJKR8jEji4/https/lh3.googleusercontent.com/docs/ADP-6oECF3dWsrqWjNnqaa3yYVuz6mMYncXue09x6mPu7qswzcTOjaNpnf9Ziw1c28oNrLEZ6uLu2cpyI07XlqsCgW5AlhvYhwc_WmRUKYGSLpjk%3Dw1200-h630-p",
+          "width": 1200,
+          "height": 630,
+          "flags": 0
+        },
+        "content_scan_version": 4
+      }
+    ],
+    "timestamp": "2023-04-17T12:04:56.786000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1097492895780589650",
+    "channel_id": "1097492895780589650",
+    "author": {
+      "id": "278832144728719360",
+      "username": "gnakor",
+      "avatar": "b4672079b683cc22742b84720067f2a4",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Gnakor",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 17,
+        "count_details": {
+          "burst": 0,
+          "normal": 17
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🗿"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "How'd you calculate this?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-04-17T12:51:53.463000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1097504709780181092",
+    "channel_id": "1097492895780589650",
+    "author": {
+      "id": "783961639053033493",
+      "username": "qwerfghjkmnbvc",
+      "avatar": "19b08245bdc35ced219ef9b548ab3c7b",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": {
+        "asset": "a_f824f7f3d04732ce5e2ff0f3f05d1937",
+        "sku_id": "1427463138634109027",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1427463138646954035",
+          "asset": "nameplates/orb/infinite_swirl/",
+          "label": "COLLECTIBLES_ORB_INFINITE_SWIRL_NP_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "882122800620519475",
+          "name": "Grumblo"
+        },
+        "count": 17,
+        "count_details": {
+          "burst": 0,
+          "normal": 17
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "852413823704498196",
+          "name": "Soulface"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "813876254331109386",
+          "name": "BobJourneyPickle"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🧠"
+        },
+        "count": 6,
+        "count_details": {
+          "burst": 0,
+          "normal": 6
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  }
+]

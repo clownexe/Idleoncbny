@@ -1,0 +1,649 @@
+[
+  {
+    "type": 0,
+    "content": "**File -> Make a Copy**\n\nhttps://docs.google.com/spreadsheets/d/1exFhUjwQZqY7AYyYuzb242mSqGssoI39EZhw1URyy28/edit?usp=sharing",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "link",
+        "url": "https://docs.google.com/spreadsheets/d/1exFhUjwQZqY7AYyYuzb242mSqGssoI39EZhw1URyy28/edit?usp=sharing",
+        "title": "The Tome Calc",
+        "description": "Calc\n\n0% DMG,0% Skill Eff,0% Drop Rate\nTome STR Bubble Lv Here,Tome AGI Bubble Lv Here,Tome WIS Bubble Lv Here\nValue,PTS,Some of them are not in order, sorry. You can put 10QQ, 77T and other notations.\nStamp Total LV,0 PTS,Total PTS: 0,10000,0,800\nStatue Total LV,0 PTS,2300,0,350\nCards Total LV,0...",
+        "provider": {
+          "name": "Google Docs"
+        },
+        "thumbnail": {
+          "url": "https://lh7-us.googleusercontent.com/docs/AHkbwyIbQgj1WEWic3KoVnlFiRJ58L8kFdfhdFkS9dSQrT1kv5vRRkOfLA4Vm5fygh8fBVEBzZm8LLJA37-GtusUDzQkW_0Pu3jIpqjoDxgsB7KJUg=w1200-h630-p",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/U_DuzaZIG5zh19p8215Jyj5ZJ7u9sBmTOvr1VfzQm2Q/https/lh7-us.googleusercontent.com/docs/AHkbwyIbQgj1WEWic3KoVnlFiRJ58L8kFdfhdFkS9dSQrT1kv5vRRkOfLA4Vm5fygh8fBVEBzZm8LLJA37-GtusUDzQkW_0Pu3jIpqjoDxgsB7KJUg%3Dw1200-h630-p",
+          "width": 1200,
+          "height": 630,
+          "content_type": "image/png",
+          "placeholder": "twcKFIKQzKmVeHiWeIaQlfa2pw==",
+          "placeholder_version": 1,
+          "flags": 0
+        },
+        "content_scan_version": 4
+      }
+    ],
+    "timestamp": "2024-03-16T11:51:39.640000+00:00",
+    "edited_timestamp": "2024-03-16T15:28:06.692000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1218527099418054706",
+    "channel_id": "1218527099418054706",
+    "author": {
+      "id": "210879097067274244",
+      "username": "youwillloveeachother",
+      "avatar": "6b88a3bb5ee6267d115dccdcead6d5a9",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "BHY4A",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "852416192710443038",
+          "name": "ArrowUp"
+        },
+        "count": 23,
+        "count_details": {
+          "burst": 0,
+          "normal": 23
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "644766908218081300",
+          "name": "happy"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🔥"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "974124160882208798",
+          "name": "KEKW"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "<:Grumblo_Pray:1114306970816630876>",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-03-16T11:51:50.016000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1218527142938279977",
+    "channel_id": "1218527099418054706",
+    "author": {
+      "id": "341893776710696960",
+      "username": "kralan",
+      "avatar": "4fb963c39a9778053c2429c6b151e7df",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Kralan",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0
+  },
+  {
+    "type": 0,
+    "content": "Damn",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-03-16T12:11:34.569000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1218532111313670204",
+    "channel_id": "1218527099418054706",
+    "author": {
+      "id": "936115105668689980",
+      "username": "chezzles.",
+      "avatar": "af1d8134f7eae30ce509d062ccbec649",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Chezzles",
+      "avatar_decoration_data": {
+        "asset": "a_77d421d4d94b180107904a5285050b1e",
+        "sku_id": "1432550258239602810",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614198505602",
+          "asset": "nameplates/nameplates/twilight/",
+          "label": "COLLECTIBLES_NAMEPLATES_TWILIGHT_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 1
+  },
+  {
+    "type": 19,
+    "content": "Case based on time (efaunt kill, round 100 arena...) are bugged",
+    "mentions": [
+      {
+        "id": "210879097067274244",
+        "username": "youwillloveeachother",
+        "avatar": "6b88a3bb5ee6267d115dccdcead6d5a9",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "BHY4A",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-03-16T14:22:35.085000+00:00",
+    "edited_timestamp": "2024-03-16T14:22:43.026000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1218565080707235901",
+    "channel_id": "1218527099418054706",
+    "author": {
+      "id": "246990308057939969",
+      "username": "druzzt",
+      "avatar": "7fa90f3375e14d61622b3473572004ee",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Druzzt",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": {
+        "font_id": 11,
+        "effect_id": 2,
+        "colors": [
+          10740672,
+          1671193
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1229767514414649374",
+        "identity_enabled": true,
+        "tag": "DPM",
+        "badge": "db2106c2df6eef05417201d0cec35913"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1229767514414649374",
+        "identity_enabled": true,
+        "tag": "DPM",
+        "badge": "db2106c2df6eef05417201d0cec35913"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1218527099418054706",
+      "message_id": "1218527099418054706",
+      "guild_id": "437797104786604034"
+    },
+    "position": 4,
+    "referenced_message": {
+      "type": 0,
+      "content": "**File -> Make a Copy**\n\nhttps://docs.google.com/spreadsheets/d/1exFhUjwQZqY7AYyYuzb242mSqGssoI39EZhw1URyy28/edit?usp=sharing",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [
+        {
+          "type": "link",
+          "url": "https://docs.google.com/spreadsheets/d/1exFhUjwQZqY7AYyYuzb242mSqGssoI39EZhw1URyy28/edit?usp=sharing",
+          "title": "The Tome Calc",
+          "description": "Calc\n\n0% DMG,0% Skill Eff,0% Drop Rate\nTome STR Bubble Lv Here,Tome AGI Bubble Lv Here,Tome WIS Bubble Lv Here\nValue,PTS,Some of them are not in order, sorry. You can put 10QQ, 77T and other notations.\nStamp Total LV,0 PTS,Total PTS: 0,10000,0,800\nStatue Total LV,0 PTS,2300,0,350\nCards Total LV,0...",
+          "provider": {
+            "name": "Google Docs"
+          },
+          "thumbnail": {
+            "url": "https://lh7-us.googleusercontent.com/docs/AHkbwyIbQgj1WEWic3KoVnlFiRJ58L8kFdfhdFkS9dSQrT1kv5vRRkOfLA4Vm5fygh8fBVEBzZm8LLJA37-GtusUDzQkW_0Pu3jIpqjoDxgsB7KJUg=w1200-h630-p",
+            "proxy_url": "https://images-ext-1.discordapp.net/external/U_DuzaZIG5zh19p8215Jyj5ZJ7u9sBmTOvr1VfzQm2Q/https/lh7-us.googleusercontent.com/docs/AHkbwyIbQgj1WEWic3KoVnlFiRJ58L8kFdfhdFkS9dSQrT1kv5vRRkOfLA4Vm5fygh8fBVEBzZm8LLJA37-GtusUDzQkW_0Pu3jIpqjoDxgsB7KJUg%3Dw1200-h630-p",
+            "width": 1200,
+            "height": 630,
+            "content_type": "image/png",
+            "placeholder": "twcKFIKQzKmVeHiWeIaQlfa2pw==",
+            "placeholder_version": 1,
+            "flags": 0
+          },
+          "content_scan_version": 4
+        }
+      ],
+      "timestamp": "2024-03-16T11:51:39.640000+00:00",
+      "edited_timestamp": "2024-03-16T15:28:06.692000+00:00",
+      "flags": 0,
+      "components": [],
+      "id": "1218527099418054706",
+      "channel_id": "1218527099418054706",
+      "author": {
+        "id": "210879097067274244",
+        "username": "youwillloveeachother",
+        "avatar": "6b88a3bb5ee6267d115dccdcead6d5a9",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "BHY4A",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "position": 0
+    }
+  },
+  {
+    "type": 0,
+    "content": "what level do you need to be to unlock this",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1220298876171456574",
+        "filename": "image.png",
+        "size": 1414,
+        "url": "https://cdn.discordapp.com/attachments/1218527099418054706/1220298876171456574/image.png?ex=6a0ecc64&is=6a0d7ae4&hm=a694487f801a8940de0a3e37ec5cde8744814f12b2011543be6375c2545c92b8&",
+        "proxy_url": "https://media.discordapp.net/attachments/1218527099418054706/1220298876171456574/image.png?ex=6a0ecc64&is=6a0d7ae4&hm=a694487f801a8940de0a3e37ec5cde8744814f12b2011543be6375c2545c92b8&",
+        "width": 508,
+        "height": 30,
+        "content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "5hYKCYBnp5eLePeImHRwtvg=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2024-03-21T09:12:04.175000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1220298876335165490",
+    "channel_id": "1218527099418054706",
+    "author": {
+      "id": "394123450307969025",
+      "username": "vlahoq",
+      "avatar": "9f461737a58a3456f41ce7809a5c6662",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "DSD",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 7
+  },
+  {
+    "type": 0,
+    "content": "damn there is one about hitting a jackpot? i will never get any poits for that one with my shitty luck",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-03-28T17:54:22.542000+00:00",
+    "edited_timestamp": "2024-03-29T08:31:49.482000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1222967034032164995",
+    "channel_id": "1218527099418054706",
+    "author": {
+      "id": "432501533574299648",
+      "username": "amit532",
+      "avatar": "26cd8b3d9be0c87a3433e7c5fc6437f9",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "garlic",
+      "avatar_decoration_data": {
+        "asset": "a_5889f65c4a28cdafc06847cc02790af1",
+        "sku_id": "1462116613674373345",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1462116614131548265",
+          "asset": "nameplates/gothica/nevermore/",
+          "label": "COLLECTIBLES_GOTHICA_NEVERMORE_NP_A11Y",
+          "palette": "white"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1102970375731691612",
+        "identity_enabled": true,
+        "tag": "SEAF",
+        "badge": "57105dd5d54ebb9faef5e1b90c3768e1"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1102970375731691612",
+        "identity_enabled": true,
+        "tag": "SEAF",
+        "badge": "57105dd5d54ebb9faef5e1b90c3768e1"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 8,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "😂"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "hmmm, if put 100,000 in sample field its get me like 253 points, but if enter 100K its gives 192 points... seems strange. Is all correct?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-04-19T17:46:26.008000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1230937568347033760",
+    "channel_id": "1218527099418054706",
+    "author": {
+      "id": "269541715478708226",
+      "username": "elineum",
+      "avatar": "17ae95a3077475826279eaf38341d5ff",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Elineum",
+      "avatar_decoration_data": {
+        "asset": "a_f5957a07b90ded4cfe3c5aa499573bf0",
+        "sku_id": "1493344973230440638",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1427463138646954035",
+          "asset": "nameplates/orb/infinite_swirl/",
+          "label": "COLLECTIBLES_ORB_INFINITE_SWIRL_NP_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 9
+  },
+  {
+    "type": 0,
+    "content": "https://docs.google.com/spreadsheets/d/1mM04E0vLenLcQrEUnj40gXcb8w-6OTXM_6naHpmGinY/edit?usp=sharing",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "link",
+        "url": "https://docs.google.com/spreadsheets/d/1mM04E0vLenLcQrEUnj40gXcb8w-6OTXM_6naHpmGinY/edit?usp=sharing",
+        "title": "Trialpears' Crappy Tome Sheet (Arkh Edit)",
+        "provider": {
+          "name": "Google Docs"
+        },
+        "thumbnail": {
+          "url": "https://lh7-us.googleusercontent.com/docs/AHkbwyLnZmp_qZvST2ERaH6Jlgr-DWJkmMduJpfpCwjiXA9SUtSHzuQgGRKEuuZPgdHLhbGMdCoZRBpSCa0aTpZNPrAQr8Eafc6x3nptJwjOqtftGafpUx3d=w1200-h630-p",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/jPt-vdHpmWWxOS_hxRIZoa_cAy1lN8D9ldQcF8OATNg/https/lh7-us.googleusercontent.com/docs/AHkbwyLnZmp_qZvST2ERaH6Jlgr-DWJkmMduJpfpCwjiXA9SUtSHzuQgGRKEuuZPgdHLhbGMdCoZRBpSCa0aTpZNPrAQr8Eafc6x3nptJwjOqtftGafpUx3d%3Dw1200-h630-p",
+          "width": 1200,
+          "height": 630,
+          "flags": 0
+        },
+        "content_scan_version": 4
+      }
+    ],
+    "timestamp": "2025-11-27T01:13:22.744000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1443409335131701445",
+    "channel_id": "1218527099418054706",
+    "author": {
+      "id": "286487593334603778",
+      "username": "arkh.br",
+      "avatar": "170d50c24609b2a43b3b25c7e5ea54d3",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Arkh",
+      "avatar_decoration_data": {
+        "asset": "a_c45abe8c7585fdb41b8d8d4d666f1588",
+        "sku_id": "1220513984273186816",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 12
+  },
+  {
+    "type": 0,
+    "content": "I updated the Trialpear`s crappy tome sheet, if someone want",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-27T01:13:42.065000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1443409416169717831",
+    "channel_id": "1218527099418054706",
+    "author": {
+      "id": "286487593334603778",
+      "username": "arkh.br",
+      "avatar": "170d50c24609b2a43b3b25c7e5ea54d3",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Arkh",
+      "avatar_decoration_data": {
+        "asset": "a_c45abe8c7585fdb41b8d8d4d666f1588",
+        "sku_id": "1220513984273186816",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      },
+      "primary_guild": {
+        "identity_guild_id": "437797104786604034",
+        "identity_enabled": true,
+        "tag": "idle",
+        "badge": "613dd0a2876f97a2422d121940ecc992"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 13,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  }
+]
